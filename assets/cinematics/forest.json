@@ -1,0 +1,52 @@
+{
+  "scenario": "forest",
+  "variants": {
+    "day_clear": {
+      "line1Key": "cinematic.forest.line1",
+      "questions": [
+        {
+          "id": "forest_day_1",
+          "questionKey": "cinematic.forest.question",
+          "opt1Key": "cinematic.forest.opt1",
+          "opt2Key": "cinematic.forest.opt2",
+          "reply1Key": "cinematic.forest.reply1",
+          "reply2Key": "cinematic.forest.reply2"
+        },
+        {
+          "id": "forest_day_2",
+          "questionKey": "cinematic.forest.alt.question",
+          "opt1Key": "cinematic.forest.alt.opt1",
+          "opt2Key": "cinematic.forest.alt.opt2",
+          "reply1Key": "cinematic.forest.alt.reply1",
+          "reply2Key": "cinematic.forest.alt.reply2"
+        }
+      ]
+    },
+    "winter_snow": {
+      "line1Key": "cinematic.forest.winter_snow.line1",
+      "questions": [
+        {
+          "id": "forest_winter_snow_1",
+          "questionKey": "cinematic.forest.winter_snow.question",
+          "opt1Key": "cinematic.forest.winter_snow.opt1",
+          "opt2Key": "cinematic.forest.winter_snow.opt2",
+          "reply1Key": "cinematic.forest.winter_snow.reply1",
+          "reply2Key": "cinematic.forest.winter_snow.reply2"
+        }
+      ]
+    },
+    "rainy_night": {
+      "line1Key": "cinematic.forest.rainy_night.line1",
+      "questions": [
+        {
+          "id": "forest_rainy_night_1",
+          "questionKey": "cinematic.forest.rainy_night.question",
+          "opt1Key": "cinematic.forest.rainy_night.opt1",
+          "opt2Key": "cinematic.forest.rainy_night.opt2",
+          "reply1Key": "cinematic.forest.rainy_night.reply1",
+          "reply2Key": "cinematic.forest.rainy_night.reply2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "vignettes": [
+    {
+      "id": "vig_rsv_philip_paula_clinic",
+      "category": "work_mishap_help",
+      "npcA": "Philip",
+      "npcB": "Paula",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 28,
+          "en": "Hold up—gauze wrap rolled straight out off medical tray!",
+          "es": "Ojo... el rollo de vendas salio rodando de la bandeja!",
+          "sound": "dwop"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 20,
+          "en": "Clean mid-air snatch, Doctor! Two years hiking cliffs sharpens reflexes!",
+          "es": "Atrapado en el aire, Doctor! Subir senderos si da buenos reflejos!",
+          "otherEmote": 20,
+          "sound": "shiny4",
+          "fx": "sparkle"
+        }
+      ],
+      "locations": [
+        "Hospital",
+        "Town"
+      ]
+    },
+    {
+      "id": "vig_rsv_pika_richard_bowls",
+      "category": "work_mishap_help",
+      "npcA": "Pika",
+      "npcB": "Richard",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 16,
+          "en": "Whoa—hot broth ladle splashed nearly onto pressed hotel cuffs!",
+          "es": "Ojo... casi salpica caldo caliente sobre tus punos planchados!",
+          "fx": "splash"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 32,
+          "en": "Dodged smoothly, chef! Smells far too savory to waste a single drop!",
+          "es": "Esquivado con estilo, chef! Huele demasiado bien para desperdiciar!",
+          "otherEmote": 20,
+          "sound": "dwop"
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_corine_ysabelle_ribbons",
+      "category": "dropped_items",
+      "npcA": "Corine",
+      "npcB": "Ysabelle",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 16,
+          "en": "Oh no, loose silk ballet ribbons and hotel keys slipped everywhere!",
+          "es": "Ay no, se soltaron tus cintas de baile y mis notas!",
+          "sound": "leafrustle"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 20,
+          "en": "Twirl-grabbed both ribbons cleanly!! Thanks for spotting my hairpins, Corine!",
+          "es": "Giro y atrapada limpia!! Gracias por salvar mis broches, Corine!",
+          "otherEmote": 20,
+          "fx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_maddie_flor_notes",
+      "category": "dropped_items",
+      "npcA": "Maddie",
+      "npcB": "Flor",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 28,
+          "en": "Tch—wind scattered half my moss taxonomy sketches!",
+          "es": "Tch... el viento volo media libreta de musgos!",
+          "sound": "leafrustle",
+          "fx": "leaf"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 32,
+          "en": "Gathered every page gently for you, Maddie—even spotted a cool clover sketch!",
+          "es": "Recogi cada hojita con cuidado, Maddie... que lindo dibujo de trebol!",
+          "otherEmote": 20
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_pika_anton_kitchen",
+      "category": "workplace_banter",
+      "npcA": "Pika",
+      "npcB": "Anton",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Keep that garlic pan dancing hot, Anton—tonight's ridge table expects fireworks!",
+          "es": "Manten viva esa sarten con ajo, Anton... hoy la mesa espera gloria!",
+          "sound": "shiny4"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 32,
+          "en": "Precision temperature beat fancy tricks every night, Pika—watch this sear!",
+          "es": "Temperatura exacta le gana a trucos cada noche, Pika... mira este sellado!",
+          "otherEmote": 20,
+          "fx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_ian_robin_timber",
+      "category": "workplace_banter",
+      "npcA": "Ian",
+      "npcB": "Robin",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Look how straight seasonal pine planes dry when ridge wind cooperates, Robin!",
+          "es": "Mira que recto seca el pino cuando ayuda viento de loma, Robin!"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 20,
+          "en": "Fine carpentry eyes recognize top lumber instantaneously, Ian!",
+          "es": "Buenos ojos carpinteros distinguen madera noble al instante, Ian!",
+          "otherEmote": 20,
+          "sound": "clank"
+        }
+      ],
+      "locations": [
+        "ScienceHouse",
+        "Mountain",
+        "Town"
+      ]
+    },
+    {
+      "id": "vig_rsv_rain_jio_daia",
+      "category": "rain_shelter_laugh",
+      "npcA": "Jio",
+      "npcB": "Daia",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Silent ninja hoods deflect raindrops nicely... though wet hair bangs win slightly today.",
+          "es": "Capuchas ninja desvian lluvia... aunque el flequillo mojado hoy gana.",
+          "fx": "splash"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 20,
+          "en": "Haha!! First time hearing mighty Jio admit raindrops outsmarted stealth!",
+          "es": "Jaja!! Primera vez que el gran Jio admite derrota ante gotitas!",
+          "otherEmote": 20,
+          "sound": "dwop"
+        }
+      ],
+      "weather": [
+        "rain",
+        "storm"
+      ]
+    },
+    {
+      "id": "vig_rsv_rain_sean_blair",
+      "category": "rain_shelter_laugh",
+      "npcA": "Sean",
+      "npcB": "Blair",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Splash marathon down mud steps?! Bet your hiking boots beat my runners today!",
+          "es": "Carrera bajo lluvia por escalones?! Apuesto que hoy ganas, Blair!",
+          "sound": "dwop",
+          "fx": "splash"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 20,
+          "en": "Deal!! Winner picks hot spiced cider later!",
+          "es": "Trato hecho!! Quien gane elige sidra tibia despues!",
+          "otherEmote": 20
+        }
+      ],
+      "weather": [
+        "rain",
+        "storm"
+      ]
+    },
+    {
+      "id": "vig_rsv_seasonal_lenny_naomi",
+      "category": "seasonal_wonder",
+      "npcA": "Lenny",
+      "npcB": "Naomi",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 20,
+          "en": "Look across ridge pines tonight—sky glows pure honey amber over the whole valley!",
+          "es": "Mira los pinos hoy... el cielo brilla miel dorada sobre todo el valle!",
+          "fx": "sparkle"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 20,
+          "en": "Makes every steep climb worth the view, Lenny!",
+          "es": "Hace que cada subida valga el paisaje entero, Lenny!",
+          "otherEmote": 20
+        }
+      ],
+      "seasons": [
+        "fall",
+        "spring"
+      ]
+    },
+    {
+      "id": "vig_rsv_music_june_alissa",
+      "category": "street_music_cheer",
+      "npcA": "June",
+      "npcB": "Alissa",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 56,
+          "en": "Imagine bright piano arpeggios soaring smoothly alongside that lovely chorus, Alissa!",
+          "es": "Imagina arpegios claros de piano volando junto a tu coro, Alissa!",
+          "otherEmote": 56,
+          "sound": "flute",
+          "fx": "music"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 20,
+          "en": "Ooh, harmony duet right now!! La-la-laa—valley acoustics sound heavenly!!",
+          "es": "Ooh, dueto armonico ahora!! La-la-laa... suena celestial aqui!!",
+          "sound": "shiny4",
+          "fx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_music_ysabelle_spin",
+      "category": "street_music_cheer",
+      "npcA": "Ysabelle",
+      "npcB": null,
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 56,
+          "en": "One, two, spin—pirouette glides effortless whenever breezy music plays!",
+          "es": "Uno, dos, giro... la pirueta fluye sola con melodia al viento!",
+          "sound": "flute",
+          "fx": "music"
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_praise_jeric_alissa",
+      "category": "farmer_praise",
+      "npcA": "Jeric",
+      "npcB": "Alissa",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 20,
+          "en": "Word spread all uphill about {farm}'s glowing harvest crates courtesy of {farmer}!",
+          "es": "Hasta aca arriba llego la fama de las cosechas de {farmer} en {farm}!",
+          "fx": "sparkle"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 20,
+          "en": "Hard work shines right through every valley market basket, {farmer}!",
+          "es": "El esfuerzo sincero brilla en cada canasta del valle, {farmer}!",
+          "otherEmote": 20
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_praise_shiro_kenneth",
+      "category": "farmer_praise",
+      "npcA": "Shiro",
+      "npcB": "Kenneth",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 20,
+          "en": "Nice knowing neighbors like {farmer} keep {farm} and hillside connected like family.",
+          "es": "Alegra saber que vecinos como {farmer} unen {farm} y colina como familia.",
+          "sound": "dwop"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 20,
+          "en": "Solid bridges built of kindness last longer than steel, buddy!",
+          "es": "Puentes hechos de amabilidad duran mas que acero, amigo!",
+          "otherEmote": 20
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_pet_keahi_trinnie",
+      "category": "pet_admire",
+      "npcA": "Keahi",
+      "npcB": "Trinnie",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 20,
+          "en": "Whoa—did you spot fuzzy little tails bouncing near {farmer}'s trails?! Cute overload!",
+          "es": "Uau... viste colitas esponjosas saltando cerca de rutas de {farm}?! Re tierno!",
+          "fx": "hearts"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 20,
+          "en": "Even Kiwi gave two tiny happy hops! Fluffy creatures make afternoons ten times better!",
+          "es": "Hasta Kiwi dio dos saltitos alegres! Animalitos alegran la tarde diez veces!",
+          "otherEmote": 20,
+          "sound": "dwop"
+        }
+      ]
+    },
+    {
+      "id": "vig_rsv_pet_flor_real",
+      "category": "pet_admire",
+      "npcA": "Flor",
+      "npcB": null,
+      "childSafe": true,
+      "requirePet": true,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 20,
+          "en": "O-oh, gentle {pet}... may I pet behind your warm ears just softly? Good buddy!",
+          "es": "O-oh, dulce {pet}... puedo acariciar tras tus orejitas suave? Buen amigo!",
+          "sound": "dwop",
+          "fx": "hearts"
+        }
+      ],
+      "locations": [
+        "Farm",
+        "FarmHouse"
+      ]
+    }
+  ]
+}

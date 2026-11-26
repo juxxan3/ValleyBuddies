@@ -1,0 +1,1283 @@
+{
+  "Scenes": [
+    {
+      "Id": "town_tree_school",
+      "Location": "Town",
+      "RequiredActors": [
+        "Penny",
+        "Jas",
+        "Vincent"
+      ],
+      "OptionalActors": [
+        "Leo",
+        "Flor"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1630,
+      "Scripts": [
+        {
+          "Id": "tree_01",
+          "NoticeFarmer": false,
+          "Music": "cloudCountry",
+          "Lines": [
+            {
+              "Speaker": "Penny",
+              "En": "Look up at the sky, everyone! What shape do you see in that big drifting cloud?",
+              "Es": "¡Miren el cielo, chicos! ¿Qué forma ven en esa nube tan grande?",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jas",
+              "En": "That one looks just like a fluffy white sheep!",
+              "Es": "¡Esa parece una ovejita blanca bien esponjosa!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Vincent",
+              "En": "No way! It's a giant slime ready to bounce on the Mayor's hat!",
+              "Es": "¡Para nada! ¡Es una baba gigante lista para caer en el sombrero del Alcalde!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Haha, imagination definitely gets full marks out under this tree today!",
+              "Es": "¡Jaja, hoy la imaginación saca diez bajo este árbol!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "tree_02",
+          "NoticeFarmer": false,
+          "Music": "cloudCountry",
+          "Lines": [
+            {
+              "Speaker": "Vincent",
+              "En": "Miss Penny, if I drop a twig in the river, will it reach the ocean?",
+              "Es": "Señorita Penny, si tiro una ramita al río, ¿llegará hasta el océano?",
+              "PauseMs": 250,
+              "Emote": 8,
+              "Sound": "waterSlosh"
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Eventually, yes! Our valley river winds straight south past the forest and out to sea.",
+              "Es": "¡Con el tiempo sí! El río del valle baja al sur junto al bosque y desemboca en el mar.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jas",
+              "En": "Maybe Willy will wave at your little twig boat from his dock!",
+              "Es": "¡Quizá Willy salude a tu barquito de rama desde el muelle!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Vincent",
+              "En": "Ooh, bon voyage, Captain Stick!",
+              "Es": "¡Uhh, buen viaje, Capitán Ramita!",
+              "PauseMs": 250,
+              "Emote": 16
+            }
+          ]
+        },
+        {
+          "Id": "tree_03",
+          "NoticeFarmer": false,
+          "Music": "cloudCountry",
+          "Lines": [
+            {
+              "Speaker": "Penny",
+              "En": "Trees change along with the seasons—some drop crispy leaves, while evergreens hold strong.",
+              "Es": "Los árboles cambian con las estaciones... unos sueltan hojas y los pinos aguantan firmes.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jas",
+              "En": "I heard trees on warm islands grow coconuts all year long!",
+              "Es": "¡Escuché que en las islas cálidas los árboles dan cocos todo el año!",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Vincent",
+              "En": "Whoa! Do coconuts fall on people's heads if they nap underneath?",
+              "Es": "¡Guau! ¿Y los cocos caen en la cabeza si alguien duerme la siesta abajo?",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Haha, let's stick to reading under safe Pelican Town oaks for now!",
+              "Es": "¡Jaja, por ahora sigamos leyendo bajo los robles seguros de Pueblo Pelícano!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "tree_04",
+          "NoticeFarmer": true,
+          "Music": "cloudCountry",
+          "Lines": [
+            {
+              "Speaker": "Penny",
+              "En": "Alright, judges, let's admire our leaf-castle and pebble sculpture contest!",
+              "Es": "¡Muy bien, jueces, admiremos nuestro concurso de castillos de hojas y piedritas!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Vincent",
+              "En": "Mine has three mud towers and a pinecone dragon!",
+              "Es": "¡El mío tiene tres torres de barro y un dragón de piña!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "Jas",
+              "En": "Mine has a daisy garden around the front gate!",
+              "Es": "¡El mío tiene un jardín de margaritas en la entrada!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Penny",
+            "IntroEn": "Oh, {farmer}! Just in time to be our tie-breaker judge under the tree—which creation wins today?",
+            "IntroEs": "¡Oh, {farmer}! Llegas justo a tiempo para desempatar el concurso... ¿cuál diseño gana hoy?",
+            "Opt1En": "Vincent's fearless pinecone-dragon fortress!",
+            "Opt1Es": "¡La intrépida fortaleza dragón de Vincent!",
+            "Opt2En": "Jas's charming daisy-garden palace!",
+            "Opt2Es": "¡El precioso palacio floral de Jas!",
+            "Reply1Speaker": "Vincent",
+            "Reply1En": "YES!! Dragon power rules the riverbank!!",
+            "Reply1Es": "¡¡SÍ!! ¡¡El poder del dragón domina la orilla del río!!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Jas",
+            "Reply2En": "Yay! Thank you, {farmer}! I knew flowers would win!",
+            "Reply2Es": "¡¡Yupi!! ¡Gracias, {farmer}! ¡Sabía que las flores ganarían!",
+            "Reply2Emote": 20
+          }
+        },
+        {
+          "Id": "tree_05",
+          "NoticeFarmer": true,
+          "Music": "cloudCountry",
+          "Lines": [
+            {
+              "Speaker": "Penny",
+              "En": "Reading outdoors feels so refreshing with the river breeze rustling the pages.",
+              "Es": "Leer al aire libre se siente tan fresco con la brisa moviendo las páginas.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jas",
+              "En": "Ooh, we're at the final chapter—does the lost fox find its burrow?",
+              "Es": "¡Ohh, ya casi es el final! ¿El zorro perdido encuentra su madriguera?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Vincent",
+              "En": "Or maybe it discovers a hidden treasure cave!",
+              "Es": "¡O tal vez descubre una cueva del tesoro oculta!",
+              "PauseMs": 250,
+              "Emote": 16
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Penny",
+            "IntroEn": "Hi {farmer}! Help our class pick how this storybook adventure should end!",
+            "IntroEs": "¡Hola {farmer}! Ayuda a nuestra clase a elegir el final de este cuento.",
+            "Opt1En": "The fox finds a cozy burrow full of sweet berries!",
+            "Opt1Es": "¡El zorro halla una madriguera tibia llena de bayas dulces!",
+            "Opt2En": "The fox shares shiny forest crystals with all its friends!",
+            "Opt2Es": "¡El zorro comparte cristales brillantes del bosque con sus amigos!",
+            "Reply1Speaker": "Jas",
+            "Reply1En": "Aww, cozy berries! That makes me want a snack too!",
+            "Reply1Es": "¡Aww, bayas dulces! ¡Hasta me dio antojo de merienda!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Vincent",
+            "Reply2En": "Shiny forest crystals!! Best ending ever, {farmer}!",
+            "Reply2Es": "¡¡Cristales brillantes del bosque!! ¡El mejor final, {farmer}!",
+            "Reply2Emote": 32
+          }
+        }
+      ]
+    },
+    {
+      "Id": "town_plaza_gossip",
+      "Location": "Town",
+      "RequiredActors": [
+        "Jodi",
+        "Caroline"
+      ],
+      "OptionalActors": [
+        "Evelyn",
+        "George",
+        "Marnie"
+      ],
+      "MinTime": 1000,
+      "MaxTime": 1730,
+      "Scripts": [
+        {
+          "Id": "plaza_01",
+          "NoticeFarmer": false,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Jodi",
+              "En": "Caroline, how do you get your stir-fry greens to stay so bright and crisp?",
+              "Es": "Caroline, ¿cómo logras que tus verduras salteadas queden tan verdes y crujientes?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Caroline",
+              "En": "High heat, three quick tosses, and take the pan off before they go limp!",
+              "Es": "Fuego alto, tres salteados rápidos ¡y retirar del fuego antes de que se ablanden!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jodi",
+              "En": "Ooh, I always left the lid on too long! No wonder mine got sleepy.",
+              "Es": "¡Ohh, yo siempre tapaba la sartén mucho tiempo! Con razón me quedaban aguadas.",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Caroline",
+              "En": "Try it tonight—Sam and Vincent will ask for seconds!",
+              "Es": "¡Pruébalo hoy! ¡Sam y Vincent te van a pedir doble ración!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "plaza_02",
+          "NoticeFarmer": false,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Caroline",
+              "En": "Did you see the price of winter melons over in the square flyers?",
+              "Es": "¿Viste los precios en los folletos de ofertas de la plaza esta semana?",
+              "PauseMs": 250,
+              "Emote": 8,
+              "Sound": "coin"
+            },
+            {
+              "Speaker": "Jodi",
+              "En": "Everything jumped five percent since Tuesday! Thank goodness for local produce.",
+              "Es": "¡Todo subió cinco por ciento desde el martes! Qué suerte tener cosechas locales.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Caroline",
+              "En": "At least our gardens and nearby farms keep half the pantry stocked.",
+              "Es": "Al menos nuestros huertos y las granjas vecinas mantienen llena la alacena.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jodi",
+              "En": "Amen to that! Fresh food tastes twice as good anyway.",
+              "Es": "¡Amén a eso! Además la comida fresca sabe el doble de bien.",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "plaza_03",
+          "NoticeFarmer": false,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Jodi",
+              "En": "It feels like another town festival is practically right around the corner.",
+              "Es": "Parece que el próximo festival del pueblo ya está casi a la vuelta de la esquina.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Caroline",
+              "En": "I already offered to bring spiced punch and fresh herb rolls for the table.",
+              "Es": "Ya me ofrecí a llevar ponche especiado y bollos de hierbas para las mesas.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jodi",
+              "En": "I'll bring my classic baked potato casserole—it vanishes every year!",
+              "Es": "¡Yo llevaré mi clásica cazuela de patatas al horno! ¡Desaparece cada año!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Caroline",
+              "En": "Pelican Town potlucks really are unbeatable.",
+              "Es": "Los banquetes vecinales de Pueblo Pelícano son insuperables.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "plaza_04",
+          "NoticeFarmer": true,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Caroline",
+              "En": "Have you walked past {farm} lately? The whole place looks vibrant and thriving!",
+              "Es": "¿Has pasado cerca de {farm} últimamente? ¡Todo el lugar se ve súper vivo y cuidado!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jodi",
+              "En": "I noticed too! Oh, look—speaking of our hardworking neighbor!",
+              "Es": "¡Yo también lo noté! ¡Oh, mira... hablando de nuestro vecino trabajador!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Caroline",
+              "En": "Yoo-hoo, {farmer}!",
+              "Es": "¡Ey, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Jodi",
+            "IntroEn": "We were just admiring {farm}, {farmer}! What crop makes you proudest to grow?",
+            "IntroEs": "¡Justo admirábamos {farm}, {farmer}! ¿Cuál es tu cultivo favorito de cosechar?",
+            "Opt1En": "Crisp sweet strawberries and berries!",
+            "Opt1Es": "¡Fresas dulces y frutos jugosos!",
+            "Opt2En": "Hearty golden pumpkins and roots!",
+            "Opt2Es": "¡Calabazas doradas y raíces abundantes!",
+            "Reply1Speaker": "Caroline",
+            "Reply1En": "Ooh, nothing smells sweeter than fresh valley berries in the morning!",
+            "Reply1Es": "¡Uhh, nada huele más dulce que bayas frescas del valle por la mañana!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Jodi",
+            "Reply2En": "Pumpkins make amazing autumn soups and pies! Send one our way sometime, {farmer}!",
+            "Reply2Es": "¡Las calabazas hacen sopas y pays deliciosos! ¡Avísanos cuando tengas, {farmer}!",
+            "Reply2Emote": 20
+          }
+        },
+        {
+          "Id": "plaza_05",
+          "NoticeFarmer": true,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Caroline",
+              "En": "Feels like a lovely day to run errands without rushing indoors.",
+              "Es": "Se siente un día precioso para hacer mandados sin correr bajo techo.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Jodi",
+              "En": "True—even the town fountain sounds brighter today! Oh, hello {farmer}!",
+              "Es": "Cierto... ¡hasta la fuente de la plaza suena más alegre hoy! ¡Hola, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Caroline",
+              "En": "Wait, let's get a quick second opinion!",
+              "Es": "¡Espera, pidamos una segunda opinión rápida!",
+              "PauseMs": 250,
+              "Emote": 8
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Caroline",
+            "IntroEn": "Lovely day in the square, isn't it, {farmer}? What's your favorite weather for farm chores?",
+            "IntroEs": "Lindo día en la plaza, ¿verdad, {farmer}? ¿Qué clima prefieres para trabajar en el campo?",
+            "Opt1En": "Bright gentle sunshine with a soft breeze!",
+            "Opt1Es": "¡Sol suave con una brisa fresca!",
+            "Opt2En": "Cozy rain so the crops water themselves!",
+            "Opt2Es": "¡Lluvia tranquila para que los cultivos se rieguen solos!",
+            "Reply1Speaker": "Caroline",
+            "Reply1En": "Sunlight gives everything such warm energy!",
+            "Reply1Es": "¡La luz del sol le da una energía tan cálida a todo!",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "Jodi",
+            "Reply2En": "Haha, a free watering day is every farmer's secret holiday, right {farmer}?",
+            "Reply2Es": "¡Jaja, un día sin regar es el descanso secreto de todo granjero, verdad {farmer}!",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": "town_secret_chat",
+      "Location": "Town",
+      "RequiredActors": [
+        "Lewis",
+        "Marnie"
+      ],
+      "OptionalActors": [],
+      "MinTime": 1100,
+      "MaxTime": 1800,
+      "Scripts": [
+        {
+          "Id": "secret_01",
+          "NoticeFarmer": false,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Lewis",
+              "En": "Ahem! Yes, Marnie, the... uh... agricultural livestock tax bracket requires very close inspection.",
+              "Es": "¡Ejem! Sí, Marnie, el... eh... tramo fiscal de ganado agrícola exige revisión cercana.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Of course, Mayor Lewis. Very... official. Especially on a Tuesday afternoon.",
+              "Es": "Por supuesto, Alcalde Lewis. Muy... oficial. Sobre todo un martes por la tarde.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Lewis",
+              "En": "Right! Keep looking at this clipboard like we're discussing hay tariffs!",
+              "Es": "¡Eso! ¡Sigue mirando esta carpeta como si habláramos de aranceles de heno!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "You're adorable when you try to look stern, Lewis.",
+              "Es": "Eres adorable cuando intentas poner cara seria, Lewis.",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "secret_02",
+          "NoticeFarmer": false,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Marnie",
+              "En": "Did a bush just rustle over by the bridge?!",
+              "Es": "¡¿Acaba de moverse un arbusto junto al puente?!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Sound": "dwop",
+              "Jump": true
+            },
+            {
+              "Speaker": "Lewis",
+              "En": "Gah! Quick—check the cobblestones! Yes, yes, this mortar definitely needs repointing!",
+              "Es": "¡Gah! ¡Rápido, mira los adoquines! ¡Sí, sí, esta mezcla necesita reparación!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Phew... false alarm. Just a squirrel chasing an acorn.",
+              "Es": "Uf... falsa alarma. Solo una ardilla tras una bellota.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Lewis",
+              "En": "My heart nearly jumped straight out of my mustache...",
+              "Es": "El corazón casi me salta fuera del bigote...",
+              "PauseMs": 250,
+              "Emote": 28
+            }
+          ]
+        },
+        {
+          "Id": "secret_03",
+          "NoticeFarmer": false,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Marnie",
+              "En": "By the way, that rhubarb tart I left on your porch yesterday... did you try it?",
+              "Es": "Por cierto, esa tarta de ruibarbo que dejé en tu porche ayer... ¿la probaste?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Lewis",
+              "En": "Try it?! Marnie, I ate half before the tea kettle even boiled!",
+              "Es": "¡¿Probarla?! ¡Marnie, me comí la mitad antes de que hirviera la tetera!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Haha! Don't drop crumbs in your official ledger now!",
+              "Es": "¡Jaja! ¡No vayas a tirar migajas en el registro oficial!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Lewis",
+              "En": "Strictly top-secret culinary quality control, my dear.",
+              "Es": "Control de calidad culinario estrictamente confidencial, querida.",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "secret_04",
+          "NoticeFarmer": true,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Lewis",
+              "En": "Now regarding the... er... town fence post budget for next quarter...",
+              "Es": "Así que respecto al presupuesto de... eh... postes de cerca del trimestre...",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Wait—someone's walking right toward us!",
+              "Es": "¡Espera... alguien viene caminando justo hacia aquí!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Lewis",
+              "En": "Stand tall! Smile professionally!",
+              "Es": "¡Firme! ¡Sonrisa profesional!",
+              "PauseMs": 250,
+              "Emote": 28
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Lewis",
+            "IntroEn": "Ah! {farmer}! Marnie and I were JUST inspecting town road safety! Surely you agree the stones look... crisp?",
+            "IntroEs": "¡Ah! ¡{farmer}! Marnie y yo JUSTO inspeccionábamos la seguridad vial... ¿verdad que las piedras se ven firmes?",
+            "Opt1En": "Yes, Mayor—top-notch cobblestones!",
+            "Opt1Es": "¡Sí, Alcalde, adoquines de primera categoría!",
+            "Opt2En": "Sure... totally looks like road inspection to me!",
+            "Opt2Es": "Claro... parece cien por ciento inspección de calles...",
+            "Reply1Speaker": "Lewis",
+            "Reply1En": "Aha! See, Marnie? Unanimous approval from {farmer}!",
+            "Reply1Es": "¡Ajá! ¿Ves, Marnie? ¡Aprobación unánime de {farmer}!",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "Marnie",
+            "Reply2En": "Haha, thank you for playing along, {farmer}.",
+            "Reply2Es": "Jaja, gracias por seguirle la corriente, {farmer}.",
+            "Reply2Emote": 20
+          }
+        },
+        {
+          "Id": "secret_05",
+          "NoticeFarmer": true,
+          "Music": "town1",
+          "Lines": [
+            {
+              "Speaker": "Marnie",
+              "En": "Honestly, Lewis, we don't have to panic every time footsteps pass by.",
+              "Es": "Honestamente, Lewis, no tenemos que asustarnos cada vez que pasan cerca.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Lewis",
+              "En": "Ahem—civic dignity! Oh! Good afternoon, {farmer}!",
+              "Es": "¡Ejem, dignidad cívica! ¡Oh! ¡Buenas tardes, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Let's change the subject smoothly...",
+              "Es": "Cambiemos de tema con naturalidad...",
+              "PauseMs": 250,
+              "Emote": 28
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Marnie",
+            "IntroEn": "Oh, hello {farmer}! Everything good with the barns and animals over on {farm}?",
+            "IntroEs": "¡Oh, hola {farmer}! ¿Todo bien con los establos y animalitos allá en {farm}?",
+            "Opt1En": "Doing great—everybody's happy and fed!",
+            "Opt1Es": "¡De maravilla, todos contentos y bien alimentados!",
+            "Opt2En": "Just keeping an eye on town business!",
+            "Opt2Es": "¡Solo echando un ojo a los asuntos del pueblo!",
+            "Reply1Speaker": "Marnie",
+            "Reply1En": "Wonderful! You know my ranch doors are always open if you need hay or help!",
+            "Reply1Es": "¡Qué alegría! ¡Ya sabes que mi rancho siempre está abierto si ocupas heno!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Lewis",
+            "Reply2En": "Ahem—yes! Keep up the admirable agricultural productivity, {farmer}!",
+            "Reply2Es": "¡Ejem, sí! ¡Mantén esa admirable productividad agrícola, {farmer}!",
+            "Reply2Emote": 32
+          }
+        }
+      ]
+    },
+    {
+      "Id": "beach_summer_vibes",
+      "Location": "Beach",
+      "RequiredActors": [
+        "Willy",
+        "Elliott"
+      ],
+      "OptionalActors": [
+        "Haley",
+        "Alex",
+        "Sam",
+        "Abigail"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1900,
+      "Scripts": [
+        {
+          "Id": "beach_01",
+          "NoticeFarmer": false,
+          "Music": "ocean",
+          "Lines": [
+            {
+              "Speaker": "Willy",
+              "En": "I tell ye, lad, that crimson octopus was as wide as me rowboat and winked right back at me!",
+              "Es": "Te digo, muchacho, ¡ese pulpo carmesí medía lo que mi bote y me guiñó un ojo!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Sound": "waterSlosh"
+            },
+            {
+              "Speaker": "Elliott",
+              "En": "Brilliant! Hold that phrasing—'a gaze deeper than the midnight trench itself!'",
+              "Es": "¡Magistral! Sostén esa frase: 'una mirada más honda que la fosa de medianoche!'",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Willy",
+              "En": "Aye, write it down nice and dramatic-like, Elliott. Folks love a good sea yarn.",
+              "Es": "Sí, anótalo bien dramático, Elliott. A la gente le gustan las buenas historias de mar.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Elliott",
+              "En": "With material like yours, my maritime chapter practically writes itself!",
+              "Es": "¡Con relatos como los tuyos, mi capítulo marino se escribe solo!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "beach_02",
+          "NoticeFarmer": false,
+          "Music": "ocean",
+          "Lines": [
+            {
+              "Speaker": "Elliott",
+              "En": "Listen closely: 'O tempestuous sapphire tide, bearer of forgotten—'",
+              "Es": "Escucha con atención: 'Oh marea zafiro tempestuosa, portadora de—'",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Willy",
+              "En": "Watch out—that cheeky gull just stole the cheese crust right off me tackle crate!",
+              "Es": "¡Cuidado, esa gaviota descarada se llevó mi corteza de queso de la caja de señuelos!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "Elliott",
+              "En": "...Ah. Forgotten cheese crusts. Not quite the stanza I envisioned.",
+              "Es": "...Ah. Cortezas de queso olvidadas. No era exactamente la estrofa que imaginaba.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Willy",
+              "En": "Haha! Sea birds keep us fishermen humble, Elliott!",
+              "Es": "¡Jaja! ¡Las aves marinas nos mantienen humildes a los pescadores, Elliott!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "beach_03",
+          "NoticeFarmer": false,
+          "Music": "ocean",
+          "Lines": [
+            {
+              "Speaker": "Willy",
+              "En": "Sniff that salt breeze—tide's turning rich today. Sea cucumbers'll be out near dusk.",
+              "Es": "Huele esa brisa salada... la marea viene cargada hoy. Saldrán pepinos de mar al ocaso.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Elliott",
+              "En": "Fascinating! How do you discern subtle kelp aromas from pure ocean mist?",
+              "Es": "¡Fascinante! ¿Cómo distingues el aroma sutil de las algas de la bruma marina?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Willy",
+              "En": "Forty winters by the surf, lad. Your nose learns the tide faster than any clock.",
+              "Es": "Cuarenta inviernos junto al oleaje, muchacho. La nariz aprende la marea antes que el reloj.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Elliott",
+              "En": "Poetic intuition forged by salt and timber—I salute you, Captain Willy.",
+              "Es": "Intuición poética forjada en sal y madera... te saludo, Capitán Willy.",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "beach_04",
+          "NoticeFarmer": true,
+          "Music": "ocean",
+          "Lines": [
+            {
+              "Speaker": "Willy",
+              "En": "Lines are taut and the tide's singing gentle against the pilings today.",
+              "Es": "Los sedales están tensos y la marea canta suave contra los pilotes hoy.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Elliott",
+              "En": "Look who treads the golden sands—{farmer} has joined our coastal symposium!",
+              "Es": "¡Mira quién camina por las arenas doradas! ¡{farmer} se une a nuestro simposio costero!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Willy",
+              "En": "Ahoy there, matey!",
+              "Es": "¡A la orden, marinero!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Willy",
+            "IntroEn": "Ahoy, {farmer}! Tell Elliott here—what's the grandest catch ye ever reeled out of these waters?",
+            "IntroEs": "¡Ahoy, {farmer}! Cuéntale aquí a Elliott... ¿cuál ha sido la captura más brava que has sacado?",
+            "Opt1En": "A massive midnight squid fighting the current!",
+            "Opt1Es": "¡Un calamar gigante luchando contra la corriente!",
+            "Opt2En": "Honestly, even small coastal fish make my day!",
+            "Opt2Es": "La verdad, ¡hasta un pez pequeño alegra mi día!",
+            "Reply1Speaker": "Willy",
+            "Reply1En": "Har! Now THAT puts hair on a fisher's chest! Good yarn, {farmer}!",
+            "Reply1Es": "¡Ja! ¡Eso sí templa a un pescador! ¡Gran historia, {farmer}!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Elliott",
+            "Reply2En": "Humility before the vast sea holds its own quiet poetry, {farmer}.",
+            "Reply2Es": "La humildad frente al inmenso mar guarda su propia poesía serena, {farmer}.",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "beach_05",
+          "NoticeFarmer": true,
+          "Music": "ocean",
+          "Lines": [
+            {
+              "Speaker": "Elliott",
+              "En": "My pen hovers above a blank page... awaiting one luminous spark of inspiration.",
+              "Es": "Mi pluma flota sobre la página en blanco... aguardando una chispa luminosa.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Willy",
+              "En": "Try askin' {farmer}, lad—folks who work the land always notice things we sea rats miss!",
+              "Es": "¡Pregúntale a {farmer}, muchacho! Quien trabaja la tierra ve cosas que nosotros pasamos por alto.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Elliott",
+              "En": "Capital idea, Willy! Come hither, {farmer}!",
+              "Es": "¡Idea magistral, Willy! ¡Acércate, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Elliott",
+            "IntroEn": "Ah, {farmer}! Lend me an inspiring image for the next paragraph of my novel!",
+            "IntroEs": "¡Ah, {farmer}! ¡Préstame una imagen inspiradora para el próximo párrafo de mi novela!",
+            "Opt1En": "Amber lantern light dancing across dark waves!",
+            "Opt1Es": "¡Luz ámbar de farol danzando sobre olas oscuras!",
+            "Opt2En": "An old compass pointing toward uncharted shores!",
+            "Opt2Es": "¡Una vieja brújula apuntando hacia costas inexploradas!",
+            "Reply1Speaker": "Elliott",
+            "Reply1En": "Sublime! 'Amber lanterns dancing atop dark sapphire!' Thank you, {farmer}!",
+            "Reply1Es": "¡¡Sublime!! 'Faroles ámbar danzando sobre zafiro oscuro!' ¡Gracias, {farmer}!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Willy",
+            "Reply2En": "Aye, nothing stirs an old sailor's heart like an uncharted horizon!",
+            "Reply2Es": "¡Sí señor, nada agita tanto el corazón de un marinero como un horizonte sin mapa!",
+            "Reply2Emote": 32
+          }
+        }
+      ]
+    },
+    {
+      "Id": "mountain_lake_science",
+      "Location": "Mountain",
+      "RequiredActors": [
+        "Demetrius",
+        "Linus"
+      ],
+      "OptionalActors": [
+        "Maru",
+        "Sebastian",
+        "Abigail"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1900,
+      "Scripts": [
+        {
+          "Id": "mtn_01",
+          "NoticeFarmer": false,
+          "Music": "mountain_ambient",
+          "Lines": [
+            {
+              "Speaker": "Demetrius",
+              "En": "Fascinating—water clarity dropped two NTU while dissolved oxygen rose.",
+              "Es": "Fascinante... la turbidez bajó dos puntos mientras el oxígeno disuelto subió.",
+              "PauseMs": 250,
+              "Emote": 8,
+              "Sound": "waterSlosh"
+            },
+            {
+              "Speaker": "Linus",
+              "En": "Snowmelt came down from the ridge early this morning. Smells sharp and sweet.",
+              "Es": "El deshielo bajó temprano por la cresta esta mañana. Huele fresco y dulce.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Demetrius",
+              "En": "...Remarkable. Your olfactory intuition matches my refractometer to the decimal.",
+              "Es": "...Asombroso. Tu olfato coincide con mi refractómetro hasta el último decimal.",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Linus",
+              "En": "When you sleep beneath the pines long enough, the mountain tells you its plans.",
+              "Es": "Cuando duermes bajo los pinos el tiempo suficiente, la montaña te cuenta sus planes.",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "mtn_02",
+          "NoticeFarmer": false,
+          "Music": "mountain_ambient",
+          "Lines": [
+            {
+              "Speaker": "Demetrius",
+              "En": "Wild blackberries contain exceptional antioxidants per gram compared to—",
+              "Es": "Las moras silvestres contienen antioxidantes excepcionales por gramo comparadas con—",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Linus",
+              "En": "And they taste twice as good warm off a sunlit bramble! Here, try this one.",
+              "Es": "¡Y saben el doble de ricas tibias recién cortadas al sol! Toma, prueba esta.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Demetrius",
+              "En": "Hmm! Sweetness index is surprisingly high. Empirical flavor confirmed!",
+              "Es": "¡Mmm! El índice de dulzura es sorprendentemente alto. ¡Sabor empírico confirmado!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Linus",
+              "En": "Nature rarely needs a chart to know when it's ready, my friend.",
+              "Es": "La naturaleza casi nunca ocupa una tabla para saber cuándo está lista, amigo.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "mtn_03",
+          "NoticeFarmer": false,
+          "Music": "mountain_ambient",
+          "Lines": [
+            {
+              "Speaker": "Linus",
+              "En": "Look across the reeds—the mountain kingfishers nested near the east boulder again.",
+              "Es": "Mira entre los juncos... los martines pescadores volvieron a anidar junto a la roca este.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Demetrius",
+              "En": "Three summers in a row at that exact coordinate! That indicates steady minnow populations.",
+              "Es": "¡Tres veranos seguidos en esa coordenada! Eso indica población estable de pececillos.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Linus",
+              "En": "Quiet neighbors are the best kind of company up here.",
+              "Es": "Los vecinos silenciosos son la mejor compañía aquí arriba.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Demetrius",
+              "En": "Indeed. A pristine habitat in equilibrium.",
+              "Es": "En efecto. Un hábitat prístino en equilibrio.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "mtn_04",
+          "NoticeFarmer": true,
+          "Music": "mountain_ambient",
+          "Lines": [
+            {
+              "Speaker": "Linus",
+              "En": "The mountain breeze carries campfire smoke and pine resin across the lake.",
+              "Es": "La brisa de la montaña lleva olor a hoguera y resina de pino sobre el lago.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Demetrius",
+              "En": "Look, {farmer} is up in the highlands today too!",
+              "Es": "¡Mira, {farmer} también anda por las tierras altas hoy!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Linus",
+              "En": "Welcome up the ridge, friend!",
+              "Es": "¡Bienvenido a la colina, amigo!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Linus",
+            "IntroEn": "Hello, {farmer}. Take a breath of crisp pine air—what brings you up near the lake?",
+            "IntroEs": "Hola, {farmer}. Respira este aire fresco de pino... ¿qué te trae por el lago?",
+            "Opt1En": "Exploring the mountains and gathering wild herbs!",
+            "Opt1Es": "¡Explorar las montañas y recolectar hierbas!",
+            "Opt2En": "Checking the mines and chatting with neighbors!",
+            "Opt2Es": "¡Revisar las minas y saludar a los vecinos!",
+            "Reply1Speaker": "Linus",
+            "Reply1En": "Walk gently among the ferns, and the forest always shares its bounty, {farmer}.",
+            "Reply1Es": "Camina suave entre los helechos y el bosque siempre compartirá sus dones, {farmer}.",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Demetrius",
+            "Reply2En": "Careful in the deep shafts, {farmer}—mineral resonance down there can be unpredictable!",
+            "Reply2Es": "¡Cuidado en las galerías profundas, {farmer}! ¡La veta mineral allá abajo es impredecible!",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "mtn_05",
+          "NoticeFarmer": true,
+          "Music": "mountain_ambient",
+          "Lines": [
+            {
+              "Speaker": "Demetrius",
+              "En": "Wait—I swear a speckled carp surfaced right beside the footbridge!",
+              "Es": "¡Espera! ¡Juro que una carpa moteada salió junto al puente!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Linus",
+              "En": "They rise whenever footsteps tap softly on the wooden planks.",
+              "Es": "Suben cada vez que los pasos suenan suave sobre los tablones.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Demetrius",
+              "En": "Ah, {farmer}! You've got keen eyes—let's ask you!",
+              "Es": "¡Ah, {farmer}! Tienes buena vista... ¡preguntemos!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Demetrius",
+            "IntroEn": "Greetings, {farmer}! Have you noticed more mountain wildlife thriving around the valley lately?",
+            "IntroEs": "¡Saludos, {farmer}! ¿Has notado más fauna silvestre prosperando por el valle últimamente?",
+            "Opt1En": "Yes—rabbits, birds, and fireflies everywhere!",
+            "Opt1Es": "¡Sí! ¡Conejos, aves y luciérnagas por todas partes!",
+            "Opt2En": "Always fascinating to see how seasons reshape the lake!",
+            "Opt2Es": "¡Siempre fascina ver cómo cada estación transforma el lago!",
+            "Reply1Speaker": "Demetrius",
+            "Reply1En": "Wonderful! Healthy biodiversity signals a flourishing valley farm ecosystem too!",
+            "Reply1Es": "¡Magnífico! ¡La biodiversidad sana refleja un valle próspero gracias a todos!",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "Linus",
+            "Reply2En": "When the valley is cared for with patience, every creature remembers it belongs.",
+            "Reply2Es": "Cuando se cuida el valle con paciencia, cada criatura recuerda que pertenece aquí.",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": "forest_river_sketch",
+      "Location": "Forest",
+      "RequiredActors": [
+        "Leah",
+        "Marnie"
+      ],
+      "OptionalActors": [
+        "Jas",
+        "Andy"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1800,
+      "Scripts": [
+        {
+          "Id": "for_01",
+          "NoticeFarmer": false,
+          "Music": "forest_ambient",
+          "Lines": [
+            {
+              "Speaker": "Leah",
+              "En": "Wait, Marnie, look at this fallen alder branch—doesn't it just scream 'soaring heron'?",
+              "Es": "Espera, Marnie, mira esta rama caída de aliso... ¿no grita 'garza en pleno vuelo'?",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Haha! You artists see poetry where I mostly see firewood, Leah!",
+              "Es": "¡Jaja! ¡Ustedes los artistas ven poesía donde yo casi siempre veo leña, Leah!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Leah",
+              "En": "Every piece of driftwood has a sculpture sleeping inside—it just needs chiseling free!",
+              "Es": "¡Cada trozo de madera tiene una escultura durmiendo adentro, solo espera el cincel!",
+              "PauseMs": 250,
+              "Emote": 20,
+              "Sound": "woodWhack"
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Well, when it wakes up, bring it by the ranch so Jas can admire it too!",
+              "Es": "¡Pues cuando despierte, llévala al rancho para que Jas también la admire!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "for_02",
+          "NoticeFarmer": false,
+          "Music": "forest_ambient",
+          "Lines": [
+            {
+              "Speaker": "Marnie",
+              "En": "Mm, Cindersap always smells like damp moss and roasted chestnuts after midday.",
+              "Es": "Mm, el Bosque Tizón siempre huele a musgo húmedo y piñones pasado el mediodía.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Leah",
+              "En": "That scent is half the reason I moved out here to my cottage!",
+              "Es": "¡Ese aroma es la mitad del motivo por el que me mudé a mi cabaña aquí!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Plus plenty of wild chanterelles popping up around the oak roots.",
+              "Es": "Además de las setas doradas que brotan junto a las raíces de los robles.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Leah",
+              "En": "Fresh forest mushrooms in butter... okay, now you're making me hungry!",
+              "Es": "Setas frescas a la mantequilla... ¡listo, ya me diste hambre!",
+              "PauseMs": 250,
+              "Emote": 28
+            }
+          ]
+        },
+        {
+          "Id": "for_03",
+          "NoticeFarmer": false,
+          "Music": "forest_ambient",
+          "Lines": [
+            {
+              "Speaker": "Leah",
+              "En": "Sometimes I leave my sketchbook closed and just listen to the water rush over stones.",
+              "Es": "A veces cierro el cuaderno y solo escucho correr el agua sobre las piedras.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Honestly, that sounds nicer than tallying grain sacks at the counter.",
+              "Es": "La verdad, eso suena mejor que contar sacos de grano en el mostrador.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Leah",
+              "En": "You deserve forest walks too, Marnie. Come knock on my cabin anytime.",
+              "Es": "Tú también mereces paseos por el bosque, Marnie. Toca a mi puerta cuando quieras.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Deal! Next time I'll bring warm cider in a thermos.",
+              "Es": "¡Trato hecho! La próxima traigo sidra tibia en un termo.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "for_04",
+          "NoticeFarmer": true,
+          "Music": "forest_ambient",
+          "Lines": [
+            {
+              "Speaker": "Leah",
+              "En": "I'm torn between two silhouettes for this raw cedar block...",
+              "Es": "Estoy indecisa entre dos siluetas para este bloque de cedro...",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Ooh, ask {farmer}! A fresh pair of eyes always settles an art block!",
+              "Es": "¡Uhh, pregúntale a {farmer}! ¡Un par de ojos frescos siempre destraba al artista!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Leah",
+              "En": "Brilliant idea—hey, {farmer}!",
+              "Es": "¡Brillante idea! ¡Ey, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Leah",
+            "IntroEn": "Hey {farmer}! Help me choose a shape for this forest carving—a soaring bird or a curling river wave?",
+            "IntroEs": "¡Ey {farmer}! Ayúdame a elegir forma para esta talla: ¿un pájaro en vuelo o una ola de río?",
+            "Opt1En": "A graceful soaring bird!",
+            "Opt1Es": "¡Un ave alzando el vuelo!",
+            "Opt2En": "A flowing curling river wave!",
+            "Opt2Es": "¡Una ola fluida del río!",
+            "Reply1Speaker": "Leah",
+            "Reply1En": "Ooh, feathered movement! Yes, I can see the grain curving into wings already!",
+            "Reply1Es": "¡¡Ohh, movimiento de alas!! ¡Ya veo las vetas dibujando las plumas!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Marnie",
+            "Reply2En": "Ooh, flowing water fits right beside the forest river, {farmer}!",
+            "Reply2Es": "¡Ohh, el agua fluida va perfecta junto al río del bosque, {farmer}!",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "for_05",
+          "NoticeFarmer": true,
+          "Music": "forest_ambient",
+          "Lines": [
+            {
+              "Speaker": "Marnie",
+              "En": "Funny how quiet Cindersap feels until a woodpecker starts drumming overhead!",
+              "Es": "¡Qué curioso lo tranquilo que se siente el bosque hasta que un pájaro carpintero empieza a repicar!",
+              "PauseMs": 250,
+              "Emote": 32,
+              "Sound": "axchop"
+            },
+            {
+              "Speaker": "Leah",
+              "En": "Nature's percussionist! Oh, look—{farmer} is out wandering the trails today!",
+              "Es": "¡El percusionista del bosque! ¡Mira, {farmer} anda recorriendo los senderos hoy!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Marnie",
+              "En": "Hello there, {farmer}!",
+              "Es": "¡Hola por allá, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Marnie",
+            "IntroEn": "Lovely afternoon in the woods, {farmer}! Having any luck foraging out here today?",
+            "IntroEs": "¡Linda tarde en el bosque, {farmer}! ¿Hubo suerte recolectando por aquí hoy?",
+            "Opt1En": "Found some wild greens and timber!",
+            "Opt1Es": "¡Encontré brotes silvestres y buena madera!",
+            "Opt2En": "Just enjoying the peaceful forest breeze!",
+            "Opt2Es": "¡Solo disfrutando la calma y brisa del bosque!",
+            "Reply1Speaker": "Marnie",
+            "Reply1En": "Wonderful! Fresh wild greens are great for soups and farm snacks alike!",
+            "Reply1Es": "¡Qué bien! ¡Las hierbas frescas sirven tanto para sopas como para picar en la granja!",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "Leah",
+            "Reply2En": "That's the best thing about Cindersap—even walking empty-handed fills your spirit!",
+            "Reply2Es": "¡Eso es lo mejor del bosque... hasta pasear con las manos vacías te recarga el alma!",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    }
+  ]
+}

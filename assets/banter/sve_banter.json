@@ -1,0 +1,1085 @@
+{
+  "pairs": [
+    {
+      "npcA": "Olivia",
+      "npcB": "Victor",
+      "conversations": [
+        {
+          "id": "sve_oli_vic_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Did you rest your eyes from those engineering schematics today, sweetheart?",
+              "es": "Descansaste la vista de esos planos de ingenieria hoy, carino?"
+            },
+            {
+              "speaker": "B",
+              "emote": 28,
+              "en": "Only after fixing that stubborn bridge ratio calculation, Mom.",
+              "es": "Solo despues de resolver aquel calculo terco del puente, mama."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Even brilliant minds deserve an afternoon glass of valley wine.",
+              "es": "Hasta las mentes brillantes merecen una copa vespertina de vino del valle."
+            }
+          ]
+        },
+        {
+          "id": "sve_oli_vic_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Notice how lively the square feels since the valley grew closer?",
+              "es": "Has notado lo animada que se siente la plaza desde que todo el valle convive mas?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Yes! Moving here from the capital turned out wonderfully after all.",
+              "es": "Si! Mudarnos aqui desde la capital resulto maravilloso despues de todo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Olivia",
+      "npcB": "Pierre",
+      "conversations": [
+        {
+          "id": "sve_oli_pie_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 8,
+              "en": "Pierre, any aged grape vinegar bottles left on the top shelf?",
+              "es": "Pierre, queda alguna botella de vinagre anejo de uva en el estante alto?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Two reserves waiting right behind the counter for you, Olivia!",
+              "es": "Dos reservas esperando justo detras del mostrador para usted, Olivia!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Splendid. Good pantry staples make country dining shine.",
+              "es": "Esplendido. Buenos ingredientes hacen brillar cualquier cena campestre."
+            }
+          ]
+        },
+        {
+          "id": "sve_oli_pie_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Wait until you try next season's heritage melon crop from {farm}!",
+              "es": "Espera a probar el melon tradicional de la proxima estacion de {farm}!"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Count me first in line once crates arrive.",
+              "es": "Cuentame primera en fila en cuanto lleguen las cajas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Sophia",
+      "npcB": "Andy",
+      "conversations": [
+        {
+          "id": "sve_sop_and_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Hey, Andy! Your strawberries looked super plump down at the market stand!",
+              "es": "Hola, Andy! Tus fresas se veian super jugosas en el puesto del mercado!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Why thank ya, Sophia! Wait until you taste how sweet this spring harvest turned out!",
+              "es": "Muchas gracias, Sophia! Espera a probar lo dulces que salieron esta primavera!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Let us trade a crate for two bottles of Blue Moon Reserve!",
+              "es": "Cambiamos una caja por dos botellas de Reserva Luna Azul!"
+            }
+          ]
+        },
+        {
+          "id": "sve_sop_and_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Fence posts along Fairhaven river holding up after that storm?",
+              "es": "Aguantaron los postes junto al rio tras esa tormenta?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Yeah! Even repaired the old trellis vine before breakfast.",
+              "es": "Si! Hasta arregle el viejo emparrado antes del desayuno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Sophia",
+      "npcB": "Gus",
+      "conversations": [
+        {
+          "id": "sve_sop_gus_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Your Blue Moon vintage pairs like magic with roasted mushroom risotto, Sophia!",
+              "es": "Tu cosecha Luna Azul combina de maravilla con risotto de champinones, Sophia!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Aww, hearing a chef like you say that means the world, Gus!",
+              "es": "Ay, oir eso de un chef como tu significa el mundo para mi, Gus!"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Always save me two cases before autumn festivals kick off!",
+              "es": "Guardame siempre dos cajas antes de que empiecen las fiestas de otono!"
+            }
+          ]
+        },
+        {
+          "id": "sve_sop_gus_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Still perfecting that sweet blackberry glaze?",
+              "es": "Sigues perfeccionando ese glaseado dulce de moras?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Adding a touch of mountain honey this Friday!",
+              "es": "Anadiendo un toque de miel de montana este viernes!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Claire",
+      "npcB": "Martin",
+      "conversations": [
+        {
+          "id": "sve_cla_mar_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 28,
+              "en": "Morning shift flew by today—did register three still stick?",
+              "es": "El turno de la manana volo hoy—se atoro la caja tres otra vez?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Still jams on crumpled coupons, Claire! Wait until Morris notices.",
+              "es": "Todavia se traba con cupones arrugados, Claire! Espera a que Morris lo note."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Hang in there, kid. Good luck on your midterms this week!",
+              "es": "Aguanta firme, chico. Mucha suerte con tus examenes de esta semana!"
+            }
+          ]
+        },
+        {
+          "id": "sve_cla_mar_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Ever sneak out to catch an afternoon matinee in Zuzu City?",
+              "es": "Alguna vez te escapas a ver una funcion de cine por la tarde en Ciudad Zuzu?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Every chance I get! Classic theater popcorn fixes anything.",
+              "es": "Siempre que puedo! Las palomitas clasicas de cine arreglan cualquier dia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Claire",
+      "npcB": "Emily",
+      "conversations": [
+        {
+          "id": "sve_cla_emi_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Your stage costume stitching looked gorgeous under those velvet curtains, Claire!",
+              "es": "Las costuras de tu vestuario teatral lucian preciosas bajo esas cortinas, Claire!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Thank you, Emily! Practicing lines by the river actually calmed my nerves.",
+              "es": "Gracias, Emily! Practicar dialogos junto al rio de verdad me calmo los nervios."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Next show I will help hem any sequined trim you need!",
+              "es": "En la proxima obra te ayudo a coser todos los bordes de lentejuelas que quieras!"
+            }
+          ]
+        },
+        {
+          "id": "sve_cla_emi_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Tea break after long feet-on-tile shifts always hits differently.",
+              "es": "Un te despues de turnos largos de pie siempre sabe distinto."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Right? Cozy chamomile restores everything.",
+              "es": "Verdad? Una manzanilla tibia lo restaura todo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Andy",
+      "npcB": "Lewis",
+      "conversations": [
+        {
+          "id": "sve_and_lew_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Morning, Mayor! Fence tax form already stamped and ready on your desk?",
+              "es": "Buenos dias, alcalde! Ya quedo sellado mi formulario en su escritorio?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "All filed away neatly, Andy! Fairhaven soils looking greener this year too.",
+              "es": "Todo archivado en orden, Andy! Sus tierras en Fairhaven lucen mas verdes este ano."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Hard work pays honest wages, Mayor—and a good crop never lies.",
+              "es": "El trabajo duro rinde salario honesto, alcalde—y una buena cosecha nunca miente."
+            }
+          ]
+        },
+        {
+          "id": "sve_and_lew_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Stop by Gus's Friday night—good apple cider coming off tap.",
+              "es": "Pasa por donde Gus el viernes por la noche—sale buena sidra de barril."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Count on it, Lewis! Just save me a quiet seat.",
+              "es": "Cuenta con ello, Lewis! Solo guardame un asiento tranquilo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Susan",
+      "npcB": "Marnie",
+      "conversations": [
+        {
+          "id": "sve_sus_mar_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Hey, Marnie! Got two extra strawberry shortcake tins cooling by my rail siding!",
+              "es": "Hola, Marnie! Tengo dos moldes extra de pastel de fresas enfriandose junto a mi taller!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Oh, Susan! Your baking turns the whole railway hill sweet!",
+              "es": "Ay, Susan! Tu reposteria perfuma toda la colina del ferrocarril!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Come trade recipes whenever your cows give extra cream!",
+              "es": "Ven a intercambiar recetas cuando tus vacas den crema de sobra!"
+            }
+          ]
+        },
+        {
+          "id": "sve_sus_mar_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Busy planting heritage berries above the cliff orchard?",
+              "es": "Ocupada plantando bayas tradicionales arriba en el huerto del acantilado?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Keeps me busy from sunrise till twilight—and loves every second!",
+              "es": "Me mantiene ocupada del alba al ocaso—y feliz cada segundo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Lance",
+      "npcB": "Marlon",
+      "conversations": [
+        {
+          "id": "sve_lan_mar_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "First Aid Academy scouts report fewer shadows crossing the Highlands pass.",
+              "es": "Los exploradores de la academia reportan menos sombras cruzando el paso de las Tierras Altas."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Good news for Pelican Town, Lance. Steel holds steadier when two guilds share watch.",
+              "es": "Buenas noticias, Lance. El acero rinde mejor cuando dos gremios comparten guardia."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Indeed. Should you spot unusual runes on island beasts, send word.",
+              "es": "Cierto. Si ves runas inusuales en bestias de la isla, mandame aviso."
+            }
+          ]
+        },
+        {
+          "id": "sve_lan_mar_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Take care navigating the castle ruins if fog rolls in deep.",
+              "es": "Cuidado recorriendo las ruinas si baja niebla densa."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Wards and blades alike remain sharp, Commander.",
+              "es": "Tanto sellos como espadas siguen bien afilados, comandante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Lance",
+      "npcB": "Wizard",
+      "conversations": [
+        {
+          "id": "sve_lan_wiz_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Master Rasmodius, the nexus leylines felt remarkably tranquil before dawn.",
+              "es": "Maestro Rasmodius, las lineas ley del nexo se sintieron muy serenas antes del alba."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Balanced hands have been tending both earth and ancient seals, Lance.",
+              "es": "Manos equilibradas han estado cuidando tanto la tierra como los viejos sellos, Lance."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Rarely have I witnessed a farmer earn magic's trust so swiftly.",
+              "es": "Rara vez vi a un granjero ganarse la confianza de la magia tan rapido."
+            }
+          ]
+        },
+        {
+          "id": "sve_lan_wiz_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Any new arcane reagents blooming out at the Highlands ridge?",
+              "es": "Florece algun reactivo arcano nuevo en la cresta de las Tierras Altas?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Silver-petalled lotus, if you require fresh petals for tinctures.",
+              "es": "Loto de petalos plateados, por si requieres extractos frescos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Victor",
+      "npcB": "Abigail",
+      "conversations": [
+        {
+          "id": "sve_vic_abi_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Hey Victor! Think old bridges around town could handle a wooden ramp?",
+              "es": "Oye Victor! Crees que algun puente del pueblo aguantaria una rampa de madera?"
+            },
+            {
+              "speaker": "A",
+              "emote": 8,
+              "en": "Wait... for Sam's skateboard or your midnight expeditions?",
+              "es": "Espera... para la patineta de Sam o tus expediciones nocturnas?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Why not both?! Proper bridge architecture is versatile!",
+              "es": "Por que no ambas?! La buena ingenieria es versatil!"
+            }
+          ]
+        },
+        {
+          "id": "sve_vic_abi_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Enjoyed comparing mineral notes with you at the museum bench earlier.",
+              "es": "Disfrute comparar apuntes de minerales contigo en la banca del museo."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Same! Always fun nerding out without anybody rolling their eyes.",
+              "es": "Igual! Siempre mola hablar de piedra rara sin que nadie ponga mala cara."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Morgan",
+      "npcB": "Wizard",
+      "conversations": [
+        {
+          "id": "sve_mor_wiz_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 8,
+              "en": "Master Rasmodius, my levitation spark flickered purple instead of emerald!",
+              "es": "Maestro Rasmodius, mi chispa de levitacion parpadeo morada en vez de esmeralda!"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Focus on stillness before breathing out, apprentice. Magic answers patience.",
+              "es": "Concentrate en la quietud antes de exhalar, aprendiz. La magia responde a la paciencia."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Yes, Master! I will practice ten more quiet circles after lunch.",
+              "es": "Si, Maestro! Practicare diez circulos tranquilos mas despues de comer."
+            }
+          ]
+        },
+        {
+          "id": "sve_mor_wiz_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Study those moss-covered sigils by Cindersap water tonight.",
+              "es": "Estudia esos sigilos cubiertos de musgo junto al agua esta noche."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Already packed my charcoal notebook and lantern.",
+              "es": "Ya guarde mi libreta de carboncillo y el farol."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Sophia",
+      "npcB": "Penny",
+      "conversations": [
+        {
+          "id": "sve_sop_pen_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Hey Penny! Brought sweet pumpkin tea muffins for you and the kids!",
+              "es": "Hola Penny! Traje panecillos dulces de calabaza para ti y los peques!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Oh, Sophia! You spoil us every time you stop by town library.",
+              "es": "Ay, Sophia! Nos consientes cada vez que pasas por la biblioteca."
+            }
+          ]
+        },
+        {
+          "id": "sve_sop_pen_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "How is orchard pruning wrapping up at Blue Moon Vineyard?",
+              "es": "Como va la poda de vides en Vinedo Luna Azul?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Cosy work with headphones on and sunny vines blooming!",
+              "es": "Trabajo tranquilo con musica puesta y las vides soleadas abriendo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Sophia",
+      "npcB": "Haley",
+      "conversations": [
+        {
+          "id": "sve_sop_hal_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Haley!! Your colorful summer skirts looked so cute near the pier!!",
+              "es": "Haley!! Tus faldas coloridas de verano lucian preciosas por el muelle!!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Aww, thanks Sophia!! And your cosplays seriously inspire crazy bold lighting ideas!",
+              "es": "Ay, gracias Sophia!! Y tus cosplays inspiran ideas geniales de fotografia!"
+            }
+          ]
+        },
+        {
+          "id": "sve_sop_hal_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Should we trade sunset vineyard shots next sunny weekend?",
+              "es": "Hacemos sesion de fotos en el vinedo al atardecer el proximo fin de semana?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Yaaas! Bringing sparkling grape cider!",
+              "es": "Siii! Llevo sidra espumosa de uva!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Victor",
+      "npcB": "Sebastian",
+      "conversations": [
+        {
+          "id": "sve_vic_seb_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Ever read up on bridge suspension math over midnight coffee, Sebastian?",
+              "es": "Alguna vez lees calculos de puentes colgantes con cafe a medianoche, Sebastian?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Not bridges—mostly game server loops. Same quiet vibe though.",
+              "es": "Puentes no—sobre todo servidores y codigo. Pero mismo ambiente nocturno."
+            }
+          ]
+        },
+        {
+          "id": "sve_vic_seb_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Up for pool behind Gus's piano once crowd clears out?",
+              "es": "Te apuntas al billar tras el piano donde Gus cuando baje el ruido?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Count me in, man.",
+              "es": "Cuenta conmigo, amigo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Olivia",
+      "npcB": "Caroline",
+      "conversations": [
+        {
+          "id": "sve_oli_car_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Your jasmine tea pairing outshone half the Zuzu City tearooms, Caroline.",
+              "es": "Tu maridaje de te con jazmin supero a medio Zuzu City, Caroline."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Coming from someone with fine city palate, what a warm compliment, Olivia!",
+              "es": "Viniendo de alguien con paladar tan fino, que gran cumplido, Olivia!"
+            }
+          ]
+        },
+        {
+          "id": "sve_oli_car_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Come share sunroom stories whenever rain keeps you indoors.",
+              "es": "Ven a charlar al invernadero cuando la lluvia te deje bajo techo."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Delightful. Bringing aged plum reserves!",
+              "es": "Encantada. Llevo reserva de ciruela!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Lance",
+      "npcB": "Abigail",
+      "conversations": [
+        {
+          "id": "sve_lan_abi_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 16,
+              "en": "Whoa, Lance—your enchanted saber edge shimmers azure even indoors!",
+              "es": "Guau, Lance—el filo de tu sable encantado brilla azul hasta bajo techo!"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Balanced steel answers steady spirit, Abigail. Keep practicing crisp footwork.",
+              "es": "El acero equilibrado responde a un espiritu firme, Abigail. Sigue practicando pasos."
+            }
+          ]
+        },
+        {
+          "id": "sve_lan_abi_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Should strange monsters stir near highlands mist, alert the Guild immediately.",
+              "es": "Si notas criaturas extranas cerca de la niebla alta, avisa al gremio enseguida."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Steel and quartz packed ready!",
+              "es": "Acero y cuarzo siempre listos!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Andy",
+      "npcB": "Willy",
+      "conversations": [
+        {
+          "id": "sve_and_wil_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Caught fat river catfish down below Fairhaven shore yesterday, Willy!",
+              "es": "Pesque un bagre gordo alla en la ribera de Fairhaven ayer, Willy!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Good honest country eating, Andy! Fry 'em crisp in cornmeal.",
+              "es": "Comida honesta del campo, Andy! Frielos crujientes con harina de maiz."
+            }
+          ]
+        },
+        {
+          "id": "sve_and_wil_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Weather looks dry clear through Friday—good planting & fishing weather.",
+              "es": "El tiempo pinta despejado hasta el viernes—buena semana para siembra y pesca."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Amen to honest valley skies!",
+              "es": "Amen por los cielos buenos del valle!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Susan",
+      "npcB": "Leah",
+      "conversations": [
+        {
+          "id": "sve_sus_lea_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Leah!! Trimmed crisp cherry apple wood limbs if your chisel needs fresh grain!",
+              "es": "Leah!! Pode ramas firmes de manzano por si tu formon quiere veta nueva!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Oh, Susan!! Orchard hardwood smells sweeter than forest cedar!",
+              "es": "Oh, Susan!! La madera de manzano huele mas dulce que el cedro del bosque!"
+            }
+          ]
+        },
+        {
+          "id": "sve_sus_lea_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Saving cold wild goat cheese for your pie baking weekend.",
+              "es": "Guardando queso fresco de cabra para tu fin de semana de tartas."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Best barter around northern railway!",
+              "es": "El mejor trueque de todo el ferrocarril norte!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Scarlett",
+      "npcB": "Haley",
+      "conversations": [
+        {
+          "id": "sve_sca_hal_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Haley!! Your garden sunflowers sparkle clear down from road entrance!",
+              "es": "Haley!! Tus girasoles brillan desde la mismisima entrada del camino!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Thanks, Scarlett!! Wait until I catch morning dew sparkles on macro lens.",
+              "es": "Gracias, Scarlett!! Espera a fotografiar las gotas de rocio de cerca."
+            }
+          ]
+        },
+        {
+          "id": "sve_sca_hal_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Stop by Grampleton fashion booth gossip later?",
+              "es": "Pasamos luego a comentar novedades de moda por el pueblo?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Yes!! Bringing strawberry lemonade!",
+              "es": "Siii!! Llevo limonada de fresa!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Martin",
+      "npcB": "Sam",
+      "conversations": [
+        {
+          "id": "sve_mar_sam_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Still cramming late acoustic riffs between Joja box shifts, Sam?",
+              "es": "Sigues practicando acordes acusticos entre cajas del turno, Sam?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Wait till you hear our bridge breakdown—crushes midterms stress fast!",
+              "es": "Espera a oir el puente nuevo de la cancion—quita el estres de golpe!"
+            }
+          ]
+        },
+        {
+          "id": "sve_mar_sam_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Hang in there with studying this week, buddy.",
+              "es": "Animo con los estudios esta semana, amigo."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Thanks man—nearly past finals!",
+              "es": "Gracias amigo—casi acabamos finales!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Apples",
+      "npcB": "Leo",
+      "conversations": [
+        {
+          "id": "sve_app_leo_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Starfruit chirps greet small forest friend!",
+              "es": "Saludos chirriantes de fruta estelar para el pequeno amigo del bosque!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Ooh!! Star-berry Junimo!! Shiny green feathers match mountain birds!",
+              "es": "Ooh!! Junimo estrella!! Brillas igual de alegre que los pajaritos verdes de la isla!"
+            }
+          ]
+        },
+        {
+          "id": "sve_app_leo_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Sweet starberry seeds always share sunshine.",
+              "es": "Las semillas dulces siempre comparten sol."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Happy dancing together in warm orchards!",
+              "es": "Bailando felices entre los huertos tibios!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Camilla",
+      "npcB": "Wizard",
+      "conversations": [
+        {
+          "id": "sve_cam_wiz_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Still hoarding dusty grimoires above your gloomy spiral staircase, Rasmodius?",
+              "es": "Sigues acumulando grimorios polvorientos arriba de esa escalera oscura, Rasmodius?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Disciplined study outlasts theatrical flair every century, Camilla.",
+              "es": "El estudio disciplinado siempre sobrevive al espectaculo superficial, Camilla."
+            }
+          ]
+        },
+        {
+          "id": "sve_cam_wiz_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "What stirs Castle Village scouts southward today?",
+              "es": "Que trae hacia el sur hoy a las noticias de Aldea Castillo?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Calm seas and curious wards—nothing beyond routine inspection.",
+              "es": "Mares calmos y sellos estables—rutina habitual solamente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "GuntherSilvian",
+      "npcB": "Penny",
+      "conversations": [
+        {
+          "id": "sve_gun_pen_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Thank you for sorting dusty mineral labels cleanly before kids visit, Penny.",
+              "es": "Gracias por ordenar limpias las etiquetas minerales antes de la visita escolar, Penny."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Happy helping preserve valley stories right where young eyes shine!",
+              "es": "Encantada de cuidar las historias del valle donde brillan los ojos pequenos!"
+            }
+          ]
+        },
+        {
+          "id": "sve_gun_pen_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Notice any bright crystal fossils freshly donated this moon?",
+              "es": "Notaste algun fosil cristalino donado recientemente?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Display shelf four gleams proudly!",
+              "es": "La vitrina cuatro reluce orgullosa!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pools": {}
+}

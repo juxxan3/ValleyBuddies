@@ -1,0 +1,1085 @@
+{
+  "pairs": [
+    {
+      "npcA": "Ian",
+      "npcB": "Kenneth",
+      "conversations": [
+        {
+          "id": "rsv_ian_ken_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Need another extra pair of hands lifting cable spools up by the ridge?",
+              "es": "Necesitas otro par de manos subiendo carretes de cable arriba por la colina?"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Only if you let me fix that squeaky hinge on Odd Jobs' front door afterward!",
+              "es": "Solo si me dejas arreglar esa bisagra chillona en la puerta de Odd Jobs despues!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Deal! Best handyman teamwork on Ridgeside mountain.",
+              "es": "Trato hecho! El mejor equipo de arreglos de toda la montana."
+            }
+          ]
+        },
+        {
+          "id": "rsv_ian_ken_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Coffee break at Pika's diner after wiring these lamps?",
+              "es": "Pausa para cafe en el local de Pika despues de cablear estas farolas?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Make mine double espresso and we move at lightning speed.",
+              "es": "El mio espresso doble y volamos con esto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Jeric",
+      "npcB": "Flor",
+      "conversations": [
+        {
+          "id": "rsv_jer_flo_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Look at those mountain blossoms opening right behind the clinic steps, Flor!",
+              "es": "Mira esas flores de montana abriendo justo tras los escalones de la clinica, Flor!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "They brighten every afternoon! Thank you for leaving a bouquet earlier, Jeric.",
+              "es": "Iluminan toda la tarde! Gracias por dejar un ramo hace rato, Jeric."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Good farm neighbors share morning color cleanly.",
+              "es": "Los buenos vecinos granjeros siempre comparten color por la manana."
+            }
+          ]
+        },
+        {
+          "id": "rsv_jer_flo_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Are your new radish beds loving the misty mountain air?",
+              "es": "Les sienta bien el aire humedo de la montana a tus nuevos surcos de rabanos?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Crisp and bright red—save room for dinner baskets Friday!",
+              "es": "Crujientes y rojos brillantes—guarda espacio para la canasta del viernes!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Corine",
+      "npcB": "Maddie",
+      "conversations": [
+        {
+          "id": "rsv_cor_mad_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Wait—did you finish organizing twelve crates of valley research jars before lunch?",
+              "es": "Espera—terminaste de ordenar doce cajas de frascos de investigacion antes del almuerzo?"
+            },
+            {
+              "speaker": "B",
+              "emote": 28,
+              "en": "Thirteen, technically! If someone touches my label order, I am hiding the ink.",
+              "es": "Trece, tecnicamente! Si alguien desordena mis etiquetas, escondo la tinta."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Zero clutter guaranteed—plus here is warm jasmine tea!",
+              "es": "Cero desorden garantizado—ademas aqui tienes te tibio de jazmin!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_cor_mad_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Want to watch sunset clouds settle below Ridgeside stairs later?",
+              "es": "Quieres ver las nubes del ocaso asentarse bajo las escaleras de Ridgeside luego?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Always, Maddie! Best quiet wind-down spot in the hills.",
+              "es": "Siempre, Maddie! El mejor rincón tranquilo para relajarse en la colina."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Alissa",
+      "npcB": "Lenny",
+      "conversations": [
+        {
+          "id": "rsv_ali_len_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 56,
+              "en": "Humming fresh harmony verses while greeting guests at Log Cabin Hotel!",
+              "es": "Tarareando versos nuevos al recibir huespedes en el Hotel Cabana de Troncos!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Your singing lifts every corner of town square, Alissa!",
+              "es": "Tu canto alegra cada rincon de la plaza del pueblo, Alissa!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Wait until Sunday rehearsal—even Pika was tapping his spatula!",
+              "es": "Espera al ensayo del domingo—hasta Pika seguia el ritmo con su espatula!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_ali_len_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Guests kept asking which orchard produces such sweet honey preserves.",
+              "es": "Los viajeros preguntaban que huerto produce mermelada tan dulce."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Wait until they taste warm scones at noon!",
+              "es": "Espera a que prueben los bollos calientes al mediodia!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Shiro",
+      "npcB": "Yuuma",
+      "conversations": [
+        {
+          "id": "rsv_shi_yuu_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Did you wrap your scarf tight before chasing fireflies near the bridge, Yuuma?",
+              "es": "Te abrigaste bien la bufanda antes de perseguir luciernagas por el puente, Yuuma?"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Yes, big brother! Look—I found two acorn caps shaped like helmets!",
+              "es": "Si, hermano mayor! Mira—encontre dos casquitos de bellota como sombreros!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Awesome find! Let us put them gently on the shelf back home.",
+              "es": "Gran hallazgo! Pongamoslos con cuidado en el estante de casa."
+            }
+          ]
+        },
+        {
+          "id": "rsv_shi_yuu_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Can we eat spicy curry buns at Pika's tonight?",
+              "es": "Podemos cenar panecillos calientes en el local de Pika esta noche?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Deal! As long as you finish your carrot slices first.",
+              "es": "Trato hecho! Mientras te acabes primero las rodajas de zanahoria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Philip",
+      "npcB": "Daia",
+      "conversations": [
+        {
+          "id": "rsv_phi_dai_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 28,
+              "en": "Please tell me you did not sprint past cliff ledges without checking footing again.",
+              "es": "Por favor dime que no volviste a correr por los riscos sin mirar donde pisabas."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Ninja agility! Not a single scratch, Doctor!",
+              "es": "Agilidad ninja! Ni un solo rasguño, Doctor!"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "My clinic bandages appreciate your confidence—still, stay safe out there.",
+              "es": "Las vendas de mi clinica agradecen tu confianza—aun asi cuidate mucho."
+            }
+          ]
+        },
+        {
+          "id": "rsv_phi_dai_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Found strange indigo berries up the trail—edible or strictly research?",
+              "es": "Halle bayas indigo raras por el sendero—comestibles o solo de estudio?"
+            },
+            {
+              "speaker": "A",
+              "emote": 16,
+              "en": "Strictly clinic lab first! Hands off until we run checks.",
+              "es": "Al laboratorio de la clinica primero! Manos quietas hasta revisarlas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Jio",
+      "npcB": "Daia",
+      "conversations": [
+        {
+          "id": "rsv_jio_dai_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "The mist hanging over the enchanted grove stayed silent before noon.",
+              "es": "La niebla sobre la arboleda encantada permanecio silenciosa antes del mediodia."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Leaves only shimmered when the wind turned eastward, Jio.",
+              "es": "Las hojas solo brillaron cuando el viento giro hacia el este, Jio."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Good. Vigilance keeps both worlds balanced.",
+              "es": "Bien. La vigilancia mantiene ambos mundos en equilibrio."
+            }
+          ]
+        },
+        {
+          "id": "rsv_jio_dai_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Should we inspect the northern seal again at moonrise?",
+              "es": "Inspeccionamos otra vez el sello del norte al salir la luna?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Meet beside the stone arch. Quiet steps.",
+              "es": "Nos vemos junto al arco de piedra. Paso sigiloso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Philip",
+      "npcB": "Harvey",
+      "conversations": [
+        {
+          "id": "rsv_phi_har_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "How did those cold-press winter cough herbs hold up down in town, Harvey?",
+              "es": "Como funcionaron aquellas hierbas contra la tos alla abajo en el pueblo, Harvey?"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Worked like a charm! Ridgeside botanicals truly beat city capsules.",
+              "es": "De maravilla! La botanica de Ridgeside supera las capsulas de ciudad."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Always happy sharing clinic notes between neighboring valleys!",
+              "es": "Siempre un placer compartir notas medicas entre valles vecinos!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_phi_har_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Remind skiers to wrap wrists—zero winter sprains is my goal.",
+              "es": "Recuerda a la gente vendar munecas en invierno—cero esguinces es mi meta."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Already taped two reminders right onto the clinic door.",
+              "es": "Ya pegue dos avisos justo en la puerta de la clinica."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Flor",
+      "npcB": "Penny",
+      "conversations": [
+        {
+          "id": "rsv_flo_pen_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "I loved reading the illustrated botany tales you lent from Pelican Museum, Penny!",
+              "es": "Me encanto leer los cuentos ilustrados de botanica que me prestaste, Penny!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Wait until Trinnie sees how carefully you pressed meadow flowers inside!",
+              "es": "Espera a que Trinnie vea con que cuidado prensaste flores de pradera dentro!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Teachers looking out for mountain and valley kids alike—the best company.",
+              "es": "Maestras cuidando ninos tanto de la colina como del valle—la mejor compania."
+            }
+          ]
+        },
+        {
+          "id": "rsv_flo_pen_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Fancy tea on the town fountain bench next sunny Wednesday?",
+              "es": "Te apetece un te en el banco de la fuente el proximo miercoles soleado?"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Nothing I would love more, Penny!",
+              "es": "Nada me gustaria mas, Penny!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Maddie",
+      "npcB": "Maru",
+      "conversations": [
+        {
+          "id": "rsv_mad_mar_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Maru! Did your servo-arm wiring handle humid mountain mornings cleanly?",
+              "es": "Maru! Tu cableado de brazo mecanico aguanto bien las mananas humedas de montana?"
+            },
+            {
+              "speaker": "B",
+              "emote": 16,
+              "en": "Yes!! Coating copper leads in beeswax solved the static completely!",
+              "es": "Si!! Cubrir los cables de cobre con cera de abeja quito toda la estatica!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Brilliant fix! Wait until we test crystal telemetry next!",
+              "es": "Solucion brillante! Espera a probar telemetria con cristales despues!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_mad_mar_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Save me two fresh reagent slides next time you scan river minerals.",
+              "es": "Guardame dos muestras frescas la proxima vez que analices minerales del rio."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Already labeled in my top lab tray for you!",
+              "es": "Ya etiquetadas en mi bandeja principal del laboratorio para ti!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Yuuma",
+      "npcB": "Trinnie",
+      "conversations": [
+        {
+          "id": "rsv_yuu_tri_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 16,
+              "en": "Yuuma! Race you up the cable-car steps—last one counts fifty pinecones!",
+              "es": "Yuuma! Carrera hasta las escaleras del teleferico—el ultimo cuenta cincuenta pinas!"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Hey, no fair getting a head start, Trinnie! Wait for me!",
+              "es": "Oye, no vale arrancar con ventaja, Trinnie! Esperame!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Haha, okay! We can share the pine cones together anyway!",
+              "es": "Jaja, vale! Igual podemos contar las pinas juntos despues!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_yuu_tri_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 8,
+              "en": "Think Pika lets us watch him flip giant pancakes again today?",
+              "es": "Crees que Pika nos deje verlo voltear panqueques gigantes hoy otra vez?"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Yes! If we sit quietly at the end stools like champs!",
+              "es": "Si! Si nos sentamos calladitos en los taburetes de la esquina como campeones!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Ian",
+      "npcB": "Robin",
+      "conversations": [
+        {
+          "id": "rsv_ian_rob_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Picked up cedar beams from your sawmill yesterday—straightest grain I have seen!",
+              "es": "Recogi vigas de cedro de tu aserradero ayer—la veta mas recta que he visto!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Only season the finest timber up here, Ian! Odd Jobs keeps everyone happy.",
+              "es": "Aqui arriba solo curamos madera de primera, Ian! Odd Jobs mantiene contento a todo el pueblo."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Shout whenever your workshop needs extra rafters hoisted.",
+              "es": "Avisa cuando tu taller necesite levantar vigas extra."
+            }
+          ]
+        },
+        {
+          "id": "rsv_ian_rob_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "How are those mountain cableway pulleys holding up in rain?",
+              "es": "Como aguantan las poleas del teleferico con la lluvia?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Oiled twice a week—smooth as spring butter.",
+              "es": "Engrasadas dos veces por semana—suaves como mantequilla."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Pika",
+      "npcB": "Gus",
+      "conversations": [
+        {
+          "id": "rsv_pik_gus_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Wait till you taste how smoky grilled mountain spices meld with garlic oil, Gus!",
+              "es": "Espera a probar como combinan mis especias ahumadas con aceite de ajo, Gus!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Chefs sharing secret pantry swaps between ridge and square—pure magic, Pika!",
+              "es": "Cocineros intercambiando secretos de despensa entre colina y plaza—pura magia, Pika!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_pik_gus_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Save a ladle of golden gravy for busy festival Sundays.",
+              "es": "Guarda un cazo de salsa dorada para los domingos de feria."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Always simmering warm, friend!",
+              "es": "Siempre a fuego lento, amigo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Kiarra",
+      "npcB": "Haley",
+      "conversations": [
+        {
+          "id": "rsv_kia_hal_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Ooh!! Wait—did you dye that linen blouse yourself or buy from Zuzu City?!",
+              "es": "Ooh!! Oye—teniste tu esa blusa de lino o la trajiste de Ciudad Zuzu?!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Emily stitched custom seams! Wait until we explore Ridgeside boutique fabrics.",
+              "es": "Emily cosio los detalles! Espera a ver telas de la boutique de Ridgeside."
+            }
+          ]
+        },
+        {
+          "id": "rsv_kia_hal_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Golden twilight photos along Ridgeside stairs turn out unreal.",
+              "es": "Las fotos al atardecer en las escaleras de Ridgeside salen irreales."
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Total postcard spot!!",
+              "es": "Lugar total de postal!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Blair",
+      "npcB": "Willy",
+      "conversations": [
+        {
+          "id": "rsv_bla_wil_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Caught lively mountain stream trout snapping clean off fly spoons this morning, Willy!",
+              "es": "Atrape truchas vivas de arroyo mordiendo limpio senuelos de mosca esta manana, Willy!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Fast cold rapids raise fighters, Blair! Watch shallow mossy ledges.",
+              "es": "Las corrientes frias crian luchadoras, Blair! Cuida los salientes con musgo."
+            }
+          ]
+        },
+        {
+          "id": "rsv_bla_wil_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Should share salted bait boxes whenever sea storms drive shoreward.",
+              "es": "Compartimos carnada salada cuando la tormenta empuje hacia la costa."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Count me in anytime, Captain!",
+              "es": "Cuenta conmigo cuando sea, capitan!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Faye",
+      "npcB": "Emily",
+      "conversations": [
+        {
+          "id": "rsv_fay_emi_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Look at how silk thread shimmers crisp coral under valley sunlight, Emily!",
+              "es": "Mira como brilla el hilo de seda coral bajo el sol del valle, Emily!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Dreamy weave! Ridgeside patterns and Pelican looms make stunning pairs.",
+              "es": "Tejido de sueno! Disenos de Ridgeside y telares del pueblo hacen pareja perfecta."
+            }
+          ]
+        },
+        {
+          "id": "rsv_fay_emi_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Bring sketches over Tuesday afternoon after aerobics!",
+              "es": "Trae bocetos el martes tras los aerobicos!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Wait—bringing berry pastries too!",
+              "es": "Siii—y llevo pastelitos de bayas tambien!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Ysabelle",
+      "npcB": "Sam",
+      "conversations": [
+        {
+          "id": "rsv_ysa_sam_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Ever tried matching electric drum beats with fast classical footwork?",
+              "es": "Alguna vez probaste mezclar ritmos electricos con danza clasica rapida?"
+            },
+            {
+              "speaker": "B",
+              "emote": 16,
+              "en": "Whoa—crossover concert up on cable stage would shake mountain trees!",
+              "es": "Guau—un concierto fusion en la colina haria vibrar hasta los pinos!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_ysa_sam_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Good stretching tips save sore wrists before gigs too.",
+              "es": "Tus consejos de estiramiento salvan munecas cansadas antes de tocar tambien."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Grace meets rock energy cleanly!",
+              "es": "Elegancia unida a buena energia!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Kenneth",
+      "npcB": "Maru",
+      "conversations": [
+        {
+          "id": "rsv_ken_mar_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Did those cableway voltage regulators hold smooth curves all monsoon week, Maru?",
+              "es": "Mantuvieron estables las curvas de voltaje del teleferico toda la lluvia, Maru?"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Steady within two millivolts! Grounding mountain lines pays off big.",
+              "es": "Estables dentro de dos milivoltios! Conectar bien la tierra en montana rinde frutos."
+            }
+          ]
+        },
+        {
+          "id": "rsv_ken_mar_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Swap copper relay spares whenever clinic radio boosts?",
+              "es": "Cambiamos reles de cobre cuando ampliemos la antena de la clinica?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Workshop door stands wide open for you anytime!",
+              "es": "Mi taller siempre tiene las puertas abiertas para ti!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Ezekiel",
+      "npcB": "Kent",
+      "conversations": [
+        {
+          "id": "rsv_eze_ken_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Good seeing calm footsteps back on green grass beneath mountain pines, Kent.",
+              "es": "Que bueno ver pasos serenos de vuelta sobre hierba verde bajo pinos, Kent."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Respect, Ezekiel. Quiet valleys hold medicine no hospital carries.",
+              "es": "Mis respetos, Ezekiel. Los valles tranquilos guardan medicina que ningun hospital tiene."
+            }
+          ]
+        },
+        {
+          "id": "rsv_eze_ken_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Share stories around warm tea someday soon.",
+              "es": "Compartamos charla con te caliente pronto."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Anytime, soldier.",
+              "es": "Cuando gustes, camarada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Corine",
+      "npcB": "Abigail",
+      "conversations": [
+        {
+          "id": "rsv_cor_abi_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Wait—did you actually bring glowing cave mushrooms straight into town picnic?!",
+              "es": "Espera—de verdad llevaste setas brillantes de cueva directo al picnic del pueblo?!"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Natural nightlight! Beats fumbling flashlight batteries after sunset.",
+              "es": "Linterna natural! Gana a buscar pilas en la oscuridad tras el ocaso."
+            }
+          ]
+        },
+        {
+          "id": "rsv_cor_abi_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Come hike pine cliff trails once homework wraps up!",
+              "es": "Ven a explorar los senderos del risco cuando acabes deberes!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Deal!!",
+              "es": "Trato!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Jeric",
+      "npcB": "Alex",
+      "conversations": [
+        {
+          "id": "rsv_jer_ale_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Carrying heavy mountain feed sacks works shoulders cleaner than gym bells, Alex!",
+              "es": "Cargar sacos pesados de grano en colina entrena hombros mejor que pesas de gimnasio, Alex!"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Throw me two hay bales at dawn—see who stacks faster!",
+              "es": "Tirame dos pacas de heno al alba y vemos quien apila mas rapido!"
+            }
+          ]
+        },
+        {
+          "id": "rsv_jer_ale_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Respect real farm hustle, buddy.",
+              "es": "Mis respetos por el trabajo duro de granja, amigo."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Strong arms feed whole town cleanly!",
+              "es": "Brazos fuertes alimentan a todo el pueblo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Anton",
+      "npcB": "Paula",
+      "conversations": [
+        {
+          "id": "rsv_ant_pau_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Evening tea stays warm by clinic pantry whenever long rounds finish.",
+              "es": "El te vespertino se mantiene tibio en la clinica cuando acabes tus rondas."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Thoughtful as ever, Anton—steady shifts go easier side by side.",
+              "es": "Considerado como siempre, Anton—los turnos pasan mas ligeros lado a lado."
+            }
+          ]
+        },
+        {
+          "id": "rsv_ant_pau_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 8,
+              "en": "Check rain boots before heading down steps tonight?",
+              "es": "Revisaste botas de lluvia antes de bajar los escalones hoy?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Right by doorway!",
+              "es": "Justo junto a la entrada!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Naomi",
+      "npcB": "Jodi",
+      "conversations": [
+        {
+          "id": "rsv_nao_jod_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Always appreciate warm kitchen talk across families, Jodi!",
+              "es": "Siempre agradezco charlar a gusto de cocina entre madres, Jodi!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Raising lively kids in mountain towns takes good neighborly laughter.",
+              "es": "Criar hijos inquietos en pueblos de montana pide muchas risas entre vecinas."
+            }
+          ]
+        },
+        {
+          "id": "rsv_nao_jod_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Bring sweet pumpkin biscuits next Sunday!",
+              "es": "Llevo galletas dulces de calabaza el proximo domingo!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Kettle awaits!",
+              "es": "La tetera os espera!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Torts",
+      "npcB": "Krobus",
+      "conversations": [
+        {
+          "id": "rsv_tor_kro_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Smooth moss stone cools ancient turtle shell quietly down by river bend.",
+              "es": "La piedra lisa con musgo refresca tranquilo mi viejo caparazon junto al rio."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Peaceful water echoes kindly all the way below town pipes too, elder.",
+              "es": "El agua en paz resuena amable hasta debajo de las tuberias tambien, anciano."
+            }
+          ]
+        },
+        {
+          "id": "rsv_tor_kro_2",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Slow steps keep centuries calm.",
+              "es": "Pasos calmos mantienen tranquilos los siglos."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Wise shadow friend.",
+              "es": "Sabio amigo de las sombras."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pools": {}
+}

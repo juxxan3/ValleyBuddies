@@ -1,0 +1,25 @@
+{
+  "Name": "Valley Buddies",
+  "Author": "Juxxan",
+  "Version": "5.7.2",
+  "Description": "Recruit villagers as farm companions, camp outdoors, host sleepovers, and coordinate in multiplayer. Works 100% standalone with optional AliveNpcs AI integration.",
+  "UniqueID": "Juxxan.ValleyBuddies",
+  "EntryDll": "ValleyBuddies.dll",
+  "MinimumApiVersion": "4.0.0",
+  "MinimumGameVersion": "1.6.0",
+  "UpdateKeys": [
+    "Nexus:55767"
+  ],
+  "Dependencies": [
+    {
+      "UniqueID": "Lucas.AliveNpcs",
+      "MinimumVersion": "1.5.4",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "MinimumVersion": "1.6.0",
+      "IsRequired": false
+    }
+  ]
+}

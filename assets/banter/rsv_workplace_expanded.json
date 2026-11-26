@@ -1,0 +1,185 @@
+{
+  "pairs": [
+    {
+      "npcA": "Philip",
+      "npcB": "Harvey",
+      "conversations": [
+        {
+          "id": "rsv_wb_philip_harvey_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Steep mountain staircases keep Ridgeside calves healthy... though tricky in winter ice!",
+              "es": "Escaleras empinadas fortalecen piernas... aunque en hielo invernal piden cuidado!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Between clinic downstairs and mountain calls uphill, Pelican Valley stays thoroughly cared for!",
+              "es": "Entre clinica abajo y rondas arriba, todo el valle queda bien atendido!"
+            }
+          ],
+          "locations": [
+            "Hospital",
+            "Town"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Ian",
+      "npcB": "Robin",
+      "conversations": [
+        {
+          "id": "rsv_wb_ian_robin_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Learned half my cleanest dovetail cuts watching your mountain mill, Robin!",
+              "es": "Aprendi la mitad de mis ensambles viendo tu taller, Robin!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "And you never cut corners fixing neighbor fences, Ian! Solid craftsmanship runs both ways!",
+              "es": "Y tu nunca escatimas arreglando cercas vecinas, Ian! Excelente oficio!"
+            }
+          ],
+          "locations": [
+            "ScienceHouse",
+            "Mountain",
+            "Town"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Pika",
+      "npcB": "Anton",
+      "conversations": [
+        {
+          "id": "rsv_wb_pika_anton_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Extra smoky ginger glaze makes tonight's mountain roast shine bright, Anton!",
+              "es": "Glaseado ahumado de jengibre hace brillar el asado hoy, Anton!"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Balanced salt beats overpowering sauces every evening—let guests decide cleanly!",
+              "es": "Sal equilibrada vence salsas pesadas cada noche... que decida la mesa!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "June",
+      "npcB": "Alissa",
+      "conversations": [
+        {
+          "id": "rsv_wb_june_alissa_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 56,
+              "en": "Try softening the bridge cadence gently in F-major next concert, Alissa!",
+              "es": "Prueba suavizar el puente en Fa mayor en el proximo recital, Alissa!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Ooh, crystal light shimmer right on that third note! Perfect acoustic match!",
+              "es": "Ooh, brillo limpio justo en esa tercera nota! Armonia perfecta!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Keahi",
+      "npcB": "Trinnie",
+      "conversations": [
+        {
+          "id": "rsv_wb_keahi_trinnie_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Bet three pinecones my mud puddle splash cleared six feet today!",
+              "es": "Apuesto tres pinas a que mi salto de charco cruzo dos metros hoy!"
+            },
+            {
+              "speaker": "B",
+              "emote": 28,
+              "en": "Ew! Keep splash mud completely away from my lavender bow, Keahi!!",
+              "es": "Guacala! Manten ese barro lejos de mi moño lavanda, Keahi!!"
+            }
+          ],
+          "weather": [
+            "rain",
+            "storm"
+          ]
+        }
+      ]
+    }
+  ],
+  "pools": {
+    "hospital": [
+      {
+        "id": "pool_rsv_hosp_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Ridgeside herbal poultices blend cleanly with Harvey's clinic salves!",
+            "es": "Emplastos de Ridgeside combinan genial con unguentos de Harvey!"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Good neighbors share healing knowledge freely uphill and down!",
+            "es": "Buenos vecinos comparten remedios sin reservas arriba y abajo del monte!"
+          }
+        ],
+        "locations": [
+          "Hospital"
+        ]
+      }
+    ],
+    "storm": [
+      {
+        "id": "pool_rsv_storm_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 28,
+            "en": "Thunder echoes loud down Ridgeside waterfall gorges tonight!",
+            "es": "Truenos resuenan fuerte por gargantas de cascadas hoy!"
+          },
+          {
+            "speaker": "B",
+            "emote": 32,
+            "en": "Stay safely sheltered inside warm cedar walls till gusts pass!",
+            "es": "Resguardate bajo techos calidos hasta que pase el temporal!"
+          }
+        ],
+        "weather": [
+          "storm"
+        ]
+      }
+    ]
+  }
+}

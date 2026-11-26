@@ -1,0 +1,222 @@
+{
+  "pairs": [
+    {
+      "npcA": "Claire",
+      "npcB": "Shane",
+      "conversations": [
+        {
+          "id": "sve_wb_claire_shane_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Two more crates of sparkling soda on aisle two and break bell rings, Shane!",
+              "es": "Dos cajas mas en pasillo dos y suena la campana de descanso, Shane!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Counting down every ticking second, Claire. Frozen pizza awaits at home!",
+              "es": "Contando cada segundo, Claire. Pizza congelada espera en casa!"
+            }
+          ],
+          "locations": [
+            "JojaMart"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Claire",
+      "npcB": "Morris",
+      "conversations": [
+        {
+          "id": "sve_wb_claire_morris_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Registers balanced down to every crisp bronze coin today, Morris!",
+              "es": "Cajas cuadradas hasta la ultima moneda de bronce hoy, Morris!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Impeccable diligence as always, Claire! Exemplary front-counter form.",
+              "es": "Diligencia impecable como siempre, Claire! Gran ejemplo en mostrador."
+            }
+          ],
+          "locations": [
+            "JojaMart"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Claire",
+      "npcB": "MorrisTod",
+      "conversations": [
+        {
+          "id": "sve_wb_claire_morristod_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Registers balanced down to every crisp bronze coin today, Morris!",
+              "es": "Cajas cuadradas hasta la ultima moneda de bronce hoy, Morris!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Impeccable diligence as always, Claire! Exemplary front-counter form.",
+              "es": "Diligencia impecable como siempre, Claire! Gran ejemplo en mostrador."
+            }
+          ],
+          "locations": [
+            "JojaMart"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Martin",
+      "npcB": "MorrisTod",
+      "conversations": [
+        {
+          "id": "sve_wb_martin_morristod_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Stock shelves neatly rotated oldest forward, Mr. Morris!",
+              "es": "Estantes rotados con cuidado dejando fechas anteriores al frente, Sr. Morris!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Splendid shelf symmetry, Martin! Keep studying cleanly past clock-out.",
+              "es": "Simetria esplendida, Martin! Sigue estudiando firme al salir."
+            }
+          ],
+          "locations": [
+            "JojaMart"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Sophia",
+      "npcB": "Scarlett",
+      "conversations": [
+        {
+          "id": "sve_wb_sophia_scarlett_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Wait—let's mix sweet fairy-rose pigment with crushed grape skins on canvas, Scarlett!",
+              "es": "Oye... mezclemos pigmento de rosa hada con piel de uva en lienzo, Scarlett!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Ooh genius!! Deep violet twilight shades straight off Blue Moon hills!",
+              "es": "Ooh genial!! Tonos violeta profundos directo de colinas de Luna Azul!"
+            }
+          ],
+          "locations": [
+            "BlueMoonVineyard",
+            "Town",
+            "Forest"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "MarlonFay",
+      "npcB": "Isaac",
+      "conversations": [
+        {
+          "id": "sve_wb_marlon_isaac_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Never underestimate silent shadow lurkers inside Castle ruins, Isaac.",
+              "es": "Jamas subestimes sombras silenciosas dentro de ruinas del Castillo, Isaac."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Vigilance never sleeps beside steady Guild brothers, Marlon!",
+              "es": "La vigilancia nunca duerme junto a hermanos firmes del Gremio, Marlon!"
+            }
+          ],
+          "locations": [
+            "AdventureGuild",
+            "Mountain"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Camilla",
+      "npcB": "Wizard",
+      "conversations": [
+        {
+          "id": "sve_wb_camilla_wiz_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Atmospheric resonance swells keenly across valley fog today, Razmodius.",
+              "es": "La resonancia atmosferica crece fuerte entre brumas hoy, Razmodius."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Observe storm borders attentively, Camilla—rare reagents ripen swiftly tonight.",
+              "es": "Observa los lindes de tormenta, Camilla... raros reactivos maduran hoy."
+            }
+          ],
+          "weather": [
+            "storm",
+            "green_rain"
+          ]
+        }
+      ]
+    }
+  ],
+  "pools": {
+    "jojamart": [
+      {
+        "id": "pool_sve_joja_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Claire and Martin somehow keep even huge chain aisles welcoming!",
+            "es": "Claire y Martin logran hacer acogedor hasta un supermercado grande!"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Friendly valley smiles brighten fluorescent aisles effortlessly!",
+            "es": "Sonrisas locales iluminan cualquier pasillo comercial al instante!"
+          }
+        ],
+        "locations": [
+          "JojaMart"
+        ]
+      }
+    ]
+  }
+}

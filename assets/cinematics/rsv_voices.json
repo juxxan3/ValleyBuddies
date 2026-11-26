@@ -1,0 +1,1869 @@
+{
+  "Alissa": {
+    "Opening": {
+      "en": "Every breeze through the ridge feels like a sweet chorus ready to sing alongside you, {{playerName}}!",
+      "es": "¡Cada brisa que baja por la colina suena como una melodía dulce para cantar contigo, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Singing in Ridgeside fills the valley with joy, and peaceful walks like this inspire my clearest notes.",
+      "es": "Cantar en Ridgeside llena de alegría el lugar, y pasear contigo inspira mis notas más puras."
+    },
+    "Story2": {
+      "en": "When acoustic echoes bounce off the cable car cliffside at sunrise, it turns the whole ridge into an amphitheater.",
+      "es": "Cuando el eco de la montaña responde al amanecer, toda la colina se vuelve un escenario mágico."
+    },
+    "Romance": {
+      "en": "You are the sweetest harmony my heart has ever learned to sing, {{playerName}}.",
+      "es": "Eres la armonía más dulce que mi corazón ha aprendido a cantar, {{playerName}}."
+    },
+    "Closing": {
+      "en": "Save me a moment to hum together again soon!",
+      "es": "¡Guárdame otro ratito para disfrutar juntos muy pronto!"
+    },
+    "PersonalQuestion": {
+      "en": "Tell me softly, {{playerName}}... what kind of song captures the way this valley feels to you?",
+      "es": "Dime con sinceridad, {{playerName}}... ¿qué estilo de canción describe mejor lo que sientes aquí?"
+    },
+    "PersonalOpt1": {
+      "en": "A bright uplifting folk duet at dawn",
+      "es": "Un dúo alegre y luminoso al amanecer"
+    },
+    "PersonalOpt2": {
+      "en": "A gentle sunset lullaby carried by wind",
+      "es": "Una balada suave mecida por la brisa"
+    },
+    "PersonalReply1": {
+      "en": "Ooh, joyful harmony! Hear me hum along from the hilltop!",
+      "es": "¡Oh, pura alegría cantada! ¡Te acompañaré desde la colina!"
+    },
+    "PersonalReply2": {
+      "en": "Mmh... gentle melodies stay echoing softly in the heart all night.",
+      "es": "Mmm... las notas tiernas siempre se quedan guardadas en el alma."
+    },
+    "PreferredDestinations": [ "Mountain", "Town", "Beach" ],
+    "PreferredAnimations": [ "alissa_laugh", "alissa_idle" ]
+  },
+  "Anton": {
+    "Opening": {
+      "en": "Stepping away from the Ridge Inn kitchen long enough to catch real fresh air feels great, {{playerName}}.",
+      "es": "Alejarme un rato de la posada para respirar aire fresco contigo sienta de maravilla, {{playerName}}."
+    },
+    "Story": {
+      "en": "Folks rush around chasing tomorrow, when half the magic sits right here in quiet conversation.",
+      "es": "La gente corre tras mil asuntos, cuando lo mejor del día cabe en una charla tranquila."
+    },
+    "Story2": {
+      "en": "Wait until you try my smoked mountain herbs roast — honest ingredients always beat flashy city dining.",
+      "es": "Espera a probar mi asado con hierbas serranas; los sabores honestos ganan siempre al lujo vacío."
+    },
+    "Romance": {
+      "en": "I don't drop my guard easily, {{playerName}}, so you can trust how genuine this closeness is.",
+      "es": "No bajo la guardia con cualquiera, {{playerName}}, así que créeme lo mucho que significas para mí."
+    },
+    "Closing": {
+      "en": "Drop by the inn whenever you want something warm on the table!",
+      "es": "¡Pásate por la posada cuando quieras probar algo recién hecho!"
+    },
+    "PersonalQuestion": {
+      "en": "Honest truth away from town talk, {{playerName}}: do you trust actions faster than polished words?",
+      "es": "Hablando claro lejos de habladurías, {{playerName}}: ¿confías más en los hechos que en las promesas bonitas?"
+    },
+    "PersonalOpt1": {
+      "en": "Actions prove loyalty far better than speeches",
+      "es": "Los hechos demuestran quién es real de verdad"
+    },
+    "PersonalOpt2": {
+      "en": "Both matter when spoken from honest hearts",
+      "es": "Ambas cosas importan si nacen de corazón"
+    },
+    "PersonalReply1": {
+      "en": "Haha! Straight talk! No wonder getting along with you comes effortless.",
+      "es": "¡Jaja! ¡Directo al grano! Por eso encajamos tan bien."
+    },
+    "PersonalReply2": {
+      "en": "Fair point... steady sincerity shines clear over time.",
+      "es": "Buen punto... la sinceridad constante siempre se nota con los días."
+    },
+    "PreferredDestinations": [ "Saloon", "Mountain", "Town" ],
+    "PreferredAnimations": [ "anton_idle" ]
+  },
+  "Belinda": {
+    "Opening": {
+      "en": "It isn't often someone sees past old stories and stands here calmly with an open heart, {{playerName}}.",
+      "es": "Pocas veces alguien mira más allá de las viejas historias y acompaña con tanta calma, {{playerName}}."
+    },
+    "Story": {
+      "en": "Years teach patience, yet true warmth from a friend arrives like sudden spring sunlight.",
+      "es": "Los años enseñan paciencia, pero el cariño sincero llega igual que el primer sol de primavera."
+    },
+    "Story2": {
+      "en": "Echoes along canyon walls carry ancient regrets, though good listeners turn heavy memories into peace.",
+      "es": "El eco de las montañas guarda viejos pesares, pero una compañía serena transforma el recuerdo en paz."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "May gentle light watch over your steps today.",
+      "es": "Que una luz amable acompañe siempre tus pasos hoy."
+    },
+    "PersonalQuestion": {
+      "en": "Looking back over winding trails of life, {{playerName}}, what heals old regrets quickest?",
+      "es": "Mirando los caminos largos de la vida, {{playerName}}, ¿qué ayuda más a sanar viejas heridas?"
+    },
+    "PersonalOpt1": {
+      "en": "Forgiving oneself and walking kindly forward",
+      "es": "Perdonar el pasado y caminar en calma adelante"
+    },
+    "PersonalOpt2": {
+      "en": "Sharing honest quiet warmth with trusted souls",
+      "es": "Apoyarse en almas nobles que acompañan"
+    },
+    "PersonalReply1": {
+      "en": "Wisdom softly spoken... each dawn offers mercy to weary steps.",
+      "es": "Sabiduría serena... cada alba trae alivio a quien sigue caminando."
+    },
+    "PersonalReply2": {
+      "en": "True. Warm companionship thaws snows decades deep.",
+      "es": "Cierto. Un lazo sincero derrite inviernos enteros."
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "Town" ],
+    "PreferredAnimations": [ "belinda_idle" ]
+  },
+  "Bert": {
+    "Opening": {
+      "en": "Hah! Even an old innkeeper enjoys stretching his legs away from the ledger now and then, {{playerName}}.",
+      "es": "¡Ja! Hasta un posadero veterano disfruta estirar las piernas lejos del mostrador contigo, {{playerName}}."
+    },
+    "Story": {
+      "en": "Running Pika and Olga's inn keeps us hopping, though seeing good neighbors thrive makes every hour worthwhile.",
+      "es": "Cuidar a la familia y la posada exige esfuerzo, pero ver prosperar al valle lo compensa todo."
+    },
+    "Story2": {
+      "en": "Olga spoils guests with pastries before sunrise, and hearing laughter from Ridgeside tables never gets old!",
+      "es": "Olga consiente a todos desde el alba con pan dulce, ¡y oír risas en la mesa nunca cansa!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Tell folks hello down in Pelican Town for me!",
+      "es": "¡Saluda a los vecinos allá abajo en Pueblo Pelícano de mi parte!"
+    },
+    "PersonalQuestion": {
+      "en": "Say, traveler {{playerName}}, what transforms a simple inn or house into true welcoming shelter?",
+      "es": "Dime, buen amigo {{playerName}}, ¿qué convierte una posada o casa en auténtico refugio?"
+    },
+    "PersonalOpt1": {
+      "en": "Warm bread baking and hearty table laughter",
+      "es": "Olor a pan tibio y risas compartidas en la mesa"
+    },
+    "PersonalOpt2": {
+      "en": "Doors open wide to friends from every valley",
+      "es": "Puertas abiertas para cualquier alma cansada"
+    },
+    "PersonalReply1": {
+      "en": "Haha, Olga would hug you twice for saying that right away!",
+      "es": "¡Jaja, Olga te abrazaría al instante por responder eso!"
+    },
+    "PersonalReply2": {
+      "en": "Now that's hospitality gold right through the seasons!",
+      "es": "¡Ese espíritu hospitalario vale su peso en oro!"
+    },
+    "PreferredDestinations": [ "Town", "Saloon", "Mountain" ],
+    "PreferredAnimations": [ "bert_idle" ]
+  },
+  "Blair": {
+    "Opening": {
+      "en": "Just breathing fresh air without rushing errands around the ridge feels awesome, {{playerName}}!",
+      "es": "¡Respirar aire puro sin andar corriendo con mandados por todo el pueblo se siente genial, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Hanging by the river or chasing cool sights beats staying indoors every single time.",
+      "es": "Pasar el rato junto al río o descubrir rincones nuevos siempre le gana a quedarse encerrado."
+    },
+    "Story2": {
+      "en": "Mom worries whenever I dash across slippery mountain rocks chasing river trout, haha!",
+      "es": "¡Mamá siempre se apura si salto entre las rocas húmedas buscando truchas de río, jaja!"
+    },
+    "Romance": {
+      "en": "Wait till I tell everyone... actually no, I wanna keep this sweet moment just between us, {{playerName}}!",
+      "es": "¡Prefiero guardarme este momento tan lindo solo entre tú y yo, {{playerName}}!"
+    },
+    "Closing": {
+      "en": "Catch ya on our next outdoor hangout!",
+      "es": "¡Nos vemos en la próxima salida al aire libre!"
+    },
+    "PersonalQuestion": {
+      "en": "Okay, quick weekend challenge, {{playerName}}: river bamboo fishing or cliff picnic lunch?",
+      "es": "¡Reto rápido de escapada, {{playerName}}: pescar junto al río o almuerzo libre al aire puro?"
+    },
+    "PersonalOpt1": {
+      "en": "Casting beside rushing river rapids for hours",
+      "es": "Lanzar el sedal junto al río correntoso"
+    },
+    "PersonalOpt2": {
+      "en": "Lazy riverside picnic under blue afternoon skies",
+      "es": "Picnic relajado bajo el cielo despejado"
+    },
+    "PersonalReply1": {
+      "en": "Boom!! Let's see who reels the biggest river catch first!",
+      "es": "¡Hecho!! ¡A ver quién saca el pez más grande primero!"
+    },
+    "PersonalReply2": {
+      "en": "Yum!! I'll bring sandwiches and crazy stories!",
+      "es": "¡¡Riquísimo!! ¡Yo llevo bocadillos e historias buenas!"
+    },
+    "PreferredDestinations": [ "Beach", "Forest", "Mountain" ],
+    "PreferredAnimations": [ "blair_laugh", "blair_idle" ]
+  },
+  "Bliss": {
+    "Opening": {
+      "en": "Even the quiet spirits of the valley whisper softly when peaceful souls pause here, {{playerName}}.",
+      "es": "Hasta los espíritus silenciosos del valle susurran en calma cuando alguien noble se detiene aquí, {{playerName}}."
+    },
+    "Story": {
+      "en": "Following old spiritual traditions can feel heavy, yet sharing time with you brings simple warmth.",
+      "es": "Cargar con tradiciones antiguas cansa a veces, pero estar contigo trae una calidez sencilla."
+    },
+    "Story2": {
+      "en": "Incense smoke curls like moonbeams at dusk, though clear laughter sounds sweeter than sacred bells.",
+      "es": "El incienso del templo dibuja espirales tranquilas, pero compartir risas serenas alivia más el alma."
+    },
+    "Romance": {
+      "en": "My spirit feels curiously anchored and bright whenever you stand close, {{playerName}}.",
+      "es": "Mi espíritu se siente sereno y luminoso cada vez que estás tan cerca, {{playerName}}."
+    },
+    "Closing": {
+      "en": "Walk gracefully under both sun and moon, friend.",
+      "es": "Camina con armonía bajo el sol y la luna, amigo."
+    },
+    "PersonalQuestion": {
+      "en": "Listen past breeze and leaves, {{playerName}}: do spirits favor solemn ritual or joyful living?",
+      "es": "Escucha en silencio, {{playerName}}: ¿crees que los espíritus prefieren ritos severos o alegría sincera?"
+    },
+    "PersonalOpt1": {
+      "en": "Joyful heartfelt respect for every living thing",
+      "es": "Respeto alegre hacia cada criatura viva"
+    },
+    "PersonalOpt2": {
+      "en": "Calm mindful gratitude in simple moments",
+      "es": "Gratitud tranquila en cada instante sencillo"
+    },
+    "PersonalReply1": {
+      "en": "How bright! Even quiet elders nod at honest joy like yours.",
+      "es": "¡Qué luminoso! Hasta los espíritus antiguos sonríen ante tanta calidez."
+    },
+    "PersonalReply2": {
+      "en": "Graceful harmony... gratitude is prayer enough for the whole ridge.",
+      "es": "Armonía serena... agradecer basta para honrar la colina."
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "ArchaeologyHouse" ],
+    "PreferredAnimations": [ "bliss_idle" ]
+  },
+  "Bryle": {
+    "Opening": {
+      "en": "Taking a quick truce from everything out here with you isn't bad at all, {{playerName}}.",
+      "es": "Hacer una pequeña tregua con el mundo aquí fuera contigo no está nada mal, {{playerName}}."
+    },
+    "Story": {
+      "en": "On the road, you quickly learn who keeps their word. You definitely earned my respect.",
+      "es": "Viajando aprendes rápido quién cumple su palabra, y tú te ganaste mi respeto por completo."
+    },
+    "Story2": {
+      "en": "Crossing dusty borders solo used to feel cool till quiet sunsets around Ridgeside started hitting differently.",
+      "es": "Cruzar caminos en solitario parecía suficiente, hasta que estas tardes tranquilas contigo me hicieron pensar."
+    },
+    "Romance": {
+      "en": "Never planned to drop anchor anywhere... until you gave me a reason to stay, {{playerName}}.",
+      "es": "Nunca planeé echar raíces en ningún sitio... hasta que me diste un motivo real, {{playerName}}."
+    },
+    "Closing": {
+      "en": "Stay sharp and keep in touch, partner.",
+      "es": "Mantente firme y no te pierdas, compañero."
+    },
+    "PersonalQuestion": {
+      "en": "Between wandering far borders and finding steady home ground, {{playerName}}, what wins in the end?",
+      "es": "Entre recorrer rutas lejanas o echar raíces firmes, {{playerName}}, ¿qué pesa más al final?"
+    },
+    "PersonalOpt1": {
+      "en": "Having someone worth returning home to",
+      "es": "Tener un sitio y alguien adonde volver siempre"
+    },
+    "PersonalOpt2": {
+      "en": "Roaming new trails alongside trusted company",
+      "es": "Recorrer caminos nuevos sin soltar buena compañía"
+    },
+    "PersonalReply1": {
+      "en": "Heh... yeah. Maybe staying put beats running forever after all.",
+      "es": "Je... sí. Quizás quedarse aquí supere seguir huyendo."
+    },
+    "PersonalReply2": {
+      "en": "Alright partner! Tell me where we march next!",
+      "es": "¡Hecho, compañero! Dime hacia qué horizonte salimos luego."
+    },
+    "PreferredDestinations": [ "Mountain", "Saloon", "Desert" ],
+    "PreferredAnimations": [ "bryle_idle" ]
+  },
+  "Carmen": {
+    "Opening": {
+      "en": "Fresh breeze, calm scenery, zero noisy customers — pure paradise right here, {{playerName}}!",
+      "es": "¡Brisa limpia, buen paisaje y nada de ajetreo... puro paraíso aquí contigo, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Between guiding visitors and keeping the household lively, sneaking away with someone steady feels great.",
+      "es": "Entre recibir visitas y llevar la casa, escaparse un ratito con alguien de confianza sienta genial."
+    },
+    "Story2": {
+      "en": "Even teaching Blair patience with tangled fishing knots takes half my mornings... though she has spirit!",
+      "es": "¡Ayudar a Blair a desenredar hilos de pesca me quita medio día, pero tiene un ánimo admirable!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Have a breezy, bright rest of the day!",
+      "es": "¡Que tengas un día tan fresco y alegre como este rato!"
+    },
+    "PersonalQuestion": {
+      "en": "Quick taste test from the mountain coast, {{playerName}}: grilled river trout or fresh tropical salad?",
+      "es": "Pregunta rápida de sabores, {{playerName}}: ¿trucha fresca a la brasa o ensalada dulce de frutas?"
+    },
+    "PersonalOpt1": {
+      "en": "Sizzling herb-grilled fish straight over embers",
+      "es": "Pescado asado con hierbas frescas al carbón"
+    },
+    "PersonalOpt2": {
+      "en": "Crisp chilled summer greens and berries",
+      "es": "Ensalada fresca llena de colores y fruta"
+    },
+    "PersonalReply1": {
+      "en": "Ooh, smoky outdoor feast! Save me the crispy edges!",
+      "es": "¡Mmm, qué festín al aire libre! ¡Guárdame un trocito!"
+    },
+    "PersonalReply2": {
+      "en": "Refreshing and bright — perfect fuel for busy afternoons!",
+      "es": "¡Fresquísima y alegre — perfecta para seguir la tarde con energía!"
+    },
+    "PreferredDestinations": [ "Beach", "Forest", "Town" ],
+    "PreferredAnimations": [ "carmen_laugh", "carmen_idle" ]
+  },
+  "Corine": {
+    "Opening": {
+      "en": "Walking slowly with someone I trust makes every worry melt right away, {{playerName}}.",
+      "es": "Caminar despacio con alguien en quien confío hace que toda preocupación se desvanezca, {{playerName}}."
+    },
+    "Story": {
+      "en": "Training to stay strong for Ridgeside wears you out fast, yet your gentle smile restores my pace.",
+      "es": "Esforzarme tanto por proteger al pueblo agota rápido, pero tu compañía siempre me devuelve fuerzas."
+    },
+    "Story2": {
+      "en": "Sometimes I worry I'm not fearless enough like veteran knights, then kind talks like yours calm my nerves.",
+      "es": "A veces temo no estar a la altura de otros guerreros, y charlar contigo devuelve toda mi calma."
+    },
+    "Romance": {
+      "en": "My heart always races way faster beside you than after any mountain sprint, {{playerName}}!",
+      "es": "¡El corazón se me acelera mucho más contigo al lado que corriendo montaña arriba, {{playerName}}!"
+    },
+    "Closing": {
+      "en": "Wait up for me on our next walk together soon!",
+      "es": "¡Espérame para otro paseo juntos muy pronto!"
+    },
+    "PersonalQuestion": {
+      "en": "Confession time, {{playerName}}... when self-doubt hits before a hard day, how do you shake it off?",
+      "es": "Confiésame algo, {{playerName}}... cuando dudas de tus fuerzas en un día difícil, ¿cómo lo superas?"
+    },
+    "PersonalOpt1": {
+      "en": "Take one brave steady step at a time",
+      "es": "Dar un paso valiente y firme a la vez"
+    },
+    "PersonalOpt2": {
+      "en": "Remember all the friends cheering behind you",
+      "es": "Recordar que nunca caminas realmente solo"
+    },
+    "PersonalReply1": {
+      "en": "Yes! Little brave steps climb tallest peaks eventually!",
+      "es": "¡Sí! ¡Paso a paso constante se alcanza cualquier cima!"
+    },
+    "PersonalReply2": {
+      "en": "Hehe... having you cheering near makes me brave right away!",
+      "es": "¡Jeje... tenerte apoyando tan cerca me da valor al instante!"
+    },
+    "PreferredDestinations": [ "Mountain", "Forest", "Town" ],
+    "PreferredAnimations": [ "corine_laugh", "corine_idle" ]
+  },
+  "Daia": {
+    "Opening": {
+      "en": "Keeping a watchful blade in the shadows gets cold — thank goodness for warm company like yours, {{playerName}}!",
+      "es": "Vigilar en silencio desde las sombras da frío; ¡qué suerte contar con alguien cálido como tú, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Ninjas aren't supposed to slack off, yet nobody up on the Ridge could blame us for enjoying one peaceful minute.",
+      "es": "Se supone que no debemos bajar la guardia, pero nadie nos culpará por disfrutar un minuto en paz."
+    },
+    "Story2": {
+      "en": "Jio pretends to look stone-faced during midnight watch, yet I totally catch him admiring fireflies too!",
+      "es": "¡Jio finge ser súper serio en la guardia nocturna, pero lo pillo mirando luciérnagas!"
+    },
+    "Romance": {
+      "en": "Careful, {{playerName}}... let me keep watching over you like this and I might never slip back into shadow.",
+      "es": "Cuidado, {{playerName}}... si me dejas cuidarte tan de cerca, igual no vuelvo nunca a las sombras."
+    },
+    "Closing": {
+      "en": "Poof — okay, no vanishing trick today, just see you soon!",
+      "es": "¡Puf! Hoy nada de desaparecer entre humo, ¡nos vemos pronto!"
+    },
+    "PersonalQuestion": {
+      "en": "Hey, ninja secret quiz, {{playerName}}! If I tossed a surprise smoke bomb now, how fast do you dodge?",
+      "es": "¡Prueba rápida de ninja, {{playerName}}! Si lanzara una bomba de humo ahora mismo, ¿qué harías?"
+    },
+    "PersonalOpt1": {
+      "en": "Catch your wrist with a cheeky grin",
+      "es": "Atraparte del brazo antes de que desaparezcas"
+    },
+    "PersonalOpt2": {
+      "en": "Backflip clear over nearby pine trees",
+      "es": "Dar un salto épico por encima del humo"
+    },
+    "PersonalReply1": {
+      "en": "Whoa!! Sharp reflexes AND smooth moves?! Careful, farmer!",
+      "es": "¡¡Guau!! ¡Buenos reflejos y atrevimiento! ¡Cuidado conmigo!"
+    },
+    "PersonalReply2": {
+      "en": "Haha! Ninja squad definitely owes you an honorary scarf!",
+      "es": "¡Jaja! ¡Te acabas de ganar una bufanda honoraria del clan!"
+    },
+    "PreferredDestinations": [ "Mountain", "Forest", "Saloon" ],
+    "PreferredAnimations": [ "daia_laugh", "daia_idle" ]
+  },
+  "Ezekiel": {
+    "Opening": {
+      "en": "Quiet horizon, sturdy boots on solid earth... takes a veteran's eye to appreciate calm like this, {{playerName}}.",
+      "es": "Horizonte tranquilo y pies firmes sobre la tierra: hace falta temple para valorar una paz así, {{playerName}}."
+    },
+    "Story": {
+      "en": "Saw enough battlefields long ago. Watching good young folks build peaceful lives here means everything.",
+      "es": "Vi suficientes batallas en el pasado. Ver a gente noble construir paz aquí vale todo el oro."
+    },
+    "Story2": {
+      "en": "Even Corine grows stronger every dawn when peace lets folks train out of passion instead of fear.",
+      "es": "Hasta Corine crece cada día con calma cuando no hay guerra rondando las colinas."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Stand tall and guard what matters, farmer.",
+      "es": "Mantente firme y cuida lo que amas, granjero."
+    },
+    "PersonalQuestion": {
+      "en": "Answer like a true keeper of peace, {{playerName}}: what makes a community unbreakable through crisis?",
+      "es": "Responde con temple, {{playerName}}: ¿qué vuelve invencible a un pueblo en tiempos duros?"
+    },
+    "PersonalOpt1": {
+      "en": "Standing shoulder to shoulder protecting neighbors",
+      "es": "Cuidar espalda con espalda a cada vecino"
+    },
+    "PersonalOpt2": {
+      "en": "Never losing hope for peaceful tomorrow",
+      "es": "No rendirse ni perder la esperanza en el mañana"
+    },
+    "PersonalReply1": {
+      "en": "Aye. Unity wins shields no army can ever shatter.",
+      "es": "Exacto. La unión forja escudos imposibles de romper."
+    },
+    "PersonalReply2": {
+      "en": "True grit carries light across the longest winter night.",
+      "es": "Esa fuerza mantiene viva la llama incluso en la noche más dura."
+    },
+    "PreferredDestinations": [ "Mountain", "Forest", "Town" ],
+    "PreferredAnimations": [ "ezekiel_idle" ]
+  },
+  "Faye": {
+    "Opening": {
+      "en": "Oh! The mood, the silhouette, the breeze... everything here practically begs for a bespoke design, {{playerName}}!",
+      "es": "¡Oh! ¡La vibra, la silueta, la brisa... todo aquí pide a gritos un diseño a medida, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Cutting fabric all day fills my studio with pins, yet scenes out in nature give textiles real soul.",
+      "es": "Pasar horas entre telas llena el taller, pero salir a ver la luz natural da alma a cada diseño."
+    },
+    "Story2": {
+      "en": "Wait till I weave autumn maple hues into linen coats — every stitch practically hums out here!",
+      "es": "¡Espera a ver el abrigo color otoño que estoy diseñando inspirada en este paisaje!"
+    },
+    "Romance": {
+      "en": "Darling {{playerName}}, no silk ribbon or crystal stitch could ever shine brighter than your eyes right now!",
+      "es": "Cielo {{playerName}}, ¡ningún hilo de seda brillaría más que tu mirada en este instante!"
+    },
+    "Closing": {
+      "en": "Stop by the Boutique whenever you want a dazzling look!",
+      "es": "¡Pásate por la boutique cuando quieras estrenar estilo!"
+    },
+    "PersonalQuestion": {
+      "en": "Darling stylist consultation for {{playerName}}! If I tailored your signature coat, what vibe shines?",
+      "es": "¡Consulta VIP de estilo, {{playerName}}! Si te diseñara un atuendo único, ¿qué estilo iría contigo?"
+    },
+    "PersonalOpt1": {
+      "en": "Bold adventure cloak trimmed in gold thread",
+      "es": "Capa elegante de aventura con bordado dorado"
+    },
+    "PersonalOpt2": {
+      "en": "Cozy rustic wool spun in gentle natural tones",
+      "es": "Abrigo artesanal cómodo en tonos naturales"
+    },
+    "PersonalReply1": {
+      "en": "Ooh, regal and fierce!! Wait till Ridgeside sees you strut by!",
+      "es": "¡Ohhh, majestuoso y audaz!! ¡Todos se van a girar al verte pasar!"
+    },
+    "PersonalReply2": {
+      "en": "Timeless effortless chic! Texture over glitter — pure taste!",
+      "es": "¡Elegancia pura y natural! Textura honesta sobre adornos vacíos."
+    },
+    "PreferredDestinations": [ "Town", "Beach", "Saloon" ],
+    "PreferredAnimations": [ "faye_laugh", "faye_idle" ]
+  },
+  "Flor": {
+    "Opening": {
+      "en": "Being beside you gives me a warm courage I didn't know I had, {{playerName}}.",
+      "es": "Estar a tu lado me da una valentía cálida que ni sabía que tenía, {{playerName}}."
+    },
+    "Story": {
+      "en": "Studying human kindness up in the clinic opens new chapters in my heart every time we talk.",
+      "es": "Aprender del corazón humano trabajando en la clínica cobra todo sentido cuando hablo contigo."
+    },
+    "Story2": {
+      "en": "Whenever patients feel anxious at the clinic, remembering calm kindness from our walks reminds me to breathe steadily.",
+      "es": "Cuando algún paciente está nervioso en la clínica, recordar paseos tan tranquilos contigo me ayuda muchísimo."
+    },
+    "Romance": {
+      "en": "Hold on... even my medical textbooks never explained why holding hands with you feels so healing, {{playerName}}.",
+      "es": "Ninguno de mis libros médicos explica por qué estar tan cerca de ti calma todo al instante, {{playerName}}."
+    },
+    "Closing": {
+      "en": "Thank you for being so gentle and reassuring today!",
+      "es": "¡Gracias por ser tan dulce y comprensivo conmigo hoy!"
+    },
+    "PersonalQuestion": {
+      "en": "Um... may I ask softly, {{playerName}}? What helps quiet your worries when your mind runs too fast?",
+      "es": "Mmm... ¿puedo preguntarte algo, {{playerName}}? ¿Qué calma tus pensamientos cuando el día pesa demasiado?"
+    },
+    "PersonalOpt1": {
+      "en": "Stepping outside beside someone gentle and calm",
+      "es": "Salir al aire libre junto a alguien amable"
+    },
+    "PersonalOpt2": {
+      "en": "Listening to quiet birdsong until breath slows",
+      "es": "Escuchar la naturaleza en silencio sin prisa"
+    },
+    "PersonalReply1": {
+      "en": "Oh... hearing you say that warms my chest right away!",
+      "es": "Oh... oírte decir eso me da tanta alegría por dentro."
+    },
+    "PersonalReply2": {
+      "en": "Yes! Calm rhythms outside heal hearts far gentler than medicine.",
+      "es": "¡Sí! El ritmo tranquilo del entorno cuida el corazón con dulzura."
+    },
+    "PreferredDestinations": [ "ArchaeologyHouse", "Forest", "Town" ],
+    "PreferredAnimations": [ "flor_laugh", "flor_idle" ]
+  },
+  "Freddie": {
+    "Opening": {
+      "en": "Heh! Taking an easy stroll alongside a spirited friend keeps my old heart young, {{playerName}}!",
+      "es": "¡Je! Dar un paseo tranquilo con un amigo lleno de vida mantiene joven el corazón, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Lola and I always smile watching young farmers keep the valley brimming with laughter.",
+      "es": "Lola y yo siempre sonreímos viendo a gente trabajadora llenar de risas el valle."
+    },
+    "Story2": {
+      "en": "Still sneak an extra tart out of Lola's basket before noon when she thinks I'm tending flowers — don't rat me out!",
+      "es": "¡Todavía me escapo a picar un pastelillo de Lola antes del almuerzo — no me delates, eh!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Keep bringing good cheer wherever you wander!",
+      "es": "¡Sigue repartiendo alegría adondequiera que vayas!"
+    },
+    "PersonalQuestion": {
+      "en": "Quick golden secret question from an old timer, {{playerName}}: how do you keep life fun every season?",
+      "es": "Secreto de veterano, {{playerName}}: ¿cómo logras que la vida siga teniendo chispa cada año?"
+    },
+    "PersonalOpt1": {
+      "en": "Never lose time for harmless laughs and treats",
+      "es": "No olvidar nunca reírse y disfrutar las cosas chicas"
+    },
+    "PersonalOpt2": {
+      "en": "Treasure good folk walking beside you daily",
+      "es": "Valorar a quienes caminan a tu lado cada día"
+    },
+    "PersonalReply1": {
+      "en": "Hah!! Best wisdom under the sun! Life stays sweet that way!",
+      "es": "¡Ja!! ¡La mejor filosofía bajo el sol! Así la vida nunca envejece."
+    },
+    "PersonalReply2": {
+      "en": "True gold right there, youngster! Lola would smile ear to ear.",
+      "es": "¡Verdad pura, muchacho! Lola opinaría exactamente igual."
+    },
+    "PreferredDestinations": [ "Town", "Forest", "Beach" ],
+    "PreferredAnimations": [ "freddie_idle" ]
+  },
+  "Ian": {
+    "Opening": {
+      "en": "After fixing half the valley's odd jobs, taking five minutes just standing here with you is priceless, {{playerName}}!",
+      "es": "¡Tras arreglar medio valle, tomarse cinco minutos solo para estar aquí contigo no tiene precio, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Tools break and roofs leak, sure, yet dependable friends are built to last a lifetime.",
+      "es": "Las herramientas se rompen y los techos gotean, pero los buenos amigos duran toda la vida."
+    },
+    "Story2": {
+      "en": "Between hauling lumber up stairways and wiring porch lamps, stretching out here with zero wrench weight rocks!",
+      "es": "¡Entre cargar madera y reparar porches, descansar sin herramientas en la mano sienta de lujo!"
+    },
+    "Romance": {
+      "en": "Forget Odd Jobs Inc... the best repair I ever made was letting you into my heart, {{playerName}}.",
+      "es": "Olvida cualquier encargo... lo mejor que construí en mi vida fue este lazo contigo, {{playerName}}."
+    },
+    "Closing": {
+      "en": "Holler anytime you need a hand or just want to chill!",
+      "es": "¡Pega un grito cuando necesites ayuda o quieras pasar el rato!"
+    },
+    "PersonalQuestion": {
+      "en": "Okay, builder's off-duty poll, {{playerName}}: if Odd Jobs offered you one free sunny afternoon, what first?",
+      "es": "Encuesta de tiempo libre, {{playerName}}: si tuviéramos la tarde libre de encargos, ¿qué hacemos primero?"
+    },
+    "PersonalOpt1": {
+      "en": "Fix up a cozy campfire spot with cold drinks",
+      "es": "Montar una fogata cómoda y charlar tranquilo"
+    },
+    "PersonalOpt2": {
+      "en": "Explore high cliffs before hitting the Saloon",
+      "es": "Explorar lo alto y luego cenar rico"
+    },
+    "PersonalReply1": {
+      "en": "Heck yeah! Best kind of handiwork involves marshmellows and zero alarms!",
+      "es": "¡Eso es!! El mejor trabajo termina junto al fuego sin reloj."
+    },
+    "PersonalReply2": {
+      "en": "Deal! Leg stretch first, hearty burgers afterward — count me in!",
+      "es": "¡Trato hecho! Primero caminata y luego buena comida."
+    },
+    "PreferredDestinations": [ "Mountain", "Saloon", "Town" ],
+    "PreferredAnimations": [ "ian_laugh", "ian_idle" ]
+  },
+  "Jeric": {
+    "Opening": {
+      "en": "Taking things easy out here with someone who actually appreciates farm rhythms feels pretty sweet, {{playerName}}.",
+      "es": "Relajarse aquí fuera con alguien que de verdad entiende la vida de granja se siente genial, {{playerName}}."
+    },
+    "Story": {
+      "en": "Growing crops up on the hills taught me patience, though hanging with you makes time fly.",
+      "es": "Cultivar arriba en las colinas enseña paciencia, pero contigo el tiempo pasa volando."
+    },
+    "Story2": {
+      "en": "Leaving city glam behind for mountain clover confused my family... till they saw how alive I feel here!",
+      "es": "Dejar la ciudad atrás por cultivar la colina sorprendió a muchos... ¡pero nunca fui tan feliz!"
+    },
+    "Romance": {
+      "en": "Honestly {{playerName}}, watching you smile beats every sunset across Ridgeside twice over.",
+      "es": "En serio, {{playerName}}, verte sonreír supera mil veces cualquier atardecer de Ridgeside."
+    },
+    "Closing": {
+      "en": "Let's swap farming tips over drinks real soon!",
+      "es": "¡Compartamos consejos de granja pronto por ahí!"
+    },
+    "PersonalQuestion": {
+      "en": "Wait, honest farmer-to-farmer scoop, {{playerName}}: sunrise chores or moonlight stargazing?",
+      "es": "Dime de granjero a granjero, {{playerName}}: ¿prefieres la brisa del amanecer o las noches bajo estrellas?"
+    },
+    "PersonalOpt1": {
+      "en": "Crisp sunrise gold sweeping dew across fields",
+      "es": "El primer sol dorado sobre el rocío"
+    },
+    "PersonalOpt2": {
+      "en": "Cool peaceful twilight after harvest finishes",
+      "es": "La calma tibia del ocaso tras terminar"
+    },
+    "PersonalReply1": {
+      "en": "Aw yeah, morning light makes every single row glitter like gold!",
+      "es": "¡Sí! ¡Esa luz de mañana hace brillar cada parcela como oro!"
+    },
+    "PersonalReply2": {
+      "en": "Nothing hits sweeter than kicking boots off right beside someone you love.",
+      "es": "Nada sienta mejor que descansar tras la jornada junto a alguien especial."
+    },
+    "PreferredDestinations": [ "Forest", "Saloon", "Beach" ],
+    "PreferredAnimations": [ "jeric_laugh", "jeric_idle" ]
+  },
+  "Jio": {
+    "Opening": {
+      "en": "Silent discipline has its place, yet walking alongside a worthy companion like you brings unexpected peace, {{playerName}}.",
+      "es": "La disciplina silenciosa tiene valor, pero caminar junto a alguien tan leal trae una paz inesperada, {{playerName}}."
+    },
+    "Story": {
+      "en": "Long watches along the Ridge forest keep my senses sharp; moments like this restore balance within.",
+      "es": "Cuidar el bosque de las colinas exige estar alerta; instantes así devuelven el equilibrio interior."
+    },
+    "Story2": {
+      "en": "Wind through emerald pines echoes old oath training, yet your gentle footsteps never disturb my meditation.",
+      "es": "El viento entre pinos acompaña mi entrenamiento, pero tus pasos serenos siempre traen calma."
+    },
+    "Romance": {
+      "en": "You are the quiet warmth past my silent vow, {{playerName}}. Walk closely beside me always.",
+      "es": "Eres la calidez serena que rompió mi silencio, {{playerName}}. Camina siempre cerca de mí."
+    },
+    "Closing": {
+      "en": "May stillness protect your spirit wherever the trail winds.",
+      "es": "Que la calma guarde tu espíritu por cada sendero."
+    },
+    "PersonalQuestion": {
+      "en": "Between steel focus and quiet peace of mind, {{playerName}}, where lies true ninja strength?",
+      "es": "Entre disciplina férrea y paz interior, {{playerName}}, ¿dónde reside la fuerza verdadera?"
+    },
+    "PersonalOpt1": {
+      "en": "In protecting those we quietly cherish",
+      "es": "En cuidar con lealtad a quienes más quieres"
+    },
+    "PersonalOpt2": {
+      "en": "In serene balance that never bends to fear",
+      "es": "En un equilibrio sereno que nada logra quebrar"
+    },
+    "PersonalReply1": {
+      "en": "Yes... love guards sharpest when cloaked in quiet devotion.",
+      "es": "Sí... cuidar de los tuyos da sentido a cada juramento."
+    },
+    "PersonalReply2": {
+      "en": "Spoken cleanly. A steady mind moves swifter than wind.",
+      "es": "Palabras certeras. Una mente en calma supera al viento."
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "Town" ],
+    "PreferredAnimations": [ "jio_idle" ]
+  },
+  "Keahi": {
+    "Opening": {
+      "en": "Whoa, {{playerName}}! Let's scout for cool bugs, shiny pebbles, and secret hideouts!",
+      "es": "¡Guau, {{playerName}}! ¡Busquemos insectos geniales, piedritas brillantes y escondites secretos!"
+    },
+    "Story": {
+      "en": "Pulling harmless pranks is funny, but going on real outdoor adventures with you is way cooler!",
+      "es": "Hacer bromas divierte, ¡pero salir de aventuras de verdad contigo mola el doble!"
+    },
+    "Story2": {
+      "en": "Shane and Trinnie never guess my super secret pinecone stash behind the ridge bridge!",
+      "es": "¡Nadie descubre todavía mi escondite secreto de piñas gigantes cerca del puente!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "High five! You're awesome!",
+      "es": "¡Choca esos cinco! ¡Eres genial!"
+    },
+    "PersonalQuestion": {
+      "en": "Psst! Top secret explorer poll, {{playerName}}! If we start an adventure club, what's our secret badge?",
+      "es": "¡Psst! Encuesta secreta del club, {{playerName}}: ¿qué símbolo genial ponemos en nuestra insignia?"
+    },
+    "PersonalOpt1": {
+      "en": "A golden pinecone lightning shield!",
+      "es": "¡Un escudo épico con rayo y hojas!"
+    },
+    "PersonalOpt2": {
+      "en": "A sneaky forest frog waving hello!",
+      "es": "¡Una rana simpática saltando alegre!"
+    },
+    "PersonalReply1": {
+      "en": "Whoa!! Mega cool!! Nobody messes with Lightning Pinecone Squad!",
+      "es": "¡¡Brutal!! ¡Nadie podrá superar nuestro club secreto!"
+    },
+    "PersonalReply2": {
+      "en": "Hahaha!! Froggo power!! Let's paint cool badges tomorrow!",
+      "es": "¡Jajaja!! ¡Poder de ranita exploradora!"
+    },
+    "PreferredDestinations": [ "Forest", "Beach", "Town" ],
+    "PreferredAnimations": [ "keahi_laugh", "keahi_idle" ]
+  },
+  "Kenneth": {
+    "Opening": {
+      "en": "Leaving the junction box and cables behind to soak up real sunlight with you feels refreshing, {{playerName}}!",
+      "es": "¡Dejar los cables y tableros atrás para tomar sol de verdad contigo sienta fantástico, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Maintaining Ridgeside's power grid keeps me wired all week, so stepping outdoors clears static fast.",
+      "es": "Cuidar la red eléctrica cansa muchísimo, así que salir al aire libre recarga baterías rápido."
+    },
+    "Story2": {
+      "en": "Swapped solar relay wiring near the cable car yesterday — crisp mountain sun powers half the lights up there!",
+      "es": "Ayer ajusté los paneles junto al teleférico — ¡el sol de montaña da energía limpia increíble!"
+    },
+    "Romance": {
+      "en": "You light up my whole day way brighter than any generator I ever wired, {{playerName}}!",
+      "es": "¡Iluminas mis días mucho más fuerte que cualquier generador que haya reparado, {{playerName}}!"
+    },
+    "Closing": {
+      "en": "Stay grounded out there, friend! Catch you soon.",
+      "es": "¡Cuídate mucho ahí fuera, amigo! Nos vemos pronto."
+    },
+    "PersonalQuestion": {
+      "en": "Spark check question, {{playerName}}: pure natural solar warmth or bold stormy lightning energy?",
+      "es": "Pregunta con chispa, {{playerName}}: ¿energía solar tranquila o la fuerza de los relámpagos?"
+    },
+    "PersonalOpt1": {
+      "en": "Clean steady sunshine warming every valley roof",
+      "es": "Luz solar limpia que cuida cada hogar"
+    },
+    "PersonalOpt2": {
+      "en": "Electrifying storm arcs lighting dramatic skies",
+      "es": "Energía vibrante que ilumina la tormenta"
+    },
+    "PersonalReply1": {
+      "en": "Smooth clean circuits all season long! Zero fried fuses!",
+      "es": "¡Corriente limpia y sin sobrecargas! Energía perfecta."
+    },
+    "PersonalReply2": {
+      "en": "Haha, high voltage passion! Just remember rubber boots around cables!",
+      "es": "¡Jaja, pura corriente alta! Solo ten cuidado con los fusibles."
+    },
+    "PreferredDestinations": [ "Mountain", "Town", "Saloon" ],
+    "PreferredAnimations": [ "kenneth_laugh", "kenneth_idle" ]
+  },
+  "Kiarra": {
+    "Opening": {
+      "en": "Just soaking up calm vibes and leaving schedules behind for five minutes feels amazing, {{playerName}}!",
+      "es": "¡Dejar atrás los horarios cinco minutos para disfrutar el ambiente así se siente genial, {{playerName}}!"
+    },
+    "Story": {
+      "en": "People underestimate how restorative one carefree walk with somebody fun actually is.",
+      "es": "La gente subestima lo bien que hace un paseo sin complicaciones con alguien genial."
+    },
+    "Story2": {
+      "en": "My family acts overly proper half the week, so kicking back casually right here feels like pure rebellion!",
+      "es": "¡A veces en casa todo es demasiado formal, así que relajarse aquí contigo sienta liberador!"
+    },
+    "Romance": {
+      "en": "Wait, being this close to you makes even quiet afternoons spark like fireworks, {{playerName}}!",
+      "es": "¡Estar tan cerca de ti hace que hasta una tarde tranquila brille como fuegos artificiales, {{playerName}}!"
+    },
+    "Closing": {
+      "en": "Keep smiling and let's hang out again soon!",
+      "es": "¡Sigue sonriendo y volvamos a salir pronto!"
+    },
+    "PersonalQuestion": {
+      "en": "Okay, zero formal rules allowed, {{playerName}}: how should we spend a spontaneous day off?",
+      "es": "Cero protocolos ahora mismo, {{playerName}}: ¿cómo celebramos una tarde libre improvisada?"
+    },
+    "PersonalOpt1": {
+      "en": "Dancing barefoot to music out under sunset",
+      "es": "Bajar a la costa o bailar sin preocupaciones"
+    },
+    "PersonalOpt2": {
+      "en": "Laughing endlessly over sweet treats at dusk",
+      "es": "Reírnos sin parar probando postres deliciosos"
+    },
+    "PersonalReply1": {
+      "en": "Yes!! Pure freedom and zero stiff suits in sight!",
+      "es": "¡Síii!! ¡Libertad pura y cero etiquetas rígidas!"
+    },
+    "PersonalReply2": {
+      "en": "Haha!! Sugar rush plus jokes with you equals peak evening!",
+      "es": "¡Jaja!! ¡Dulces y risas contigo hacen la noche perfecta!"
+    },
+    "PreferredDestinations": [ "Beach", "Saloon", "Town" ],
+    "PreferredAnimations": [ "kiarra_laugh", "kiarra_idle" ]
+  },
+  "Kiwi": {
+    "Opening": {
+      "en": "Kii-wiii! Gentle forest breezes feel twice as bright near a kind-hearted friend, {{playerName}}!",
+      "es": "¡Kii-wiii! ¡Las brisas suaves brillan el doble cerca de un amigo de corazón tan noble, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Spirit trails wind softly around good stewards who cherish every sprout and creature.",
+      "es": "Los senderos del espíritu florecen alrededor de quienes cuidan con cariño el valle."
+    },
+    "Story2": {
+      "en": "Dewdrops shine like tiny forest stars when peaceful steps walk gently beside sacred trees!",
+      "es": "¡El rocío brilla como estrellitas del bosque cuando caminas suave entre los árboles!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Chirp! May moss stay soft under your steps!",
+      "es": "¡Pío! ¡Que el musgo sea siempre blando bajo tus pasos!"
+    },
+    "PersonalQuestion": {
+      "en": "Chirp-chirp! If tiny forest spirits sang with us, {{playerName}}, what gift should nature bloom?",
+      "es": "¡Chii-pío! Si los espíritus cantaran hoy contigo, {{playerName}}, ¿qué regalo harían florecer?"
+    },
+    "PersonalOpt1": {
+      "en": "Glowing wild blossoms along quiet paths",
+      "es": "Flores silvestres luminosas en el sendero"
+    },
+    "PersonalOpt2": {
+      "en": "Warm peaceful sunbeams dancing through leaves",
+      "es": "Rayos suaves de sol bailando entre hojas"
+    },
+    "PersonalReply1": {
+      "en": "Kii-wiii!! Sweet blossoms burst cheerfully around kind boots!",
+      "es": "¡Kii-wiii!! ¡Flores lindas brotan alegres junto a buenos pasos!"
+    },
+    "PersonalReply2": {
+      "en": "Warm sunshine hugs! Kiwi loves sharing golden breezes!",
+      "es": "¡Abrazos de sol dorado! ¡A Kiwi le encanta esta brisa!"
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "Town" ],
+    "PreferredAnimations": [ "kiwi_dance", "kiwi_idle" ]
+  },
+  "Lenny": {
+    "Opening": {
+      "en": "Bless my boots, {{playerName}}, even Ridgeside's busiest mayor deserves a peaceful breather beside you!",
+      "es": "¡Vaya respiro, {{playerName}}, hasta la alcaldesa más ocupada merece un descanso tranquilo a tu lado!"
+    },
+    "Story": {
+      "en": "Paperwork stacks higher every Monday, yet walking our friendly trails reminds me why we love this place.",
+      "es": "El papeleo se acumula cada lunes, pero caminar por estos paisajes recuerda por qué amamos el valle."
+    },
+    "Story2": {
+      "en": "Lewis and I swap hilarious town council stories over cider — you'd never believe half our festival hiccups!",
+      "es": "¡Lewis y yo siempre compartimos anécdotas graciosas de festivales que nadie se imaginaría!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Thank you kindly for brightening my afternoon!",
+      "es": "¡Mil gracias por alegrarme la tarde con tu compañía!"
+    },
+    "PersonalQuestion": {
+      "en": "Mayor-to-farmer brainstorming, {{playerName}}: how can Pelican Town and Ridgeside team up even closer?",
+      "es": "Lluvia de ideas vecinal, {{playerName}}: ¿qué uniría todavía más a Ridgeside y Pueblo Pelícano?"
+    },
+    "PersonalOpt1": {
+      "en": "Joint seasonal harvest market days together",
+      "es": "Mercados compartidos llenos de cosechas"
+    },
+    "PersonalOpt2": {
+      "en": "Cozy bonfire storytelling festivals up high",
+      "es": "Fogatas de cuentos e historias bajo estrellas"
+    },
+    "PersonalReply1": {
+      "en": "Brilliant!! Your plump crops plus Ridgeside pastries would sell out before noon!",
+      "es": "¡¡Brillante!! ¡Tus cosechas con nuestros postres serían un éxito rotundo!"
+    },
+    "PersonalReply2": {
+      "en": "Oh, warming hearts beneath starry hills... best civic plan ever!",
+      "es": "¡Oh, reunir corazones bajo las estrellas... el mejor plan posible!"
+    },
+    "PreferredDestinations": [ "Town", "Forest", "Saloon" ],
+    "PreferredAnimations": [ "lenny_laugh", "lenny_idle" ]
+  },
+  "Lola": {
+    "Opening": {
+      "en": "Oh, what a sweet breath of fresh air! Sharing quiet smiles like this warms old memories, {{playerName}}.",
+      "es": "¡Qué aire tan dulce! Compartir sonrisas tranquilas así abriga el corazón, {{playerName}}."
+    },
+    "Story": {
+      "en": "Seeing kindness bloom across both towns fills our home on the hillside with peace.",
+      "es": "Ver florecer tanta amabilidad entre ambos pueblos llena de paz nuestro hogar en la colina."
+    },
+    "Story2": {
+      "en": "Freddie thinks I never notice him sneaking morning pastries... honestly, watching him happy makes my dawn!",
+      "es": "¡Freddie cree que no lo veo robar pastelillos por la mañana... pero me derrite verlo tan feliz!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Take warm cookies and cheerful thoughts along with you, dear!",
+      "es": "¡Llévate buenos recuerdos y galletas calientitas pronto, cariño!"
+    },
+    "PersonalQuestion": {
+      "en": "Sweetie, what homemade pastry scent makes any long walk worth coming home to, {{playerName}}?",
+      "es": "Cariño {{playerName}}, ¿qué aroma dulce recién salido del horno hace más cálido el regreso?"
+    },
+    "PersonalOpt1": {
+      "en": "Warm spiced apple tarts with crisp crust",
+      "es": "Tarta tibia de manzana con canela"
+    },
+    "PersonalOpt2": {
+      "en": "Soft vanilla sugar cookies fresh off trays",
+      "es": "Galletas suavecitas de vainilla y miel"
+    },
+    "PersonalReply1": {
+      "en": "Oh, cinnamon warmth fills every room! Wait till I bake one soon!",
+      "es": "¡Oh, el olor a canela abraza la casa entera! ¡Pronto horneo una!"
+    },
+    "PersonalReply2": {
+      "en": "Delightful choice, dear! Sweet simplicity never goes out of style.",
+      "es": "¡Qué ternura! Lo sencillo y dulce siempre conquista."
+    },
+    "PreferredDestinations": [ "Town", "Beach", "Forest" ],
+    "PreferredAnimations": [ "lola_idle" ]
+  },
+  "Lorenzo": {
+    "Opening": {
+      "en": "Even someone devoted to civic affairs must honor the quiet beauty surrounding our valleys, {{playerName}}.",
+      "es": "Incluso quien vive pendiente de los asuntos cívicos debe honrar la belleza serena del valle, {{playerName}}."
+    },
+    "Story": {
+      "en": "Prosperity grows deepest where community bonds hold steady across seasons.",
+      "es": "La prosperidad crece de verdad donde los lazos de amistad resisten cada estación."
+    },
+    "Story2": {
+      "en": "Shanice insists I put town spreadsheets away by five — thankfully stepping out beside you proves her right!",
+      "es": "Shanice siempre insiste en cerrar los balances a tiempo — ¡y salir aquí le da toda la razón!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "A pleasure taking a moment outdoors with you.",
+      "es": "Un placer compartir un instante al aire libre contigo."
+    },
+    "PersonalQuestion": {
+      "en": "Speak frankly as a thriving valley leader, {{playerName}}: what sustains long-term harmony here?",
+      "es": "Hablando como buen pilar del valle, {{playerName}}: ¿qué sostiene la prosperidad real a largo plazo?"
+    },
+    "PersonalOpt1": {
+      "en": "Generous reinvestment into people and land",
+      "es": "Invertir con cariño en la gente y la tierra"
+    },
+    "PersonalOpt2": {
+      "en": "Protecting cherished local peace above gold",
+      "es": "Cuidar la armonía del hogar por encima del oro"
+    },
+    "PersonalReply1": {
+      "en": "Spot on! Strong roots keep orchards bearing fruit for decades.",
+      "es": "¡Exacto! Raíces sanas aseguran cosechas por generaciones."
+    },
+    "PersonalReply2": {
+      "en": "Wise judgment. No wealth compares to serene neighborhood peace.",
+      "es": "Sabia visión. Ninguna riqueza iguala la paz del valle."
+    },
+    "PreferredDestinations": [ "Town", "ArchaeologyHouse", "Saloon" ],
+    "PreferredAnimations": [ "lorenzo_idle" ]
+  },
+  "Louie": {
+    "Opening": {
+      "en": "Look, {{playerName}}! Every tree and cloud looks like part of a comic adventure out here!",
+      "es": "¡Mira, {{playerName}}! ¡Cada árbol y nube parece sacado de un cómic de aventuras!"
+    },
+    "Story": {
+      "en": "Sharing stories outside beats chores indoors anytime!",
+      "es": "¡Contar historias al aire libre gana mil veces a hacer deberes dentro!"
+    },
+    "Story2": {
+      "en": "Drew ten pages of Galactic Hero Defender fighting mud slimes — wanna read the sequel soon?!",
+      "es": "¡Dibujé diez páginas nuevas del Héroe Galáctico venciendo slimes gigantes!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "See ya next mission, hero!",
+      "es": "¡Nos vemos en la próxima misión, héroe!"
+    },
+    "PersonalQuestion": {
+      "en": "Comic hero alert, {{playerName}}!! If you got one cool superhero power right now, what's best?!",
+      "es": "¡Alerta de súper héroe, {{playerName}}!! Si eligieras un súper poder ahora mismo, ¿cuál mola más?"
+    },
+    "PersonalOpt1": {
+      "en": "Soaring above high mountain ridges at sunset",
+      "es": "¡Volar por encima de las montañas al ocaso!"
+    },
+    "PersonalOpt2": {
+      "en": "Glowing star-shield protecting whole towns!",
+      "es": "¡Escudo brillante para defender todo el pueblo!"
+    },
+    "PersonalReply1": {
+      "en": "Whoa!! Zoom-whoosh!! Best hero cape swoosh ever!",
+      "es": "¡¡Fiuuu-guau!! ¡El mejor vuelo heroico de la historia!"
+    },
+    "PersonalReply2": {
+      "en": "Epic shield power!! Everybody cheers safe and sound!",
+      "es": "¡¡Poder épico de guardián!! ¡Todo el valle a salvo!"
+    },
+    "PreferredDestinations": [ "Town", "Forest", "Beach" ],
+    "PreferredAnimations": [ "louie_laugh", "louie_idle" ]
+  },
+  "Maddie": {
+    "Opening": {
+      "en": "Step away from the lab notes for a minute and look at real-world beauty, {{playerName}} — pretty neat, huh?",
+      "es": "Dejar un minuto los apuntes para observar la belleza real aquí fuera... genial, ¿eh, {{playerName}}?"
+    },
+    "Story": {
+      "en": "Research takes intense focus, yet letting someone close break into my shell keeps things lively.",
+      "es": "Investigar exige concentrarse mucho, pero dejar que alguien sincero entre en mi mundo alegra todo."
+    },
+    "Story2": {
+      "en": "Used to snap at anyone interrupting my botanical slides, then you showed up unfazed and patient...",
+      "es": "Antes gruñía a quien interrumpía mis muestras, hasta que apareciste tú con tanta paciencia..."
+    },
+    "Romance": {
+      "en": "Stop smiling like that unless you plan on staying beside me after hours too, {{playerName}}...",
+      "es": "Deja de sonreír así a menos que pienses quedarte a mi lado mucho más tiempo, {{playerName}}..."
+    },
+    "Closing": {
+      "en": "See you later — promise not to lose sleep over field data!",
+      "es": "¡Hasta luego — prométeme que descansarás hoy!"
+    },
+    "PersonalQuestion": {
+      "en": "Wait, honest lab-break check, {{playerName}}: why stick around someone prickly like me anyway?",
+      "es": "Oye, pregunta sincera fuera del laboratorio, {{playerName}}: ¿qué ves tú en alguien tan reservada como yo?"
+    },
+    "PersonalOpt1": {
+      "en": "Your sharp brilliant mind and hidden warmth",
+      "es": "Tu mente brillante y ese corazón honesto detrás"
+    },
+    "PersonalOpt2": {
+      "en": "Because being real beats fake small talk every time",
+      "es": "Que contigo todo es auténtico y sin poses falsas"
+    },
+    "PersonalReply1": {
+      "en": "W-what?! Nobody says that straight to my face without blushing... jerk. Thank you.",
+      "es": "¿Q-qué dices?! Me pones roja tan directo... gracias, de verdad."
+    },
+    "PersonalReply2": {
+      "en": "Hmph... yeah, fake politeness stinks. Stick around whenever you want, okay?",
+      "es": "Hmph... sí, la falsedad cansa. Puedes pasar a verme cuando quieras, ¿vale?"
+    },
+    "PreferredDestinations": [ "ArchaeologyHouse", "Mountain", "Forest" ],
+    "PreferredAnimations": [ "maddie_laugh", "maddie_idle" ]
+  },
+  "Maive": {
+    "Opening": {
+      "en": "Peaceful scenes demand refined appreciation, {{playerName}}, and your presence suits the hour admirably.",
+      "es": "Las buenas vistas exigen apreciación serena, {{playerName}}, y tu compañía encaja de maravilla con la tarde."
+    },
+    "Story": {
+      "en": "A lifetime building enterprises still bows before one genuine pause beneath quiet skies.",
+      "es": "Toda una vida de proyectos también se inclina ante una pausa sincera bajo cielos tranquilos."
+    },
+    "Story2": {
+      "en": "Even Sonny admits walking country trails refreshes sharper instincts than endless boardroom marble.",
+      "es": "Hasta Sonny reconoce que caminar por senderos tranquilos despeja más la mente que cualquier reunión."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Do maintain such poised company next we cross paths.",
+      "es": "Sigamos compartiendo tan grata conversación en la próxima."
+    },
+    "PersonalQuestion": {
+      "en": "Tell me thoughtfully, {{playerName}}: what defines genuine class in someone building a life?",
+      "es": "Dime con sinceridad, {{playerName}}: ¿qué define la verdadera elegancia de carácter?"
+    },
+    "PersonalOpt1": {
+      "en": "Quiet generosity matched by steady poise",
+      "es": "Generosidad discreta y trato respetuoso"
+    },
+    "PersonalOpt2": {
+      "en": "Treating everyone around you with real warmth",
+      "es": "Tratar con calidez real a todo el mundo"
+    },
+    "PersonalReply1": {
+      "en": "Impeccable discernment! Elegance shines deepest in restraint and grace.",
+      "es": "¡Criterio impecable! La distinción brilla en el respeto sereno."
+    },
+    "PersonalReply2": {
+      "en": "Indeed... golden manners flourish straight from genuine kindness.",
+      "es": "Ciertamente... los mejores modales brotan de un corazón noble."
+    },
+    "PreferredDestinations": [ "Town", "ArchaeologyHouse", "Saloon" ],
+    "PreferredAnimations": [ "maive_idle" ]
+  },
+  "Malaya": {
+    "Opening": {
+      "en": "Getting away from busy shifts for a serene view clears out every lingering ache, {{playerName}}.",
+      "es": "Salir tras turnos intensos para contemplar un paisaje sereno quita todo cansancio, {{playerName}}."
+    },
+    "Story": {
+      "en": "Looking after people keeps you strong on the outside, yet soft moments with someone caring restore your spirit.",
+      "es": "Cuidar siempre de los demás cansa por dentro, así que un rato tranquilo contigo repara el alma."
+    },
+    "Story2": {
+      "en": "After late hospital hours, quiet music and salty breeze wash tiredness off better than sleep.",
+      "es": "Después de turnos largos, el aire puro y una buena charla curan el cansancio al instante."
+    },
+    "Romance": {
+      "en": "Just standing hand in hand near you makes my whole heart breathe easier, {{playerName}}.",
+      "es": "Solo tenerte tan cerca hace que mi corazón respire muchísimo más tranquilo, {{playerName}}."
+    },
+    "Closing": {
+      "en": "Take gentle care of yourself today, okay?",
+      "es": "Cuídate muchísimo hoy, ¿de acuerdo?"
+    },
+    "PersonalQuestion": {
+      "en": "Between busy schedules taking care of others, {{playerName}}, how do you unwind properly?",
+      "es": "Entre tantos días cuidando todo a tu alrededor, {{playerName}}, ¿qué te devuelve calma real?"
+    },
+    "PersonalOpt1": {
+      "en": "Unwinding quietly with someone who listens",
+      "es": "Descansar tranquilo junto a quien te escucha"
+    },
+    "PersonalOpt2": {
+      "en": "Long walks under twilight air until mind clears",
+      "es": "Paseos lentos al caer la tarde sin reloj"
+    },
+    "PersonalReply1": {
+      "en": "Aww... any evening spent just with you hits reset on everything.",
+      "es": "Ay... compartir la tarde contigo reinicia el ánimo entero."
+    },
+    "PersonalReply2": {
+      "en": "Yes! Deep evening breaths restore every tired bone.",
+      "es": "¡Sí! Respirar hondo bajo la brisa repara por completo."
+    },
+    "PreferredDestinations": [ "Mountain", "Beach", "Town" ],
+    "PreferredAnimations": [ "malaya_laugh", "malaya_idle" ]
+  },
+  "Naomi": {
+    "Opening": {
+      "en": "Having a calm moment outside without rushing anywhere feels surprisingly peaceful, {{playerName}}!",
+      "es": "¡Tener un momento tranquilo sin correr a ningún lado se siente tan apacible, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Watching my family grow while finding real friendship here makes every mile worth it.",
+      "es": "Ver crecer a los míos mientras encuentro amigos sinceros aquí hace que todo valga la pena."
+    },
+    "Story2": {
+      "en": "Moving back home carried bittersweet aches, yet warm Ridgeside kindness quickly stitched us whole again.",
+      "es": "Volver al pueblo trajo recuerdos intensos, pero tanto cariño vecinal nos devolvió el hogar."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Wishing you bright calm all week long!",
+      "es": "¡Te deseo mucha calma bonita toda la semana!"
+    },
+    "PersonalQuestion": {
+      "en": "Thinking gently about family roots, {{playerName}}: what makes coming home feel sweetest after years away?",
+      "es": "Pensando en los lazos del corazón, {{playerName}}: ¿qué hace tan dulce volver a casa?"
+    },
+    "PersonalOpt1": {
+      "en": "Knowing open arms wait steadily beside the hearth",
+      "es": "Saber que el cariño sigue intacto esperándote"
+    },
+    "PersonalOpt2": {
+      "en": "Creating brand-new memories over familiar landscapes",
+      "es": "Crear recuerdos nuevos en paisajes queridos"
+    },
+    "PersonalReply1": {
+      "en": "Yes... love outlasts every quiet mile between seasons.",
+      "es": "Sí... el cariño auténtico resiste cualquier distancia."
+    },
+    "PersonalReply2": {
+      "en": "Lovely perspective! Fresh dawn paints old trees bright anew.",
+      "es": "¡Preciosa forma de verlo! Cada amanecer renueva la vida."
+    },
+    "PreferredDestinations": [ "Town", "Forest", "Beach" ],
+    "PreferredAnimations": [ "naomi_idle" ]
+  },
+  "Olga": {
+    "Opening": {
+      "en": "My oh my, {{playerName}}, even crisp air tastes sweeter when shared with someone warmhearted!",
+      "es": "¡Vaya, {{playerName}}, hasta la brisa fresca sabe más dulce compartida con alguien tan amable!"
+    },
+    "Story": {
+      "en": "Baking pastries and humming beside the hearth stays joyful, especially with neighbors visiting like family.",
+      "es": "Hornear panecillos en casa alegra los días, sobre todo cuando amigos como tú vienen a saludar."
+    },
+    "Story2": {
+      "en": "Tucked warm spiced cinnamon buns inside Bert's pocket today so he smiles halfway through chores!",
+      "es": "¡Hoy le guardé bollos de canela tibios a Bert en el bolsillo para darle una sorpresa!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Come say hello up at Pika's place whenever you smell cinnamon!",
+      "es": "¡Sube a saludarnos siempre que huelas pan recién horneado!"
+    },
+    "PersonalQuestion": {
+      "en": "Ooh, kitchen question from my heart, {{playerName}}: savory mountain stew or buttery honey brioche?",
+      "es": "¡Pregunta golosa para ti, {{playerName}}: guiso calentito de la posada o pan dulce con mantequilla?"
+    },
+    "PersonalOpt1": {
+      "en": "Flaky golden honey pastry melting warm",
+      "es": "Panecillos dulces dorados y tiernos"
+    },
+    "PersonalOpt2": {
+      "en": "Savory comforting hearth stew after chores",
+      "es": "Un guiso rico y reconfortante del hogar"
+    },
+    "PersonalReply1": {
+      "en": "Oh, honey sweetness makes every single smile bloom twice!",
+      "es": "¡Oh, un bocado dulce alegra el alma entera!"
+    },
+    "PersonalReply2": {
+      "en": "Nothing sticks to your ribs better on cool mountain evenings!",
+      "es": "¡Nada reconforta tanto en tardes frescas por la montaña!"
+    },
+    "PreferredDestinations": [ "Town", "Forest", "Saloon" ],
+    "PreferredAnimations": [ "olga_idle" ]
+  },
+  "Paula": {
+    "Opening": {
+      "en": "Quiet greenery and fresh air beat clinic hallways any afternoon, {{playerName}}.",
+      "es": "El aire libre y la calma superan cualquier pasillo de clínica por las tardes, {{playerName}}."
+    },
+    "Story": {
+      "en": "Caring for Ridgeside patients keeps my heart full, yet hanging out with you keeps me grounded.",
+      "es": "Atender pacientes llena mucho, y pasar ratos tranquilos contigo me recarga de verdad."
+    },
+    "Story2": {
+      "en": "Whenever clinic shifts turn overwhelming, hearing Flor laugh softly over chamomile tea centers everybody.",
+      "es": "En los días más intensos de la clínica, compartir una infusión tranquila devuelve el equilibrio."
+    },
+    "Romance": {
+      "en": "Honestly, {{playerName}}, you're the only prescription for happiness my heart ever needed.",
+      "es": "Sinceramente, {{playerName}}, eres todo el bienestar que mi corazón necesitaba encontrar."
+    },
+    "Closing": {
+      "en": "Keep healthy and hydrated out on the trails!",
+      "es": "¡Cuida mucho tu salud en cada caminata!"
+    },
+    "PersonalQuestion": {
+      "en": "Nurse check-in with affection, {{playerName}}: remember drinking plenty of water during harvest crunch?",
+      "es": "Revisión médica con cariño, {{playerName}}: ¿prometes cuidarte y no agotarte de más en la granja?"
+    },
+    "PersonalOpt1": {
+      "en": "Always — resting well beside folks I love",
+      "es": "Prometido — descansando junto a quien quiero"
+    },
+    "PersonalOpt2": {
+      "en": "Only if my favorite nurse walks with me daily",
+      "es": "Solo si me acompañas a tomar aire a menudo"
+    },
+    "PersonalReply1": {
+      "en": "Good answer! Healthy habits let us share a hundred seasons together.",
+      "es": "¡Excelente respuesta! Cuidarte asegura muchísimos días felices."
+    },
+    "PersonalReply2": {
+      "en": "Hehe... consider my daily checkups officially booked just for you!",
+      "es": "¡Jeje... considera mis paseos contigo oficialmente recetados!"
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "ArchaeologyHouse" ],
+    "PreferredAnimations": [ "paula_laugh", "paula_idle" ]
+  },
+  "Philip": {
+    "Opening": {
+      "en": "Getting outdoors clears tension better than any prescription, {{playerName}}. Glad we came.",
+      "es": "Salir a tomar aire quita el estrés mejor que cualquier receta, {{playerName}}. Qué bueno que vinimos."
+    },
+    "Story": {
+      "en": "After clinic checklists and long studies, unwinding beside an easygoing friend hits the spot.",
+      "es": "Después de consultas y lecturas, despejarse con un buen amigo sienta espectacular."
+    },
+    "Story2": {
+      "en": "Believe it or not, secretly sketching comic panels helps me unwind faster than caffeine ever did!",
+      "es": "¡Aunque parezca broma, dibujar bocetos en mis ratos libres relaja más que diez tazas de café!"
+    },
+    "Romance": {
+      "en": "My heart doesn't follow medical logic at all when you smile like that, {{playerName}}.",
+      "es": "Mi corazón pierde toda lógica médica en cuanto me sonríes así, {{playerName}}."
+    },
+    "Closing": {
+      "en": "Look after yourself and let's walk again soon!",
+      "es": "¡Cuídate mucho y repitamos el paseo pronto!"
+    },
+    "PersonalQuestion": {
+      "en": "Doctor off-duty confession, {{playerName}}: serious encyclopedias or awesome fantasy adventures at night?",
+      "es": "Confesión fuera de consulta, {{playerName}}: ¿lectura seria o buenas aventuras de fantasía por la noche?"
+    },
+    "PersonalOpt1": {
+      "en": "Wild heroic fantasy journeys every single time!",
+      "es": "¡Aventuras épicas de fantasía sin dudar!"
+    },
+    "PersonalOpt2": {
+      "en": "Calm nature lore paired with warm herbal tea",
+      "es": "Historias tranquilas de la tierra con un buen té"
+    },
+    "PersonalReply1": {
+      "en": "Haha!! Fellow geek soul confirmed! Let's trade favorites soon!",
+      "es": "¡¡Jaja!! ¡Alma afín confirmada! Te presto mis favoritas."
+    },
+    "PersonalReply2": {
+      "en": "Peaceful grounding... balances busy clinic weeks wonderfully.",
+      "es": "Calma sabia... equilibra de maravilla semanas intensas."
+    },
+    "PreferredDestinations": [ "ArchaeologyHouse", "Mountain", "Forest" ],
+    "PreferredAnimations": [ "philip_laugh", "philip_idle" ]
+  },
+  "Pika": {
+    "Opening": {
+      "en": "Ah, {{playerName}}! Stepping out from behind the kitchen counter gives a chef fresh inspiration!",
+      "es": "¡Ah, {{playerName}}! Salir un momento de la cocina le da a cualquier chef nueva inspiración!"
+    },
+    "Story": {
+      "en": "Good food binds neighbors together, and peaceful afternoons like this season the whole day right.",
+      "es": "La buena comida une al pueblo, y ratos tranquilos como este sazonan el día perfecto."
+    },
+    "Story2": {
+      "en": "Catching scents of wild herbs blowing off sunny hillsides always inspires next Friday's restaurant special!",
+      "es": "¡El aroma a hierbas frescas en la colina siempre me inspira el nuevo plato especial de la semana!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Stop by the restaurant anytime for a hearty bite!",
+      "es": "¡Pásate por el restaurante cuando gustes probar algo delicioso!"
+    },
+    "PersonalQuestion": {
+      "en": "Chef's spontaneous taste poll, {{playerName}}! Should tomorrow's ridge dish be sweet, smoky, or zesty?",
+      "es": "¡Encuesta culinaria, {{playerName}}! ¿El plato estrella de mañana debería ser dulce, ahumado o especiado?"
+    },
+    "PersonalOpt1": {
+      "en": "Savory smoky grill glazed in island honey",
+      "es": "Ahumado sabroso con toque dulce de miel"
+    },
+    "PersonalOpt2": {
+      "en": "Bright zesty garden herbs over crisp greens",
+      "es": "Hierbas frescas del huerto llenas de aroma"
+    },
+    "PersonalReply1": {
+      "en": "Ooh!! Mouthwatering balance right off the skillet! Brilliant!",
+      "es": "¡Ohh!! ¡Equilibrio perfecto directo del fuego! ¡Ideaza!"
+    },
+    "PersonalReply2": {
+      "en": "Clean fresh magic! Ridgeside guests will clean every plate!",
+      "es": "¡Frescura pura! ¡No van a dejar ni una miga en el plato!"
+    },
+    "PreferredDestinations": [ "Saloon", "Town", "Beach" ],
+    "PreferredAnimations": [ "pika_idle" ]
+  },
+  "Raeriyala": {
+    "Opening": {
+      "en": "The ancient harmony of the woods whispers softly alongside faithful friends, {{playerName}}.",
+      "es": "La antigua armonía del bosque susurra con dulzura junto a corazones leales, {{playerName}}."
+    },
+    "Story": {
+      "en": "Across long seasons guarding sacred glades, rare mortal kindness always brings wonder.",
+      "es": "Tras largas eras cuidando los claros sagrados, la bondad sincera sigue conmoviendo."
+    },
+    "Story2": {
+      "en": "Centuries spin like autumn leaves over forest ponds, yet gentle stewards leave timeless golden echoes.",
+      "es": "Los siglos pasan como hojas sobre el agua, pero quien cuida el bosque deja luz duradera."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Walk gracefully beneath the emerald canopy.",
+      "es": "Camina en gracia bajo el amparo del bosque."
+    },
+    "PersonalQuestion": {
+      "en": "Tell an ancient spirit gently, {{playerName}}: when trees fall silent at twilight, what do you feel?",
+      "es": "Responde ante el susurro del bosque, {{playerName}}: al callar los árboles al ocaso, ¿qué percibes?"
+    },
+    "PersonalOpt1": {
+      "en": "A timeless breath uniting earth, sky, and heart",
+      "es": "Un pulso sereno que une tierra y alma"
+    },
+    "PersonalOpt2": {
+      "en": "Deep gratitude for peaceful roots sheltering life",
+      "es": "Gratitud profunda por la vida que nos abriga"
+    },
+    "PersonalReply1": {
+      "en": "Your spirit hears true melody... few mortals walk so gracefully.",
+      "es": "Tu espíritu escucha la melodía antigua... pocos caminan con tal armonía."
+    },
+    "PersonalReply2": {
+      "en": "Blessed heart... sacred groves flourish gently beside your care.",
+      "es": "Noble corazón... la arboleda entera sonríe ante tu cuidado."
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "ArchaeologyHouse" ],
+    "PreferredAnimations": [ "raeriyala_idle" ]
+  },
+  "Richard": {
+    "Opening": {
+      "en": "Taking a clean pause outdoors beats sorting logistics endlessly, {{playerName}}.",
+      "es": "Hacer una pausa tranquila al aire libre supera mil horas revisando papeles, {{playerName}}."
+    },
+    "Story": {
+      "en": "Seeing neighbors help each other across town and mountain reminds me why work matters.",
+      "es": "Ver cómo nos apoyamos entre vecinos recuerda por qué merece la pena tanto esfuerzo."
+    },
+    "Story2": {
+      "en": "Balancing transport crates across the valley gets hectic, yet clear scenery drops blood pressure immediately.",
+      "es": "Coordinar envíos por toda la región cansa, pero respirar aire puro aquí devuelve la calma."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Always good stepping outside with you!",
+      "es": "¡Siempre da gusto salir a despejarse contigo!"
+    },
+    "PersonalQuestion": {
+      "en": "Practical life strategy check, {{playerName}}: plan every step ahead or adapt smoothly mid-day?",
+      "es": "Estrategia diaria, {{playerName}}: ¿planificar cada detalle temprano o adaptarse en el camino?"
+    },
+    "PersonalOpt1": {
+      "en": "Solid morning checklists save hours later",
+      "es": "Un buen plan claro desde el alba ahorra líos"
+    },
+    "PersonalOpt2": {
+      "en": "Stay flexible and welcome happy surprises",
+      "es": "Mantenerse flexible para disfrutar imprevistos"
+    },
+    "PersonalReply1": {
+      "en": "Hah! Music to an organizer's ears! Clean logistics win the week.",
+      "es": "¡Ja! ¡Así se habla! Un buen orden hace el día ligero."
+    },
+    "PersonalReply2": {
+      "en": "True! Best discoveries happen right off the beaten schedule.",
+      "es": "¡Cierto! Los mejores momentos ocurren fuera del horario rígido."
+    },
+    "PreferredDestinations": [ "Town", "Saloon", "Mountain" ],
+    "PreferredAnimations": [ "richard_idle" ]
+  },
+  "Sari": {
+    "Opening": {
+      "en": "Calm streams of thought flow cleanest when sharing stillness outdoors, {{playerName}}.",
+      "es": "La mente fluye en paz cuando compartimos un instante sereno al aire libre, {{playerName}}."
+    },
+    "Story": {
+      "en": "Observing small patterns across earth and sky reveals quiet beauty waiting everywhere.",
+      "es": "Observar los pequeños patrones de la tierra y el cielo revela belleza en cada esquina."
+    },
+    "Story2": {
+      "en": "Following misty dawn trails teaches silence louder than crowded squares ever could.",
+      "es": "Recorrer senderos en calma al alba enseña respuestas que nunca suenan entre multitudes."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Stay curious and keep discovering peace around you.",
+      "es": "Mantén la curiosidad y encuentra calma en cada paso."
+    },
+    "PersonalQuestion": {
+      "en": "Observe the sky and soil calmly, {{playerName}}: do patterns comfort the spirit or spark curiosity?",
+      "es": "Observa en quietud, {{playerName}}: ¿los ciclos de la tierra te dan sosiego o curiosidad por saber más?"
+    },
+    "PersonalOpt1": {
+      "en": "Comfort knowing seasons return reliably",
+      "es": "Sosiego al ver que todo ciclo vuelve en armonía"
+    },
+    "PersonalOpt2": {
+      "en": "Curiosity unraveling every secret beneath leaves",
+      "es": "Curiosidad por descubrir cada secreto oculto"
+    },
+    "PersonalReply1": {
+      "en": "Peaceful certainty anchors weary spirits across storms.",
+      "es": "Esa certeza serena sostiene firme el ánimo."
+    },
+    "PersonalReply2": {
+      "en": "Bright mind! Every stone and petal whispers new lessons.",
+      "es": "¡Mente despierta! Cada hoja y sendero enseña algo nuevo."
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "ArchaeologyHouse" ],
+    "PreferredAnimations": [ "sari_idle" ]
+  },
+  "Sean": {
+    "Opening": {
+      "en": "Hey, kicking back and admiring the scenery beats overthinking everything, {{playerName}}!",
+      "es": "¡Oye, relajarse un rato admirando el paisaje es mil veces mejor que preocuparse de más, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Trying out new hobbies keeps life exciting, yet hanging out with real friends takes top prize.",
+      "es": "Probar pasatiempos nuevos entretiene mucho, pero pasear con buenos amigos gana por goleada."
+    },
+    "Story2": {
+      "en": "Even sweeping floors feels way lighter when whistling tunes we heard over at Gus's Saloon.",
+      "es": "Hasta la jornada pesada pasa rápido tarareando canciones buenas y pensando en salir pronto."
+    },
+    "Romance": {
+      "en": "Wait, being this close to you makes every plan for tomorrow look way brighter, {{playerName}}!",
+      "es": "¡Tenerte tan cerca hace que todos los planes del mañana se vean mil veces mejor, {{playerName}}!"
+    },
+    "Closing": {
+      "en": "Catch you on the next chill hangout!",
+      "es": "¡Nos vemos en el próximo paseo tranquilo!"
+    },
+    "PersonalQuestion": {
+      "en": "Zero-stress poll, {{playerName}}: if we tried a fun new hobby together this weekend, what sounds coolest?",
+      "es": "Encuesta sin presiones, {{playerName}}: si probáramos un pasatiempo nuevo juntos, ¿qué te gustaría?"
+    },
+    "PersonalOpt1": {
+      "en": "Cooking wild campfire experiments outdoors",
+      "es": "Improvisar recetas divertidas al aire libre"
+    },
+    "PersonalOpt2": {
+      "en": "Stargazing with chill music under night breeze",
+      "es": "Mirar estrellas escuchando buena música"
+    },
+    "PersonalReply1": {
+      "en": "Haha, awesome!! Even burnt marshmallows taste epic beside friends!",
+      "es": "¡Jaja, genial!! ¡Hasta si algo sale regular nos reiremos a gusto!"
+    },
+    "PersonalReply2": {
+      "en": "Smooth vibes! Just tell me when and I'll bring warm blankets!",
+      "es": "¡Planazo relajado! Solo avisa y llevo mantas cómodas."
+    },
+    "PreferredDestinations": [ "Town", "Saloon", "Beach" ],
+    "PreferredAnimations": [ "sean_laugh", "sean_idle" ]
+  },
+  "Shanice": {
+    "Opening": {
+      "en": "Every fine moment deserves savoring unhurriedly, {{playerName}} — especially with sparkling company.",
+      "es": "Todo buen instante merece saborearse sin prisas, {{playerName}}, y más en tan grata compañía."
+    },
+    "Story": {
+      "en": "Life thrives when kindness meets quiet joy beneath open skies.",
+      "es": "La vida brilla cuando la generosidad se mezcla con la alegría bajo el cielo abierto."
+    },
+    "Story2": {
+      "en": "Watching Ridgeside flourish alongside Pelican Town feels like watching sunlit flowers open all at once.",
+      "es": "Ver florecer juntos a Ridgeside y Pueblo Pelícano da tanta alegría como la primera flor de primavera."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Keep shining wonderfully wherever you go!",
+      "es": "¡Sigue brillando así adondequiera que vayas!"
+    },
+    "PersonalQuestion": {
+      "en": "Share a warm secret smile with me, {{playerName}}: what small joy elevates your everyday mood instantly?",
+      "es": "Cuéntame un detalle bonito, {{playerName}}: ¿qué alegría pequeña ilumina tu día al instante?"
+    },
+    "PersonalOpt1": {
+      "en": "Warm greetings and friendly smiles everywhere",
+      "es": "Saludos sinceros y sonrisas amables en el pueblo"
+    },
+    "PersonalOpt2": {
+      "en": "Fresh flowers brightening porches after sunrise",
+      "es": "Flores bonitas alegrando cada camino al alba"
+    },
+    "PersonalReply1": {
+      "en": "Marvelous! Warmth multiplies swiftly across generous hearts!",
+      "es": "¡Maravilloso! La calidez siempre se multiplica cuando se comparte."
+    },
+    "PersonalReply2": {
+      "en": "Charming taste — blossoms celebrate every sunlit morning effortlessly.",
+      "es": "¡Qué encanto! Las flores celebran cada día sin pedir nada."
+    },
+    "PreferredDestinations": [ "Town", "Beach", "Saloon" ],
+    "PreferredAnimations": [ "shanice_idle" ]
+  },
+  "Shiro": {
+    "Opening": {
+      "en": "Out in open air with someone reliable by my side, even heavy days turn lighter, {{playerName}}.",
+      "es": "Aquí fuera junto a alguien en quien confío, hasta los días pesados se vuelven ligeros, {{playerName}}."
+    },
+    "Story": {
+      "en": "I take protecting Yuuma seriously, so sharing honest trust with you really lifts my heart.",
+      "es": "Me tomo muy en serio cuidar de Yuuma, así que contar con tu amistad alivia muchísimo."
+    },
+    "Story2": {
+      "en": "Even aching legs settle calmly now when Yuuma runs safely across sunny Ridgeside pastures smiling wide.",
+      "es": "Cualquier cansancio o dolor se olvida cuando veo a Yuuma correr feliz y tranquilo por aquí."
+    },
+    "Romance": {
+      "en": "Stay right beside me like this, {{playerName}}... you feel like the peace I never dared hope for.",
+      "es": "Quédate así cerca de mí, {{playerName}}... eres esa paz que jamás me atreví a esperar."
+    },
+    "Closing": {
+      "en": "Thanks for watching out with me today, friend.",
+      "es": "Gracias por compartir este respiro conmigo hoy, amigo."
+    },
+    "PersonalQuestion": {
+      "en": "Can I trust you with one honest thought, {{playerName}}? Does carrying heavy family duty ever make folks miss dreaming?",
+      "es": "¿Te confío algo sincero, {{playerName}}? ¿Crees que quien cuida tanto de los suyos también merece soñar por sí mismo?"
+    },
+    "PersonalOpt1": {
+      "en": "Yes — your own happiness matters just as deeply",
+      "es": "Claro que sí — tu felicidad también importa mucho"
+    },
+    "PersonalOpt2": {
+      "en": "Let me help share part of that weight beside you",
+      "es": "Déjame ayudarte a cargar ese peso a tu lado"
+    },
+    "PersonalReply1": {
+      "en": "Hearing those words straight from you helps me breathe deeper...",
+      "es": "Escuchar eso de tu boca me ayuda a respirar mucho más tranquilo..."
+    },
+    "PersonalReply2": {
+      "en": "Wait... having someone this steady beside me changes everything.",
+      "es": "Tener a alguien tan leal a mi lado lo cambia todo."
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "Town" ],
+    "PreferredAnimations": [ "shiro_laugh", "shiro_idle" ]
+  },
+  "Sonny": {
+    "Opening": {
+      "en": "Now this is proper atmosphere, {{playerName}}! Not even a grand estate matches clear skies and good company.",
+      "es": "¡Esto sí que tiene estilo, {{playerName}}! Ni la mansión más grande iguala un cielo limpio y buena compañía."
+    },
+    "Story": {
+      "en": "Decades teaching values of honor mean little compared to enjoying honest warmth right here.",
+      "es": "Tantos años entre etiquetas y protocolo palidecen ante un rato auténtico y sereno."
+    },
+    "Story2": {
+      "en": "Standing outdoors away from porcelain teacups lets a proud gentleman actually stretch his shoulders properly!",
+      "es": "¡Estar aquí fuera lejos de las tazas de porcelana permite por fin estirar los hombros a gusto!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Carry yourself well until our next meeting!",
+      "es": "¡Cuídate mucho hasta nuestro próximo encuentro!"
+    },
+    "PersonalQuestion": {
+      "en": "Consider an elder's question, {{playerName}}: between sterling reputation and genuine contentment, which stands taller?",
+      "es": "Considera esta reflexión, {{playerName}}: entre prestigio intachable o dicha sencilla, ¿cuál prevalece?"
+    },
+    "PersonalOpt1": {
+      "en": "Living faithfully with no regrets in conscience",
+      "es": "Vivir fiel a tus valores sin arrepentimientos"
+    },
+    "PersonalOpt2": {
+      "en": "Genuine warmth outlasts glittering applause",
+      "es": "La calidez sincera dura más que los aplausos"
+    },
+    "PersonalReply1": {
+      "en": "Magnificent answer! Honor dwells inside character, not crystal halls.",
+      "es": "¡Magnífica respuesta! El honor vive en la persona, no en los salones."
+    },
+    "PersonalReply2": {
+      "en": "Spoken cleanly! You wear timeless nobility effortlessly.",
+      "es": "¡Verdad absoluta! Llevas una nobleza natural admirable."
+    },
+    "PreferredDestinations": [ "Town", "Saloon", "Beach" ],
+    "PreferredAnimations": [ "sonny_idle" ]
+  },
+  "Torts": {
+    "Opening": {
+      "en": "Mmmm... move slowly like old river stones, {{playerName}}, and the whole valley reveals its secrets.",
+      "es": "Mmmm... camina sin prisa como piedra antigua de río, {{playerName}}, y el valle te contará sus secretos."
+    },
+    "Story": {
+      "en": "Centuries drift past my shell like gentle ripples, yet kind travelers remain timeless treasures.",
+      "es": "Los siglos pasan sobre mi caparazón como brisa suave, pero un alma amable siempre conmueve."
+    },
+    "Story2": {
+      "en": "Young squirrels sprint wildly past my garden spot daily... oh, hurry never added a single extra dawn!",
+      "es": "Todo el mundo corre tanto hoy en día... y sin embargo la prisa jamás alargó una sola mañana."
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Take your sweet time along the path, young friend.",
+      "es": "Tómate tu tiempo en el sendero, joven amigo."
+    },
+    "PersonalQuestion": {
+      "en": "Heh... slow tortoise wisdom question, young {{playerName}}: what hurrying mistake do folks regret fastest?",
+      "es": "Jeh... dime despacito, joven {{playerName}}: ¿qué se pierde más cuando corremos demasiado?"
+    },
+    "PersonalOpt1": {
+      "en": "Missing gentle moments shining right beside us",
+      "es": "Dejar pasar los instantes lindos justo al lado"
+    },
+    "PersonalOpt2": {
+      "en": "Forgetting to savor peaceful afternoon sunbeams",
+      "es": "Olvidar saborear el sol tibio de la tarde"
+    },
+    "PersonalReply1": {
+      "en": "Mmmm... sharp eyes, calm heart. You walk wisely, youngster.",
+      "es": "Mmmm... vista clara y corazón sereno. Caminas bien."
+    },
+    "PersonalReply2": {
+      "en": "Yeees... warm sunny stones heal slow hearts wonderfully.",
+      "es": "Síii... el sol tranquilo en paz repara todo por dentro."
+    },
+    "PreferredDestinations": [ "Forest", "Mountain", "Beach" ],
+    "PreferredAnimations": [ "torts_idle" ]
+  },
+  "Trinnie": {
+    "Opening": {
+      "en": "Ooh, look how pretty everything shines outside when we explore together, {{playerName}}!",
+      "es": "¡Ooh, mira qué lindo brilla todo aquí fuera cuando exploramos juntos, {{playerName}}!"
+    },
+    "Story": {
+      "en": "I'm gonna draw a giant picture of this cool place when we get back!",
+      "es": "¡Voy a hacer un dibujo enorme de este lugar tan bonito cuando volvamos!"
+    },
+    "Story2": {
+      "en": "I packed twelve rainbow crayons today so not even sunset sparkles escape my sketchbook!",
+      "es": "¡Hoy traje mis doce colores brillantes para dibujar hasta las nubes bonitas!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Yay! Thanks for exploring with me!",
+      "es": "¡Genial! ¡Gracias por explorar conmigo!"
+    },
+    "PersonalQuestion": {
+      "en": "Oooh! Big art question for my sketchbook, {{playerName}}: what huge thing should I paint center page?!",
+      "es": "¡Pregunta gigante para mi dibujo, {{playerName}}: qué dibujamos justo en el centro de la hoja?!"
+    },
+    "PersonalOpt1": {
+      "en": "Us waving happily beside glowing valley trees!",
+      "es": "¡Nosotros saludando bajo árboles brillantes!"
+    },
+    "PersonalOpt2": {
+      "en": "A giant rainbow castle with friendly Junimos!",
+      "es": "¡Un castillo mágico lleno de Junimos!"
+    },
+    "PersonalReply1": {
+      "en": "Yay!! Gold star centerpiece!! Wait till Aunt Lenny sees it!",
+      "es": "¡Síii!! ¡El dibujo más bonito del mundo!"
+    },
+    "PersonalReply2": {
+      "en": "Ooh sparklies everywhere!! Best imagination adventure ever!",
+      "es": "¡Ooh, mil colores mágicos! ¡La mejor obra de arte!"
+    },
+    "PreferredDestinations": [ "Forest", "Beach", "Town" ],
+    "PreferredAnimations": [ "trinnie_laugh", "trinnie_idle" ]
+  },
+  "Ysabelle": {
+    "Opening": {
+      "en": "Step gracefully and breathe deeply, {{playerName}} — even off the dance stage, life moves in rhythm!",
+      "es": "¡Respira hondo y suéltate, {{playerName}}! ¡Incluso fuera del escenario de baile la vida tiene su propio ritmo!"
+    },
+    "Story": {
+      "en": "Practicing ballet steps endlessly leaves my ankles sore, so taking a relaxed moment with you feels magical.",
+      "es": "Practicar ballet tantas horas cansa bastante, así que descansar un rato contigo se siente mágico."
+    },
+    "Story2": {
+      "en": "Twirling beneath golden autumn leaves taught my footing grace no cold hardwood mirror studio ever matched.",
+      "es": "Girar bajo hojas de otoño enseñó a mis pasos una libertad que ningún espejo de ensayo iguala."
+    },
+    "Romance": {
+      "en": "No spotlight on stage shines remotely as bright as dancing through life alongside you, {{playerName}}!",
+      "es": "¡Ningún foco del escenario brilla tanto como recorrer la vida de tu mano, {{playerName}}!"
+    },
+    "Closing": {
+      "en": "Save me the next dance whenever music starts!",
+      "es": "¡Resérvame el próximo baile en cuanto suene música!"
+    },
+    "PersonalQuestion": {
+      "en": "Imagine bright stage lights faded out just for us, {{playerName}}: slow waltz or joyful carefree spin?",
+      "es": "Imagina que la música suena solo para los dos, {{playerName}}: ¿vals sereno o giro alegre sin reglas?"
+    },
+    "PersonalOpt1": {
+      "en": "A gentle close waltz swaying together slowly",
+      "es": "Un vals suave y cercano paso a paso"
+    },
+    "PersonalOpt2": {
+      "en": "Joyful laughing twirls across open grass!",
+      "es": "¡Giros alegres riendo bajo el cielo abierto!"
+    },
+    "PersonalReply1": {
+      "en": "Oh... hold my hand closely and don't let the song finish early.",
+      "es": "Oh... sujétame cerca y ojalá la música dure toda la tarde."
+    },
+    "PersonalReply2": {
+      "en": "Haha!! Yes!! Dancing pure joy beats crisp technique twice over!",
+      "es": "¡¡Jaja!! ¡Sí! ¡Bailar de pura alegría gana a cualquier pose!"
+    },
+    "PreferredDestinations": [ "Town", "Beach", "Saloon" ],
+    "PreferredAnimations": [ "ysabelle_dance", "ysabelle_laugh", "ysabelle_idle" ]
+  },
+  "Yuuma": {
+    "Opening": {
+      "en": "It's super calming walking quietly outdoors right beside you, {{playerName}}!",
+      "es": "¡Se siente súper tranquilo caminar en calma al aire libre justo a tu lado, {{playerName}}!"
+    },
+    "Story": {
+      "en": "Big brother Shiro always worries lots, so having you as our friend makes everything brighter.",
+      "es": "Mi hermano Shiro siempre se preocupa mucho, pero tenerte de amigo alegra todo el día."
+    },
+    "Story2": {
+      "en": "I folded three tiny paper cranes this morning to leave lucky surprises inside Shiro's jacket!",
+      "es": "¡Hoy doblé tres pajaritos de papel de la suerte para esconderlos en el abrigo de Shiro!"
+    },
+    "Romance": {},
+    "Closing": {
+      "en": "Thank you for hanging out with me today!",
+      "es": "¡Muchas gracias por acompañarme hoy!"
+    },
+    "PersonalQuestion": {
+      "en": "Um, quiet afternoon question, {{playerName}}: if we wished gently on a glowing paper crane, what wish?",
+      "es": "Oye, pregunta bonita, {{playerName}}: si pidiéramos un deseo en una grulla de papel, ¿qué pedirías?"
+    },
+    "PersonalOpt1": {
+      "en": "Warm peaceful health and smiles for our families",
+      "es": "Mucha salud y sonrisas para nuestros seres queridos"
+    },
+    "PersonalOpt2": {
+      "en": "Lots more sunny days walking together soon!",
+      "es": "¡Muchos más días lindos paseando juntos!"
+    },
+    "PersonalReply1": {
+      "en": "Hehe, me too!! Best wish ever for Shiro and everyone!",
+      "es": "¡Jeje, yo también!! ¡El mejor deseo para todos!"
+    },
+    "PersonalReply2": {
+      "en": "Yay!! Let's always stay best valley friends!",
+      "es": "¡Síii!! ¡Sigamos siendo grandes amigos siempre!"
+    },
+    "PreferredDestinations": [ "Forest", "Town", "Mountain" ],
+    "PreferredAnimations": [ "yuuma_laugh", "yuuma_idle" ]
+  }
+}

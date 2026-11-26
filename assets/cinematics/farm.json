@@ -1,0 +1,52 @@
+{
+  "scenario": "farm",
+  "variants": {
+    "day_clear": {
+      "line1Key": "cinematic.farm.line1",
+      "questions": [
+        {
+          "id": "farm_day_1",
+          "questionKey": "cinematic.farm.question",
+          "opt1Key": "cinematic.farm.opt1",
+          "opt2Key": "cinematic.farm.opt2",
+          "reply1Key": "cinematic.farm.reply1",
+          "reply2Key": "cinematic.farm.reply2"
+        },
+        {
+          "id": "farm_day_2",
+          "questionKey": "cinematic.farm.alt.question",
+          "opt1Key": "cinematic.farm.alt.opt1",
+          "opt2Key": "cinematic.farm.alt.opt2",
+          "reply1Key": "cinematic.farm.alt.reply1",
+          "reply2Key": "cinematic.farm.alt.reply2"
+        }
+      ]
+    },
+    "winter_snow": {
+      "line1Key": "cinematic.farm.winter_snow.line1",
+      "questions": [
+        {
+          "id": "farm_winter_snow_1",
+          "questionKey": "cinematic.farm.winter_snow.question",
+          "opt1Key": "cinematic.farm.winter_snow.opt1",
+          "opt2Key": "cinematic.farm.winter_snow.opt2",
+          "reply1Key": "cinematic.farm.winter_snow.reply1",
+          "reply2Key": "cinematic.farm.winter_snow.reply2"
+        }
+      ]
+    },
+    "rainy_night": {
+      "line1Key": "cinematic.farm.rainy_night.line1",
+      "questions": [
+        {
+          "id": "farm_rainy_night_1",
+          "questionKey": "cinematic.farm.rainy_night.question",
+          "opt1Key": "cinematic.farm.rainy_night.opt1",
+          "opt2Key": "cinematic.farm.rainy_night.opt2",
+          "reply1Key": "cinematic.farm.rainy_night.reply1",
+          "reply2Key": "cinematic.farm.rainy_night.reply2"
+        }
+      ]
+    }
+  }
+}

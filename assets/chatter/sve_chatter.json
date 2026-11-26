@@ -1,0 +1,1535 @@
+{
+  "characters": {
+    "Alesia": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from Castle Village scout patrols, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de patrullas de Aldea Castillo, {farmer}.",
+          "id": "ch_s_alesia_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why steel discipline pairs cleanly with valley peace.",
+          "es": "Caminar con tan buena compania recuerda por que la disciplina combina bien con la paz del valle.",
+          "id": "ch_s_alesia_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Eyes always scan cliff paths calmly—habit never sleeps.",
+          "es": "La mirada siempre recorre senderos—la costumbre no duerme.",
+          "id": "ch_s_alesia_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after Castle Village scout patrols.",
+          "es": "Siguiendo agusto el ritmo del valle tras patrullas de Aldea Castillo.",
+          "id": "ch_s_alesia_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when steel discipline pairs cleanly with valley peace.",
+          "es": "Siempre lindo detenerse un poco porque la disciplina combina bien con la paz del valle.",
+          "id": "ch_s_alesia_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_alesia_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on steel discipline pairs cleanly with valley peace.",
+          "es": "Clima acogedor ideal para recordar que la disciplina combina bien con la paz del valle.",
+          "id": "ch_s_alesia_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_alesia_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_alesia_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_alesia_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_alesia_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_alesia_beach_12"
+        }
+      ]
+    },
+    "Andy": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from stubborn Fairhaven weeding, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de desyerbar tierras de Fairhaven, {farmer}.",
+          "id": "ch_s_andy_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why honest dirt work feeds proud tables.",
+          "es": "Caminar con tan buena compania recuerda por que la tierra trabajada alimenta mesas honradas.",
+          "id": "ch_s_andy_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Could spot fertile strawberry loam blindfolded, buddy.",
+          "es": "Reconoceria buena tierra para fresas con ojos cerrados.",
+          "id": "ch_s_andy_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after stubborn Fairhaven weeding.",
+          "es": "Siguiendo agusto el ritmo del valle tras desyerbar tierras de Fairhaven.",
+          "id": "ch_s_andy_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when honest dirt work feeds proud tables.",
+          "es": "Siempre lindo detenerse un poco porque la tierra trabajada alimenta mesas honradas.",
+          "id": "ch_s_andy_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_andy_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on honest dirt work feeds proud tables.",
+          "es": "Clima acogedor ideal para recordar que la tierra trabajada alimenta mesas honradas.",
+          "id": "ch_s_andy_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_andy_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_andy_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_andy_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_andy_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_andy_beach_12"
+        }
+      ]
+    },
+    "Apples": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from tending glowing aurora orchards, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de cuidar huertos estelares, {farmer}.",
+          "id": "ch_s_apples_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why sunny starfruit melodies echo sweetly.",
+          "es": "Caminar con tan buena compania recuerda por que las melodias de fruta estelar suenan dulces.",
+          "id": "ch_s_apples_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Happy little star-chirp bounces right beside farmer!",
+          "es": "Pequeno saltito estelar alegre junto al granjero!",
+          "id": "ch_s_apples_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after tending glowing aurora orchards.",
+          "es": "Siguiendo agusto el ritmo del valle tras cuidar huertos estelares.",
+          "id": "ch_s_apples_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when sunny starfruit melodies echo sweetly.",
+          "es": "Siempre lindo detenerse un poco porque las melodias de fruta estelar suenan dulces.",
+          "id": "ch_s_apples_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_apples_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on sunny starfruit melodies echo sweetly.",
+          "es": "Clima acogedor ideal para recordar que las melodias de fruta estelar suenan dulces.",
+          "id": "ch_s_apples_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_apples_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_apples_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_apples_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_apples_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_apples_beach_12"
+        }
+      ]
+    },
+    "Camilla": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from arcane envoy councils, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de consejos de enviados arcanos, {farmer}.",
+          "id": "ch_s_camilla_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why ancient charms whisper quietly through tall pines.",
+          "es": "Caminar con tan buena compania recuerda por que viejos hechizos susurran entre pinos altos.",
+          "id": "ch_s_camilla_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Even crisp magic appreciates an uncluttered afternoon stroll.",
+          "es": "Hasta la magia agradece un paseo despejado por la tarde.",
+          "id": "ch_s_camilla_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after arcane envoy councils.",
+          "es": "Siguiendo agusto el ritmo del valle tras consejos de enviados arcanos.",
+          "id": "ch_s_camilla_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when ancient charms whisper quietly through tall pines.",
+          "es": "Siempre lindo detenerse un poco porque viejos hechizos susurran entre pinos altos.",
+          "id": "ch_s_camilla_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_camilla_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on ancient charms whisper quietly through tall pines.",
+          "es": "Clima acogedor ideal para recordar que viejos hechizos susurran entre pinos altos.",
+          "id": "ch_s_camilla_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_camilla_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_camilla_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_camilla_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_camilla_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_camilla_beach_12"
+        }
+      ]
+    },
+    "Claire": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from busy Joja register queues, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de filas largas del almacen, {farmer}.",
+          "id": "ch_s_claire_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why quiet afternoon theater scripts shine bright.",
+          "es": "Caminar con tan buena compania recuerda por que guiones de teatro iluminan las tardes.",
+          "id": "ch_s_claire_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Memorizing two calm monologues cleanly in step today!",
+          "es": "Memorizando dos dialogos bonitos al ritmo del paso hoy!",
+          "id": "ch_s_claire_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after busy Joja register queues.",
+          "es": "Siguiendo agusto el ritmo del valle tras filas largas del almacen.",
+          "id": "ch_s_claire_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when quiet afternoon theater scripts shine bright.",
+          "es": "Siempre lindo detenerse un poco porque guiones de teatro iluminan las tardes.",
+          "id": "ch_s_claire_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_claire_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on quiet afternoon theater scripts shine bright.",
+          "es": "Clima acogedor ideal para recordar que guiones de teatro iluminan las tardes.",
+          "id": "ch_s_claire_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_claire_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_claire_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_claire_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_claire_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_claire_beach_12"
+        }
+      ]
+    },
+    "GuntherSilvian": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from museum ledger archives, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de archivos del museo, {farmer}.",
+          "id": "ch_s_gunthersilvian_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why every dusty relic restores lost history.",
+          "es": "Caminar con tan buena compania recuerda por que cada reliquia recupera memoria perdida.",
+          "id": "ch_s_gunthersilvian_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Never tire reading ancient calligraphy over valley tea.",
+          "es": "No cansa leer caligrafia antigua acompanada de buen te.",
+          "id": "ch_s_gunthersilvian_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after museum ledger archives.",
+          "es": "Siguiendo agusto el ritmo del valle tras archivos del museo.",
+          "id": "ch_s_gunthersilvian_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when every dusty relic restores lost history.",
+          "es": "Siempre lindo detenerse un poco porque cada reliquia recupera memoria perdida.",
+          "id": "ch_s_gunthersilvian_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_gunthersilvian_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on every dusty relic restores lost history.",
+          "es": "Clima acogedor ideal para recordar que cada reliquia recupera memoria perdida.",
+          "id": "ch_s_gunthersilvian_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_gunthersilvian_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_gunthersilvian_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_gunthersilvian_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_gunthersilvian_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_gunthersilvian_beach_12"
+        }
+      ]
+    },
+    "Isaac": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from border garrison drills, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de guardias de frontera, {farmer}.",
+          "id": "ch_s_isaac_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why vigilance keeps peaceful valleys smiling.",
+          "es": "Caminar con tan buena compania recuerda por que la vigilancia mantiene felices los valles.",
+          "id": "ch_s_isaac_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Clean mountain air sharpens patrol reflexes fast.",
+          "es": "El aire de montana afila los reflejos rapido.",
+          "id": "ch_s_isaac_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after border garrison drills.",
+          "es": "Siguiendo agusto el ritmo del valle tras guardias de frontera.",
+          "id": "ch_s_isaac_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when vigilance keeps peaceful valleys smiling.",
+          "es": "Siempre lindo detenerse un poco porque la vigilancia mantiene felices los valles.",
+          "id": "ch_s_isaac_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_isaac_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on vigilance keeps peaceful valleys smiling.",
+          "es": "Clima acogedor ideal para recordar que la vigilancia mantiene felices los valles.",
+          "id": "ch_s_isaac_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_isaac_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_isaac_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_isaac_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_isaac_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_isaac_beach_12"
+        }
+      ]
+    },
+    "Lance": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from monster research outposts, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de puestos de estudio de monstruos, {farmer}.",
+          "id": "ch_s_lance_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why arcane balance preserves untouched wilderness.",
+          "es": "Caminar con tan buena compania recuerda por que el equilibrio arcano cuida lo salvaje.",
+          "id": "ch_s_lance_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Fascinating mana currents run beneath Pelican roots, friend.",
+          "es": "Fascinantes corrientes corren bajo las raices del valle.",
+          "id": "ch_s_lance_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after monster research outposts.",
+          "es": "Siguiendo agusto el ritmo del valle tras puestos de estudio de monstruos.",
+          "id": "ch_s_lance_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when arcane balance preserves untouched wilderness.",
+          "es": "Siempre lindo detenerse un poco porque el equilibrio arcano cuida lo salvaje.",
+          "id": "ch_s_lance_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_lance_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on arcane balance preserves untouched wilderness.",
+          "es": "Clima acogedor ideal para recordar que el equilibrio arcano cuida lo salvaje.",
+          "id": "ch_s_lance_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_lance_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_lance_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_lance_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_lance_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_lance_beach_12"
+        }
+      ]
+    },
+    "MarlonFay": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from armory maintenance work, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de mantenimiento de armeria, {farmer}.",
+          "id": "ch_s_marlonfay_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why forged blades honor cautious hearts.",
+          "es": "Caminar con tan buena compania recuerda por que el buen acero honra corazones prudentes.",
+          "id": "ch_s_marlonfay_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Always test balance before trusting steep dark tunnels.",
+          "es": "Prueba siempre el equilibrio antes de entrar a cuevas.",
+          "id": "ch_s_marlonfay_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after armory maintenance work.",
+          "es": "Siguiendo agusto el ritmo del valle tras mantenimiento de armeria.",
+          "id": "ch_s_marlonfay_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when forged blades honor cautious hearts.",
+          "es": "Siempre lindo detenerse un poco porque el buen acero honra corazones prudentes.",
+          "id": "ch_s_marlonfay_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_marlonfay_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on forged blades honor cautious hearts.",
+          "es": "Clima acogedor ideal para recordar que el buen acero honra corazones prudentes.",
+          "id": "ch_s_marlonfay_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_marlonfay_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_marlonfay_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_marlonfay_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_marlonfay_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_marlonfay_beach_12"
+        }
+      ]
+    },
+    "Martin": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from cramming thick college notebooks, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de estudiar apuntes universitarios, {farmer}.",
+          "id": "ch_s_martin_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why fresh air saves stressed exam minds.",
+          "es": "Caminar con tan buena compania recuerda por que el aire limpio salva mentes de examen.",
+          "id": "ch_s_martin_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "One quick loop round square beats rereading page twelve twice!",
+          "es": "Una vuelta rapida a la plaza rinde mas que releer lo mismo!",
+          "id": "ch_s_martin_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after cramming thick college notebooks.",
+          "es": "Siguiendo agusto el ritmo del valle tras estudiar apuntes universitarios.",
+          "id": "ch_s_martin_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when fresh air saves stressed exam minds.",
+          "es": "Siempre lindo detenerse un poco porque el aire limpio salva mentes de examen.",
+          "id": "ch_s_martin_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_martin_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on fresh air saves stressed exam minds.",
+          "es": "Clima acogedor ideal para recordar que el aire limpio salva mentes de examen.",
+          "id": "ch_s_martin_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_martin_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_martin_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_martin_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_martin_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_martin_beach_12"
+        }
+      ]
+    },
+    "Morgan": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from tricky rune circles, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de circulos dificiles de runas, {farmer}.",
+          "id": "ch_s_morgan_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why mountain spirits welcome patient learners.",
+          "es": "Caminar con tan buena compania recuerda por que espiritus de montana reciben con paciencia.",
+          "id": "ch_s_morgan_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Practice calm breaths—spark flames behave better!",
+          "es": "Respirar en calma ayuda a que las chispas obedezcan!",
+          "id": "ch_s_morgan_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after tricky rune circles.",
+          "es": "Siguiendo agusto el ritmo del valle tras circulos dificiles de runas.",
+          "id": "ch_s_morgan_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when mountain spirits welcome patient learners.",
+          "es": "Siempre lindo detenerse un poco porque espiritus de montana reciben con paciencia.",
+          "id": "ch_s_morgan_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_morgan_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on mountain spirits welcome patient learners.",
+          "es": "Clima acogedor ideal para recordar que espiritus de montana reciben con paciencia.",
+          "id": "ch_s_morgan_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_morgan_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_morgan_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_morgan_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_morgan_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_morgan_beach_12"
+        }
+      ]
+    },
+    "MorrisTod": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from corporate quarterly quotas, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de metas trimestrales, {farmer}.",
+          "id": "ch_s_morristod_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why ambitious efficiency meets small-town charm.",
+          "es": "Caminar con tan buena compania recuerda por que la eficiencia se cruza con calma pueblerina.",
+          "id": "ch_s_morristod_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Even numbers look friendlier away from office fluorescent glow!",
+          "es": "Hasta las cifras lucen amables lejos de focos de oficina!",
+          "id": "ch_s_morristod_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after corporate quarterly quotas.",
+          "es": "Siguiendo agusto el ritmo del valle tras metas trimestrales.",
+          "id": "ch_s_morristod_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when ambitious efficiency meets small-town charm.",
+          "es": "Siempre lindo detenerse un poco porque la eficiencia se cruza con calma pueblerina.",
+          "id": "ch_s_morristod_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_morristod_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on ambitious efficiency meets small-town charm.",
+          "es": "Clima acogedor ideal para recordar que la eficiencia se cruza con calma pueblerina.",
+          "id": "ch_s_morristod_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_morristod_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_morristod_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_morristod_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_morristod_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_morristod_beach_12"
+        }
+      ]
+    },
+    "Olivia": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from unpacking city crates, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de desempacar cajas urbanas, {farmer}.",
+          "id": "ch_s_olivia_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why vintage bottles and slow afternoons enrich life.",
+          "es": "Caminar con tan buena compania recuerda por que buen vino y tardes lentas alegran la vida.",
+          "id": "ch_s_olivia_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Victor really blooms brighter amidst clean valley air.",
+          "es": "Victor de verdad sonrie mas en este aire limpio del valle.",
+          "id": "ch_s_olivia_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after unpacking city crates.",
+          "es": "Siguiendo agusto el ritmo del valle tras desempacar cajas urbanas.",
+          "id": "ch_s_olivia_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when vintage bottles and slow afternoons enrich life.",
+          "es": "Siempre lindo detenerse un poco porque buen vino y tardes lentas alegran la vida.",
+          "id": "ch_s_olivia_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_olivia_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on vintage bottles and slow afternoons enrich life.",
+          "es": "Clima acogedor ideal para recordar que buen vino y tardes lentas alegran la vida.",
+          "id": "ch_s_olivia_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_olivia_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_olivia_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_olivia_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_olivia_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_olivia_beach_12"
+        }
+      ]
+    },
+    "Scarlett": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from Grampleton orchard harvest schedules, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de cosechas en Grampleton, {farmer}.",
+          "id": "ch_s_scarlett_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why bright farm color fills sketchbooks easily.",
+          "es": "Caminar con tan buena compania recuerda por que los colores de granja llenan libretas facil.",
+          "id": "ch_s_scarlett_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Yay for stepping outdoors past crowded market stands!",
+          "es": "Que alegria pasear libre tras puestos llenos de gente!",
+          "id": "ch_s_scarlett_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after Grampleton orchard harvest schedules.",
+          "es": "Siguiendo agusto el ritmo del valle tras cosechas en Grampleton.",
+          "id": "ch_s_scarlett_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when bright farm color fills sketchbooks easily.",
+          "es": "Siempre lindo detenerse un poco porque los colores de granja llenan libretas facil.",
+          "id": "ch_s_scarlett_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_scarlett_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on bright farm color fills sketchbooks easily.",
+          "es": "Clima acogedor ideal para recordar que los colores de granja llenan libretas facil.",
+          "id": "ch_s_scarlett_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_scarlett_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_scarlett_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_scarlett_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_scarlett_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_scarlett_beach_12"
+        }
+      ]
+    },
+    "Sophia": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from Blue Moon bottling lines, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de embotellado de Luna Azul, {farmer}.",
+          "id": "ch_s_sophia_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why sunny grapes turn into warm golden memories.",
+          "es": "Caminar con tan buena compania recuerda por que las uvas doradas crean recuerdos dulces.",
+          "id": "ch_s_sophia_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Ooh—look how cute fuzzy valley clouds look today!!",
+          "es": "Ooh—mira que lindas lucen esas nubes esponjosas hoy!!",
+          "id": "ch_s_sophia_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after Blue Moon bottling lines.",
+          "es": "Siguiendo agusto el ritmo del valle tras embotellado de Luna Azul.",
+          "id": "ch_s_sophia_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when sunny grapes turn into warm golden memories.",
+          "es": "Siempre lindo detenerse un poco porque las uvas doradas crean recuerdos dulces.",
+          "id": "ch_s_sophia_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_sophia_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on sunny grapes turn into warm golden memories.",
+          "es": "Clima acogedor ideal para recordar que las uvas doradas crean recuerdos dulces.",
+          "id": "ch_s_sophia_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_sophia_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_sophia_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_sophia_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_sophia_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_sophia_beach_12"
+        }
+      ]
+    },
+    "Susan": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from northern railway fruit orchards, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de huertos junto al ferrocarril, {farmer}.",
+          "id": "ch_s_susan_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why warm homemade pies heal heavy chores.",
+          "es": "Caminar con tan buena compania recuerda por que tartas caseras sanan jornadas pesadas.",
+          "id": "ch_s_susan_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Rolling dough pins and fresh orchard apples never fail!",
+          "es": "Rodillo de masa y manzanas recien cortadas nunca fallan!",
+          "id": "ch_s_susan_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after northern railway fruit orchards.",
+          "es": "Siguiendo agusto el ritmo del valle tras huertos junto al ferrocarril.",
+          "id": "ch_s_susan_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when warm homemade pies heal heavy chores.",
+          "es": "Siempre lindo detenerse un poco porque tartas caseras sanan jornadas pesadas.",
+          "id": "ch_s_susan_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_susan_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on warm homemade pies heal heavy chores.",
+          "es": "Clima acogedor ideal para recordar que tartas caseras sanan jornadas pesadas.",
+          "id": "ch_s_susan_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_susan_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_susan_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_susan_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_susan_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_susan_beach_12"
+        }
+      ]
+    },
+    "Victor": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Refreshing taking calm steps outdoors together away from tricky structural stress blueprints, {farmer}.",
+          "es": "Que gusto dar pasos al aire libre lejos de planos complicados de puentes, {farmer}.",
+          "id": "ch_s_victor_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Walking beside someone grounded reminds me why calm valleys let big dreams breathe cleanly.",
+          "es": "Caminar con tan buena compania recuerda por que valles serenos dejan respirar grandes suenos.",
+          "id": "ch_s_victor_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Sketching bridge arches effortlessly while clouds drift past.",
+          "es": "Imaginando arcos de puente tranquilo mientras pasan nubes.",
+          "id": "ch_s_victor_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping up calmly with valley life after tricky structural stress blueprints.",
+          "es": "Siguiendo agusto el ritmo del valle tras planos complicados de puentes.",
+          "id": "ch_s_victor_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Always lovely pausing when calm valleys let big dreams breathe cleanly.",
+          "es": "Siempre lindo detenerse un poco porque valles serenos dejan respirar grandes suenos.",
+          "id": "ch_s_victor_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle clouds soften valley ridges in slate gray rain.",
+          "es": "Las nubes suaves tinen las laderas en lluvia gris serena.",
+          "id": "ch_s_victor_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Perfect cozy weather reflecting calmly on calm valleys let big dreams breathe cleanly.",
+          "es": "Clima acogedor ideal para recordar que valles serenos dejan respirar grandes suenos.",
+          "id": "ch_s_victor_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter stillness carpets valley trails in gleaming snow.",
+          "es": "La quietud de invierno cubre los senderos de nieve limpia.",
+          "id": "ch_s_victor_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk melts into indigo twilight across the valley hills.",
+          "es": "El ocaso dorado se funde en noche violeta sobre las colinas.",
+          "id": "ch_s_victor_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Seeing {farm} prosper under your hands warms my heart, {farmer}!",
+          "es": "Ver prosperar {farm} en tus manos alegra el dia, {farmer}!",
+          "id": "ch_s_victor_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm mugs and cheerful neighborhood chatter fit evenings cleanly!",
+          "es": "Tazas calientes y platica vecinal animan cualquier noche!",
+          "id": "ch_s_victor_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salty breakers rolling ashore sweep tired worries right out to sea.",
+          "es": "El oleaje salado se lleva el cansancio mar adentro.",
+          "id": "ch_s_victor_beach_12"
+        }
+      ]
+    }
+  },
+  "archetypes": {}
+}

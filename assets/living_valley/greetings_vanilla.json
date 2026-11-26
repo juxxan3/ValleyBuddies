@@ -1,0 +1,4938 @@
+{
+  "characters": {
+    "Abigail": {
+      "birthday": [
+        {
+          "id": "v_abigail_birthday_1",
+          "emote": 20,
+          "en": "Birthday quartz crunch beats cake any day, {farmer}—okay maybe tied with blackberry cobbler!",
+          "es": "El cuarzo crujiente de cumpleanos le gana al pastel, {farmer}... bueno, empata con tarta de moras!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_abigail_green_rain_2",
+          "emote": 32,
+          "en": "Green mist everywhere?! Totally looks like an enchanted boss zone today, {farmer}!",
+          "es": "Niebla verde por todas partes?! Hoy parece zona secreta con jefe magico, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_abigail_storm_3",
+          "emote": 32,
+          "en": "Awesome storm energy! Makes me want to swing my practice blade down near the lake, {farmer}!",
+          "es": "Que energia de tormenta! Dan ganas de entrenar con la espada junto al lago, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_abigail_snow_4",
+          "emote": 32,
+          "en": "Cold snow makes cave entrances glow eerie blue, {farmer}. Love this weather!",
+          "es": "La nieve hace que las cuevas brillen azuladas, {farmer}. Me encanta este clima!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_abigail_rain_5",
+          "emote": 32,
+          "en": "Rainy weather brings frogs right out along town paths, {farmer}! Keep an eye out!",
+          "es": "La lluvia saca ranas justo por los senderos del pueblo, {farmer}! Mira donde pisas!"
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_abigail_spouse_6",
+          "emote": 20,
+          "en": "Hey love! Swinging by town before a dungeon run? Save me some extra adventure stories back at {farm}!",
+          "es": "Hola amor! Pasas por el pueblo antes de ir a minas? Guardame historias de aventura para {farm}!"
+        },
+        {
+          "id": "v_abigail_spouse_7",
+          "emote": 20,
+          "en": "Looking sharp today, {farmer}! Meet you home later for Praire King practice!",
+          "es": "Que bien te ves hoy, {farmer}! Luego en casa practicamos Rey de la Pradera!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_abigail_dating_8",
+          "emote": 20,
+          "en": "Oh! Hey {farmer}... totally wasn't hoping you'd stroll down this exact street or anything!",
+          "es": "Oh! Hola {farmer}... para nada estaba esperando que pasaras justo por esta calle!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_abigail_close_friend_9",
+          "emote": 20,
+          "en": "Yo {farmer}! Ready to raid secret depths or loot snacks from the fridge later?",
+          "es": "Hey {farmer}! Listo para explorar cuevas secretas o asaltar la despensa luego?"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_abigail_friend_10",
+          "emote": 32,
+          "en": "Hey {farmer}! Found anything purple or dangerously cool around {farm} lately?",
+          "es": "Hola {farmer}! Encontraste algo morado o genial cerca de {farm} ultimamente?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_abigail_acquaintance_11",
+          "emote": 32,
+          "en": "Oh, hey {farmer} from {farm}. Pretty quiet out here today, huh?",
+          "es": "Oh, hola {farmer} de {farm}. Bastante tranquilo por aqui hoy, no?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_abigail_spring_12",
+          "emote": 32,
+          "en": "Spring worms and bright amethyst dust—what a season, {farmer}!",
+          "es": "Lombrices de primavera y brillo amatista... vaya estacion, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_abigail_summer_13",
+          "emote": 32,
+          "en": "Too hot in my dark hoodie, {farmer}... thank goodness the forest shade exists!",
+          "es": "Demasiado calor con mi sudadera oscura, {farmer}... suerte de la sombra del bosque!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_abigail_fall_14",
+          "emote": 32,
+          "en": "Spirit's Eve is almost around the corner! Best season ever, {farmer}!",
+          "es": "La Vispera de los Espiritus ya casi llega! La mejor estacion, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_abigail_winter_15",
+          "emote": 32,
+          "en": "Winter caves feel extra mysterious while snow piles up outside, {farmer}.",
+          "es": "Las cuevas de invierno se sienten mas misteriosas con nieve afuera, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_abigail_morning_16",
+          "emote": 32,
+          "en": "Ugh, mornings came way too early after late arcade high-scores, {farmer}...",
+          "es": "Uf, la manana llego muy pronto tras jugar hasta tarde, {farmer}..."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_abigail_afternoon_17",
+          "emote": 32,
+          "en": "Afternoon break time, {farmer}! Beats sweeping shop shelves by miles!",
+          "es": "Descanso de tarde, {farmer}! Mejor que barrer estantes de tienda mil veces!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_abigail_evening_18",
+          "emote": 32,
+          "en": "Bats start swooping near twilight, {farmer}—coolest hour of the day!",
+          "es": "Los murcielagos salen al anochecer, {farmer}... la mejor hora del dia!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_abigail_night_19",
+          "emote": 32,
+          "en": "Graveyard air hits right at night, {farmer}. See any cool glowworms?",
+          "es": "El aire nocturno sienta genial hoy, {farmer}. Viste luciernagas?"
+        }
+      ]
+    },
+    "Alex": {
+      "birthday": [
+        {
+          "id": "v_alex_birthday_1",
+          "emote": 20,
+          "en": "Birthday pump-up day, {farmer}! Might set a new Gridball pushup record before dinner!",
+          "es": "Dia de entrenamiento de cumpleanos, {farmer}! Hoy rompo record de flexiones antes de cenar!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_alex_green_rain_2",
+          "emote": 32,
+          "en": "Whoa, this crazy green drizzle can't stop real cardio, {farmer}! Wait—do spores affect protein shakes?",
+          "es": "Uau, esta lluvia verde rara no frena el cardio, {farmer}! Espera... afecta los batidos?"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_alex_storm_3",
+          "emote": 32,
+          "en": "Thunder and lightning! Good excuse to lift heavy indoors today, {farmer}!",
+          "es": "Truenos y rayos! Buena excusa para levantar pesas bajo techo hoy, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_alex_snow_4",
+          "emote": 32,
+          "en": "Cold training keeps the blood pumping fast, {farmer}! Gotta keep those boots moving!",
+          "es": "Entrenar en frio acelera el pulso, {farmer}! A no dejar de moverse!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_alex_rain_5",
+          "emote": 32,
+          "en": "Muddy grass makes terrible sprinting ground, {farmer}! Stay sharp out here!",
+          "es": "El pasto embarrado complica correr sprints, {farmer}! Cuidate por ahi!"
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_alex_spouse_6",
+          "emote": 20,
+          "en": "Hey champ! Looking unstoppable out here today, {farmer}. Race you back to {farm} later!",
+          "es": "Hola campeon! Te ves imparable hoy, {farmer}. Echamos carrera de vuelta a {farm} luego!"
+        },
+        {
+          "id": "v_alex_spouse_7",
+          "emote": 20,
+          "en": "Seeing my favorite partner always puts me in top form, {farmer}!",
+          "es": "Ver a mi pareja favorita siempre me pone en plena forma, {farmer}!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_alex_dating_8",
+          "emote": 20,
+          "en": "Whoa—hey {farmer}! Wait, check the hair... alright, cool. Great running into you!",
+          "es": "Uau, hola {farmer}! Espera, el pelo bien... listo. Que bueno toparte!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_alex_close_friend_9",
+          "emote": 20,
+          "en": "Hey {farmer}! You've got serious farm muscle building up from {farm}!",
+          "es": "Hey {farmer}! Ya traes pura fuerza de tanto trabajar en {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_alex_friend_10",
+          "emote": 32,
+          "en": "Hey {farmer}! Keeping your stamina bar full today?",
+          "es": "Hola {farmer}! Manteniendo llena la barra de energia hoy?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_alex_acquaintance_11",
+          "emote": 32,
+          "en": "Oh, hey {farmer}. Lifting heavy crates down at {farm}?",
+          "es": "Oh, hola {farmer}. Cargando cajas pesadas alla en {farm}?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_alex_spring_12",
+          "emote": 32,
+          "en": "Warm spring breeze means Gridball tosses back outside, {farmer}!",
+          "es": "Brisa tibia de primavera significa pases de Gridball afuera otra vez, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_alex_summer_13",
+          "emote": 32,
+          "en": "Sunny beach days and strong sprints—summer rules, {farmer}!",
+          "es": "Dias de playa y sprints al sol... el verano manda, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_alex_fall_14",
+          "emote": 32,
+          "en": "Crisp autumn air makes deep lunges feel ten times easier, {farmer}!",
+          "es": "El aire fresco de otono facilita el entrenamiento diez veces mas, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_alex_winter_15",
+          "emote": 32,
+          "en": "Zero excuses even in December frost, {farmer}! Keep grinding!",
+          "es": "Cero excusas ni con helada de invierno, {farmer}! A darle duro!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_alex_morning_16",
+          "emote": 32,
+          "en": "Early warmups complete, {farmer}! Ready to crush the day!",
+          "es": "Calentamiento temprano listo, {farmer}! A romper el dia!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_alex_afternoon_17",
+          "emote": 32,
+          "en": "Midday protein fuel check, {farmer}! Eating solid out there?",
+          "es": "Hora de proteina del mediodia, {farmer}! Comiendo bien por ahi?"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_alex_evening_18",
+          "emote": 32,
+          "en": "Sunset sprints winding down, {farmer}. Catch a breather soon!",
+          "es": "Cerrando entrenos al atardecer, {farmer}. Toma un respiro pronto!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_alex_night_19",
+          "emote": 32,
+          "en": "Late evening recovery starts with good sleep, {farmer}. Take it easy!",
+          "es": "La recuperacion nocturna pide buen sueno, {farmer}. Descanse bien!"
+        }
+      ]
+    },
+    "Caroline": {
+      "birthday": [
+        {
+          "id": "v_caroline_birthday_1",
+          "emote": 20,
+          "en": "Thank you for waving on my birthday, {farmer}! I brewed special green tea leaves for tonight.",
+          "es": "Gracias por saludar en mi cumpleanos, {farmer}! Prepare hojas especiales de te verde para hoy."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_caroline_green_rain_2",
+          "emote": 32,
+          "en": "My sunroom ferns went positively wild in this green rain, {farmer}! Remarkable weather.",
+          "es": "Mis helechos del invernadero crecieron increibles con esta lluvia verde, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_caroline_storm_3",
+          "emote": 32,
+          "en": "Oh my, keep clear of tall oaks when lightning flashes near {farm}, {farmer}.",
+          "es": "Madre mia, alejate de los robles altos cuando caen rayos cerca de {farm}, {farmer}."
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_caroline_snow_4",
+          "emote": 32,
+          "en": "Snowflakes look lovely resting atop window boxes, {farmer}. Warm tea awaits!",
+          "es": "Los copos lucen preciosos sobre las jardineras, {farmer}. Un te caliente espera!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_caroline_rain_5",
+          "emote": 32,
+          "en": "This steady rain saves me watering half my sun-room planters, {farmer}!",
+          "es": "Esta lluvia constante me ahorra regar media jardinera, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_caroline_close_friend_6",
+          "emote": 20,
+          "en": "Always soothing catching a glimpse of your friendly face, {farmer}. Come by for tea anytime!",
+          "es": "Siempre reconforta verte pasar con esa amabilidad, {farmer}. Ven a tomar te cuando gustes!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_caroline_friend_7",
+          "emote": 32,
+          "en": "Hello {farmer}! How are your fresh crops flourishing over at {farm}?",
+          "es": "Hola {farmer}! Como crecen tus cultivos frescos alla en {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_caroline_acquaintance_8",
+          "emote": 32,
+          "en": "Good day, {farmer}. Settling comfortably into life out at {farm}?",
+          "es": "Buen dia, {farmer}. Acomodandote bien en la vida de {farm}?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_caroline_spring_9",
+          "emote": 32,
+          "en": "Nothing brings joy quite like young spring tea sprouts, {farmer}.",
+          "es": "Nada alegra tanto como brotes tiernos de te primaveral, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_caroline_summer_10",
+          "emote": 32,
+          "en": "Sunroom heat peaks around noon—try a cold iced tea today, {farmer}!",
+          "es": "El invernadero arde al mediodia... prueba un te helado hoy, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_caroline_fall_11",
+          "emote": 32,
+          "en": "Cranberries and autumn dahlias make every walk colorful, {farmer}.",
+          "es": "Arandanos y dalias de otono llenan de color cada paseo, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_caroline_winter_12",
+          "emote": 32,
+          "en": "Even in deep winter snow, my little tea saplings keep things bright green.",
+          "es": "Hasta bajo nieve de invierno mis plantitas de te mantienen vivo el verde."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_caroline_morning_13",
+          "emote": 32,
+          "en": "Good morning, {farmer}! Gentle breeze before town gets busy.",
+          "es": "Buenos dias, {farmer}! Brisa amable antes de que el pueblo se llene."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_caroline_afternoon_14",
+          "emote": 32,
+          "en": "Good afternoon, {farmer}! Taking a quiet stroll past the square?",
+          "es": "Buenas tardes, {farmer}! Dando un paseo tranquilo por la plaza?"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_caroline_evening_15",
+          "emote": 32,
+          "en": "Time to steep evening chamomile soon, {farmer}. Rest nicely tonight!",
+          "es": "Hora de preparar manzanilla nocturna pronto, {farmer}. Que descanses!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_caroline_night_16",
+          "emote": 32,
+          "en": "Quiet lantern-lit streets suit Pelican Town nicely, don't they, {farmer}?",
+          "es": "Las calles tranquilas con faroles le sientan bien a Pueblo Pelicano, verdad {farmer}?"
+        }
+      ]
+    },
+    "Clint": {
+      "birthday": [
+        {
+          "id": "v_clint_birthday_1",
+          "emote": 20,
+          "en": "Heh... thanks for noticing my birthday, {farmer}. Better than staring alone at cold embers!",
+          "es": "Je... gracias por recordar mi cumpleanos, {farmer}. Mejor que mirar solo las brasas frias!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_clint_green_rain_2",
+          "emote": 32,
+          "en": "Even furnace smoke looks green through this strange mist, {farmer}! Weird day for smithing.",
+          "es": "Hasta el humo de la forja se ve verde con esta niebla, {farmer}! Dia raro para herreria."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_clint_storm_3",
+          "emote": 32,
+          "en": "Careful carrying iron picks when sky sparks like that, {farmer}!",
+          "es": "Cuidado cargando picos de hierro cuando el cielo chispea asi, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_clint_snow_4",
+          "emote": 32,
+          "en": "At least my furnace keeps me toasty on snowy mornings like this, {farmer}!",
+          "es": "Al menos mi horno me mantiene calientito en mananas nevadas asi, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_clint_rain_5",
+          "emote": 32,
+          "en": "Damp air tries rusting good steel fast, {farmer}. Keep tools oiled down at {farm}!",
+          "es": "La humedad oxida el acero rapido, {farmer}. Aceita bien tus herramientas en {farm}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_clint_close_friend_6",
+          "emote": 20,
+          "en": "Hey {farmer}! Any chunky geodes from the mines? Always glad giving an old friend top work!",
+          "es": "Hey {farmer}! Traes geodas buenas? Siempre da gusto atender a un buen amigo!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_clint_friend_7",
+          "emote": 32,
+          "en": "Oh, hey {farmer}! Your watering can holding steady down at {farm}?",
+          "es": "Oh, hola {farmer}! Sigue firme tu regadera alla en {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_clint_acquaintance_8",
+          "emote": 32,
+          "en": "Ah... afternoon, {farmer}. Drop by the smithy if your tools dull.",
+          "es": "Ah... buenas, {farmer}. Pasa por la herreria si pierden filo tus herramientas."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_clint_spring_9",
+          "emote": 32,
+          "en": "Lots of farmers upgrading hoes right around spring clearing, {farmer}.",
+          "es": "Muchos mejoran azadas justo con la limpieza de primavera, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_clint_summer_10",
+          "emote": 32,
+          "en": "Blacksmith shop turns into a literal oven by July noon, {farmer}...",
+          "es": "La herreria se vuelve un horno literal al mediodia de verano, {farmer}..."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_clint_fall_11",
+          "emote": 32,
+          "en": "Cool autumn breeze feels amazing after swinging a hammer all morning, {farmer}.",
+          "es": "La brisa fresca de otono sienta de lujo tras martillar toda la manana, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_clint_winter_12",
+          "emote": 32,
+          "en": "Best season to forge iridium upgrades while soil stays frozen, {farmer}!",
+          "es": "Mejor estacion para forjar mejoras de iridio mientras el suelo hiela, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_clint_morning_13",
+          "emote": 32,
+          "en": "Coal fires lit early today, {farmer}. Slow start, steady sparks.",
+          "es": "Prendi el carbon temprano hoy, {farmer}. Arranque lento pero chispas firmes."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_clint_afternoon_14",
+          "emote": 32,
+          "en": "Phew—dusty apron and soot everywhere. How goes {farm}, {farmer}?",
+          "es": "Uf... delantal lleno de hollin otra vez. Como va {farm}, {farmer}?"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_clint_evening_15",
+          "emote": 32,
+          "en": "Heading to Gus's place for supper soon, {farmer}. Long shift at the anvil.",
+          "es": "Ya casi voy donde Gus a cenar, {farmer}. Largo turno en el yunque."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_clint_night_16",
+          "emote": 32,
+          "en": "Banking the forge coals for tonight, {farmer}. Safe walk home!",
+          "es": "Apagando las brasas de la forja por hoy, {farmer}. Buen regreso a casa!"
+        }
+      ]
+    },
+    "Demetrius": {
+      "birthday": [
+        {
+          "id": "v_demetrius_birthday_1",
+          "emote": 20,
+          "en": "Another annual orbital milestone complete! Thank you for the greeting, {farmer}.",
+          "es": "Otro hito orbital anual completado! Gracias por el saludo, {farmer}."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_demetrius_green_rain_2",
+          "emote": 32,
+          "en": "Fascinating spore density in today's green precipitation, {farmer}! Unprecedented ecological data!",
+          "es": "Fascinante densidad de esporas en esta lluvia verde, {farmer}! Datos ecologicos unicos!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_demetrius_storm_3",
+          "emote": 32,
+          "en": "Electromagnetic discharge makes battery collection remarkably efficient today, {farmer}!",
+          "es": "Las descargas electricas vuelven muy eficiente recolectar baterias hoy, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_demetrius_snow_4",
+          "emote": 32,
+          "en": "Low winter humidity preserves dormant soil samples nicely, {farmer}.",
+          "es": "La baja humedad invernal conserva muy bien las muestras de suelo, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_demetrius_rain_5",
+          "emote": 32,
+          "en": "Noticeable increase in amphibian acoustics after three hours of rainfall, {farmer}!",
+          "es": "Notable aumento de acustica anfibia tras tres horas de lluvia, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_demetrius_close_friend_6",
+          "emote": 20,
+          "en": "Always a pleasure comparing field observations with {farm}'s chief botanist, {farmer}!",
+          "es": "Siempre es un placer comparar notas con quien dirige la botanica en {farm}, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_demetrius_friend_7",
+          "emote": 32,
+          "en": "Good day, {farmer}! Seeing healthy insect pollination across {farm} this week?",
+          "es": "Buen dia, {farmer}! Observas buena polinizacion por {farm} esta semana?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_demetrius_acquaintance_8",
+          "emote": 32,
+          "en": "Greetings, {farmer}. Feel free to send interesting cave specimens my way.",
+          "es": "Saludos, {farmer}. Si hallas especimenes raros en la cueva, avisame."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_demetrius_spring_9",
+          "emote": 32,
+          "en": "Vernal germination rates appear exceptionally promising this month, {farmer}.",
+          "es": "Las tasas de germinacion primaveral se ven prometedoras este mes, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_demetrius_summer_10",
+          "emote": 32,
+          "en": "High solar irradiance should push tropical fruit yields skyward, {farmer}!",
+          "es": "La alta radiacion solar disparara tus frutas de verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_demetrius_fall_11",
+          "emote": 32,
+          "en": "Peak fungal diversity along woodland floor logs all autumn, {farmer}!",
+          "es": "Pico de diversidad fungica sobre troncos del bosque todo otono, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_demetrius_winter_12",
+          "emote": 32,
+          "en": "Frozen lakes let us chart clean ice thickness data, {farmer}.",
+          "es": "Los lagos helados permiten registrar datos limpios de espesor, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_demetrius_morning_13",
+          "emote": 32,
+          "en": "Morning, {farmer}! Recording early barometer pressure along the cliff ridge.",
+          "es": "Buenos dias, {farmer}! Anotando presion barometrica junto al acantilado."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_demetrius_afternoon_14",
+          "emote": 32,
+          "en": "Good afternoon, {farmer}! Heading back toward your research plots at {farm}?",
+          "es": "Buenas tardes, {farmer}! Regresas hacia tus parcelas en {farm}?"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_demetrius_evening_15",
+          "emote": 32,
+          "en": "Nocturnal firefly rhythms settle into steady patterns at dusk, {farmer}.",
+          "es": "El ritmo nocturno de luciernagas se estabiliza al caer la tarde, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_demetrius_night_16",
+          "emote": 32,
+          "en": "Observing owl calls before logging final lab notes, {farmer}.",
+          "es": "Observando cantos nocturnos antes de cerrar mis notas de laboratorio, {farmer}."
+        }
+      ]
+    },
+    "Dwarf": {
+      "birthday": [
+        {
+          "id": "v_dwarf_birthday_1",
+          "emote": 20,
+          "en": "Ooh, shiny day! Wait—you surface folks celebrate birthdays too, {farmer}? Yay!",
+          "es": "Oye, dia brillante! Ustedes los de arriba tambien celebran cumpleanos, {farmer}? Yuju!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_dwarf_green_rain_2",
+          "emote": 32,
+          "en": "Surface water smells grassy green dripping through rock cracks today, {farmer}!",
+          "es": "El agua de arriba gotea con olor verde por las grietas hoy, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_dwarf_storm_3",
+          "emote": 32,
+          "en": "Boom-booms rumble all the way down into stone ceiling beams, {farmer}!",
+          "es": "Los truenos retumban hasta aqui abajo entre vigas de piedra, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_dwarf_snow_4",
+          "emote": 32,
+          "en": "Chilly draft curling down mine steps means fluffy ice on surface roofs, {farmer}!",
+          "es": "Brisa fria bajando las escaleras significa hielo blanco arriba, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_dwarf_rain_5",
+          "emote": 32,
+          "en": "Hear drip-drop echoing inside deep shafts, {farmer}? Sounds peaceful!",
+          "es": "Oyes el goteo resonar por los tuneles hondos, {farmer}? Da mucha paz!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_dwarf_close_friend_6",
+          "emote": 20,
+          "en": "Favorite surface buddy {farmer}! Bring more sparkly dwarf scrolls anytime!",
+          "es": "Mi amigo favorito de arriba, {farmer}! Trae mas pergaminos brillantes cuando quieras!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_dwarf_friend_7",
+          "emote": 32,
+          "en": "Hi hi, {farmer}! Still finding tasty quartz crystals at {farm}?",
+          "es": "Hola hola, {farmer}! Sigues hallando ricos cristales de cuarzo en {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_dwarf_acquaintance_8",
+          "emote": 32,
+          "en": "Ooh, human visitor! Buying bombs or just browsing shelf shinies, {farmer}?",
+          "es": "Oh, visita humana! Compras bombas o solo miras brillos en venta, {farmer}?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_dwarf_spring_9",
+          "emote": 32,
+          "en": "Warm spring soil softens cave roots nicely down here, {farmer}.",
+          "es": "La tierra tibia de primavera suaviza las raices subterraneas, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_dwarf_summer_10",
+          "emote": 32,
+          "en": "Cool rock walls beat hot surface sunshine tenfold, {farmer}!",
+          "es": "Paredes frescas de piedra le ganan diez veces al sol fuerte de arriba, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_dwarf_fall_11",
+          "emote": 32,
+          "en": "Earth smells earthy and rich around stone tunnels this season, {farmer}.",
+          "es": "La tierra huele humeda y rica cerca de los tuneles esta temporada, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_dwarf_winter_12",
+          "emote": 32,
+          "en": "Deep stone temperature barely changes while snow buries {farm}, {farmer}!",
+          "es": "Bajo tierra apenas cambia el clima aunque la nieve cubra {farm}, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_dwarf_morning_13",
+          "emote": 32,
+          "en": "Morning? Night? Deep stones tell time by glowcap mushrooms, {farmer}!",
+          "es": "Manana? Noche? Aqui abajo medimos el tiempo con setas luminosas, {farmer}!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_dwarf_afternoon_14",
+          "emote": 32,
+          "en": "Keep your pickaxe sharp and pockets lined with coal, {farmer}!",
+          "es": "Manten afilado el pico y bolsillos con buen carbon, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_dwarf_evening_15",
+          "emote": 32,
+          "en": "Don't trip over minecart tracks heading home, {farmer}!",
+          "es": "No tropieces con vias de vagoneta al volver a casa, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_dwarf_night_16",
+          "emote": 32,
+          "en": "Safe travels up dark ladder steps to {farm}, {farmer}!",
+          "es": "Buen viaje subiendo las escaleras oscuras hacia {farm}, {farmer}!"
+        }
+      ]
+    },
+    "Elliott": {
+      "birthday": [
+        {
+          "id": "v_elliott_birthday_1",
+          "emote": 20,
+          "en": "Another gilded year upon Pelican Shores! Meeting a bright muse like you graces my day, {farmer}.",
+          "es": "Otro ano dorado junto a las costas de Pelicano! Encontrar una musa como tu engalana mi dia, {farmer}."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_elliott_green_rain_2",
+          "emote": 32,
+          "en": "A tempest painted in uncanny emerald hues! Truly a poet's dream phenomenon, {farmer}!",
+          "es": "Una tempestad tenida de esmeralda enigmatico! Un sueno para todo poeta, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_elliott_storm_3",
+          "emote": 32,
+          "en": "Majestic thunder crashes like drums over foaming tides! Glorious drama, {farmer}!",
+          "es": "Majestuosos truenos retumban sobre mareas espumosas! Glorioso drama, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_elliott_snow_4",
+          "emote": 32,
+          "en": "Delicate snowflakes lace the beach pier like quiet verses, {farmer}.",
+          "es": "Delicados copos bordan el muelle como versos silenciosos, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_elliott_rain_5",
+          "emote": 32,
+          "en": "Raindrops inspire my swiftest quill strokes beside the hearth, {farmer}.",
+          "es": "Las gotas de lluvia inspiran mis trazos mas agiles junto al hogar, {farmer}."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_elliott_spouse_6",
+          "emote": 20,
+          "en": "My dearest heart! Every breeze from {farm} carries your grace across my prose, {farmer}.",
+          "es": "Corazon mio! Cada brisa de {farm} trae tu gracia a mis paginas, {farmer}."
+        },
+        {
+          "id": "v_elliott_spouse_7",
+          "emote": 20,
+          "en": "Wait—let me admire that radiant stride just a moment longer, darling {farmer}!",
+          "es": "Espera... dejame admirar ese paso radiante un instante mas, mi {farmer}!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_elliott_dating_8",
+          "emote": 20,
+          "en": "Ah, {farmer}! My chest flutters like surf foam whenever our paths intertwine!",
+          "es": "Ah, {farmer}! Mi pecho palpita como espuma marina cada vez que nuestros pasos coinciden!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_elliott_close_friend_9",
+          "emote": 20,
+          "en": "A splendid encounter, dear comrade {farmer}! How reads today's chapter over at {farm}?",
+          "es": "Esplendido encuentro, camarada {farmer}! Como avanza el capitulo de hoy en {farm}?"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_elliott_friend_10",
+          "emote": 32,
+          "en": "Well met, {farmer}! May inspiration accompany every furrow you till.",
+          "es": "Bien hallado, {farmer}! Que la inspiracion acompane cada surco que trabajas."
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_elliott_acquaintance_11",
+          "emote": 32,
+          "en": "Fine salutations, {farmer} of {farm}! Delightful weather for rambling thoughts.",
+          "es": "Cordiales saludos, {farmer} de {farm}! Magnifico clima para divagar con estilo."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_elliott_spring_12",
+          "emote": 32,
+          "en": "Vernal sea breeze smells faintly of salt and budding clover, {farmer}.",
+          "es": "La brisa marina de primavera huele a sal y trebol naciente, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_elliott_summer_13",
+          "emote": 32,
+          "en": "Brilliant coastal glare dances across the tide all summer long, {farmer}!",
+          "es": "El resplandor costero danza sobre la marea todo el verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_elliott_fall_14",
+          "emote": 32,
+          "en": "Melancholy crimson leaves turn every lane into golden verse, {farmer}.",
+          "es": "Melancolicas hojas carmesi vuelven cada sendero un poema dorado, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_elliott_winter_15",
+          "emote": 32,
+          "en": "Quiet winter waves murmur timeless sonnets against my floorboards, {farmer}.",
+          "es": "Olas tranquilas de invierno murmuran sonetos eternos bajo mi cabana, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_elliott_morning_16",
+          "emote": 32,
+          "en": "A splendid dawn greets ambitious prose and hardworking boots alike, {farmer}!",
+          "es": "Un alba esplendida saluda tanto a la prosa ambiciosa como a botas trabajadoras, {farmer}!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_elliott_afternoon_17",
+          "emote": 32,
+          "en": "Strolling in search of vivid adjectives, {farmer}! How fares {farm}?",
+          "es": "Paseando en busca de adjetivos vivos, {farmer}! Como marcha {farm}?"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_elliott_evening_18",
+          "emote": 32,
+          "en": "Crimson horizons soften every rough thought before supper, {farmer}.",
+          "es": "Horizontes carmesi suavizan todo pensar agitado antes de cenar, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_elliott_night_19",
+          "emote": 32,
+          "en": "Beneath moonlit waves, the world grows wondrously serene, {farmer}.",
+          "es": "Bajo olas iluminadas por luna, el mundo se vuelve sereno, {farmer}."
+        }
+      ]
+    },
+    "Emily": {
+      "birthday": [
+        {
+          "id": "v_emily_birthday_1",
+          "emote": 20,
+          "en": "Whoa—happy solar-return aura to me! Your vibrant colors just lifted my day, {farmer}!",
+          "es": "Uau... feliz retorno solar para mi! Tu aura luminosa ya me alegro el dia, {farmer}!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_emily_green_rain_2",
+          "emote": 32,
+          "en": "Ooh!! Feel that shimmering emerald life energy tingling everywhere, {farmer}? Magical!",
+          "es": "Ooh!! Sientes esa energia esmeralda vibrante por todas partes, {farmer}? Magico!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_emily_storm_3",
+          "emote": 32,
+          "en": "Lightning charges the valley crystals with pure wild clarity today, {farmer}!",
+          "es": "Los rayos cargan los cristales del valle con pura claridad salvaje hoy, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_emily_snow_4",
+          "emote": 32,
+          "en": "Sparkling white crystals blanket our worries nice and quiet, {farmer}.",
+          "es": "Cristales blancos brillan suavizando toda preocupacion en silencio, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_emily_rain_5",
+          "emote": 32,
+          "en": "Raindrops sing crystal chimes along cobblestones today, {farmer}!",
+          "es": "Las gotas cantan campanillas de cristal sobre el empedrado hoy, {farmer}!"
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_emily_spouse_6",
+          "emote": 20,
+          "en": "My shimmering soulmate! Just walking past you fills {farm} and my heart with sunshine, {farmer}!",
+          "es": "Mi alma gemela brillante! Solo verte pasar llena {farm} y mi corazon de sol, {farmer}!"
+        },
+        {
+          "id": "v_emily_spouse_7",
+          "emote": 20,
+          "en": "See you home soon, love—stitched something bright just thinking of you!",
+          "es": "Nos vemos pronto en casa, amor... cosi algo colorido pensando en ti!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_emily_dating_8",
+          "emote": 20,
+          "en": "Hehe, your aura literally glows rosy-pink when you walk up, {farmer}!",
+          "es": "Jeje, tu aura brilla literalmente rosa cuando te acercas, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_emily_close_friend_9",
+          "emote": 20,
+          "en": "Vibrant rainbow blessings your way today, {farmer}! You carry such gentle warmth!",
+          "es": "Bendiciones arcoiris para ti hoy, {farmer}! Irradias una calidez hermosa!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_emily_friend_10",
+          "emote": 32,
+          "en": "Hey {farmer}! Ready to weave good energy into {farm} today?",
+          "es": "Hola {farmer}! Listo para tejer buena energia por {farm} hoy?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_emily_acquaintance_11",
+          "emote": 32,
+          "en": "Lovely greeting, {farmer}! Your footsteps match the valley pulse nicely.",
+          "es": "Lindo saludo, {farmer}! Tus pasos armonizan muy bien con el valle."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_emily_spring_12",
+          "emote": 32,
+          "en": "Bright spring turquoise and daffodil yellow—best palette of the year, {farmer}!",
+          "es": "Turquesa brillante de primavera y amarillo narciso... la mejor paleta del ano, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_emily_summer_13",
+          "emote": 32,
+          "en": "Golden summer sunlight begs for airy linen threads, {farmer}!",
+          "es": "El sol dorado de verano pide telas frescas y ligeras, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_emily_fall_14",
+          "emote": 32,
+          "en": "Warm rust, plum, and marigold tones paint cozy vibes everywhere, {farmer}!",
+          "es": "Tonos ocres, ciruela y calendula pintan calidez por todos lados, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_emily_winter_15",
+          "emote": 32,
+          "en": "Crystal snowflakes give me endless new quilt embroidery ideas, {farmer}!",
+          "es": "Los copos de cristal me dan mil ideas nuevas de bordado, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_emily_morning_16",
+          "emote": 32,
+          "en": "Bright morning chakras aligned, {farmer}! Say hi to the parrot if you swing by!",
+          "es": "Chakras matutinos alineados, {farmer}! Saluda al loro si pasas por casa!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_emily_afternoon_17",
+          "emote": 32,
+          "en": "Dancing smoothly through afternoon errands, {farmer}! Stay joyful!",
+          "es": "Bailando suave entre recados de la tarde, {farmer}! Sigue alegre!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_emily_evening_18",
+          "emote": 32,
+          "en": "See you at the Stardrop soon or smiling down quiet lanes, {farmer}!",
+          "es": "Nos vemos por la taberna luego o sonriendo por calles tranquilas, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_emily_night_19",
+          "emote": 32,
+          "en": "Starlight sparkles gently over {farm} tonight, {farmer}!",
+          "es": "Las estrellas centellean suave sobre {farm} esta noche, {farmer}!"
+        }
+      ]
+    },
+    "Evelyn": {
+      "birthday": [
+        {
+          "id": "v_evelyn_birthday_1",
+          "emote": 20,
+          "en": "Oh my, bless your sweet heart waving on my birthday, {farmer}! Have a cookie smell from here!",
+          "es": "Ay cielo, bendito tu detalle al saludar en mi cumpleanos, {farmer}! Que lindura!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_evelyn_green_rain_2",
+          "emote": 32,
+          "en": "Goodness gracious, look at that peculiar green mist, dear {farmer}! Stay safe!",
+          "es": "Santo cielo, mira esa neblina verde tan peculiar, querido {farmer}! Cuidate mucho!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_evelyn_storm_3",
+          "emote": 32,
+          "en": "Don't linger near tall trees in this booming storm, {farmer} dear!",
+          "es": "No te quedes bajo arboles altos con esta tormenta tan fuerte, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_evelyn_snow_4",
+          "emote": 32,
+          "en": "Bundle up warm around your neck out in snowy weather, {farmer} dear!",
+          "es": "Abrigate bien el cuello con este clima nevado, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_evelyn_rain_5",
+          "emote": 32,
+          "en": "Pelican Town's flower beds positively drink up gentle rain like this, {farmer}.",
+          "es": "Los macizos de flores del pueblo beben con gusto una lluvia asi, {farmer}."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_evelyn_close_friend_6",
+          "emote": 20,
+          "en": "Oh {farmer}, seeing you always reminds me how bright Pelican Town feels with you at {farm}!",
+          "es": "Oh {farmer}, verte siempre me recuerda lo alegre que luce Pueblo Pelicano contigo en {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_evelyn_friend_7",
+          "emote": 32,
+          "en": "Hello dearie! Are the roses blooming sweetly around {farm} this week?",
+          "es": "Hola tesoro! Florecen bonitas las rosas alrededor de {farm} esta semana?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_evelyn_acquaintance_8",
+          "emote": 32,
+          "en": "Good day, young {farmer}. Remember to step gently and smell the tulips!",
+          "es": "Buen dia, joven {farmer}. Recuerda caminar sin prisa y oler los tulipanes!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_evelyn_spring_9",
+          "emote": 32,
+          "en": "My tulip beds always wake up cheerful every April breeze, {farmer}!",
+          "es": "Mis canteros de tulipanes despiertan alegres con cada brisa de primavera, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_evelyn_summer_10",
+          "emote": 32,
+          "en": "Sweet summer poppies open wide for busy bees today, {farmer}.",
+          "es": "Las amapolas dulces de verano se abren anchas para las abejas hoy, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_evelyn_fall_11",
+          "emote": 32,
+          "en": "Nothing comforts cold joints like spiced pumpkin cookies baking in fall, {farmer}!",
+          "es": "Nada reconforta tanto como galletas especiadas de calabaza en otono, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_evelyn_winter_12",
+          "emote": 32,
+          "en": "Keep your hearth glowing cozy and warm over at {farm}, {farmer}.",
+          "es": "Manten calida y encendida tu chimenea alla en {farm}, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_evelyn_morning_13",
+          "emote": 32,
+          "en": "Lovely fresh morning, {farmer}! Just checking my corner flower boxes.",
+          "es": "Preciosa manana fresca, {farmer}! Revisando mis macetas de la esquina."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_evelyn_afternoon_14",
+          "emote": 32,
+          "en": "Afternoon dear! Never rush past sunny flowers if you can help it.",
+          "es": "Buenas tardes tesoro! Nunca corras frente a flores al sol si puedes admirarlas."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_evelyn_evening_15",
+          "emote": 32,
+          "en": "George and I turn on warm lamps early at dusk, {farmer}. Take care!",
+          "es": "George y yo encendemos lamparas calidas temprano al caer el sol, {farmer}. Cuidate!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_evelyn_night_16",
+          "emote": 32,
+          "en": "Run right inside to warmth soon, {farmer}—night air grows chilly!",
+          "es": "Entra pronto al calor de casa, {farmer}... el aire nocturno enfria!"
+        }
+      ]
+    },
+    "George": {
+      "birthday": [
+        {
+          "id": "v_george_birthday_1",
+          "emote": 20,
+          "en": "Hmph... yeah, another year piled on. Nice of you not to forget an old timer, {farmer}.",
+          "es": "Hmph... si, otro ano encima. Buen detalle no olvidar a este viejo, {farmer}."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_george_green_rain_2",
+          "emote": 32,
+          "en": "Gah! What in Sam Hill is this weird green fog?! Keep boots dry, {farmer}!",
+          "es": "Bah! Que demonios es esta niebla verde rara?! Manten secas las botas, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_george_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rattling my knees again! Don't stay soaking out there, {farmer}!",
+          "es": "Esos truenos me hacen crujir las rodillas! No te quedes calado afuera, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_george_snow_4",
+          "emote": 32,
+          "en": "Snow everywhere... good day staying parked right beside the fireplace, {farmer}.",
+          "es": "Nieve por todos lados... buen dia para quedarse frente a la chimenea, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_george_rain_5",
+          "emote": 32,
+          "en": "Rain again! Good for crops at {farm}, terrible for creaky joints!",
+          "es": "Lluvia otra vez! Buena para {farm}, fatal para mis articulaciones!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_george_close_friend_6",
+          "emote": 20,
+          "en": "Hmph—alright, you're good company, {farmer}. Keep {farm} sharper than my old legs!",
+          "es": "Hmph... bueno, eres buena compania, {farmer}. Cuida {farm} mejor que mis viejas piernas!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_george_friend_7",
+          "emote": 32,
+          "en": "Hey {farmer}. Not rushing around knocking folks over today, good.",
+          "es": "Hey {farmer}. Sin correr tumbando gente hoy, asi me gusta."
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_george_acquaintance_8",
+          "emote": 32,
+          "en": "Yeah? Afternoon, {farmer}. Don't trample Evelyn's tulips cutting corners!",
+          "es": "Si? Buenas, {farmer}. No pises los tulipanes de Evelyn al atajar!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_george_spring_9",
+          "emote": 32,
+          "en": "Dandelions popping through pavement cracks again already, {farmer}...",
+          "es": "Dientes de leon saliendo por grietas de acera otra vez, {farmer}..."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_george_summer_10",
+          "emote": 32,
+          "en": "Too darn bright out here, {farmer}! Where's my shade bench?",
+          "es": "Demasiado solazo aqui afuera, {farmer}! Donde quedo mi banco con sombra?"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_george_fall_11",
+          "emote": 32,
+          "en": "Leeks tasted fine in soup yesterday. Cooler weather beats muggy heat, {farmer}.",
+          "es": "El puerro quedo bueno en sopa ayer. Este fresco le gana al bochorno, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_george_winter_12",
+          "emote": 32,
+          "en": "Bah, winter wind bites straight through woolen blankets, {farmer}!",
+          "es": "Bah, el viento invernal muerde hasta detras de la manta, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_george_morning_13",
+          "emote": 32,
+          "en": "Early bird gets the newspaper, {farmer}. Hmph!",
+          "es": "Quien madruga agarra el periodico, {farmer}. Hmph!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_george_afternoon_14",
+          "emote": 32,
+          "en": "Nice quiet noon pause before evening TV reruns, {farmer}.",
+          "es": "Buen rato tranquilo antes de las repeticiones de la tele, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_george_evening_15",
+          "emote": 32,
+          "en": "Getting dark fast—better wrap things up at {farm}, {farmer}.",
+          "es": "Oscurece rapido... ve cerrando pendiente en {farm}, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_george_night_16",
+          "emote": 32,
+          "en": "Past supper already! What are you still doing roaming out here, {farmer}?",
+          "es": "Ya paso la cena! Que haces todavia rondando afuera, {farmer}?"
+        }
+      ]
+    },
+    "Gil": {
+      "birthday": [
+        {
+          "id": "v_gil_birthday_1",
+          "emote": 20,
+          "en": "Hmph! Celebrated eighty winters fighting slimes, {farmer}. Respect a sharp greeting!",
+          "es": "Hmph! Otro cumpleanos de veterano entre monstruos, {farmer}. Se agradece el saludo!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_gil_green_rain_2",
+          "emote": 32,
+          "en": "Weird spores outside? Bah—worse things crawl down floor ninety, {farmer}.",
+          "es": "Esporas raras afuera? Bah... peores cosas caminan en el piso noventa, {farmer}."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_gil_storm_3",
+          "emote": 32,
+          "en": "Good night for sharpening broadswords by lantern light, {farmer}.",
+          "es": "Buena noche para afilar espadones a luz de farol, {farmer}."
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_gil_snow_4",
+          "emote": 32,
+          "en": "Frost keeps soft rookies sitting home while veterans watch the ridge, {farmer}.",
+          "es": "La helada guarda novatos en casa mientras veteranos vigilan, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_gil_rain_5",
+          "emote": 32,
+          "en": "Wet boots never killed an adventurer yet, {farmer}. Keep moving!",
+          "es": "Unas botas mojadas nunca detuvieron a un aventurero, {farmer}. Sigue adelante!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_gil_close_friend_6",
+          "emote": 20,
+          "en": "You've got genuine Guild grit in those boots, {farmer}! Respect!",
+          "es": "Traes agallas reales del Gremio en esas botas, {farmer}! Mis respetos!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_gil_friend_7",
+          "emote": 32,
+          "en": "Keep racking up those monster bounties, {farmer}!",
+          "es": "Sigue sumando recompensas de monstruos, {farmer}!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_gil_acquaintance_8",
+          "emote": 32,
+          "en": "Talk to Marlon if you're hunting bounties, {farmer}.",
+          "es": "Habla con Marlon si buscas recompensas, {farmer}."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_gil_spring_9",
+          "emote": 32,
+          "en": "Slimes get lively once spring thaw hits caves, {farmer}.",
+          "es": "Los slimes se ponen inquietos tras el deshielo primaveral, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_gil_summer_10",
+          "emote": 32,
+          "en": "Heat never cools down volcanic floors, kid. Drink water.",
+          "es": "El calor nunca baja en pisos profundos. Bebe agua, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_gil_fall_11",
+          "emote": 32,
+          "en": "Crisp air clears the mind before deep mining dives, {farmer}.",
+          "es": "El aire fresco despeja la mente antes de bajar a minas, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_gil_winter_12",
+          "emote": 32,
+          "en": "My old rocking chair beats frostbite any day of winter, {farmer}.",
+          "es": "Mi vieja mecedora le gana al frio invernal cualquier dia, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_gil_morning_13",
+          "emote": 32,
+          "en": "Sharp eyes every dawn, {farmer}.",
+          "es": "Ojos atentos cada alba, {farmer}."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_gil_afternoon_14",
+          "emote": 32,
+          "en": "Stay behind your shield, {farmer}.",
+          "es": "Manten arriba el escudo, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_gil_evening_15",
+          "emote": 32,
+          "en": "Shadows lengthen fast near mountain paths, {farmer}.",
+          "es": "Las sombras crecen rapido por la montana, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_gil_night_16",
+          "emote": 32,
+          "en": "Watch your flank past sunset, {farmer}.",
+          "es": "Cuida tu espalda pasada la puesta de sol, {farmer}."
+        }
+      ]
+    },
+    "Gus": {
+      "birthday": [
+        {
+          "id": "v_gus_birthday_1",
+          "emote": 20,
+          "en": "Happy birthday to the valley's favorite chef! Special stew simmering tonight, {farmer}!",
+          "es": "Feliz cumpleanos al cocinero del valle! Hoy hay guiso especial a fuego lento, {farmer}!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_gus_green_rain_2",
+          "emote": 32,
+          "en": "Even odd weather calls for piping hot bread from the oven, {farmer}!",
+          "es": "Hasta en clima raro nada supera pan recien horneado, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_gus_storm_3",
+          "emote": 32,
+          "en": "Saloon hearth stays roaring bright whenever thunder rolls, {farmer}! Come warm up!",
+          "es": "La chimenea de la taberna arde con ganas cuando truena, {farmer}! Pasa a calentarte!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_gus_snow_4",
+          "emote": 32,
+          "en": "Hot chowder weather at its finest today, {farmer}!",
+          "es": "Clima perfecto para sopa caliente y espesa hoy, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_gus_rain_5",
+          "emote": 32,
+          "en": "Rainy afternoons bring folks hungry for fresh pepper poppers, {farmer}!",
+          "es": "Las tardes de lluvia traen hambre de aperitivos recien hechos, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_gus_close_friend_6",
+          "emote": 20,
+          "en": "My favorite regular from {farm}! Saving a prime warm plate if you swing by later, {farmer}!",
+          "es": "Mi cliente favorito de {farm}! Te guardo plato recien salido si pasas luego, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_gus_friend_7",
+          "emote": 32,
+          "en": "Hey {farmer}! Harvested crisp fresh veggies down at {farm} today?",
+          "es": "Hola {farmer}! Cosechaste buenas verduras frescas en {farm} hoy?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_gus_acquaintance_8",
+          "emote": 32,
+          "en": "Welcome, {farmer}! Saloon doors open warm every noon for good food!",
+          "es": "Bienvenido, {farmer}! Las puertas de la taberna abren cada dia para comer rico!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_gus_spring_9",
+          "emote": 32,
+          "en": "Spring strawberries inspire fresh fruit tarts all month, {farmer}!",
+          "es": "Las fresas de primavera inspiran tartas frescas todo el mes, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_gus_summer_10",
+          "emote": 32,
+          "en": "Fresh melon slices stay ice-cold behind the bar today, {farmer}!",
+          "es": "Rebanadas de melon frescas esperan bien frias tras la barra hoy, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_gus_fall_11",
+          "emote": 32,
+          "en": "Pumpkin soup season warms the whole Stardrop, {farmer}!",
+          "es": "Temporada de crema de calabaza que abriga toda la taberna, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_gus_winter_12",
+          "emote": 32,
+          "en": "Roasting chestnuts beside slow simmering stews—winter cooking rules, {farmer}!",
+          "es": "Castanas tostadas junto a guisos lentos... cocinar en invierno encanta, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_gus_morning_13",
+          "emote": 32,
+          "en": "Prep knives humming nicely before lunch rush, {farmer}!",
+          "es": "Afilando cuchillos con ritmo antes del almuerzo, {farmer}!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_gus_afternoon_14",
+          "emote": 32,
+          "en": "Smells delicious back in the kitchen—stop by anytime, {farmer}!",
+          "es": "Huele delicioso en cocina... pasate cuando quieras, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_gus_evening_15",
+          "emote": 32,
+          "en": "Evening special's sizzling away tonight, {farmer}! Hope you're hungry!",
+          "es": "El especial de la noche ya chisporrotea en sarten, {farmer}! Espero traigas hambre!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_gus_night_16",
+          "emote": 32,
+          "en": "Always warm company around the Saloon till midnight, {farmer}!",
+          "es": "Siempre buena compania en la taberna hasta medianoche, {farmer}!"
+        }
+      ]
+    },
+    "Haley": {
+      "birthday": [
+        {
+          "id": "v_haley_birthday_1",
+          "emote": 20,
+          "en": "Birthday queen coming through! Wait—doesn't sunset lighting look flawless on me today, {farmer}?",
+          "es": "Reina del cumpleanos pasando! Oye... la luz del atardecer me queda perfecta hoy, {farmer}?"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_haley_green_rain_2",
+          "emote": 32,
+          "en": "Okay, green light ruins my pastel color palette, {farmer}... actually kinda wild for surreal photos though!",
+          "es": "Vale, esta luz verde arruina mis tonos pastel, {farmer}... aunque da fotos surrealistas geniales!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_haley_storm_3",
+          "emote": 32,
+          "en": "Thunder nearly ruined my curls! Stay dry out there, {farmer}!",
+          "es": "Un trueno casi arruina mis rizos! No te mojes mucho, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_haley_snow_4",
+          "emote": 32,
+          "en": "Okay, snow reflection makes outdoor portraits glow like a magazine cover, {farmer}!",
+          "es": "Bueno, el reflejo de nieve ilumina retratos como portada de revista, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_haley_rain_5",
+          "emote": 32,
+          "en": "Ugh, mud spots on new boots! Careful stepping around town today, {farmer}.",
+          "es": "Uf, salpicaduras de barro en botas nuevas! Pisa con cuidado hoy, {farmer}."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_haley_spouse_6",
+          "emote": 20,
+          "en": "Hey gorgeous! Even muddy farm boots can't hide how cute you look, {farmer}! See you at {farm}!",
+          "es": "Hola guapo! Ni botas con tierra ocultan lo lindo que te ves, {farmer}! Nos vemos en {farm}!"
+        },
+        {
+          "id": "v_haley_spouse_7",
+          "emote": 20,
+          "en": "Wait—hold that smile one second for a mental snapshot, sweetheart!",
+          "es": "Espera... guarda esa sonrisa un segundo para mi foto mental, carino!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_haley_dating_8",
+          "emote": 20,
+          "en": "Oh! Hi {farmer}... hey, wanna shoot golden hour photos together behind {farm} sometime?",
+          "es": "Oh! Hola {farmer}... oye, hacemos fotos de hora dorada detras de {farm} algun dia?"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_haley_close_friend_9",
+          "emote": 20,
+          "en": "Hey {farmer}! Honestly, living out at {farm} suits your whole vibe so much!",
+          "es": "Hola {farmer}! De verdad que la vida en {farm} te sienta increiblemente bien!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_haley_friend_10",
+          "emote": 32,
+          "en": "Oh hey {farmer}! Cute sunflower weather today, right?",
+          "es": "Oh hola {farmer}! Lindo clima de girasoles hoy, verdad?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_haley_acquaintance_11",
+          "emote": 32,
+          "en": "Hi, {farmer}. Nice shoes... well, sturdy farm ones anyway!",
+          "es": "Hola, {farmer}. Lindos zapatos... digo, practicos para la granja!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_haley_spring_12",
+          "emote": 32,
+          "en": "Spring daffodils totally match bright pastel cardigans, {farmer}!",
+          "es": "Los narcisos de primavera combinan genial con tonos pastel, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_haley_summer_13",
+          "emote": 32,
+          "en": "Beach tan weather is finally here, {farmer}! Don't forget sunglasses!",
+          "es": "Al fin llego clima de playa y sol, {farmer}! No olvides gafas!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_haley_fall_14",
+          "emote": 32,
+          "en": "Autumn light makes golden hair shine effortlessly, {farmer}!",
+          "es": "La luz de otono hace brillar todo con tonos dorados, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_haley_winter_15",
+          "emote": 32,
+          "en": "Warm cocoa and fuzzy white scarves save winter completely, {farmer}.",
+          "es": "Chocolate caliente y bufandas mullidas salvan todo el invierno, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_haley_morning_16",
+          "emote": 32,
+          "en": "Morning, {farmer}! Still waking up before noon photoshoot.",
+          "es": "Buenos dias, {farmer}! Despertando antes de sacar fotos."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_haley_afternoon_17",
+          "emote": 32,
+          "en": "Perfect afternoon glare! Catching great candid shots today, {farmer}!",
+          "es": "Luz de tarde perfecta! Sacando fotazas hoy, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_haley_evening_18",
+          "emote": 32,
+          "en": "Pink sunset skies never get boring out here, {farmer}.",
+          "es": "Los cielos rosados al atardecer nunca cansan aqui, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_haley_night_19",
+          "emote": 32,
+          "en": "Too dark for film—time for skincare and cozy slippers, {farmer}!",
+          "es": "Muy oscuro para camara... hora de cuidarse y pantuflas, {farmer}!"
+        }
+      ]
+    },
+    "Harvey": {
+      "birthday": [
+        {
+          "id": "v_harvey_birthday_1",
+          "emote": 20,
+          "en": "Thank you kindly for checking in on my birthday, {farmer}! Makes a doctor's week!",
+          "es": "Muchas gracias por saludar en mi cumpleanos, {farmer}! Me alegras la semana!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_harvey_green_rain_2",
+          "emote": 32,
+          "en": "Fascinating pollen particulate count today, {farmer}! Wash hands before snacking back at {farm}!",
+          "es": "Fascinante conteo de esporas hoy, {farmer}! Lavate las manos antes de comer en {farm}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_harvey_storm_3",
+          "emote": 32,
+          "en": "Please step indoors if thunder gets close over open {farm} fields, {farmer}!",
+          "es": "Por favor busca techo si los rayos caen cerca de {farm}, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_harvey_snow_4",
+          "emote": 32,
+          "en": "Cold air dries sinuses—stay hydrated and warm today, {farmer}!",
+          "es": "El aire frio reseca... mantente bien hidratado y abrigado hoy, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_harvey_rain_5",
+          "emote": 32,
+          "en": "Don't stay out soaked too long, {farmer}; mild rain still cools body heat quickly.",
+          "es": "No pases mucho rato empapado, {farmer}; la lluvia tambien baja el calor corporal rapido."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_harvey_spouse_6",
+          "emote": 20,
+          "en": "My dear {farmer}! Always relieved seeing you safe and healthy out on your rounds!",
+          "es": "Mi querido {farmer}! Siempre me alivia verte sano y a salvo en tus recorridos!"
+        },
+        {
+          "id": "v_harvey_spouse_7",
+          "emote": 20,
+          "en": "Remember not to skip lunch at {farm}, love—I care too much!",
+          "es": "Recuerda no saltarte el almuerzo en {farm}, amor... me importas demasiado!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_harvey_dating_8",
+          "emote": 20,
+          "en": "Ah—{farmer}! My pulse just spiked slightly... purely benign, I assure you!",
+          "es": "Ah, {farmer}! Mi pulso subio un poco... totalmente benigno, te lo aseguro!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_harvey_close_friend_9",
+          "emote": 20,
+          "en": "Always wonderful bumping into my healthiest patient, {farmer}! Keep thriving at {farm}!",
+          "es": "Siempre un gusto cruzarme con mi paciente mas sano, {farmer}! Sigue brillando en {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_harvey_friend_10",
+          "emote": 32,
+          "en": "Good day, {farmer}! Remember good posture while swinging heavy tools!",
+          "es": "Buen dia, {farmer}! Recuerda cuidar la postura al usar herramientas pesadas!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_harvey_acquaintance_11",
+          "emote": 32,
+          "en": "Hello, {farmer}. Clinic's always open if work at {farm} causes aches.",
+          "es": "Hola, {farmer}. La clinica siempre abre si el trabajo en {farm} trae molestias."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_harvey_spring_12",
+          "emote": 32,
+          "en": "Watch mild seasonal allergies if you walk near wild blossoms, {farmer}!",
+          "es": "Cuidado con alergias leves cerca de flores silvestres, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_harvey_summer_13",
+          "emote": 32,
+          "en": "Wear a wide brim hat under peak afternoon sun, {farmer}!",
+          "es": "Usa sombrero ancho bajo el sol pico de la tarde, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_harvey_fall_14",
+          "emote": 32,
+          "en": "Tuck in extra vitamin greens before chilly winds pick up, {farmer}.",
+          "es": "Suma verduras nutritivas antes que lleguen vientos frios, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_harvey_winter_15",
+          "emote": 32,
+          "en": "Wash hands often and keep wool socks dry this winter, {farmer}!",
+          "es": "Lava manos seguido y mantiene secos los calcetines de lana, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_harvey_morning_16",
+          "emote": 32,
+          "en": "Good morning, {farmer}! Fresh coffee and morning radio forecasts complete.",
+          "es": "Buenos dias, {farmer}! Cafe listo y reporte de radio revisado."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_harvey_afternoon_17",
+          "emote": 32,
+          "en": "Afternoon stretch break is vital for longevity, {farmer}!",
+          "es": "Estirarse a media tarde es clave para la salud, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_harvey_evening_18",
+          "emote": 32,
+          "en": "Wind down softly tonight, {farmer}—eight hours sleep heals wonders!",
+          "es": "Relajate con calma esta noche, {farmer}... ocho horas de sueno curan maravillas!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_harvey_night_19",
+          "emote": 32,
+          "en": "Late house calls keep me sharp, {farmer}, though do get rest soon!",
+          "es": "Los turnos tardios exigen calma, {farmer}, ve a descansar pronto!"
+        }
+      ]
+    },
+    "Jas": {
+      "birthday": [
+        {
+          "id": "v_jas_birthday_1",
+          "emote": 20,
+          "en": "Yay!! It's my birthday, {farmer}! Aunt Marnie promised extra chocolate frosting!",
+          "es": "Yuju!! Es mi cumpleanos, {farmer}! Tia Marnie prometio extra betun de chocolate!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_jas_green_rain_2",
+          "emote": 32,
+          "en": "Ooh, green sky rain turns puddle splashes into glowing green sparkles, {farmer}!",
+          "es": "Ooh, la lluvia verde vuelve los charcos chispitas brillantes, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_jas_storm_3",
+          "emote": 32,
+          "en": "Eep! Loud thunder! Good thing cows stay cozy dry inside the barn, {farmer}!",
+          "es": "Uy! Que trueno fuerte! Suerte que las vacas duermen calentitas adentro, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_jas_snow_4",
+          "emote": 32,
+          "en": "Look! Flakes melt right on my nose when I tilt up, {farmer}!",
+          "es": "Mira! Los copos se derriten en mi nariz cuando miro arriba, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_jas_rain_5",
+          "emote": 32,
+          "en": "Raindrops bounce funny off big umbrella rims, {farmer}!",
+          "es": "Las gotas rebotan chistoso en los bordes del paraguas, {farmer}!"
+        }
+      ],
+      "child": [
+        {
+          "id": "v_jas_child_6",
+          "emote": 32,
+          "en": "Hi, {farmer}! Did you say hello to the cows over at {farm} today?",
+          "es": "Hola, {farmer}! Ya saludaste a los animalitos alla en {farm} hoy?"
+        },
+        {
+          "id": "v_jas_child_7",
+          "emote": 20,
+          "en": "Look how smoothly my jump rope spins, {farmer}! Wanna watch later?",
+          "es": "Mira que bien gira mi cuerda de saltar, {farmer}! Luego miras?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_jas_spring_8",
+          "emote": 32,
+          "en": "Pink blossoms smell like sweet candy when wind gusts blow, {farmer}!",
+          "es": "Las flores rosadas huelen a caramelo cuando sopla brisa, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_jas_summer_9",
+          "emote": 32,
+          "en": "Ice cream cones taste extra awesome beside Marnie's fence, {farmer}!",
+          "es": "Los helados saben mejor junto a la cerca de tia Marnie, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_jas_fall_10",
+          "emote": 32,
+          "en": "Penny taught us leaf pressing shapes yesterday, {farmer}!",
+          "es": "Penny nos enseno a prensar hojas ayer, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_jas_winter_11",
+          "emote": 32,
+          "en": "Snowmen need carrot noses or pebbles for buttons, {farmer}!",
+          "es": "Los munecos de nieve necesitan zanahoria o piedritas de botones, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_jas_morning_12",
+          "emote": 32,
+          "en": "Morning, {farmer}! Ready for ribbon practice!",
+          "es": "Buenos dias, {farmer}! Lista para practicar con mis lazos!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_jas_afternoon_13",
+          "emote": 32,
+          "en": "Done with afternoon lessons, {farmer}! Playtime!",
+          "es": "Terminamos las clases de la tarde, {farmer}! Hora de jugar!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_jas_evening_14",
+          "emote": 32,
+          "en": "Almost dinner time back at the ranch, {farmer}!",
+          "es": "Ya casi es hora de cenar en el rancho, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_jas_night_15",
+          "emote": 32,
+          "en": "Moonlight peeking over trees looks super pretty, {farmer}!",
+          "es": "La luna asomando sobre los arboles se ve re bonita, {farmer}!"
+        }
+      ]
+    },
+    "Jodi": {
+      "birthday": [
+        {
+          "id": "v_jodi_birthday_1",
+          "emote": 20,
+          "en": "Thank you kindly for waving on my birthday, {farmer}! Hardly feels like another year flew by!",
+          "es": "Gracias por saludar en mi cumpleanos, {farmer}! Casi no senti pasar otro ano!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_jodi_green_rain_2",
+          "emote": 32,
+          "en": "Goodness, what an unusual green cloudburst! Look after yourself on {farm}, {farmer}!",
+          "es": "Vaya chubasco verde tan inusual! Cuidate mucho alla en {farm}, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_jodi_storm_3",
+          "emote": 32,
+          "en": "Better close porch shutters tight against this gale, {farmer}!",
+          "es": "Mejor cerrar bien las ventanas contra este vendaval, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_jodi_snow_4",
+          "emote": 32,
+          "en": "Cold mornings smell like fresh oatmeal simmering on my stove, {farmer}.",
+          "es": "Las mananas frias huelen a avena caliente en mi cocina, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_jodi_rain_5",
+          "emote": 32,
+          "en": "Wet weather keeps boys tracking mud straight onto my clean rugs, {farmer}—haha!",
+          "es": "La lluvia hace que mis chicos llenen de barro las alfombras, {farmer}... jaja!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_jodi_close_friend_6",
+          "emote": 20,
+          "en": "Always warm seeing you, {farmer}! Drop by for homemade fish casserole sometime!",
+          "es": "Siempre da gusto verte, {farmer}! Ven a comer cazuela casera algun dia!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_jodi_friend_7",
+          "emote": 32,
+          "en": "Hello {farmer}! Busy stocking up supplies from {farm} today?",
+          "es": "Hola {farmer}! Ocupado surtiendo provisiones desde {farm} hoy?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_jodi_acquaintance_8",
+          "emote": 32,
+          "en": "Good day, {farmer}. Glad {farm} has such dependable hands now!",
+          "es": "Buen dia, {farmer}. Que bueno que {farm} tenga manos tan trabajadoras!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_jodi_spring_9",
+          "emote": 32,
+          "en": "Spring cleaning finally makes the house sparkle again, {farmer}!",
+          "es": "La limpieza de primavera deja brillando toda la casa otra vez, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_jodi_summer_10",
+          "emote": 32,
+          "en": "Fresh garden peas mean crisp summer side dishes tonight, {farmer}.",
+          "es": "Chicharos frescos de huerta aseguran buena guarnicion de verano hoy, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_jodi_fall_11",
+          "emote": 32,
+          "en": "Cool autumn air puts real baking spirit back into my kitchen, {farmer}!",
+          "es": "El fresco de otono devuelve las ganas de hornear en cocina, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_jodi_winter_12",
+          "emote": 32,
+          "en": "Warm wool sweaters keep everyone happy all winter long, {farmer}.",
+          "es": "Sueteres calidos de lana mantienen contento a todo el mundo en invierno, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_jodi_morning_13",
+          "emote": 32,
+          "en": "Morning, {farmer}! Off to market before shelves thin out!",
+          "es": "Buenos dias, {farmer}! Voy al mercado antes de que se vacien estantes!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_jodi_afternoon_14",
+          "emote": 32,
+          "en": "Checking supper ingredients early saves headaches later, {farmer}.",
+          "es": "Revisar ingredientes temprano ahorra apuros despues, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_jodi_evening_15",
+          "emote": 32,
+          "en": "Kitchen timer keeps calling me back home, {farmer}—see you around!",
+          "es": "El reloj de cocina ya me llama a casa, {farmer}... nos vemos!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_jodi_night_16",
+          "emote": 32,
+          "en": "Peaceful evening stroll, {farmer}. Sleep soundly tonight!",
+          "es": "Lindo paseo nocturno, {farmer}. Duerme profundo hoy!"
+        }
+      ]
+    },
+    "Kent": {
+      "birthday": [
+        {
+          "id": "v_kent_birthday_1",
+          "emote": 20,
+          "en": "Appreciated, {farmer}. Every quiet peaceful birthday back home means more than words can say.",
+          "es": "Se agradece, {farmer}. Cada cumpleanos tranquilo en casa vale mas de lo que dicen las palabras."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_kent_green_rain_2",
+          "emote": 32,
+          "en": "Weird hue in the clouds today... stay observant out near ridge paths, {farmer}.",
+          "es": "Color raro en las nubes hoy... mantente atento cerca del sendero, {farmer}."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_kent_storm_3",
+          "emote": 32,
+          "en": "Thunder hits loud... steady breath helps, {farmer}. Take care out here.",
+          "es": "Los truenos golpean fuerte... respirar hondo ayuda, {farmer}. Cuidate."
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_kent_snow_4",
+          "emote": 32,
+          "en": "Snow blankets the fields in calm silence today, {farmer}.",
+          "es": "La nieve cubre los campos con una calma silenciosa hoy, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_kent_rain_5",
+          "emote": 32,
+          "en": "Quiet rain softens the valley pace nicely, {farmer}.",
+          "es": "Lluvia tranquila suaviza bien el ritmo del valle hoy, {farmer}."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_kent_close_friend_6",
+          "emote": 20,
+          "en": "Good seeing an old friend holding steady, {farmer}. {farm} looks stronger every week.",
+          "es": "Da gusto ver firme a un buen amigo, {farmer}. {farm} luce mas fuerte cada semana."
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_kent_friend_7",
+          "emote": 32,
+          "en": "Morning/Afternoon nod, {farmer}. Hope the soil treats you fair.",
+          "es": "Buen saludo, {farmer}. Espero la tierra te devuelva buen fruto."
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_kent_acquaintance_8",
+          "emote": 32,
+          "en": "Hello, {farmer}. Keeping busy down at {farm}?",
+          "es": "Hola, {farmer}. Trabajando firme alla en {farm}?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_kent_spring_9",
+          "emote": 32,
+          "en": "Fresh spring grass smells honest and bright compared to distant lands, {farmer}.",
+          "es": "El pasto de primavera huele limpio y real comparado con tierras lejanas, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_kent_summer_10",
+          "emote": 32,
+          "en": "Warm evenings watching Sam laugh down the road make everything worthwhile, {farmer}.",
+          "es": "Tardes tibias viendo reir a Sam por la calle lo valen todo, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_kent_fall_11",
+          "emote": 32,
+          "en": "Harvest smells bring real gratitude this time of year, {farmer}.",
+          "es": "Olores de cosecha traen verdadera gratitud en esta epoca, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_kent_winter_12",
+          "emote": 32,
+          "en": "Fireplace warmth feels hard-won when frost locks the riverbank, {farmer}.",
+          "es": "El calor de la chimenea se agradece cuando hiela el rio, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_kent_morning_13",
+          "emote": 32,
+          "en": "Up early watching the square wake gently, {farmer}.",
+          "es": "Despierto temprano viendo despertar la plaza en calma, {farmer}."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_kent_afternoon_14",
+          "emote": 32,
+          "en": "Steady patrol down toward river shade today, {farmer}.",
+          "es": "Paseo tranquilo rumbo a la sombra del rio hoy, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_kent_evening_15",
+          "emote": 32,
+          "en": "Headed back to Jodi and Vincent soon, {farmer}. Good evening.",
+          "es": "Volviendo pronto con Jodi y Vincent, {farmer}. Buenas tardes."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_kent_night_16",
+          "emote": 32,
+          "en": "Night watch settles quiet over {farm}, {farmer}. Rest easy.",
+          "es": "La guardia nocturna queda en calma sobre {farm}, {farmer}. Descansa."
+        }
+      ]
+    },
+    "Krobus": {
+      "birthday": [
+        {
+          "id": "v_krobus_birthday_1",
+          "emote": 20,
+          "en": "Oh... human calendar birthday! Being greeted softly in shadow makes my day warm, {farmer}.",
+          "es": "Oh... cumpleanos humano! Ser saludado amablemente entre sombras abriga mi dia, {farmer}."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_krobus_green_rain_2",
+          "emote": 32,
+          "en": "Surface water smells mossy-sweet today, {farmer}! Shadows find it curiously pleasant.",
+          "es": "El agua de arriba huele dulce a musgo hoy, {farmer}! A las sombras les agrada."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_krobus_storm_3",
+          "emote": 32,
+          "en": "Upper world thunders boom across stone pipes, {farmer}! Exciting vibrations!",
+          "es": "Truenos de arriba retumban por mis tuberias de piedra, {farmer}! Vibraciones geniales!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_krobus_snow_4",
+          "emote": 32,
+          "en": "Chilly quiet snow blankets surface roofs nicely, {farmer}.",
+          "es": "Nieve fria y serena cubre suavemente los tejados de arriba, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_krobus_rain_5",
+          "emote": 32,
+          "en": "Rainy puddles make damp stone paths feel wonderfully refreshing, {farmer}!",
+          "es": "Los charcos hacen frescos los senderos de piedra, {farmer}!"
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_krobus_spouse_6",
+          "emote": 20,
+          "en": "Greetings, dear roommate {farmer}! Tidied dark corners back at {farm} while thinking of you!",
+          "es": "Saludos, querido companero {farmer}! Ordene rincones oscuros en {farm} pensando en ti!"
+        },
+        {
+          "id": "v_krobus_spouse_7",
+          "emote": 20,
+          "en": "Seeing you out softly brightens even cold shadows, {farmer}!",
+          "es": "Verte pasar suavemente ilumina hasta sombras frias, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_krobus_close_friend_8",
+          "emote": 20,
+          "en": "My kindest surface companion, {farmer}! May dark void shadows always shelter {farm}.",
+          "es": "Mi companero humano mas amable, {farmer}! Que sombras tranquilas siempre protejan {farm}."
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_krobus_friend_9",
+          "emote": 32,
+          "en": "Quiet greetings, friend {farmer}! Do void eggs still delight {farm}?",
+          "es": "Saludos discretos, amigo {farmer}! Siguen alegres los huevos sombrios en {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_krobus_acquaintance_10",
+          "emote": 32,
+          "en": "Oh—a kindly human visitor! Mind slippery stone tiles, {farmer}.",
+          "es": "Oh... visita humana amable! Cuidado con baldosas resbalosas, {farmer}."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_krobus_spring_11",
+          "emote": 32,
+          "en": "Warm mud dribbles happily along moss stones this spring, {farmer}.",
+          "es": "Barro tibio corre alegre junto al musgo esta primavera, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_krobus_summer_12",
+          "emote": 32,
+          "en": "Cool stone caverns spare me fierce July heat, {farmer}!",
+          "es": "Las cavernas frescas me salvan del calor feroz de verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_krobus_fall_13",
+          "emote": 32,
+          "en": "Crisp breeze makes shadow robes rustle quietly, {farmer}.",
+          "es": "La brisa fresca hace susurrar suavemente mis tunicas de sombra, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_krobus_winter_14",
+          "emote": 32,
+          "en": "Deep pipes remain snug while frost locks lakes overhead, {farmer}.",
+          "es": "Las tuberias hondas siguen tibias mientras hielan lagos arriba, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_krobus_morning_15",
+          "emote": 32,
+          "en": "Early stillness suits quiet shadow steps, {farmer}.",
+          "es": "La quietud temprana va bien con pasos silenciosos de sombra, {farmer}."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_krobus_afternoon_16",
+          "emote": 32,
+          "en": "Midday calm keeps curious eyes busy elsewhere, {farmer}.",
+          "es": "La calma del mediodia mantiene distraidas miradas curiosas, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_krobus_evening_17",
+          "emote": 32,
+          "en": "Dusk arrives smoothly... favorite hour for silent whispers, {farmer}.",
+          "es": "El ocaso llega suave... hora favorita para susurros tranquilos, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_krobus_night_18",
+          "emote": 32,
+          "en": "Under velvety night sky, we are both shadow kin, {farmer}.",
+          "es": "Bajo cielo nocturno aterciopelado, ambos somos amigos de la noche, {farmer}."
+        }
+      ]
+    },
+    "Leah": {
+      "birthday": [
+        {
+          "id": "v_leah_birthday_1",
+          "emote": 20,
+          "en": "Thank you for waving on my birthday, {farmer}! Fresh cedarwood carvings are already calling my hands.",
+          "es": "Gracias por saludar en mi cumpleanos, {farmer}! Talla fresca de cedro ya llama mis manos."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_leah_green_rain_2",
+          "emote": 32,
+          "en": "Did you see wild fiddleheads twisting up overnight in this green rain, {farmer}? Unbelievable!",
+          "es": "Viste los brotes silvestres nacer esta noche con lluvia verde, {farmer}? Increible!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_leah_storm_3",
+          "emote": 32,
+          "en": "Thunder drives crisp driftwood right onto rocky shore bends, {farmer}!",
+          "es": "La tormenta trae maderas preciosas justo a la orilla, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_leah_snow_4",
+          "emote": 32,
+          "en": "Pure white frost highlights dark pine grain wonderfully, {farmer}.",
+          "es": "La escarcha blanca resalta de maravilla la veta oscura del pino, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_leah_rain_5",
+          "emote": 32,
+          "en": "Forest moss drinks cool rain slowly while I sketch sketches by hearthlight, {farmer}.",
+          "es": "El musgo del bosque bebe lluvia despacio mientras dibujo junto al fuego, {farmer}."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_leah_spouse_6",
+          "emote": 20,
+          "en": "Hey love! Spot any photogenic wildflowers near {farm} today? Catch you at home with warm cider!",
+          "es": "Hola amor! Viste flores silvestres bonitas en {farm} hoy? En casa te espera sidra tibia!"
+        },
+        {
+          "id": "v_leah_spouse_7",
+          "emote": 20,
+          "en": "My inspiration literally just strolled past—looking great, {farmer}!",
+          "es": "Mi inspiracion acaba de pasar por aqui... te ves genial, {farmer}!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_leah_dating_8",
+          "emote": 20,
+          "en": "Ooh, hi {farmer}! Funny, I was just carving curves matching your smile!",
+          "es": "Ooh, hola {farmer}! Justo tallaba curvas suaves pensando en tu sonrisa!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_leah_close_friend_9",
+          "emote": 20,
+          "en": "Always refreshing crossing paths with fellow woodland spirit {farmer}!",
+          "es": "Siempre refresca cruzarse con otro espiritu libre del bosque, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_leah_friend_10",
+          "emote": 32,
+          "en": "Hey {farmer}! Found sweet wild blackberries near your fence at {farm}?",
+          "es": "Hola {farmer}! Hallaste buenas zarzamoras junto a {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_leah_acquaintance_11",
+          "emote": 32,
+          "en": "Hi there, {farmer}! Fresh woodland air makes {farm} feel right like art.",
+          "es": "Hola, {farmer}! El aire fresco del bosque hace que {farm} parezca puro arte."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_leah_spring_12",
+          "emote": 32,
+          "en": "Spring wild leeks and dandelion greens sprout beside creek trails, {farmer}!",
+          "es": "Puerros silvestres y verdes nacen junto a senderos del arroyo, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_leah_summer_13",
+          "emote": 32,
+          "en": "Bright summer sun warms driftwood benches near the river, {farmer}.",
+          "es": "El sol tibio calienta los bancos de madera junto al rio, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_leah_fall_14",
+          "emote": 32,
+          "en": "Ochre and burgundy leaves turn every tree into pure sculpture, {farmer}!",
+          "es": "Hojas ocre y vino convierten cada arbol en escultura viva, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_leah_winter_15",
+          "emote": 32,
+          "en": "Chisel sparks warm cold fingers beside winter hearth fires, {farmer}.",
+          "es": "El cincel calienta manos frias junto al fuego invernal, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_leah_morning_16",
+          "emote": 32,
+          "en": "Crisp morning light hits forest trunks beautifully right now, {farmer}!",
+          "es": "La luz temprana toca hermoso los troncos del bosque justo ahora, {farmer}!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_leah_afternoon_17",
+          "emote": 32,
+          "en": "Out gathering fresh clay and cedar twigs—good afternoon, {farmer}!",
+          "es": "Juntando arcilla fresca y ramas de cedro... buenas tardes, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_leah_evening_18",
+          "emote": 32,
+          "en": "Evening wine and quiet watercolor time await soon, {farmer}.",
+          "es": "Vino nocturno y acuarela tranquila esperan pronto, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_leah_night_19",
+          "emote": 32,
+          "en": "Moonlight shimmering on forest water feels pure magic, {farmer}.",
+          "es": "Luz de luna sobre agua del bosque se siente pura magia, {farmer}."
+        }
+      ]
+    },
+    "Leo": {
+      "birthday": [
+        {
+          "id": "v_leo_birthday_1",
+          "emote": 20,
+          "en": "Chirp! You remembered my hatch-day count, {farmer}! Golden walnuts feel lucky today!",
+          "es": "Pio! Recordaste mi dia de cumpleanos, {farmer}! Nueces doradas dan suerte hoy!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_leo_green_rain_2",
+          "emote": 32,
+          "en": "Green rain smells like wild jungle canopies far south, {farmer}!",
+          "es": "La lluvia verde huele a copas selvaticas del sur, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_leo_storm_3",
+          "emote": 32,
+          "en": "Booming skies remind me of island monsoon clouds, {farmer}! Brave birds hold tight!",
+          "es": "Cielos rugiendo recuerdan monzones de la isla, {farmer}! Aves valientes sujetan fuerte!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_leo_snow_4",
+          "emote": 32,
+          "en": "Cold white fluff tickles feathers strange and cool, {farmer}!",
+          "es": "Esta pelusa blanca fria hace cosquillas en las plumas, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_leo_rain_5",
+          "emote": 32,
+          "en": "Parrots shake bright droplets cleanly off wings in weather like this, {farmer}!",
+          "es": "Los loros sacuden gotitas de las alas bajo lluvias asi, {farmer}!"
+        }
+      ],
+      "child": [
+        {
+          "id": "v_leo_child_6",
+          "emote": 32,
+          "en": "Hi friend {farmer}! Did friendly birds nest near tree branches at {farm}?",
+          "es": "Hola amigo {farmer}! Anidaron pajaros amigables cerca de {farm}?"
+        },
+        {
+          "id": "v_leo_child_7",
+          "emote": 20,
+          "en": "Squawk-cheer! Looking strong like tall forest oaks today, {farmer}!",
+          "es": "Pio alegre! Luces fuerte como roble alto del bosque hoy, {farmer}!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_leo_spring_8",
+          "emote": 32,
+          "en": "Spring winds carry warm songs back from ocean horizons, {farmer}!",
+          "es": "Vientos de primavera traen canciones calidas desde el oceano, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_leo_summer_9",
+          "emote": 32,
+          "en": "Tropical island sun visits valley treetops all summer, {farmer}!",
+          "es": "Sol tropical visita las copas de arboles del valle todo verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_leo_fall_10",
+          "emote": 32,
+          "en": "Dry leaves rustle loud like hidden jungle lizards, {farmer}!",
+          "es": "Hojas secas crujen como lagartijas ocultas en selva, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_leo_winter_11",
+          "emote": 32,
+          "en": "Warm wool coats beat thin feathers when frost arrives, {farmer}!",
+          "es": "Abrigos de lana vencen a plumas ligeras cuando cae helada, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_leo_morning_12",
+          "emote": 32,
+          "en": "Dawn bird chorus already sang twice today, {farmer}!",
+          "es": "El coro de aves del alba ya canto dos veces hoy, {farmer}!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_leo_afternoon_13",
+          "emote": 32,
+          "en": "Checking forest squirrels before suppertime, {farmer}!",
+          "es": "Saludando ardillas del bosque antes de cenar, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_leo_evening_14",
+          "emote": 32,
+          "en": "Flocks fly home above red mountain peaks now, {farmer}.",
+          "es": "Las bandadas vuelven a nidos sobre picos rojos ya, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_leo_night_15",
+          "emote": 32,
+          "en": "Owls wake up sharp while trees whisper soft, {farmer}.",
+          "es": "Los buhos despiertan atentos mientras susurran arboles, {farmer}."
+        }
+      ]
+    },
+    "Lewis": {
+      "birthday": [
+        {
+          "id": "v_lewis_birthday_1",
+          "emote": 20,
+          "en": "Why thank you kindly, {farmer}! Keeping Pelican Town running well is gift enough!",
+          "es": "Muchisimas gracias, {farmer}! Ver prosperar Pueblo Pelicano ya es bastante regalo!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_lewis_green_rain_2",
+          "emote": 32,
+          "en": "Remarkable green cloud front! Let's make sure neighbors stay calm and cozy, {farmer}!",
+          "es": "Notable frente verde hoy! Aseguremos que vecinos esten tranquilos, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_lewis_storm_3",
+          "emote": 32,
+          "en": "Keep shipping bins bolted shut during lightning squalls at {farm}, {farmer}!",
+          "es": "Manten bien cerrada la caja de envios bajo tormentas en {farm}, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_lewis_snow_4",
+          "emote": 32,
+          "en": "Town cobblestone crews salted walkways early today—steady footing, {farmer}!",
+          "es": "Despejamos temprano las calles hoy... pisa seguro, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_lewis_rain_5",
+          "emote": 32,
+          "en": "Rain keeps the town wells topped nicely while feeding {farm} fields, {farmer}!",
+          "es": "La lluvia llena pozos del pueblo y riega bien {farm}, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_lewis_close_friend_6",
+          "emote": 20,
+          "en": "{farm} sets a shining standard for Pelican Town, {farmer}! Proud to call you neighbor!",
+          "es": "{farm} marca un gran ejemplo en Pueblo Pelicano, {farmer}! Orgullo tenerte de vecino!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_lewis_friend_7",
+          "emote": 32,
+          "en": "Fine morning rounds, {farmer}! Empty shipping crates tell a busy story!",
+          "es": "Buen dia, {farmer}! Tus cajas de envio llenas hablan de gran esfuerzo!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_lewis_acquaintance_8",
+          "emote": 32,
+          "en": "Greetings, {farmer}! Settling smoothly into life down at {farm}?",
+          "es": "Saludos, {farmer}! Adaptandote bien a la vida alla en {farm}?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_lewis_spring_9",
+          "emote": 32,
+          "en": "Remember Flower Dance rehearsals soon, {farmer}! Fresh grass looks splendid.",
+          "es": "Recuerda el Baile de las Flores pronto, {farmer}! El prado luce esplendido."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_lewis_summer_10",
+          "emote": 32,
+          "en": "Luau soup plans always keep me busy all mid-summer, {farmer}!",
+          "es": "Preparar el Luau me mantiene ocupado todo el verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_lewis_fall_11",
+          "emote": 32,
+          "en": "Start preparing star grange displays over at {farm}, {farmer}!",
+          "es": "Ve preparando exhibicion estelar en {farm} para la feria, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_lewis_winter_12",
+          "emote": 32,
+          "en": "Feast of the Winter Star warms every neighbor's heart soon, {farmer}.",
+          "es": "El Festival de la Estrella de Invierno une al pueblo pronto, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_lewis_morning_13",
+          "emote": 32,
+          "en": "Good morning, {farmer}! Checking shop ledgers and shipping logs early!",
+          "es": "Buenos dias, {farmer}! Revisando registros de tiendas y envios temprano!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_lewis_afternoon_14",
+          "emote": 32,
+          "en": "Good afternoon, {farmer}! Nothing pleases a mayor more than thriving gardens.",
+          "es": "Buenas tardes, {farmer}! Nada alegra mas a un alcalde que huertos prosperos."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_lewis_evening_15",
+          "emote": 32,
+          "en": "Making final evening rounds before town lanterns flicker bright, {farmer}.",
+          "es": "Dando ultima ronda antes que enciendan faroles del pueblo, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_lewis_night_16",
+          "emote": 32,
+          "en": "Shipping truck swings by late tonight, {farmer}—never fear missing sales!",
+          "es": "El camion de envios pasa tarde hoy, {farmer}... tu cosecha esta segura!"
+        }
+      ]
+    },
+    "Linus": {
+      "birthday": [
+        {
+          "id": "v_linus_birthday_1",
+          "emote": 20,
+          "en": "Kind words mean far more than wrapped silver boxes, friend {farmer}. Thank you.",
+          "es": "Palabras amables valen mucho mas que cajas envueltas, amigo {farmer}. Gracias."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_linus_green_rain_2",
+          "emote": 32,
+          "en": "Mother valley breathes deep in emerald mist today, {farmer}. Listen closely to the leaves!",
+          "es": "La madre tierra respira profundo entre bruma esmeralda hoy, {farmer}. Escucha las hojas!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_linus_storm_3",
+          "emote": 32,
+          "en": "Thunder shakes dry branches free for cozy morning kindling, {farmer}!",
+          "es": "Los truenos sueltan ramas secas perfectas para leña, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_linus_snow_4",
+          "emote": 32,
+          "en": "Snowflakes wrap mountain boulders like quiet white wool, {farmer}.",
+          "es": "La nieve envuelve las rocas de montana como lana blanca serena, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_linus_rain_5",
+          "emote": 32,
+          "en": "Rain sings softly against canvas roofs—wild berries love days like this, {farmer}!",
+          "es": "La lluvia canta suave sobre mi lona... las bayas silvestres aman dias asi, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_linus_close_friend_6",
+          "emote": 20,
+          "en": "Peace upon your path today, kindred friend {farmer}. Never forget you always belong.",
+          "es": "Paz en tu sendero hoy, querido amigo {farmer}. Nunca olvides que siempre perteneces aqui."
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_linus_friend_7",
+          "emote": 32,
+          "en": "Warm greetings, {farmer}! Find sweet wild hazelnuts or clear waters today?",
+          "es": "Calidos saludos, {farmer}! Hallaste avellanas o aguas claras hoy?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_linus_acquaintance_8",
+          "emote": 32,
+          "en": "Oh... hello, {farmer}. Not often townsfolk smile warmly walking by.",
+          "es": "Oh... hola, {farmer}. No todos sonrien con calidez al pasar junto a mi."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_linus_spring_9",
+          "emote": 32,
+          "en": "Wild horseradish peeks sharply out of thawed mountain mud, {farmer}.",
+          "es": "Rabano silvestre asoma fresco de la tierra deshelada, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_linus_summer_10",
+          "emote": 32,
+          "en": "Sweet spice berries glow scarlet beneath pine shade today, {farmer}.",
+          "es": "Bayas dulces brillan rojas bajo sombra de pinos hoy, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_linus_fall_11",
+          "emote": 32,
+          "en": "Hazelnuts, blackberries, wild plums—nature spoils honest hearts in autumn, {farmer}!",
+          "es": "Avellanas, moras y ciruelas... el otono consiente a corazones sencillos, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_linus_winter_12",
+          "emote": 32,
+          "en": "Crystal fruit shines pale blue beside quiet frozen streams, {farmer}.",
+          "es": "La fruta de cristal brilla azul junto a arroyos helados, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_linus_morning_13",
+          "emote": 32,
+          "en": "Fresh mountain air tastes crispest right before sunrise, {farmer}.",
+          "es": "El aire de montana sabe mas limpio justo antes del alba, {farmer}."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_linus_afternoon_14",
+          "emote": 32,
+          "en": "Tending quiet campfire embers while hawks circle high, {farmer}.",
+          "es": "Cuidando brasas tranquilas mientras halcones giran arriba, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_linus_evening_15",
+          "emote": 32,
+          "en": "Crickets open their dusk chorus softly across hillside clover, {farmer}.",
+          "es": "Los grillos abren su coro vespertino entre el trebol, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_linus_night_16",
+          "emote": 32,
+          "en": "Count bright constellations overhead on your walk home to {farm}, {farmer}.",
+          "es": "Cuenta estrellas brillantes arriba al volver hacia {farm}, {farmer}."
+        }
+      ]
+    },
+    "Marlon": {
+      "birthday": [
+        {
+          "id": "v_marlon_birthday_1",
+          "emote": 20,
+          "en": "Appreciate the sharp nod, {farmer}. Another year guarding these mountain passes well!",
+          "es": "Se agradece el gesto, {farmer}. Otro ano protegiendo bien estos pasos de montana!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_marlon_green_rain_2",
+          "emote": 32,
+          "en": "Stay sharp out in odd mist today, {farmer}—visibility plays tricks near ridge cliffs.",
+          "es": "Mantente alerta en esta bruma rara hoy, {farmer}... engaña la vista junto al risco."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_marlon_storm_3",
+          "emote": 32,
+          "en": "Bad lightning for open hills, good sound for watching tunnel entrances, {farmer}.",
+          "es": "Malos rayos en campo abierto, buen momento para vigilar entradas, {farmer}."
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_marlon_snow_4",
+          "emote": 32,
+          "en": "Frost keeps trackable footprints sharp across mountain snow, {farmer}.",
+          "es": "La nieve muestra huellas limpias y faciles de seguir, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_marlon_rain_5",
+          "emote": 32,
+          "en": "Wet slopes get slick fast near the mines, {farmer}. Watch your step!",
+          "es": "Laderas mojadas resbalan rapido cerca de minas, {farmer}. Cuida tus pasos!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_marlon_close_friend_6",
+          "emote": 20,
+          "en": "Fine steel in your grip, {farmer}. The Guild couldn't ask for a steadier ally!",
+          "es": "Buen acero empuñas, {farmer}. El Gremio no podria pedir mejor aliado!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_marlon_friend_7",
+          "emote": 32,
+          "en": "Hey {farmer}. Blade sharp and healing tonics packed today?",
+          "es": "Hey {farmer}. Espada afilada y pociones listas hoy?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_marlon_acquaintance_8",
+          "emote": 32,
+          "en": "Steady there, {farmer}. Watch deeper mine levels if you descend alone.",
+          "es": "Con calma, {farmer}. Cuida niveles profundos de la mina si bajas solo."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_marlon_spring_9",
+          "emote": 32,
+          "en": "Thaw clears upper quarry paths nicely, {farmer}.",
+          "es": "El deshielo despeja bien los senderos altos, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_marlon_summer_10",
+          "emote": 32,
+          "en": "Carry cold water down hot lower shafts, {farmer}.",
+          "es": "Lleva agua fresca al bajar por niveles profundos, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_marlon_fall_11",
+          "emote": 32,
+          "en": "Spirit's Eve shadows always test rookie nerves, {farmer}.",
+          "es": "Las sombras de otono prueban nervios de novatos, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_marlon_winter_12",
+          "emote": 32,
+          "en": "Cold keeps surface pests tucked away while cavern beasts pace below, {farmer}.",
+          "es": "El frio guarda bichos de afuera mientras abajo acechan bestias, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_marlon_morning_13",
+          "emote": 32,
+          "en": "Morning, {farmer}. Sharp eyes catch trouble miles off.",
+          "es": "Buenos dias, {farmer}. Ojos despiertos ven peligros a distancia."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_marlon_afternoon_14",
+          "emote": 32,
+          "en": "Afternoon patrol around lake shores, {farmer}. All quiet here.",
+          "es": "Ronda vespertina por la orilla del lago, {farmer}. Todo en orden."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_marlon_evening_15",
+          "emote": 32,
+          "en": "Guild hearth welcomes tired blades after twilight, {farmer}.",
+          "es": "El hogar del Gremio recibe espadas cansadas al caer la tarde, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_marlon_night_16",
+          "emote": 32,
+          "en": "Stay inside warm walls or keep iron close after dark, {farmer}.",
+          "es": "Guarda buen resguardo o acero a mano de noche, {farmer}."
+        }
+      ]
+    },
+    "Marnie": {
+      "birthday": [
+        {
+          "id": "v_marnie_birthday_1",
+          "emote": 20,
+          "en": "Oh sweetie, waving on my birthday makes me beam, {farmer}! Even the cows mooed hello!",
+          "es": "Ay cielo, saludar en mi cumpleanos me llena de alegria, {farmer}! Hasta las vacas mugieron hoy!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_marnie_green_rain_2",
+          "emote": 32,
+          "en": "Every barn door's latched tight against green fog, {farmer}! Animals stay safe inside.",
+          "es": "Todas las puertas del establo estan cerradas ante la niebla verde, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_marnie_storm_3",
+          "emote": 32,
+          "en": "Give extra gentle pats to spooked calves after thunder rolls near {farm}, {farmer}!",
+          "es": "Acaricia suave a los animales si los asustan truenos en {farm}, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_marnie_snow_4",
+          "emote": 32,
+          "en": "Extra warm hay bales keep barn beds toasty in snow, {farmer}!",
+          "es": "Paja extra calida mantiene acogedores los establos con nieve, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_marnie_rain_5",
+          "emote": 32,
+          "en": "Animals cozy indoors on rainy days, sipping warm clover snacks, {farmer}!",
+          "es": "Animales contentos adentro en dias de lluvia masticando heno seco, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_marnie_close_friend_6",
+          "emote": 20,
+          "en": "Bless you, {farmer}! Animals practically glow with happiness over at {farm}!",
+          "es": "Bendiciones, {farmer}! Tus animalitos brillan de felicidad alla en {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_marnie_friend_7",
+          "emote": 32,
+          "en": "Hey {farmer}! Plenty of dry hay stocked nicely for {farm} critters?",
+          "es": "Hola {farmer}! Bien surtido de heno seco para tus animales en {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_marnie_acquaintance_8",
+          "emote": 32,
+          "en": "Howdy, {farmer}! Swing by the ranch if {farm} needs feathery or fluffy pals!",
+          "es": "Hola, {farmer}! Pasa por el rancho cuando quieras sumar animales en {farm}!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_marnie_spring_9",
+          "emote": 32,
+          "en": "Blue spring grass brings pure joy to happy grazing herds, {farmer}!",
+          "es": "El pasto fresco de primavera vuelve locas de gusto a las vacas, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_marnie_summer_10",
+          "emote": 32,
+          "en": "Keep water troughs clear and cool through summer sun, {farmer}.",
+          "es": "Manten frescos y limpios los bebederos bajo sol de verano, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_marnie_fall_11",
+          "emote": 32,
+          "en": "Soft truffle noses root through crisp autumn grass beautifully, {farmer}!",
+          "es": "Hocicos contentos buscan trufas felices entre pasto otoñal, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_marnie_winter_12",
+          "emote": 32,
+          "en": "Remember barn heaters before snowdrifts pile deep, {farmer}!",
+          "es": "Recuerda calefactores de establo antes de nevadas fuertes, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_marnie_morning_13",
+          "emote": 32,
+          "en": "Morning chores already humming along, {farmer}! Happy clucks and moos!",
+          "es": "Tareas tempranas en marcha, {farmer}! Mugidos y cacareos alegres!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_marnie_afternoon_14",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Running feed errands around Pelican Town?",
+          "es": "Buenas tardes, {farmer}! Haciendo mandados de forraje por el pueblo?"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_marnie_evening_15",
+          "emote": 32,
+          "en": "Time to tuck chicks safe behind barn latches soon, {farmer}!",
+          "es": "Hora de arropar gallinas bajo cerrojo pronto, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_marnie_night_16",
+          "emote": 32,
+          "en": "Sweet sleepy barn sounds make the best lullaby, {farmer}.",
+          "es": "Sonidos tranquilos de granero hacen la mejor cancion nocturna, {farmer}."
+        }
+      ]
+    },
+    "Maru": {
+      "birthday": [
+        {
+          "id": "v_maru_birthday_1",
+          "emote": 20,
+          "en": "Woo! Optimal orbital birthday alignment, {farmer}! Thanks for wishing me bright stars!",
+          "es": "Yuju! Alineacion orbital perfecta de cumpleanos, {farmer}! Gracias por tus buenos deseos!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_maru_green_rain_2",
+          "emote": 32,
+          "en": "Taking air spectrometer samples of this emerald mist, {farmer}! Wild atmospheric data!",
+          "es": "Tomando muestras de espectro de esta neblina esmeralda, {farmer}! Datos increibles!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_maru_storm_3",
+          "emote": 32,
+          "en": "Ooh, peak capacitor storm today! Lightning rods at {farm} must be humming, {farmer}!",
+          "es": "Ooh, tormenta pico para condensadores! Tus pararrayos en {farm} deben zumbar, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_maru_snow_4",
+          "emote": 32,
+          "en": "Low static humidity helps fine circuit soldering stay ultra crisp, {farmer}!",
+          "es": "Baja humedad estatica ayuda mucho a soldar circuitos finos, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_maru_rain_5",
+          "emote": 32,
+          "en": "Waterproofed all my copper gears before stepping out in rain, {farmer}!",
+          "es": "Impermeabilice mis engranajes de cobre antes de salir bajo lluvia, {farmer}!"
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_maru_spouse_6",
+          "emote": 20,
+          "en": "Hey love! Want help rigging automatic sprinkler timers later at {farm}, {farmer}?",
+          "es": "Hola amor! Quieres que luego optimicemos aspersores en {farm}, {farmer}?"
+        },
+        {
+          "id": "v_maru_spouse_7",
+          "emote": 20,
+          "en": "You keep my heart running smoother than clockwork, darling {farmer}!",
+          "es": "Haces latir mi corazon mas fino que un reloj suizo, carino {farmer}!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_maru_dating_8",
+          "emote": 20,
+          "en": "Oh, hey {farmer}! My optic sensors detect... roughly one hundred percent cuteness right here!",
+          "es": "Oh, hola {farmer}! Mis sensores detectan cien por ciento de encanto justo aqui!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_maru_close_friend_9",
+          "emote": 20,
+          "en": "Favorite engineering collaborator {farmer}! Tell me everything happening at {farm}!",
+          "es": "Mi colega favorita de ingenieria, {farmer}! Cuentame todo lo nuevo de {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_maru_friend_10",
+          "emote": 32,
+          "en": "Hey {farmer}! Any neat battery packs or iridium sparks popping up lately?",
+          "es": "Hola {farmer}! Algunas baterias o chispas buenas ultimamente?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_maru_acquaintance_11",
+          "emote": 32,
+          "en": "Hi, {farmer}! Let me know if anything on {farm} needs neat gadget tweaks!",
+          "es": "Hola, {farmer}! Avisame si algo en {farm} necesita ajustes tecnicos!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_maru_spring_12",
+          "emote": 32,
+          "en": "Clear spring nights give brilliant telescope lenses, {farmer}!",
+          "es": "Noches limpias de primavera dan vistas nitidas por telescopio, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_maru_summer_13",
+          "emote": 32,
+          "en": "Solar panels absorb peak watts all across valley ridges this summer, {farmer}!",
+          "es": "Paneles solares absorben maxima energia este verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_maru_fall_14",
+          "emote": 32,
+          "en": "Crisp cool circuits never overheat during autumn tests, {farmer}!",
+          "es": "Circuitos frescos nunca se calientan en pruebas de otono, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_maru_winter_15",
+          "emote": 32,
+          "en": "Winter night skies reveal razor-sharp star clusters, {farmer}.",
+          "es": "Cielos invernales revelan cumulos de estrellas super nitidos, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_maru_morning_16",
+          "emote": 32,
+          "en": "Morning, {farmer}! Clinic shifts and tinker benches await!",
+          "es": "Buenos dias, {farmer}! Turno en clinica y mesa de inventos esperan!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_maru_afternoon_17",
+          "emote": 32,
+          "en": "Calibrating robotic servos between errands today, {farmer}!",
+          "es": "Calibrando servomotores entre recados hoy, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_maru_evening_18",
+          "emote": 32,
+          "en": "Setting up tripod lenses soon—clear sky tonight, {farmer}!",
+          "es": "Montando el tripode pronto... cielo despejado esta noche, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_maru_night_19",
+          "emote": 32,
+          "en": "Spot any shooting stars flashing above {farm}, {farmer}?",
+          "es": "Viste estrellas fugaces cruzando sobre {farm}, {farmer}?"
+        }
+      ]
+    },
+    "Pam": {
+      "birthday": [
+        {
+          "id": "v_pam_birthday_1",
+          "emote": 20,
+          "en": "Heya kid—thanks for hollerin' happy birthday! First mug tonight's toastin' you, {farmer}!",
+          "es": "Ey joven... gracias por desearme feliz cumple! El primer brindis hoy va por ti, {farmer}!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_pam_green_rain_2",
+          "emote": 32,
+          "en": "What in the blazes makes rain glow like lime soda, {farmer}? Wild stuff!",
+          "es": "Que demonios hace que la lluvia brille como refresco de limon, {farmer}? Vaya locura!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_pam_storm_3",
+          "emote": 32,
+          "en": "Hold onto your hat out there, {farmer}—thunder could rattle bus hubcaps loose!",
+          "es": "Sujetate el sombrero, {farmer}... esos truenos sueltan hasta tapacubos del autobus!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_pam_snow_4",
+          "emote": 32,
+          "en": "Nothing thaws chilly hands like strong brew down at Gus's after snow, {farmer}!",
+          "es": "Nada deshiela manos frias como buena bebida donde Gus tras la nieve, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_pam_rain_5",
+          "emote": 32,
+          "en": "Rainy roads call for steady hands on the wheel, {farmer}!",
+          "es": "Carreteras mojadas piden pulso firme al volante, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_pam_close_friend_6",
+          "emote": 20,
+          "en": "You're solid gold, kid! Best damn farmer {farm}'s ever seen, {farmer}!",
+          "es": "Vales oro puro, joven! El mejor granjero que ha visto {farm}, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_pam_friend_7",
+          "emote": 32,
+          "en": "Heya {farmer}! Keepin' pale ales flowing or haulin' crates to town?",
+          "es": "Hola {farmer}! Mandando buenas cosechas o cajas al pueblo?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_pam_acquaintance_8",
+          "emote": 32,
+          "en": "Howdy, {farmer}. Need a lift out to Calico anytime soon?",
+          "es": "Buenas, {farmer}. Ocupas viaje al desierto pronto?"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_pam_spring_9",
+          "emote": 32,
+          "en": "Spring sun finally warms old rusty bus seats nicely, {farmer}!",
+          "es": "El sol primaveral al fin calienta los asientos del autobus, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_pam_summer_10",
+          "emote": 32,
+          "en": "Cold drinks keep bus shifts bearable in July heat, {farmer}!",
+          "es": "Bebidas bien frias salvan los turnos de calor de verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_pam_fall_11",
+          "emote": 32,
+          "en": "Cool breeze beats sweatin' asphalt any day, {farmer}!",
+          "es": "Brisa fresca le gana a sudar asfalto cualquier dia, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_pam_winter_12",
+          "emote": 32,
+          "en": "Frosty mornings—blast that bus heater full throttle, {farmer}!",
+          "es": "Mananas heladas... a darle a toda la calefaccion del bus, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_pam_morning_13",
+          "emote": 32,
+          "en": "Coffee first, talk second—morning, {farmer}!",
+          "es": "Cafe primero, charla despues... buenos dias, {farmer}!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_pam_afternoon_14",
+          "emote": 32,
+          "en": "Takin' a breather from road runs, {farmer}.",
+          "es": "Tomando un respiro de carretera, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_pam_evening_15",
+          "emote": 32,
+          "en": "Clocked out! Stardrop mug's callin' my name, {farmer}!",
+          "es": "Turno cerrado! Un vaso fresco me llama en la taberna, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_pam_night_16",
+          "emote": 32,
+          "en": "Don't trip over dark roots headed home to {farm}, kid!",
+          "es": "No tropieces con raices de noche rumbo a {farm}, joven!"
+        }
+      ]
+    },
+    "Penny": {
+      "birthday": [
+        {
+          "id": "v_penny_birthday_1",
+          "emote": 20,
+          "en": "Oh, thank you for thinking of my birthday, {farmer}! Sweet gestures mean the world.",
+          "es": "Oh, gracias por acordarte de mi cumpleanos, {farmer}! Gestos asi valen el mundo entero."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_penny_green_rain_2",
+          "emote": 32,
+          "en": "All the books stay safe and dry indoors during this eerie emerald rain, {farmer}!",
+          "es": "Todos los libros siguen seguros y secos bajo techo en esta lluvia esmeralda, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_penny_storm_3",
+          "emote": 32,
+          "en": "Take shelter soon, {farmer}—thunder rattles even library bookshelves!",
+          "es": "Busca techo pronto, {farmer}... los truenos sacuden hasta estantes de biblioteca!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_penny_snow_4",
+          "emote": 32,
+          "en": "Fresh snow makes Pelican Town look straight out of a winter storybook, {farmer}.",
+          "es": "La nieve fresca vuelve Pueblo Pelicano digno de cuento invernal, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_penny_rain_5",
+          "emote": 32,
+          "en": "Cozy rain tapping glass makes reading sessions twice as peaceful, {farmer}.",
+          "es": "La lluvia suave en cristales hace dos veces mas tranquila la lectura, {farmer}."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_penny_spouse_6",
+          "emote": 20,
+          "en": "My darling {farmer}! Walking past your warm smile brightens even my quietest day!",
+          "es": "Mi querido {farmer}! Verte sonreir ilumina hasta mis dias mas callados!"
+        },
+        {
+          "id": "v_penny_spouse_7",
+          "emote": 20,
+          "en": "Remember not to exhaust yourself at {farm}, sweetheart—come rest beside me tonight!",
+          "es": "No te agotes demasiado en {farm}, carino... ven a descansar conmigo esta noche!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_penny_dating_8",
+          "emote": 20,
+          "en": "Oh—hi {farmer}! My page completely lost its place the moment you walked up...",
+          "es": "Oh, hola {farmer}! Perdi la pagina del libro justo cuando pasaste por aqui..."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_penny_close_friend_9",
+          "emote": 20,
+          "en": "Always gentle comfort crossing paths with you, {farmer}! Thank you for being so thoughtful.",
+          "es": "Siempre consuela cruzarse contigo, {farmer}! Gracias por ser tan atento."
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_penny_friend_10",
+          "emote": 32,
+          "en": "Hello, {farmer}! Found any intriguing old lost library volumes around {farm}?",
+          "es": "Hola, {farmer}! Encontraste algun libro perdido interesante por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_penny_acquaintance_11",
+          "emote": 32,
+          "en": "Warm greetings, {farmer}. Wishing you peaceful hours tending {farm}!",
+          "es": "Saludos amables, {farmer}. Te deseo horas serenas cuidando {farm}!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_penny_spring_12",
+          "emote": 32,
+          "en": "Children learn plant names outdoors beside blooming clover every spring, {farmer}!",
+          "es": "Los ninos aprenden nombres de flores entre treboles cada primavera, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_penny_summer_13",
+          "emote": 32,
+          "en": "Shade under willow boughs beside the river reads best all summer, {farmer}.",
+          "es": "La sombra del sauce junto al rio es la mejor para leer en verano, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_penny_fall_14",
+          "emote": 32,
+          "en": "Golden afternoons call for quiet history essays and warm apple tea, {farmer}.",
+          "es": "Tardes doradas piden historia tranquila y te tibio de manzana, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_penny_winter_15",
+          "emote": 32,
+          "en": "Reading softly beside warm lamps softens harsh frost outside, {farmer}.",
+          "es": "Leer junto a lamparas tibias suaviza cualquier helada de afuera, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_penny_morning_16",
+          "emote": 32,
+          "en": "Good morning, {farmer}! Off to collect Jas and Vincent for lessons!",
+          "es": "Buenos dias, {farmer}! Voy por Jas y Vincent para las lecciones!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_penny_afternoon_17",
+          "emote": 32,
+          "en": "Good afternoon, {farmer}! Kids behaved wonderfully during lessons today.",
+          "es": "Buenas tardes, {farmer}! Los chicos se portaron de maravilla hoy."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_penny_evening_18",
+          "emote": 32,
+          "en": "Soft amber light reflects so kindly across town rooftops now, {farmer}.",
+          "es": "Luz ambar se refleja tan dulce sobre tejados ahora, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_penny_night_19",
+          "emote": 32,
+          "en": "Please walk safely down quiet lanes home to {farm}, {farmer}.",
+          "es": "Camina con cuidado por calles tranquilas rumbo a {farm}, {farmer}."
+        }
+      ]
+    },
+    "Pierre": {
+      "birthday": [
+        {
+          "id": "v_pierre_birthday_1",
+          "emote": 20,
+          "en": "Hey, thanks for nodding on my birthday, {farmer}! Finest fresh produce keeps me young!",
+          "es": "Hey, gracias por saludar en mi cumpleanos, {farmer}! El mejor producto fresco me mantiene joven!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_pierre_green_rain_2",
+          "emote": 32,
+          "en": "Wild weather doesn't stop shoppers hunting crisp greens, {farmer}! Stay dry!",
+          "es": "Ni este clima verde frena clientes buscando verdura fresca, {farmer}! Cuidate!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_pierre_storm_3",
+          "emote": 32,
+          "en": "Check lightning damage before losing star-quality melons at {farm}, {farmer}!",
+          "es": "Revisa rayos antes que afecten tus melones calidad oro en {farm}, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_pierre_snow_4",
+          "emote": 32,
+          "en": "Cold keeps shelves crisp—winter seeds for indoor pots always sell fast, {farmer}!",
+          "es": "El frio conserva bien... macetas de invierno siempre tienen demanda, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_pierre_rain_5",
+          "emote": 32,
+          "en": "Rainy mornings remind folks to buy soup greens early, {farmer}!",
+          "es": "Mananas lluviosas recuerdan comprar verduras de sopa temprano, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_pierre_close_friend_6",
+          "emote": 20,
+          "en": "{farm}'s top harvests practically carry Pelican Town's finest display shelf, {farmer}!",
+          "es": "Las cosechas de {farm} mantienen brillando nuestro mejor mostrador, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_pierre_friend_7",
+          "emote": 32,
+          "en": "Good day, {farmer}! Any iridium parsnips or crisp crops heading to shelves soon?",
+          "es": "Buen dia, {farmer}! Traes chirivias o cosechas estelares pronto?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_pierre_acquaintance_8",
+          "emote": 32,
+          "en": "Hello, {farmer}! General Store keeps the freshest seeds stocked every week!",
+          "es": "Hola, {farmer}! La tienda siempre tiene las semillas mas frescas!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_pierre_spring_9",
+          "emote": 32,
+          "en": "Cauliflower and strawberry rushes keep spring registers ringing nonstop, {farmer}!",
+          "es": "Fresa y coliflor hacen sonar las cajas sin parar en primavera, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_pierre_summer_10",
+          "emote": 32,
+          "en": "Stock heavy blueberry and melon seed crates early, {farmer}!",
+          "es": "Surte a tiempo semillas de arandano y melon, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_pierre_fall_11",
+          "emote": 32,
+          "en": "Pumpkin and cranberry gold rush is prime business season, {farmer}!",
+          "es": "Calabazas y arandanos son la temporada estrella del comercio, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_pierre_winter_12",
+          "emote": 32,
+          "en": "Good winter season to restock fertilizers and organize farm ledgers, {farmer}.",
+          "es": "Buen invierno para surtir abonos y cuadrar cuentas de {farm}, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_pierre_morning_13",
+          "emote": 32,
+          "en": "Doors swinging open sharp at nine, {farmer}! Bright morning!",
+          "es": "Abriendo puertas puntual a las nueve, {farmer}! Gran manana!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_pierre_afternoon_14",
+          "emote": 32,
+          "en": "Peak grocery hour hums right along—hope {farm} blooms nicely!",
+          "es": "Hora pico de tienda a buen ritmo... que florezca {farm}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_pierre_evening_15",
+          "emote": 32,
+          "en": "Tallying fresh crates before closing up counter soon, {farmer}.",
+          "es": "Contando cajas antes de cerrar mostrador pronto, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_pierre_night_16",
+          "emote": 32,
+          "en": "Don't forget tomorrow's seed orders before turning in, {farmer}!",
+          "es": "No olvides tu lista de semillas para manana antes de dormir, {farmer}!"
+        }
+      ]
+    },
+    "Robin": {
+      "birthday": [
+        {
+          "id": "v_robin_birthday_1",
+          "emote": 20,
+          "en": "Thanks for the birthday wave, {farmer}! Best celebration is solid oak sawdust and good friends!",
+          "es": "Gracias por saludar en mi cumpleanos, {farmer}! Buena madera y amigos bastan!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_robin_green_rain_2",
+          "emote": 32,
+          "en": "Wild moss clinging to cedar shingles in this green drizzle, {farmer}—fascinating grain!",
+          "es": "Musgo raro pegado a tejas de cedro con esta lluvia verde, {farmer}... que veta curiosa!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_robin_storm_3",
+          "emote": 32,
+          "en": "Check coop roofs and sturdy fence posts after thunder blows past {farm}, {farmer}!",
+          "es": "Revisa techos de corrales y cercas tras esta tormenta en {farm}, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_robin_snow_4",
+          "emote": 32,
+          "en": "Nothing stays warmer than solid hardwood framing and tight insulation, {farmer}!",
+          "es": "Nada abriga mejor que buen marco de roble y aislamiento firme, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_robin_rain_5",
+          "emote": 32,
+          "en": "Good timber seasons nicely after spring showers wash mountain bark clean, {farmer}!",
+          "es": "Buena madera cura estupendo tras lluvias limpias de montana, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_robin_close_friend_6",
+          "emote": 20,
+          "en": "Always thrilled building bigger barns for {farm}'s booming herd, {farmer}! You're my best client!",
+          "es": "Siempre encantada ampliando establos en {farm}, {farmer}! Mi cliente estrella!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_robin_friend_7",
+          "emote": 32,
+          "en": "Hey {farmer}! Thinking of expanding sheds or upgrading your house down at {farm}?",
+          "es": "Hola {farmer}! Pensando ampliar cobertizos o mejorar casa en {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_robin_acquaintance_8",
+          "emote": 32,
+          "en": "Hey there, {farmer}! Need stone, wood, or new coops on {farm}, come see me!",
+          "es": "Hola, {farmer}! Si necesitas piedra, madera o corrales en {farm}, buscame!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_robin_spring_9",
+          "emote": 32,
+          "en": "Fresh spring pine smells amazing rolling off the carpenter planer, {farmer}!",
+          "es": "Pino fresco de primavera huele increible saliendo del cepillo, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_robin_summer_10",
+          "emote": 32,
+          "en": "Sunlit construction days let me hammer dawn through dusk, {farmer}!",
+          "es": "Dias largos dejan construir sin pausa desde alba hasta ocaso, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_robin_fall_11",
+          "emote": 32,
+          "en": "Hardwood joints tighten nicely before cold frost creeps in, {farmer}.",
+          "es": "Las uniones de madera noble asientan bien antes del frio, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_robin_winter_12",
+          "emote": 32,
+          "en": "Best quiet season to remodel farmhouses while crops nap, {farmer}!",
+          "es": "Mejor estacion para remodelar casas mientras descansan cultivos, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_robin_morning_13",
+          "emote": 32,
+          "en": "Morning, {farmer}! Measure twice, cut once—bright workday ahead!",
+          "es": "Buenos dias, {farmer}! Medir dos veces, cortar una... gran jornada!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_robin_afternoon_14",
+          "emote": 32,
+          "en": "Sawdust flying steady today! How's {farm} holding up, {farmer}?",
+          "es": "Aserrin volando firme hoy! Como va {farm}, {farmer}?"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_robin_evening_15",
+          "emote": 32,
+          "en": "Wiping timber shavings off my jeans before dinner, {farmer}.",
+          "es": "Sacudiendo virutas del pantalon antes de cenar, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_robin_night_16",
+          "emote": 32,
+          "en": "Even steady carpenters drop tools when stars come out, {farmer}!",
+          "es": "Hasta una carpintera incansable suelta el martillo bajo estrellas, {farmer}!"
+        }
+      ]
+    },
+    "Sam": {
+      "birthday": [
+        {
+          "id": "v_sam_birthday_1",
+          "emote": 20,
+          "en": "Sick!! Birthday greetings from my cool buddy {farmer}! Tonight's jam session's gonna rock!",
+          "es": "Genial!! Saludo de cumpleanos de mi gran colega {farmer}! La sesion hoy va a rugir!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_sam_green_rain_2",
+          "emote": 32,
+          "en": "Whoa, crazy green rain makes the whole square look like an alien music video, {farmer}!",
+          "es": "Uau, esta lluvia verde hace parecer la plaza un videoclip extraterrestre, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_sam_storm_3",
+          "emote": 32,
+          "en": "Boom! Real thunder beats even heavy bass drums today, {farmer}!",
+          "es": "Bum! Truenos reales superan hasta la bateria pesada hoy, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_sam_snow_4",
+          "emote": 32,
+          "en": "Aw man, icy pavement wrecks kickflips—still cool for snowball wars though, {farmer}!",
+          "es": "Uf, el hielo arruina mis trucos en tabla... aunque sirve para guerra de nieve, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_sam_rain_5",
+          "emote": 32,
+          "en": "Rainy days equal full indoor electric guitar riff practice, {farmer}!",
+          "es": "Dias de lluvia son ensayo puro de guitarra electrica bajo techo, {farmer}!"
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_sam_spouse_6",
+          "emote": 20,
+          "en": "Hey rockstar! You make even everyday errands look effortless, {farmer}! Love ya!",
+          "es": "Hola estrella! Haces facil hasta los recados diarios, {farmer}! Te quiero!"
+        },
+        {
+          "id": "v_sam_spouse_7",
+          "emote": 20,
+          "en": "Catch you back at {farm} tonight—wrote two chord riffs for ya, {farmer}!",
+          "es": "Nos vemos en {farm} esta noche... saque dos acordes pensando en ti, {farmer}!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_sam_dating_8",
+          "emote": 20,
+          "en": "Yo {farmer}!! Totally missed a kickflip just looking over when you walked up—haha!",
+          "es": "Ey {farmer}!! Casi fallo un salto en tabla solo por voltear a verte!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_sam_close_friend_9",
+          "emote": 20,
+          "en": "My number-one fan from {farm}! Keep riding high today, {farmer}!",
+          "es": "Mi fan numero uno de {farm}! Sigue brillando hoy, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_sam_friend_10",
+          "emote": 32,
+          "en": "Yo {farmer}! Wanna hear wild new synth demos someday after chores?",
+          "es": "Ey {farmer}! Te late oir demos nuevos de banda luego de tareas?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_sam_acquaintance_11",
+          "emote": 32,
+          "en": "Heya, {farmer}! Cool running into ya between town stops!",
+          "es": "Hola, {farmer}! Que bueno toparte por el pueblo!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_sam_spring_12",
+          "emote": 32,
+          "en": "Dry spring sidewalks mean skateboard season returns full speed, {farmer}!",
+          "es": "Aceras secas de primavera devuelven la temporada de patineta a tope, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_sam_summer_13",
+          "emote": 32,
+          "en": "Warm summer jam nights down by beach waves—total perfection, {farmer}!",
+          "es": "Noches de verano tocando junto al mar... perfeccion pura, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_sam_fall_14",
+          "emote": 32,
+          "en": "Cool hoodies and crunchy leaves—top-tier autumn weather, {farmer}!",
+          "es": "Sudaderas comodas y hojas crujientes... clima top de otono, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_sam_winter_15",
+          "emote": 32,
+          "en": "Frozen toes mean writing warm keyboard songs indoors, {farmer}!",
+          "es": "Pies helados piden componer canciones calidas adentro, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_sam_morning_16",
+          "emote": 32,
+          "en": "Morning, {farmer}! Yawn... totally crushed six Joja colas—Wait, kidding, coffee!",
+          "es": "Buenos dias, {farmer}! Bostezo... cafe primero!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_sam_afternoon_17",
+          "emote": 32,
+          "en": "Skating loops past bridge stones before afternoon shift, {farmer}!",
+          "es": "Dando vueltas en tabla junto al puente antes del turno, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_sam_evening_18",
+          "emote": 32,
+          "en": "Saloon pool table awaits right after evening practice, {farmer}!",
+          "es": "Mesa de billar espera justo despues del ensayo, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_sam_night_19",
+          "emote": 32,
+          "en": "Watch your skateboard—err, boots—down dark trails to {farm}, {farmer}!",
+          "es": "Cuida tus pasos por senderos oscuros de vuelta a {farm}, {farmer}!"
+        }
+      ]
+    },
+    "Sandy": {
+      "birthday": [
+        {
+          "id": "v_sandy_birthday_1",
+          "emote": 20,
+          "en": "Aww, sweetie!! You crossed the dunes just to brighten my birthday, {farmer}?!",
+          "es": "Ay cielo!! Cruzaste todas las dunas solo para alegrar mi cumpleanos, {farmer}?!"
+        },
+        {
+          "id": "v_sandy_birthday_2",
+          "emote": 20,
+          "en": "Wishing you golden oasis joy right back today, darling!",
+          "es": "Te deseo la misma alegria dorada de regreso hoy, tesoro!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_sandy_green_rain_3",
+          "emote": 32,
+          "en": "Weird shimmer across valley hills today, sugar? Out here skies shimmer bright!",
+          "es": "Dia raro de lluvia verde alla por tu valle, carino? Aqui todo brilla distinto!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_sandy_storm_4",
+          "emote": 32,
+          "en": "Heard thunder rumbling clear across canyon cliffs, {farmer}! Keep safe!",
+          "es": "Se oian truenos retumbando hasta el canon hoy, {farmer}! Cuidate mucho!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_sandy_snow_5",
+          "emote": 32,
+          "en": "Bet {farm} looks like spun sugar right now while desert sun stays baking, {farmer}!",
+          "es": "Apuesto que {farm} parece nieve de azucar mientras aqui pega el sol, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_sandy_rain_6",
+          "emote": 32,
+          "en": "Ooh, smell fresh rain on your jacket all the way from Pelican Town, {farmer}!",
+          "es": "Ooh, traes olor a lluvia fresca desde Pueblo Pelicano, {farmer}!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_sandy_close_friend_7",
+          "emote": 20,
+          "en": "My absolute favorite visitor in all Calico! Never stay away long, {farmer}!",
+          "es": "Mi visita favorita de todo Calico! No tardes tanto en volver, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_sandy_friend_8",
+          "emote": 32,
+          "en": "Hi sweetie! Pick a sweet cactus flower or bright starfruit anytime, {farmer}!",
+          "es": "Hola cielo! Llevate buena fruta estrella cuando gustes, {farmer}!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_sandy_acquaintance_9",
+          "emote": 32,
+          "en": "Well hello there, {farmer}! Fresh face brightens my quiet desert shop!",
+          "es": "Vaya hola, {farmer}! Una cara fresca siempre alegra mi tiendita!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_sandy_spring_10",
+          "emote": 32,
+          "en": "Warm spring breeze carries sweet rhubarb tarts from across the road, {farmer}!",
+          "es": "Brisa tibia trae olor rico a ruibarbo fresco, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_sandy_summer_11",
+          "emote": 32,
+          "en": "Whoa hot dunes out there—come grab ice-cold starfruit juice, {farmer}!",
+          "es": "Uf que calor en dunas... ven por jugo bien frio de fruta estrella, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_sandy_fall_12",
+          "emote": 32,
+          "en": "Golden desert sunsets turn lavender every calm evening, {farmer}.",
+          "es": "Atardeceres del desierto se vuelven lavanda cada tarde, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_sandy_winter_13",
+          "emote": 32,
+          "en": "Sunny desert warmth beats chilly valley blizzards hands down, {farmer}!",
+          "es": "Calorcito del desierto le gana facil a nevadas del valle, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_sandy_morning_14",
+          "emote": 32,
+          "en": "Morning, sunshine! Just opened Oasis doors nice and early!",
+          "es": "Buenos dias, rayo de sol! Recien abriendo puertas del Oasis!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_sandy_afternoon_15",
+          "emote": 32,
+          "en": "Lazy quiet afternoon breeze through Calico palms, {farmer}.",
+          "es": "Tarde tranquila entre palmeras de Calico, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_sandy_evening_16",
+          "emote": 32,
+          "en": "Amber glow melts across red sandstone dunes right now, {farmer}!",
+          "es": "Brillo ambar derritiendose sobre dunas rojas ahora, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_sandy_night_17",
+          "emote": 32,
+          "en": "Desert stars look huge enough to pluck right off velvet sky, {farmer}!",
+          "es": "Estrellas del desierto lucen enormes hoy, {farmer}!"
+        }
+      ]
+    },
+    "Sebastian": {
+      "birthday": [
+        {
+          "id": "v_sebastian_birthday_1",
+          "emote": 20,
+          "en": "Oh... thanks, {farmer}. Glad I'm hanging out in real air rather than staring at code all birthday.",
+          "es": "Oh... gracias, {farmer}. Me alegra salir a aire real hoy en vez de ver codigo todo el dia."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_sebastian_green_rain_2",
+          "emote": 32,
+          "en": "Green rain's weirdly aesthetic, {farmer}. Like stepping straight inside a pixel sci-fi level.",
+          "es": "Esta lluvia verde tiene su estetica rara, {farmer}. Parece nivel de ciencia ficcion."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_sebastian_storm_3",
+          "emote": 32,
+          "en": "Thunder and rain pouring down—finally my kind of weather, {farmer}.",
+          "es": "Truenos y lluvia intensa... al fin mi clima favorito, {farmer}."
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_sebastian_snow_4",
+          "emote": 32,
+          "en": "Quiet snow muffles engine rumble out along mountain curves, {farmer}.",
+          "es": "Nieve silenciosa apaga todo ruido por la carretera de montana, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_sebastian_rain_5",
+          "emote": 32,
+          "en": "Cool rain outside feels peaceful... makes frogs happy around {farm}, {farmer}.",
+          "es": "Lluvia fresca afuera da mucha paz... a las ranas cerca de {farm} les encanta, {farmer}."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_sebastian_spouse_6",
+          "emote": 20,
+          "en": "Hey... caught my favorite human mid-errand. Take a breather at {farm} tonight, okay?",
+          "es": "Hey... atrape a mi humano favorito en medio de recados. Descansa hoy en {farm}, si?"
+        },
+        {
+          "id": "v_sebastian_spouse_7",
+          "emote": 20,
+          "en": "Thinking of adding an extra frog terrarium corner at {farm}—cool with you, {farmer}?",
+          "es": "Pensaba poner otro terrario de ranas en {farm}... te parece bien, {farmer}?"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_sebastian_dating_8",
+          "emote": 20,
+          "en": "Hey, {farmer}... wait up a second. Seeing you beats staring at dark monitors any day.",
+          "es": "Hey, {farmer}... espera un segundo. Verte le gana a mirar pantallas oscuras cualquier dia."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_sebastian_close_friend_9",
+          "emote": 20,
+          "en": "Hey, {farmer}. Always down for midnight bike rides or coffee away from noisy crowds.",
+          "es": "Hey, {farmer}. Siempre puesto para rodar de noche o cafe lejos de ruidos."
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_sebastian_friend_10",
+          "emote": 32,
+          "en": "Oh, hey {farmer}. Getting things done efficiently down at {farm}?",
+          "es": "Oh, hola {farmer}. Sacando tareas rapido alla en {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_sebastian_acquaintance_11",
+          "emote": 32,
+          "en": "Hey, {farmer}. Watch mountain road bends if you're walking past dusk.",
+          "es": "Hola, {farmer}. Cuida las curvas del camino si pasas al anochecer."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_sebastian_spring_12",
+          "emote": 32,
+          "en": "Spring showers wake frogs right around dusk beside mountain water, {farmer}.",
+          "es": "Lluvias de primavera despiertan ranas junto al lago de montana, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_sebastian_summer_13",
+          "emote": 32,
+          "en": "Too bright out here till evening shadows finally cool pavement down, {farmer}.",
+          "es": "Demasiada luz hasta que sombras nocturnas enfrian todo, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_sebastian_fall_14",
+          "emote": 32,
+          "en": "Hoodie season hits just right. Quiet twilight walks beat summer glare, {farmer}.",
+          "es": "Temporada de sudadera perfecta. Paseos frescos le ganan al solazo, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_sebastian_winter_15",
+          "emote": 32,
+          "en": "Empty winter docks at midnight feel calmer than anywhere else, {farmer}.",
+          "es": "Muelles vacios de invierno a medianoche dan mas calma que nada, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_sebastian_morning_16",
+          "emote": 32,
+          "en": "Barely awake... need triple dark coffee first, {farmer}.",
+          "es": "Apenas despierto... necesito cafe negro triple primero, {farmer}."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_sebastian_afternoon_17",
+          "emote": 32,
+          "en": "Escaped basement monitor glare for fresh air at last, {farmer}.",
+          "es": "Escape al fin de la pantalla del sotano por aire fresco, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_sebastian_evening_18",
+          "emote": 32,
+          "en": "Now we're talking—sunset cools off whole valley trails, {farmer}.",
+          "es": "Ahora si... el ocaso refresca todo el valle, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_sebastian_night_19",
+          "emote": 32,
+          "en": "Best hours happen past midnight when traffic fades quiet, {farmer}.",
+          "es": "Las mejores horas llegan de noche cuando calla todo el mundo, {farmer}."
+        }
+      ]
+    },
+    "Shane": {
+      "birthday": [
+        {
+          "id": "v_shane_birthday_1",
+          "emote": 20,
+          "en": "Heh... thanks, {farmer}. Honest hello beats fake plastic gifts any birthday.",
+          "es": "Je... gracias, {farmer}. Un saludo sincero supera regalos vacios en cualquier cumpleanos."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_shane_green_rain_2",
+          "emote": 32,
+          "en": "Green sky rain? Even blue chickens blinked sideways stepping near coop door, {farmer}.",
+          "es": "Lluvia verde? Hasta mis gallinas azules miraron raro desde la puerta, {farmer}."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_shane_storm_3",
+          "emote": 32,
+          "en": "Storm's rattling barn roofs hard—checked chickens stay cozy inside, {farmer}!",
+          "es": "La tormenta sacude fuerte techos... ya revise que gallinas esten seguras, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_shane_snow_4",
+          "emote": 32,
+          "en": "Snowy air clears hangovers quick... mostly warm hot pepper poppers help, {farmer}.",
+          "es": "Aire nevado despeja rapido... y aperitivos picantes ayudan mas, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_shane_rain_5",
+          "emote": 32,
+          "en": "Rain keeps folks quiet indoors... honestly works for me, {farmer}.",
+          "es": "La lluvia deja a la gente en paz adentro... por mi perfecto, {farmer}."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "v_shane_spouse_6",
+          "emote": 20,
+          "en": "Hey... look at my partner working harder than anyone. Don't burn out at {farm}, {farmer}.",
+          "es": "Hey... mira a mi pareja esforzandose mas que nadie. No te quemes en {farm}, {farmer}."
+        },
+        {
+          "id": "v_shane_spouse_7",
+          "emote": 20,
+          "en": "Brought extra pepper snacks home for you tonight, love. Take it slow!",
+          "es": "Lleve bocadillos picantes a casa hoy, amor. Llevalo con calma!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "v_shane_dating_8",
+          "emote": 20,
+          "en": "Whoa—uh, hey {farmer}. Didn't realize smiling felt this easy lately.",
+          "es": "Uau... eh, hola {farmer}. No sabia que sonreir salia tan facil ultimamente."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_shane_close_friend_9",
+          "emote": 20,
+          "en": "Appreciate having one real pal out here, {farmer}. Give {farm}'s hens a pat for me!",
+          "es": "Agradezco tener un amigo de verdad por aqui, {farmer}. Acaricia tus gallinas de mi parte!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_shane_friend_10",
+          "emote": 32,
+          "en": "Hey {farmer}. Chickens laying strong over at {farm} today?",
+          "es": "Hola {farmer}. Poniendo bien las gallinas alla en {farm} hoy?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_shane_acquaintance_11",
+          "emote": 32,
+          "en": "Yeah? Hey, {farmer}. Just heading down toward ranch work.",
+          "es": "Si? Hola, {farmer}. Voy camino a tareas del rancho."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_shane_spring_12",
+          "emote": 32,
+          "en": "Spring grass gets chickens scratching nonstop like tiny feather maniacs, {farmer}.",
+          "es": "El pasto de primavera vuelve locas de alegria a las gallinas, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_shane_summer_13",
+          "emote": 32,
+          "en": "Cold sparkling soda beats afternoon sweat out back by far, {farmer}.",
+          "es": "Agua mineral helada le gana al sudor de tarde de calle, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_shane_fall_14",
+          "emote": 32,
+          "en": "Crisp autumn afternoons feel calmer once harvest wraps down, {farmer}.",
+          "es": "Tardes frescas de otono se sienten tranquilas al bajar ritmo, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_shane_winter_15",
+          "emote": 32,
+          "en": "Keep hens warm and hay stacked tight all December, {farmer}.",
+          "es": "Manten gallinas calientes y heno firme todo el invierno, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_shane_morning_16",
+          "emote": 32,
+          "en": "Rough morning... fresh air still helps wake legs up, {farmer}.",
+          "es": "Manana pesada... igual el aire fresco ayuda a despertar, {farmer}."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_shane_afternoon_17",
+          "emote": 32,
+          "en": "Halfway through errands already, {farmer}. Hang tough.",
+          "es": "Mitad del dia hecha ya, {farmer}. Aguanta firme."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_shane_evening_18",
+          "emote": 32,
+          "en": "Clocking off soon—nothing fancy, quiet supper ahead, {farmer}.",
+          "es": "Cerrando turno pronto... cena tranquila por delante, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_shane_night_19",
+          "emote": 32,
+          "en": "Dark sky feels calm tonight, {farmer}. Walk steady to {farm}.",
+          "es": "Cielo oscuro tranquilo esta noche, {farmer}. Camina seguro hacia {farm}."
+        }
+      ]
+    },
+    "Vincent": {
+      "birthday": [
+        {
+          "id": "v_vincent_birthday_1",
+          "emote": 20,
+          "en": "YAY!! It's my birthday today, {farmer}!! Wanna see if there's pink cake sprinkles?!",
+          "es": "YUJU!! Hoy es mi cumpleanos, {farmer}!! Crees que habra pastel con chispitas rosas?!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_vincent_green_rain_2",
+          "emote": 32,
+          "en": "Whoa!! Green puddles look like super slime juice everywhere, {farmer}!",
+          "es": "Uau!! Los charcos verdes parecen jugo de slime por todo el suelo, {farmer}!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_vincent_storm_3",
+          "emote": 32,
+          "en": "KABOOM! Did thunder shake your farm barn too, {farmer}?!",
+          "es": "KABUM! Tambien sacudio tu granero ese trueno, {farmer}?!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_vincent_snow_4",
+          "emote": 32,
+          "en": "Snowball fight champion of town square reporting in, {farmer}!",
+          "es": "Campeon de bolas de nieve de la plaza reportandose, {farmer}!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_vincent_rain_5",
+          "emote": 32,
+          "en": "Worm hunting season after heavy rain—score, {farmer}!",
+          "es": "Temporada de buscar lombrices despues de lluvia... genial, {farmer}!"
+        }
+      ],
+      "child": [
+        {
+          "id": "v_vincent_child_6",
+          "emote": 32,
+          "en": "Hi, {farmer}! Did you dig up any giant shiny bugs on {farm}?!",
+          "es": "Hola, {farmer}! Desenterraste bichos gigantes brillantes en {farm}?!"
+        },
+        {
+          "id": "v_vincent_child_7",
+          "emote": 20,
+          "en": "Cool boots, {farmer}! Wanna bet I can hop faster than {farm} bunnies?!",
+          "es": "Geniales botas, {farmer}! Apuesto a que salto mas rapido que conejos de {farm}!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_vincent_spring_8",
+          "emote": 32,
+          "en": "Spring bugs wake up everywhere near clover patches, {farmer}!",
+          "es": "Bichos de primavera salen por todo el trebol hoy, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_vincent_summer_9",
+          "emote": 32,
+          "en": "Grape popsicles drip down my fingers super fast in summer, {farmer}!",
+          "es": "Paletas de uva se derriten rapido por mis dedos en verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_vincent_fall_10",
+          "emote": 32,
+          "en": "Mom made crunchy pumpkin bread yesterday—yum, {farmer}!",
+          "es": "Mama horneo pan rico de calabaza ayer... ñam, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_vincent_winter_11",
+          "emote": 32,
+          "en": "I built a snow snail twice as big as Jas's shoe, {farmer}!",
+          "es": "Hice un caracol de nieve del doble de grande que un zapato de Jas, {farmer}!"
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_vincent_morning_12",
+          "emote": 32,
+          "en": "Morning, {farmer}! Zooming fast today!",
+          "es": "Buenos dias, {farmer}! Corriendo super rapido hoy!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_vincent_afternoon_13",
+          "emote": 32,
+          "en": "Freedom after lessons!! Later, {farmer}!",
+          "es": "Libres tras las clases!! Nos vemos, {farmer}!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_vincent_evening_14",
+          "emote": 32,
+          "en": "Smells like dinner back at Mom's kitchen, {farmer}!",
+          "es": "Huele a cena en la cocina de mama, {farmer}!"
+        }
+      ],
+      "night": [
+        {
+          "id": "v_vincent_night_15",
+          "emote": 32,
+          "en": "Ooh fireflies or moonbeams—gotta race bed soon, {farmer}!",
+          "es": "Ooh luciérnagas o luna... ya casi toca dormir, {farmer}!"
+        }
+      ]
+    },
+    "Willy": {
+      "birthday": [
+        {
+          "id": "v_willy_birthday_1",
+          "emote": 20,
+          "en": "Aye, much obliged fer mindin' an old sailor's birthday, {farmer}! Tight lines to ye!",
+          "es": "Ah, muy agradecido por recordar el cumpleanos de un viejo lobo de mar, {farmer}!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_willy_green_rain_2",
+          "emote": 32,
+          "en": "Strange green tide glowin' out past breakwaters today, {farmer}—never seen fish bite wilder!",
+          "es": "Marea verde extrana brillando mar adentro hoy, {farmer}... nunca picaron mas fuerte los peces!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_willy_storm_3",
+          "emote": 32,
+          "en": "Finest catfishin' gale rolls in with thunderclouds, {farmer}! Mind slick planks!",
+          "es": "Tremenda tormenta buena para bagre, {farmer}! Cuida las tablas mojadas del muelle!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_willy_snow_4",
+          "emote": 32,
+          "en": "Harbor mist freezes crisp right onto pier ropes today, {farmer}.",
+          "es": "La bruma del puerto congela las cuerdas del muelle hoy, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_willy_rain_5",
+          "emote": 32,
+          "en": "Grand rainy fishin' weather, {farmer}—river bass practically leap right to hooks!",
+          "es": "Glorioso clima lluvioso de pesca, {farmer}... casi saltan solos al anzuelo!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_willy_close_friend_6",
+          "emote": 20,
+          "en": "Best angler mate east o' Ginger Island, {farmer}! Sea treats ye kindly!",
+          "es": "El mejor companero de pesca del valle, {farmer}! El mar te aprecia bien!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_willy_friend_7",
+          "emote": 32,
+          "en": "Ahoy there, {farmer}! Any trophy lunkers bitin' down near {farm} creek?",
+          "es": "Ahoy, {farmer}! Algo grande picando por el arroyo de {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_willy_acquaintance_8",
+          "emote": 32,
+          "en": "Ahoy, {farmer}. Bait shop's stocked fresh if ever yer rod calls!",
+          "es": "Ahoy, {farmer}. Tienda de cebos lista cuando te llame la caña!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_willy_spring_9",
+          "emote": 32,
+          "en": "Spring eels and river shad swim brisk all twilight long, {farmer}!",
+          "es": "Anguilas de primavera nadan fuertes todo el ocaso, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_willy_summer_10",
+          "emote": 32,
+          "en": "Crimsonfish loves warm pier waters round sunny noons, {farmer}!",
+          "es": "El pez carmesi adora aguas calidas del muelle en verano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_willy_fall_11",
+          "emote": 32,
+          "en": "Salmon leap fierce upstream every crisp autumn week, {farmer}!",
+          "es": "Salmones saltan rio arriba con fuerza todo otono, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_willy_winter_12",
+          "emote": 32,
+          "en": "Squid dance glowing beneath icy pier lamps all winter nights, {farmer}.",
+          "es": "Calamares danzan brillando bajo faroles del muelle en invierno, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_willy_morning_13",
+          "emote": 32,
+          "en": "Mornin', {farmer}! Early bait casts catch brightest silver!",
+          "es": "Buenos dias, {farmer}! Quien lanza temprano pesca brillante!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_willy_afternoon_14",
+          "emote": 32,
+          "en": "Clean salt breeze keeps harbor gulls chatterin' nicely, {farmer}.",
+          "es": "Brisa limpia de sal mantiene cantando gaviotas del puerto, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_willy_evening_15",
+          "emote": 32,
+          "en": "Lantern glow reflects smooth gold off harbor ripples now, {farmer}.",
+          "es": "El farol refleja oro suave sobre el agua ahora, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_willy_night_16",
+          "emote": 32,
+          "en": "Tight knots and steady tide till sunrise, friend {farmer}!",
+          "es": "Nudos firmes y marea serena hasta el alba, amigo {farmer}!"
+        }
+      ]
+    },
+    "Wizard": {
+      "birthday": [
+        {
+          "id": "v_wizard_birthday_1",
+          "emote": 20,
+          "en": "Time flows curiously for arcane scholars, yet your thoughtful salute is duly appreciated, {farmer}.",
+          "es": "El tiempo fluye curioso para eruditos arcanos, mas agradezco tu atento saludo, {farmer}."
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "v_wizard_green_rain_2",
+          "emote": 32,
+          "en": "Potent sylvan mana ripples through this anomalous emerald rain, {farmer}! Observe the trees closely.",
+          "es": "Potente mana silvestre ondula en esta lluvia esmeralda anomala, {farmer}! Observa los arboles."
+        }
+      ],
+      "storm": [
+        {
+          "id": "v_wizard_storm_3",
+          "emote": 32,
+          "en": "Raw aether surges violently down crackling bolts today, {farmer}—exquisite elemental choir!",
+          "es": "Eter puro desciende con fuerza en cada relampago hoy, {farmer}... exquisito coro elemental!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "v_wizard_snow_4",
+          "emote": 32,
+          "en": "Crystalline winter air sharpens distant scrying visions remarkably well, {farmer}.",
+          "es": "Aire cristalino invernal afina mis visiones a distancia con notable nitidez, {farmer}."
+        }
+      ],
+      "rain": [
+        {
+          "id": "v_wizard_rain_5",
+          "emote": 32,
+          "en": "Forest spirits sing gratefully whenever steady clouds quench ancient cedar roots, {farmer}.",
+          "es": "Espiritus del bosque cantan agradecidos cuando la lluvia sacia raices antiguas, {farmer}."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "v_wizard_close_friend_6",
+          "emote": 20,
+          "en": "You carry rare harmony with the living spirit of {farm}, {farmer}. May arcane favor attend you.",
+          "es": "Portas rara armonia con el espiritu vivo de {farm}, {farmer}. Que el favor arcano te acompane."
+        }
+      ],
+      "friend": [
+        {
+          "id": "v_wizard_friend_7",
+          "emote": 32,
+          "en": "Greetings, adept of the soil {farmer}. Strange forest echoes speak fondly of {farm}.",
+          "es": "Saludos, adepto de la tierra {farmer}. Ecos del bosque hablan bien de {farm}."
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "v_wizard_acquaintance_8",
+          "emote": 32,
+          "en": "Hmm. Step lightly, {farmer} of {farm}. Subtle ley lines cross these very stones.",
+          "es": "Hmm. Camina con atencion, {farmer} de {farm}. Lineas arcanas cruzan justo aqui."
+        }
+      ],
+      "spring": [
+        {
+          "id": "v_wizard_spring_9",
+          "emote": 32,
+          "en": "Vernal rebirth awakens dormant junimo whispers beneath forest fern, {farmer}.",
+          "es": "El renacer primaveral despierta susurros junimo bajo helechos del bosque, {farmer}."
+        }
+      ],
+      "summer": [
+        {
+          "id": "v_wizard_summer_10",
+          "emote": 32,
+          "en": "Solstice fire fuels rare moonlight essence herbs, {farmer}.",
+          "es": "Fuego solsticial nutre raras hierbas de esencia lunar, {farmer}."
+        }
+      ],
+      "fall": [
+        {
+          "id": "v_wizard_fall_11",
+          "emote": 32,
+          "en": "Ancient veils grow gossamer thin beneath autumn's fading amber light, {farmer}.",
+          "es": "Velos antiguos se vuelven tenues bajo luz otoñal ambarina, {farmer}."
+        }
+      ],
+      "winter": [
+        {
+          "id": "v_wizard_winter_12",
+          "emote": 32,
+          "en": "Deep stillness reveals hidden runic constellations clear above tower battlements, {farmer}.",
+          "es": "La quietud profunda revela constelaciones runicas limpias sobre mi torre, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "v_wizard_morning_13",
+          "emote": 32,
+          "en": "Early mists guard secret forest thresholds well, {farmer}.",
+          "es": "Nieblas tempranas resguardan umbrales secretos del bosque, {farmer}."
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "v_wizard_afternoon_14",
+          "emote": 32,
+          "en": "Pondering potion alchemies beyond mundane sight, {farmer}.",
+          "es": "Meditando alquimias mas alla de la vista comun, {farmer}."
+        }
+      ],
+      "evening": [
+        {
+          "id": "v_wizard_evening_15",
+          "emote": 32,
+          "en": "Violet dusk awakens old woodland glyphs softly, {farmer}.",
+          "es": "El ocaso violeta despierta suaves glifos del bosque, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "v_wizard_night_16",
+          "emote": 32,
+          "en": "Walk unafraid under cosmic starlight back toward {farm}, {farmer}.",
+          "es": "Camina sin temor bajo luz cosmica de regreso a {farm}, {farmer}."
+        }
+      ]
+    }
+  }
+}

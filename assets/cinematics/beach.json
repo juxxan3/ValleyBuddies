@@ -1,0 +1,52 @@
+{
+  "scenario": "beach",
+  "variants": {
+    "day_clear": {
+      "line1Key": "cinematic.beach.line1",
+      "questions": [
+        {
+          "id": "beach_day_1",
+          "questionKey": "cinematic.beach.question",
+          "opt1Key": "cinematic.beach.opt1",
+          "opt2Key": "cinematic.beach.opt2",
+          "reply1Key": "cinematic.beach.reply1",
+          "reply2Key": "cinematic.beach.reply2"
+        },
+        {
+          "id": "beach_day_2",
+          "questionKey": "cinematic.beach.alt.question",
+          "opt1Key": "cinematic.beach.alt.opt1",
+          "opt2Key": "cinematic.beach.alt.opt2",
+          "reply1Key": "cinematic.beach.alt.reply1",
+          "reply2Key": "cinematic.beach.alt.reply2"
+        }
+      ]
+    },
+    "winter_snow": {
+      "line1Key": "cinematic.beach.winter_snow.line1",
+      "questions": [
+        {
+          "id": "beach_winter_snow_1",
+          "questionKey": "cinematic.beach.winter_snow.question",
+          "opt1Key": "cinematic.beach.winter_snow.opt1",
+          "opt2Key": "cinematic.beach.winter_snow.opt2",
+          "reply1Key": "cinematic.beach.winter_snow.reply1",
+          "reply2Key": "cinematic.beach.winter_snow.reply2"
+        }
+      ]
+    },
+    "rainy_night": {
+      "line1Key": "cinematic.beach.rainy_night.line1",
+      "questions": [
+        {
+          "id": "beach_rainy_night_1",
+          "questionKey": "cinematic.beach.rainy_night.question",
+          "opt1Key": "cinematic.beach.rainy_night.opt1",
+          "opt2Key": "cinematic.beach.rainy_night.opt2",
+          "reply1Key": "cinematic.beach.rainy_night.reply1",
+          "reply2Key": "cinematic.beach.rainy_night.reply2"
+        }
+      ]
+    }
+  }
+}

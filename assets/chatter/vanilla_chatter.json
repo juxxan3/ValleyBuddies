@@ -1,0 +1,3312 @@
+{
+  "characters": {
+    "Abigail": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Good day for swinging past hidden trails with my blade tucked close, {farmer}.",
+          "es": "Buen dia para recorrer senderos ocultos con la espada a mano, {farmer}.",
+          "id": "ch_v_abigail_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Crunchy purple quartz beats boring granola bars any afternoon.",
+          "es": "Un cuarzo morado crujiente le gana a cualquier barrita aburrida.",
+          "id": "ch_v_abigail_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Wonder if monsters lurk past the next mossy bend!",
+          "es": "Me pregunto si habra monstruos tras la siguiente curva con musgo!",
+          "id": "ch_v_abigail_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 28,
+          "en": "Just let me explore without hearing chores lectures for five minutes.",
+          "es": "Solo quiero pasear sin escuchar sermones de tareas cinco minutos.",
+          "id": "ch_v_abigail_town_solo_4"
+        },
+        {
+          "emote": 56,
+          "en": "Humming old dungeon arcade tunes keeps footsteps bouncy.",
+          "es": "Tararear musica de mazmorra mantiene alegre el paso.",
+          "id": "ch_v_abigail_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Rainstorms turn the valley dark and thrilling—my favorite kind of weather!",
+          "es": "La lluvia vuelve el valle oscuro y emocionante—mi clima favorito!",
+          "id": "ch_v_abigail_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Frogs wake up singing whenever muddy puddles form by graveyard steps.",
+          "es": "Las ranas salen a cantar en cuanto hay charcos junto al cementerio.",
+          "id": "ch_v_abigail_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Snowflakes melting right off warm wool gloves look neat.",
+          "es": "Los copos derritiendose sobre guantes tibios se ven geniales.",
+          "id": "ch_v_abigail_snow_8"
+        },
+        {
+          "emote": 8,
+          "en": "Wait—does building a snow-golem count as training sword parries?",
+          "es": "Espera—construir un golem de nieve cuenta como practica de esgrima?",
+          "id": "ch_v_abigail_snow_9"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Violet dusk makes shadows dance around old pine trees.",
+          "es": "El ocaso violeta hace bailar las sombras entre los pinos.",
+          "id": "ch_v_abigail_evening_10"
+        },
+        {
+          "emote": 32,
+          "en": "Night air always feels twice as alive around town cemetery.",
+          "es": "El aire nocturno siempre se siente el doble de vivo por el cementerio.",
+          "id": "ch_v_abigail_evening_11"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 32,
+          "en": "Love seeing real steel fences and ripe pumpkins growing over {farm}!",
+          "es": "Me encanta ver buena madera y calabazas creciendo en {farm}!",
+          "id": "ch_v_abigail_farm_12"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 16,
+          "en": "Prairie King highscore keeps calling my name tonight!",
+          "es": "La maquina del Rey de la Pradera me llama a gritos hoy!",
+          "id": "ch_v_abigail_saloon_13"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Crashing surf smells wild—like pirate coves from old novels!",
+          "es": "Las olas bravas huelen a aventura—como calas piratas de novela!",
+          "id": "ch_v_abigail_beach_14"
+        }
+      ]
+    },
+    "Alex": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Keep up a crisp stride, {farmer}—good cardio clears any foggy head!",
+          "es": "Mantén buen paso, {farmer}—un buen trote despeja cualquier mente!",
+          "id": "ch_v_alex_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Feeling strong today. Wait until you see my gridball spiral later!",
+          "es": "Hoy me siento fuerte. Espera a ver mis pases mas tarde!",
+          "id": "ch_v_alex_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Always fired up training beside someone who works as hard as you!",
+          "es": "Siempre motiva entrenar junto a alguien tan trabajador como tu!",
+          "id": "ch_v_alex_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Dusty kept tail-wagging at me before sunrise—best buddy around.",
+          "es": "Dusty estuvo moviendo la cola desde el alba—el mejor amigo.",
+          "id": "ch_v_alex_town_solo_4"
+        },
+        {
+          "emote": 8,
+          "en": "Wait—fifty more squats tonight after Grandma's supper?",
+          "es": "Cincuenta sentadillas mas esta noche tras la cena de la abuela?",
+          "id": "ch_v_alex_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Rain's fine for sprints, just ruins perfect pass grip!",
+          "es": "La lluvia sirve para correr, pero arruina el agarre del balon!",
+          "id": "ch_v_alex_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Least nobody complains if I sweat out doors in cold drizzle.",
+          "es": "Al menos nadie nota el sudor bajo llovizna fria.",
+          "id": "ch_v_alex_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Cold lungs waking up crisp winter air—zero excuses!",
+          "es": "Aire frio de invierno despertando pulmones—cero excusas!",
+          "id": "ch_v_alex_snow_8"
+        },
+        {
+          "emote": 20,
+          "en": "Grandma knitted thicker wool socks just for morning runs.",
+          "es": "La abuela me tejio calcetines gruesos para correr de manana.",
+          "id": "ch_v_alex_snow_9"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Winding muscles down at dusk hits better after a full day.",
+          "es": "Relajar musculos al caer la tarde sienta mejor tras un dia duro.",
+          "id": "ch_v_alex_evening_10"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Working soil builds stronger shoulders than half those city gyms, {farmer}!",
+          "es": "Trabajar la tierra forja mas hombros que medio gimnasio urbano, {farmer}!",
+          "id": "ch_v_alex_farm_11"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Extra steak platter nights refill tank fuel cleanly!",
+          "es": "Un buen filete en el salon recarga energias de golpe!",
+          "id": "ch_v_alex_saloon_12"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Soft sand drills build unstoppable legs! Plus summer sun rocks.",
+          "es": "Correr sobre arena suelta da piernas de acero! Y el sol encanta.",
+          "id": "ch_v_alex_beach_13"
+        }
+      ]
+    },
+    "Caroline": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Walking beside bright sunlit trees always calms busy thoughts, {farmer}.",
+          "es": "Caminar junto a arboles soleados siempre calma la mente, {farmer}.",
+          "id": "ch_v_caroline_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Wild jasmine buds smell especially sweet along valley trails today.",
+          "es": "Los capullos de jazmin huelen especialmente dulces hoy por los senderos.",
+          "id": "ch_v_caroline_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Nice taking gentle breaths away from shop counters for an hour.",
+          "es": "Que bien sienta respirar aire fresco lejos del mostrador un rato.",
+          "id": "ch_v_caroline_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "My sunroom kettle stays warm whenever neighbors need peace.",
+          "es": "Mi invernadero siempre tiene te caliente para quien necesite calma.",
+          "id": "ch_v_caroline_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Aerobics days remind us how lively this little town feels.",
+          "es": "Los dias de aerobicos recuerdan lo alegre que es este pueblo.",
+          "id": "ch_v_caroline_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gentle rain waters wild fern fronds without anyone lifting pails.",
+          "es": "La lluvia suave riega los helechos sin que nadie cargue cubos.",
+          "id": "ch_v_caroline_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Makes me want fresh green chamomile waiting by stove kettle.",
+          "es": "Dan ganas de tener manzanilla verde recien hecha en la estufa.",
+          "id": "ch_v_caroline_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Quiet winter afternoons suit hot jasmine mugs best.",
+          "es": "Las tardes tranquilas de invierno piden tazas calientes de jazmin.",
+          "id": "ch_v_caroline_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Lavender dusk settles soft as silk blankets above town roofs.",
+          "es": "El ocaso lavanda cae suave como manta de seda sobre los tejados.",
+          "id": "ch_v_caroline_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Every leaf growing over {farm} radiates careful love, {farmer}.",
+          "es": "Cada hoja creciendo en {farm} irradia carino verdadero, {farmer}.",
+          "id": "ch_v_caroline_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Nice stepping out softly with Pierre when Friday crowds cheer.",
+          "es": "Lindo salir un ratito con Pierre cuando la gente rie el viernes.",
+          "id": "ch_v_caroline_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Ocean salt breeze wakes weary senses wonderfully.",
+          "es": "La brisa marina despierta los sentidos cansados de maravilla.",
+          "id": "ch_v_caroline_beach_12"
+        }
+      ]
+    },
+    "Clint": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Whoa, stepping outside away from glowing forge bellows feels weirdly cool, {farmer}.",
+          "es": "Vaya, salir lejos de las brasas ardientes se siente extrañamente fresco, {farmer}.",
+          "id": "ch_v_clint_companion_stroll_1"
+        },
+        {
+          "emote": 8,
+          "en": "Spot any smooth river stones around here? Always eyeing iron veins.",
+          "es": "Ves piedras de rio interesantes por aqui? No dejo de buscar vetas.",
+          "id": "ch_v_clint_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Good boots carry a blacksmith smoothly over valley gravel.",
+          "es": "Unas buenas botas llevan al herrero firme sobre la grava del valle.",
+          "id": "ch_v_clint_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 28,
+          "en": "Anvil echoes still ringing softly in my ears after noon.",
+          "es": "El yunque todavia resuena suavemente en mis oidos tras mediodia.",
+          "id": "ch_v_clint_town_solo_4"
+        },
+        {
+          "emote": 32,
+          "en": "Wonder if Emily noticed that new silver clasp sheen yet...",
+          "es": "Se habra fijado Emily en el brillo de aquel broche plateado...?",
+          "id": "ch_v_clint_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "At least rain cools hot iron tongs down twice as fast outdoors.",
+          "es": "Al menos la lluvia enfria tenazas calientes al doble de velocidad.",
+          "id": "ch_v_clint_rain_6"
+        },
+        {
+          "emote": 28,
+          "en": "Damp socks definitely beat scorched apron hems though.",
+          "es": "Calcetines humedos ganan a delantales quemados, eso seguro.",
+          "id": "ch_v_clint_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Winter snow makes a glowing forge hearth look doubly inviting.",
+          "es": "La nieve hace que el fuego de la herreria luzca el doble de acogedor.",
+          "id": "ch_v_clint_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Soot scrubbed off knuckles—time for quiet cold drink at dusk.",
+          "es": "Hollin lavado de los nudillos—hora de algo frio al caer la tarde.",
+          "id": "ch_v_clint_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 32,
+          "en": "Your hoe and watering can still gliding clean through {farm} soil?",
+          "es": "Siguen cortando limpio tu azada y regadera por {farm}?",
+          "id": "ch_v_clint_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Warm fire, cold mug, and hoping conversation comes easy tonight.",
+          "es": "Buen fuego, vaso frio y ojalá salga platica facil esta noche.",
+          "id": "ch_v_clint_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Ocean wind cools sunburned smithing arms nicely.",
+          "es": "El viento del mar refresca genial los brazos cansados de fragua.",
+          "id": "ch_v_clint_beach_12"
+        }
+      ]
+    },
+    "Demetrius": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Fascinating soil mineral variety along this section of trail, {farmer}!",
+          "es": "Que fascinante variedad mineral en este tramo del sendero, {farmer}!",
+          "id": "ch_v_demetrius_companion_stroll_1"
+        },
+        {
+          "emote": 8,
+          "en": "Notice beetle tracks crisscrossing that bark lichen over there?",
+          "es": "Notaste rastros de escarabajos cruzando aquel liquen de corteza?",
+          "id": "ch_v_demetrius_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Field observation feels twice as fruitful with observant company.",
+          "es": "La observacion de campo rinde el doble con compania atenta.",
+          "id": "ch_v_demetrius_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Logging ambient humidity readings before supper calls home.",
+          "es": "Anotando lecturas de humedad ambiental antes de volver a cenar.",
+          "id": "ch_v_demetrius_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Hope Maru remembered safety goggles before testing copper coils.",
+          "es": "Espero que Maru use gafas protectoras al probar bobinas.",
+          "id": "ch_v_demetrius_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Heavy precipitation triggers rich fungal blooms within 48 hours!",
+          "es": "Lluvia constante dispara brotes de hongos muy ricos en 48 horas!",
+          "id": "ch_v_demetrius_rain_6"
+        },
+        {
+          "emote": 20,
+          "en": "Optimal weather for amphibious valley ecology.",
+          "es": "Clima optimo para la ecologia anfibia del valle.",
+          "id": "ch_v_demetrius_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Frozen ground shifts subterranean cave condensation patterns noticeably.",
+          "es": "El suelo helado cambia los patrones de condensacion subterranea.",
+          "id": "ch_v_demetrius_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Nocturnal firefly bioluminescence peaks beautifully right near twilight.",
+          "es": "La bioluminiscencia de luciernagas alcanza su punto bello al anochecer.",
+          "id": "ch_v_demetrius_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Crop yields on {farm} demonstrate impressive nitrogen balance, {farmer}!",
+          "es": "Las cosechas de {farm} demuestran un equilibrio genial del suelo, {farmer}!",
+          "id": "ch_v_demetrius_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Friday rhythm steps with Robin restore equilibrium far better than spreadsheets.",
+          "es": "Bailar los viernes con Robin equilibra mejor que mil tablas.",
+          "id": "ch_v_demetrius_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Intertidal crab ecosystems exhibit remarkable salinity resilience!",
+          "es": "Los ecosistemas de cangrejos intermareales muestran gran resistencia!",
+          "id": "ch_v_demetrius_beach_12"
+        }
+      ]
+    },
+    "Dwarf": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Sky stretches awfully high above stone ceilings up here, {farmer}!",
+          "es": "El cielo queda altisimo sin techo de piedra por aqui arriba, {farmer}!",
+          "id": "ch_v_dwarf_companion_stroll_1"
+        },
+        {
+          "emote": 8,
+          "en": "Humans really call soft green grass more comfortable than solid granite?",
+          "es": "En serio los humanos llaman comoda a la hierba blanda frente al granito?",
+          "id": "ch_v_dwarf_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "So many bright shiny things lying unburied above ground!",
+          "es": "Cuantas cosas brillantes quedan sin enterrar arriba!",
+          "id": "ch_v_dwarf_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 8,
+          "en": "Curious surface dwellers keep dropping shiny bottles in odd boxes.",
+          "es": "Que raros los de arriba metiendo frascos en cajas de madera.",
+          "id": "ch_v_dwarf_town_solo_4"
+        },
+        {
+          "emote": 32,
+          "en": "Surface shoes feel strangely bouncy compared to iron boots.",
+          "es": "Las suelas de arriba rebotan raro frente a botas ferradas.",
+          "id": "ch_v_dwarf_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 16,
+          "en": "Water falling right out of empty sky?! Still bewilders me!",
+          "es": "Agua cayendo directo del cielo vacio?! Sigue asombrando!",
+          "id": "ch_v_dwarf_rain_6"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 16,
+          "en": "Cold white dust! Feels softer than crushed cavern quartz!",
+          "es": "Polvo blanco frio! Mas suave que cuarzo molido de cueva!",
+          "id": "ch_v_dwarf_snow_7"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Ah, soothing lantern shadows—much closer to comfortable cave glow.",
+          "es": "Ah, sombras suaves de farol—mucho mas cercano al brillo de cueva.",
+          "id": "ch_v_dwarf_evening_8"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "You grow tasty mineral-rich roots straight out of {farm} soil!",
+          "es": "Cultivas raices bien sabrosas directo de {farm}!",
+          "id": "ch_v_dwarf_farm_9"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Surface taverns smell wildly different from mushroom soup kettles.",
+          "es": "Las tabernas de arriba huelen distinto a calderos de setas.",
+          "id": "ch_v_dwarf_saloon_10"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 16,
+          "en": "Huge roaring puddle with salt taste! Never ends!",
+          "es": "Enorme charco rugiente con gusto salado! No acaba nunca!",
+          "id": "ch_v_dwarf_beach_11"
+        }
+      ]
+    },
+    "Elliott": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Each winding footpath composes another graceful stanza, {farmer}.",
+          "es": "Cada sendero sinuoso compone otra estrofa elegante, {farmer}.",
+          "id": "ch_v_elliott_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Wind whispers ancient prose softly across emerald hills today.",
+          "es": "El viento susurra prosa antigua suavemente sobre colinas verdes hoy.",
+          "id": "ch_v_elliott_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "What splendid companionship! My inkwell fairly trembles with inspiration.",
+          "es": "Que esplendida compania! Mi tintero tiembla de inspiracion.",
+          "id": "ch_v_elliott_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Searching for the precise adjective to capture afternoon amber light.",
+          "es": "Buscando el adjetivo preciso para retratar esta luz dorada.",
+          "id": "ch_v_elliott_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Crab-apple ink keeps parchment crisp through salt spray.",
+          "es": "La buena tinta mantiene firme el pergamino frente al salitre.",
+          "id": "ch_v_elliott_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Melancholic rain drums pure symphony upon cedar shingles!",
+          "es": "Lluvia melancolica toca sinfonia pura sobre tejados de cedro!",
+          "id": "ch_v_elliott_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Keep my hair dry, heavens—volume requires meticulous diplomacy!",
+          "es": "Cuidad mi melena, cielos—su volumen exige diplomacia delicada!",
+          "id": "ch_v_elliott_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "White frost shrouds every fence line in serene winter poetry.",
+          "es": "La escarcha envuelve cada cerca en serena poesia invernal.",
+          "id": "ch_v_elliott_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Crimson dusk melts gracefully into velvet twilight.",
+          "es": "El crepusculo carmesi se funde con dulzura en la noche.",
+          "id": "ch_v_elliott_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "{farm} flourishes like an epic pastoral verse under your stewardship!",
+          "es": "{farm} florece como un verso pastoral epico bajo tu mano!",
+          "id": "ch_v_elliott_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm spiced wine pairs delightfully with lively village tales!",
+          "es": "El vino especiado acompana de maravilla las historias del pueblo!",
+          "id": "ch_v_elliott_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Nothing restores my soul swifter than ocean breakers kissing sand.",
+          "es": "Nada restaura mi alma mas rapido que las olas besando la arena.",
+          "id": "ch_v_elliott_beach_12"
+        }
+      ]
+    },
+    "Emily": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Your bright aura shines crisp sunny gold today, {farmer}!",
+          "es": "Tu aura brilla con un dorado radiante hoy, {farmer}!",
+          "id": "ch_v_emily_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Every pebble and fern carries calm melody when you listen gently.",
+          "es": "Cada guijarro y helecho guarda su melodia suave si escuchas con calma.",
+          "id": "ch_v_emily_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Stitching dreams feels lighter after crisp walks with good company!",
+          "es": "Coser suenos se vuelve ligero tras paseos con tan buena compania!",
+          "id": "ch_v_emily_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 20,
+          "en": "Wait until my blue jay learns tomorrow's sunny greeting whistle!",
+          "es": "Espera a que mi arrendajo azul aprenda el silbido nuevo de manana!",
+          "id": "ch_v_emily_town_solo_4"
+        },
+        {
+          "emote": 32,
+          "en": "Found radiant turquoise thread matching ocean foam perfectly.",
+          "es": "Halle hilo turquesa radiante igualito a la espuma marina.",
+          "id": "ch_v_emily_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Raindrops cleanse every valley leaf in sparkling sky light!",
+          "es": "Las gotas de lluvia lavan cada hoja con energia limpia del cielo!",
+          "id": "ch_v_emily_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Makes colorful woven shawls extra cozy indoors.",
+          "es": "Vuelve los chales tejidos el doble de acogedores adentro.",
+          "id": "ch_v_emily_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Crystal winter air glows crisp white everywhere you turn!",
+          "es": "El aire cristalino de invierno brilla blanco puro donde mires!",
+          "id": "ch_v_emily_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Lantern glow and twilight breezes hum calm harmony.",
+          "es": "La luz de faroles y la brisa nocturna tararean calma.",
+          "id": "ch_v_emily_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Happy earth energy rises right up through green leaves on {farm}!",
+          "es": "Sube energia alegre directa desde la tierra verde de {farm}!",
+          "id": "ch_v_emily_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Good music, smiling neighbors, and busy plates keep evenings glowing!",
+          "es": "Buena musica, vecinos sonrientes y buen ritmo iluminan la noche!",
+          "id": "ch_v_emily_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Sea shells hold rainbow shimmer straight from deep water.",
+          "es": "Las conchas guardan destellos arcoiris desde lo hondo del mar.",
+          "id": "ch_v_emily_beach_12"
+        }
+      ]
+    },
+    "Evelyn": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Take gentle unhurried steps with me, {farmer}—the valley waits patiently.",
+          "es": "Camina sin prisa conmigo, {farmer}—el valle sabe esperar con paciencia.",
+          "id": "ch_v_evelyn_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Flower borders along every path brighten old eyes endlessly.",
+          "es": "Las flores junto a cada sendero alegran la vista sin cansarse.",
+          "id": "ch_v_evelyn_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Always feels warming spending golden mornings with thoughtful youth.",
+          "es": "Siempre reconforta pasar mananas lindas con gente tan atenta.",
+          "id": "ch_v_evelyn_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 20,
+          "en": "Baked soft oatmeal raisin cookies cooling right inside the tin.",
+          "es": "Hornee galletas suaves de avena y pasas enfriandose ya en la lata.",
+          "id": "ch_v_evelyn_town_solo_4"
+        },
+        {
+          "emote": 32,
+          "en": "Tending town planters brings smiles to folks hurrying past.",
+          "es": "Cuidar los canteros del pueblo saca sonrisas a quienes pasan con prisa.",
+          "id": "ch_v_evelyn_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Soft spring showers kiss tender tulip roots awake nicely.",
+          "es": "La lluvia suave despierta con carino las raices de los tulipanes.",
+          "id": "ch_v_evelyn_rain_6"
+        },
+        {
+          "emote": 20,
+          "en": "Remember warm slippers once stepping inside, sweetie!",
+          "es": "Recuerda ponerte zapatillas tibias al entrar a casa, cielo!",
+          "id": "ch_v_evelyn_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Bundle up cozy warm ears before stepping across frozen squares.",
+          "es": "Abriga bien tus oidos antes de cruzar las plazas heladas.",
+          "id": "ch_v_evelyn_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Warm lamps flickering at dusk remind me of fifty lovely years here.",
+          "es": "Las farolas encendiendo al ocaso me recuerdan cincuenta anos hermosos aqui.",
+          "id": "ch_v_evelyn_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "How lovely {farm} blooms under your tender care, {farmer}!",
+          "es": "Que preciosa florece {farm} bajo tu cuidado dedicado, {farmer}!",
+          "id": "ch_v_evelyn_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Gus's spice tea warms cold winter hands cleanly.",
+          "es": "El te especiado de Gus calienta enseguida las manos frias.",
+          "id": "ch_v_evelyn_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Gentle sea spray reminds me of young summers collecting driftwood.",
+          "es": "La brisa marina recuerda veranos jovenes recogiendo conchas.",
+          "id": "ch_v_evelyn_beach_12"
+        }
+      ]
+    },
+    "George": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Don't sprint ahead too quick, kid—these stone tiles bounce enough already.",
+          "es": "No corras tanto por delante—estas piedras ya rebotan bastante.",
+          "id": "ch_v_george_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Hmph. Not bad getting fresh morning breeze with sensible company, {farmer}.",
+          "es": "Jmf. No esta mal tomar aire fresco con compania juiciosa, {farmer}.",
+          "id": "ch_v_george_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Remember when half these cobblestones were still dirt wagon tracks!",
+          "es": "Me acuerdo cuando la mitad de estas calles eran puro camino de carro!",
+          "id": "ch_v_george_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 28,
+          "en": "Youth rush everywhere like trains late for Tuesday!",
+          "es": "Los jovenes corren por todos lados como tren con retraso!",
+          "id": "ch_v_george_town_solo_4"
+        },
+        {
+          "emote": 32,
+          "en": "Evelyn insists sitting out twenty minutes catches healthy sun.",
+          "es": "Evelyn insiste en que tomar veinte minutos de sol hace bien.",
+          "id": "ch_v_george_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Rain's good for leeks, terrible on creaky wheel axles.",
+          "es": "La lluvia sienta bien a los puerros, fatal a mis ejes viejos.",
+          "id": "ch_v_george_rain_6"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 28,
+          "en": "Cold enough to freeze soup right inside spoons out here!",
+          "es": "Hace bastante frio para congelar la sopa en la cuchara!",
+          "id": "ch_v_george_snow_7"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Sun dropping fast—good excuse for cozy television nights.",
+          "es": "Baja el sol—buena excusa para manta y television en casa.",
+          "id": "ch_v_george_evening_8"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Grandpa used to clear stone ridges like yours—you work {farm} proud, {farmer}.",
+          "es": "Tu abuelo estaria orgulloso viendo como trabajas {farm}, {farmer}.",
+          "id": "ch_v_george_farm_9"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Wait for hot potato leek bowls—only reason leaving porch late!",
+          "es": "Solo salgo tarde del porche por un buen tazon caliente de sopa!",
+          "id": "ch_v_george_saloon_10"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 28,
+          "en": "Sand sticks under spokes like glue! Watch your footing.",
+          "es": "La arena se pega en las ruedas como pegamento! Mira donde pisas.",
+          "id": "ch_v_george_beach_11"
+        }
+      ]
+    },
+    "Gil": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Hmph. Steady knees beat flashy swings when creeping past deep boulders, {farmer}.",
+          "es": "Jmf. Rodillas firmes superan fintas vistosas junto a rocas hondas, {farmer}.",
+          "id": "ch_v_gil_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Still remember clearing sixty rock crabs before breakfast once.",
+          "es": "Todavia recuerdo limpiar sesenta cangrejos de roca antes de desayunar.",
+          "id": "ch_v_gil_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Good boots. Keep eyes peeling for hidden cracks.",
+          "es": "Buenas botas. Mantén ojos listos para grietas ocultas.",
+          "id": "ch_v_gil_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Come back with slimy trophies or let old timers rock quietly.",
+          "es": "Vuelve con trofeos de monstruos o deja descansar tranquilo al veterano.",
+          "id": "ch_v_gil_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Rain keeps lazy slimes indoors—quiet afternoon.",
+          "es": "La lluvia guarda los slimes bajo techo—tarde calma.",
+          "id": "ch_v_gil_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Cold mountain breeze keeps old bones alert.",
+          "es": "El aire frio de montana mantiene alertas los huesos viejos.",
+          "id": "ch_v_gil_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Guild fire crackles nicest past sunset.",
+          "es": "El fuego de la chimenea del gremio cruje mejor de noche.",
+          "id": "ch_v_gil_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Solid fence posts round {farm}—keeps strays out clean.",
+          "es": "Postes firmes en {farm}—mantienen lejos cualquier bicho.",
+          "id": "ch_v_gil_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Never met an ale stronger than Marlon's spiced cider.",
+          "es": "Nunca probe bebida mas recia que la sidra especiada de Marlon.",
+          "id": "ch_v_gil_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Even ocean crabs pinch slower than deep cave scorpions.",
+          "es": "Hasta los cangrejos de mar pellizcan mas flojo que los bichos de cueva.",
+          "id": "ch_v_gil_beach_10"
+        }
+      ]
+    },
+    "Gus": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Fresh pine and warm bread air out here beats greasy kitchens nicely, {farmer}!",
+          "es": "El aire de pino y campo aqui afuera despeja genial de la cocina, {farmer}!",
+          "id": "ch_v_gus_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Already dreaming up ginger parsnip soup blends while strolling.",
+          "es": "Ya sonando recetas de sopa de chirivia y jengibre mientras camino.",
+          "id": "ch_v_gus_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Good company adds extra zest to any valley morning!",
+          "es": "La buena compania da sabor extra a cualquier manana del valle!",
+          "id": "ch_v_gus_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Stocking crispy flour sacks and plump wild blackberries for weekend pies.",
+          "es": "Alistando sacos de harina fina y moras silvestres para tartas del finde.",
+          "id": "ch_v_gus_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Nothing feels warmer than full happy saloon laughter.",
+          "es": "Nada abriga tanto como un salon lleno de risas alegres.",
+          "id": "ch_v_gus_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Rainy weather doubles cravings for creamy baked risotto!",
+          "es": "Los dias de lluvia duplican el antojo de buen risotto cremoso!",
+          "id": "ch_v_gus_rain_6"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Hot cinnamon cocoa simmering right behind oak counter!",
+          "es": "Chocolate caliente con canela esperando tras la barra de roble!",
+          "id": "ch_v_gus_snow_7"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Lanterns lit, soup ladles shining—evening shift awaits!",
+          "es": "Faroles encendidos, cucharones limpios—la noche nos espera!",
+          "id": "ch_v_gus_evening_8"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Finest golden ingredients in Stardew grow right across {farm}!",
+          "es": "Los ingredientes mas frescos de todo Stardew crecen en {farm}!",
+          "id": "ch_v_gus_farm_9"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Step right up—homehearth stays warm for every neighbor!",
+          "es": "Pasad adelante—el fuego siempre calienta para cada vecino!",
+          "id": "ch_v_gus_saloon_10"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salt wind makes crisp fried halibut smell downright irresistible!",
+          "es": "La brisa del mar vuelve irresistible cualquier filete dorado!",
+          "id": "ch_v_gus_beach_11"
+        }
+      ]
+    },
+    "Haley": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Honestly? Country trails actually have way nicer lighting than shopping malls, {farmer}.",
+          "es": "Sinceramente? Estos senderos tienen mejor luz que cualquier galeria comercial, {farmer}.",
+          "id": "ch_v_haley_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Hold still a sec—this angle with green meadow shade looks amazing!",
+          "es": "Quietecito un segundo—este angulo con sombra del prado luce genial!",
+          "id": "ch_v_haley_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Did not think I would enjoy long muddy walks... somehow it works with you!",
+          "es": "No pense que disfrutaria caminatas de campo... contigo funciona de maravilla!",
+          "id": "ch_v_haley_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Wiping stray dust specks cleanly off camera lenses first.",
+          "es": "Limpiando motitas de polvo del lente de mi camara primero.",
+          "id": "ch_v_haley_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Spring pastel colors totally match Pelican Town flower boxes.",
+          "es": "Los tonos pastel combinan perfecto con las flores de la plaza.",
+          "id": "ch_v_haley_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Urgh—drizzle frizzes curls instantly! Share an umbrella shade?",
+          "es": "Uf—la llovizna encrespa el pelo al instante! Hay sombrilla?",
+          "id": "ch_v_haley_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Water droplets gleaming on window panes make dreamy macro shots though.",
+          "es": "Gotas brillando en cristales dan fotos macro de ensueño, eso si.",
+          "id": "ch_v_haley_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Fluffy scarves and soft blush cheeks look cute against crisp white snow!",
+          "es": "Bufandas suaves y nieve blanca quedan preciosas en foto!",
+          "id": "ch_v_haley_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden hour glow fades fast—every second counts for stunning shots!",
+          "es": "La hora dorada vuela—cada segundo vale para sacar la foto perfecta!",
+          "id": "ch_v_haley_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Wait—{farm} sunsets practically look filtered straight in real life, {farmer}!",
+          "es": "Oye—los atardeceres de {farm} parecen tener filtro natural, {farmer}!",
+          "id": "ch_v_haley_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Pink frosted cake slice fixes any tired evening cleanly.",
+          "es": "Una rebanada de pastel rosa arregla cualquier noche cansada.",
+          "id": "ch_v_haley_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Sun-kissed waves, warm breezes, and seashell treasures—pure paradise!",
+          "es": "Olas al sol, brisa tibia y conchas—puro paraiso!",
+          "id": "ch_v_haley_beach_12"
+        }
+      ]
+    },
+    "Harvey": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Brisk walking pace lowers resting pulse beautifully, {farmer}!",
+          "es": "Caminar a buen ritmo regula el pulso de maravilla, {farmer}!",
+          "id": "ch_v_harvey_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Hear faint cargo wings buzzing past cloud deck? Sounds like a twin-engine!",
+          "es": "Escuchas un zumbido de alas sobre las nubes? Suena a bimotor!",
+          "id": "ch_v_harvey_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Stepping out from clinic clipboards feels deeply refreshing beside you.",
+          "es": "Salir de la clinica un rato sienta muy renovador junto a ti.",
+          "id": "ch_v_harvey_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Reminder: stretch tired farm shoulders gently before sunset!",
+          "es": "Recordatorio: estirad bien esos hombros cansados antes del anochecer!",
+          "id": "ch_v_harvey_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Fresh air does miracles no pill bottle matches.",
+          "es": "El aire fresco hace milagros que ningun frasco iguala.",
+          "id": "ch_v_harvey_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Keep coats buttoned tight in cold rain—sore throats sneak up swiftly!",
+          "es": "Abrigaos bien bajo lluvia fria—los resfriados atacan sin aviso!",
+          "id": "ch_v_harvey_rain_6"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 28,
+          "en": "Watch slick frosty cobblestones closely—clinic sprain quota is full!",
+          "es": "Cuidado con adoquines resbalosos—ya llene el cupo de esguinces!",
+          "id": "ch_v_harvey_snow_7"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Calm twilight sky sets radio static crystal clear tonight.",
+          "es": "El cielo sereno de noche deja la radio nitida hoy.",
+          "id": "ch_v_harvey_evening_8"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Healthy soil, fresh veggies, strong sunshine—{farm} boosts town health!",
+          "es": "Tierra sana, verduras frescas y buen sol—{farm} cuida a todo el pueblo!",
+          "id": "ch_v_harvey_farm_9"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Moderate glass of sparkling vintage after healthy supper hurts nobody!",
+          "es": "Una copa moderada tras buena cena no dana a nadie!",
+          "id": "ch_v_harvey_saloon_10"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Vitamin D and salty ocean air—strictly doctor-approved!",
+          "es": "Vitamina D y brisa de mar—receta oficial del medico!",
+          "id": "ch_v_harvey_beach_11"
+        }
+      ]
+    },
+    "Jas": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Look!! Pretty butterflies keep hopping right alongside our boots, {farmer}!",
+          "es": "Mira!! Mariposas bonitas van saltando junto a nuestras botas, {farmer}!",
+          "id": "ch_v_jas_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Jump-rope rhythms go faster when happy company cheers!",
+          "es": "Saltar a la cuerda sale mas rapido con compania alegre!",
+          "id": "ch_v_jas_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Miss Penny says picking nice flowers politely leaves plenty for bees.",
+          "es": "La senorita Penny dice que dejar flores lindas ayuda a las abejas.",
+          "id": "ch_v_jas_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Counting how many red roof tiles shine along library eaves!",
+          "es": "Contando cuantas tejas rojas brillan sobre la biblioteca!",
+          "id": "ch_v_jas_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Rain boots go splash-splash cleanly across puddles!",
+          "es": "Mis botas hacen chap-chap en todos los charcos!",
+          "id": "ch_v_jas_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Winter bunny footprints look so tiny beside fences!",
+          "es": "Huellas de conejitos de invierno se ven chiquitas junto a la cerca!",
+          "id": "ch_v_jas_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Fireflies look like floating birthday candles at dusk!",
+          "es": "Las luciernagas parecen velitas flotantes al oscurecer!",
+          "id": "ch_v_jas_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "All those sweet fluffy animals living cleanly on {farm}!",
+          "es": "Que lindos viven todos los animalitos en {farm}!",
+          "id": "ch_v_jas_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Sweet berry juice smells yummy inside!",
+          "es": "El jugo dulce de bayas huele riquisimo aqui adentro!",
+          "id": "ch_v_jas_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Tiny pink shells sparkle nicely inside bright sand puddles!",
+          "es": "Conchitas rosas brillan lindisimo en charquitos de arena!",
+          "id": "ch_v_jas_beach_10"
+        }
+      ]
+    },
+    "Jodi": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Honestly, stepping outdoors without grocery lists feels like mini vacation, {farmer}!",
+          "es": "La verdad, salir sin listas de compras se siente como mini vacaciones, {farmer}!",
+          "id": "ch_v_jodi_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Already picturing roasted parsnips bubbling gently before suppertime.",
+          "es": "Ya imaginando chirivias asadas burbujeando antes de cenar.",
+          "id": "ch_v_jodi_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Thank you for slowing down to walk with neighbors nicely.",
+          "es": "Gracias por caminar un rato tranquilo con los vecinos.",
+          "id": "ch_v_jodi_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Between Sam's laundry and Vincent's frogs, mornings sprint right past!",
+          "es": "Entre ropa de Sam y ranas de Vincent, las mananas vuelan!",
+          "id": "ch_v_jodi_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Just hope nobody tracks wet mud across freshly mopped floorboards!",
+          "es": "Solo espero que nadie meta barro sobre el suelo recien trapeado!",
+          "id": "ch_v_jodi_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Fuzzy winter mittens and warm baked bread conquer frosty mornings.",
+          "es": "Manoplas calentitas y pan recien hecho vencen cualquier helada.",
+          "id": "ch_v_jodi_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Quiet lights glowing inside home windows feel extra comforting tonight.",
+          "es": "Ver luces calidas en casa al caer la tarde reconforta mucho.",
+          "id": "ch_v_jodi_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Wait until you share homegrown veggies—your {farm} crops taste sunny!",
+          "es": "Tus cosechas de {farm} saben a puro sol fresco!",
+          "id": "ch_v_jodi_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Even one night off cooking duty feels priceless!",
+          "es": "Una sola noche libre de estufa no tiene precio!",
+          "id": "ch_v_jodi_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Watching gentle foam wash shells ashore rests tired minds.",
+          "es": "Ver las olas traer conchas relaja la mente entera.",
+          "id": "ch_v_jodi_beach_10"
+        }
+      ]
+    },
+    "Kent": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Quiet earth beneath boots and breeze in grass—nothing beats valley peace, {farmer}.",
+          "es": "Tierra firme bajo botas y brisa en la hierba—nada supera esta paz, {farmer}.",
+          "id": "ch_v_kent_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Keep sharp eyes out for early signs of seasonal berries ahead.",
+          "es": "Ojo atento a los brotes tempranos de bayas por el sendero.",
+          "id": "ch_v_kent_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Good having dependable quiet company out on walks.",
+          "es": "Se agradece compania firme y serena al caminar.",
+          "id": "ch_v_kent_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Learning again how to let mornings unfold slowly without alarms.",
+          "es": "Aprendiendo de nuevo a dejar correr las mananas sin alarmas.",
+          "id": "ch_v_kent_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Heavy thunder brings sharp tension—just breathe steady and watch steady rain.",
+          "es": "Truenos fuertes tensan un poco—respirar hondo mirando la lluvia ayuda.",
+          "id": "ch_v_kent_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "White winter stillness blankets noisy memories quietly.",
+          "es": "La quietud blanca de invierno apacigua cualquier ruido.",
+          "id": "ch_v_kent_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Warm supper smoke curling out home chimneys always feels welcome.",
+          "es": "Ver humo de cena saliendo de nuestra chimenea siempre da bienvenida.",
+          "id": "ch_v_kent_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Solid stewardship across {farm} sets honest example for town, {farmer}.",
+          "es": "Tu dedicacion constante en {farm} da gran ejemplo al pueblo, {farmer}.",
+          "id": "ch_v_kent_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Popcorn nights at home still top crowded noise cleanly.",
+          "es": "Noches de palomitas en casa siguen superando sitios ruidosos.",
+          "id": "ch_v_kent_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Vast open horizon calms restless thoughts rapidly.",
+          "es": "El horizonte abierto calma rapido cualquier pensamiento inquieto.",
+          "id": "ch_v_kent_beach_10"
+        }
+      ]
+    },
+    "Krobus": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Bright sunlight still feels strange against shadow skin, though walking beside you helps, {farmer}.",
+          "es": "El sol aun pica algo en mi piel sombria, aunque caminar contigo ayuda, {farmer}.",
+          "id": "ch_v_krobus_companion_stroll_1"
+        },
+        {
+          "emote": 8,
+          "en": "Why do surface folk smile at clouds floating slowly overhead?",
+          "es": "Por que la gente de arriba sonrie mirando nubes flotar despacio?",
+          "id": "ch_v_krobus_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Every pebble up here feels dry and warm compared to sewer stones.",
+          "es": "Cada piedra aqui arriba se siente seca y tibia frente a las alcantarillas.",
+          "id": "ch_v_krobus_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping quiet cloak tucked neatly so neighbors don't startle.",
+          "es": "Mantengo mi capa recogida para no asustar a nadie.",
+          "id": "ch_v_krobus_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Oh!! Cool gray clouds shield bright glare gently today—blessed weather!",
+          "es": "Oh!! Nubes grises cubren hoy el sol fuerte—bendito clima fresco!",
+          "id": "ch_v_krobus_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Silent white flakes cool pleasantly against dark cloak hems!",
+          "es": "Copos blancos silenciosos refrescan agusto mi manto oscuro!",
+          "id": "ch_v_krobus_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Twilight arrives! Shadows lengthen kindly everywhere!",
+          "es": "Llega el crepusculo! Las sombras se alargan amables por fin!",
+          "id": "ch_v_krobus_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Void chickens would feel right at home pacing cleanly across {farm}!",
+          "es": "Pollos sombrios se sentirian en casa paseando por {farm}!",
+          "id": "ch_v_krobus_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 8,
+          "en": "Wait—humans actually enjoy drinking bubbly yeast juices loudly?",
+          "es": "De verdad los humanos disfrutan bebidas ruidosas aqui adentro?",
+          "id": "ch_v_krobus_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Deep roaring surf sounds remarkably similar to underground waterfalls!",
+          "es": "El mar rugiendo suena igualito a cascadas subterraneas!",
+          "id": "ch_v_krobus_beach_10"
+        }
+      ]
+    },
+    "Leah": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Every bent oak branch tells a sculpture story waiting patiently, {farmer}.",
+          "es": "Cada rama curva de roble cuenta una escultura esperando nacer, {farmer}.",
+          "id": "ch_v_leah_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Look at rich emerald moss shading wild leek clusters over there!",
+          "es": "Mira ese musgo esmeralda cubriendo brotes de puerro silvestre ahi!",
+          "id": "ch_v_leah_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Exploring valleys outdoors feels infinitely richer alongside you.",
+          "es": "Recorrer el valle al aire libre inspira el doble contigo.",
+          "id": "ch_v_leah_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Wood shavings keep hiding in apron pockets no matter how hard I shake.",
+          "es": "Las virutas se esconden en los bolsillos por mucho que sacuda el delantal.",
+          "id": "ch_v_leah_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Misty forest rain enriches oak wood tones like natural varnish!",
+          "es": "La niebla de lluvia realza los tonos de madera como barniz vivo!",
+          "id": "ch_v_leah_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Cold sharp air leaves cheeks glowing rosy while carving outdoors.",
+          "es": "El frio vivo deja mejillas rosadas mientras tallo afuera.",
+          "id": "ch_v_leah_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Plum twilight shadows stretch clean art lines across river water.",
+          "es": "Las sombras violetas dibujan lineas preciosas sobre el rio.",
+          "id": "ch_v_leah_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Hard not itching for sketchbooks seeing {farm} landscapes bloom, {farmer}!",
+          "es": "Imposible no sacar libreta viendo florecer asi {farm}, {farmer}!",
+          "id": "ch_v_leah_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Nothing warms winter evenings like goat cheese salad and spiced wine.",
+          "es": "Nada entibia mejor la noche que buena ensalada y vino especiado.",
+          "id": "ch_v_leah_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Searching waves for sun-bleached cedar driftwood treasures!",
+          "es": "Buscando entre olas madera flotante blanqueada por el sol!",
+          "id": "ch_v_leah_beach_10"
+        }
+      ]
+    },
+    "Leo": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Every valley rustle carries happy bird whispers when walking slow, {farmer}!",
+          "es": "Cada hoja en el viento guarda voces de pajaros al caminar calma, {farmer}!",
+          "id": "ch_v_leo_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Wait—teach me another valley tree name while we stroll!",
+          "es": "Ensename otro nombre de arbol del valle mientras paseamos!",
+          "id": "ch_v_leo_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Flock mates never leave good company flying solo!",
+          "es": "Buenos amigos de bandada nunca dejan solo al companero!",
+          "id": "ch_v_leo_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Listening closely so mountain wrens remember my whistle.",
+          "es": "Escuchando atento para que los pajaritos reconozcan mi silbido.",
+          "id": "ch_v_leo_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Cool rain tastes cleaner than warm palm storms!",
+          "es": "La lluvia fresca sabe mas limpia que tormentas de palmeras!",
+          "id": "ch_v_leo_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 16,
+          "en": "Soft cold sky feathers falling!! Look how shiny white snow stays!",
+          "es": "Plumas frias blancas cayendo del cielo!! Mira que brillantes!",
+          "id": "ch_v_leo_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Night owls wake gently when golden sun dips.",
+          "es": "Los buhos despiertan suaves cuando cae el sol dorado.",
+          "id": "ch_v_leo_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Ducks and hens on {farm} chirp lively friendly greetings!",
+          "es": "Los patos y gallinas de {farm} pian saludos alegres!",
+          "id": "ch_v_leo_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 8,
+          "en": "Bright warm lanterns shine inside like sunny mango camps!",
+          "es": "Cuantos faroles calidos brillan aqui adentro!",
+          "id": "ch_v_leo_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Ocean smells like my island home across blue waves!",
+          "es": "El oceano huele igualito a mi hogar tras las olas azules!",
+          "id": "ch_v_leo_beach_10"
+        }
+      ]
+    },
+    "Lewis": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Splendid maintaining brisk inspections across town paths together, {farmer}.",
+          "es": "Esplendido recorrer juntos y revisar los caminos del pueblo, {farmer}.",
+          "id": "ch_v_lewis_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Pelican Town looks cleaner and livelier every single quarter thanks to neighbors!",
+          "es": "Pueblo Pelicano luce mas limpio y vivo cada mes gracias a sus vecinos!",
+          "id": "ch_v_lewis_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Good clean paths keep shipping wagons rolling smoothly.",
+          "es": "Caminos cuidados mantienen las carretas rodando sin trabas.",
+          "id": "ch_v_lewis_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Checking streetlamp oil balances and flower border edges neatly.",
+          "es": "Revisando niveles de aceite en farolas y bordes florales.",
+          "id": "ch_v_lewis_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Remember checking drainage grates clear during autumn squalls.",
+          "es": "Acordaos de revisar desagues limpios cuando llueve fuerte.",
+          "id": "ch_v_lewis_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Winter mornings demand crisp scarves and warm hearth councils.",
+          "es": "Mananas de invierno piden bufanda gruesa y buena chimenea.",
+          "id": "ch_v_lewis_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Evening bells signal calm earned rest throughout the valley.",
+          "es": "Campanas de tarde anuncian descanso merecido en el valle.",
+          "id": "ch_v_lewis_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Ah! Standing proudly upon {farm} reminds me of your grandfather's golden years, {farmer}!",
+          "es": "Ver florecer {farm} me recuerda los mejores anos de tu abuelo, {farmer}!",
+          "id": "ch_v_lewis_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Fine hospitality at Stardrop keeps community ties stitched strong!",
+          "es": "La buena mesa del salon mantiene fuertes los lazos del pueblo!",
+          "id": "ch_v_lewis_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Pier planks holding steady above lively coastal swells.",
+          "es": "Los tablones del muelle resisten firmes sobre el oleaje.",
+          "id": "ch_v_lewis_beach_10"
+        }
+      ]
+    },
+    "Linus": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Wind speaks honestly through pine needles when people simply slow down, {farmer}.",
+          "es": "El viento habla claro entre los pinos cuando bajamos la prisa, {farmer}.",
+          "id": "ch_v_linus_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Wild greens sprout generously beside mossy creek bends if you know where.",
+          "es": "Hierbas dulces brotan generosas junto al arroyo si sabes mirar.",
+          "id": "ch_v_linus_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Few walk outdoors merely to listen alongside an old hermit. Thank you.",
+          "es": "Pocos salen a caminar simplemente para escuchar con un viejo ermitano. Gracias.",
+          "id": "ch_v_linus_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 20,
+          "en": "Warm campfire embers and gentle stars offer richness coins cannot touch.",
+          "es": "Brasas calidas y estrellas serenas dan riqueza que el oro no compra.",
+          "id": "ch_v_linus_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Soft rain drums gently overhead—canvas shelter holds dry and calm.",
+          "es": "La lluvia suena dulce sobre la lona—todo seco y en calma adentro.",
+          "id": "ch_v_linus_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Frost teaches deep patience; spring roots sleep safe underneath.",
+          "es": "La escarcha ensena paciencia; las raices duermen seguras abajo.",
+          "id": "ch_v_linus_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Twilight hush invites woodland creatures right out to drink.",
+          "es": "La calma nocturna invita al bosque a respirar en paz.",
+          "id": "ch_v_linus_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Harmonious soil across {farm} feeds birds and neighbors alike!",
+          "es": "La tierra en armonia de {farm} alimenta aves y vecinos!",
+          "id": "ch_v_linus_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Kind aroma of warm soup drifts kindly outside tavern doors.",
+          "es": "El aroma amable de sopa calientita abriga incluso afuera.",
+          "id": "ch_v_linus_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Vast endless tide humbles every passing worry smoothly.",
+          "es": "La marea inmensa vuelve pequenas todas las preocupaciones.",
+          "id": "ch_v_linus_beach_10"
+        }
+      ]
+    },
+    "Marlon": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Stay light on heels along shadowy ridges—good stance keeps surprises harmless, {farmer}.",
+          "es": "Paso ligero en crestas sombrias—buena guardia evita sustos, {farmer}.",
+          "id": "ch_v_marlon_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Your blade edge stays cleaner than half the rookies visiting Guild Hall.",
+          "es": "Mantienes tu espada mejor cuidada que medio gremio novato.",
+          "id": "ch_v_marlon_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Valley patrols feel light beside steady reliable comrades.",
+          "es": "Patrullar el valle resulta facil junto a buenos camaradas.",
+          "id": "ch_v_marlon_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Keeping eyes sharp on strange fog rolling off northern mine cliffs.",
+          "es": "Ojo puesto sobre la niebla extrana cerca de los riscos del norte.",
+          "id": "ch_v_marlon_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Dry scabbard leather carefully after wet trails.",
+          "es": "Secad bien las vainas de cuero tras senderos mojados.",
+          "id": "ch_v_marlon_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp winter footing sharpens discipline cleanly.",
+          "es": "El frio de invierno mantiene firme la disciplina.",
+          "id": "ch_v_marlon_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Shadows rise early past forest treeline—lanterns ready.",
+          "es": "Las sombras suben pronto en el linde del bosque—faroles listos.",
+          "id": "ch_v_marlon_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Clean perimeter fences keep strays off {farm} cleanly.",
+          "es": "Cercas firmes mantienen a raya bichos fuera de {farm}.",
+          "id": "ch_v_marlon_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Quiet tankard away from slime damp hits nicely Fridays.",
+          "es": "Un buen vaso lejos de cuevas humedas sienta bien los viernes.",
+          "id": "ch_v_marlon_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Sea monsters stay deep beyond tides—peaceful shore patrol.",
+          "es": "Monstruos marinos quedan lejos en lo hondo—costa tranquila.",
+          "id": "ch_v_marlon_beach_10"
+        }
+      ]
+    },
+    "Marnie": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Fresh meadow clover always brings happy skips out of pasture calves, {farmer}!",
+          "es": "El trebol fresco siempre hace saltar felices a los terneritos, {farmer}!",
+          "id": "ch_v_marnie_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Need fresh cozy wool skeins or plump ranch cheese anytime? Always ready!",
+          "es": "Necesitas lana suave o queso fresco de rancho? Siempre listos!",
+          "id": "ch_v_marnie_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Lovely sharing crisp country sunshine away from barn rafters.",
+          "es": "Que gusto pasear al sol limpio fuera del granero un rato.",
+          "id": "ch_v_marnie_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 20,
+          "en": "Shane's smiling brighter mornings lately—warms my heart completely.",
+          "es": "Shane sonrie mas cada manana ultimamente—me alegra el alma.",
+          "id": "ch_v_marnie_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Cows prefer cozy hay piles indoors when steady rain patters roofs.",
+          "es": "Las vacas prefieren heno calientito adentro cuando repica la lluvia.",
+          "id": "ch_v_marnie_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Thick cedar bedding keeps barn heaters humming snugly all winter.",
+          "es": "Camas gruesas de paja mantienen calentito todo el establo.",
+          "id": "ch_v_marnie_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Twilight pasture bells jingle softly calling every goat indoors.",
+          "es": "Los cencerros suenan suaves llamando las cabras a dormir.",
+          "id": "ch_v_marnie_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Happy animals all across {farm} clearly adore living with you, {farmer}!",
+          "es": "Tus animales en {farm} se ven contentisimos contigo, {farmer}!",
+          "id": "ch_v_marnie_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Warm cider beside laughing neighbors beats quiet empty nights!",
+          "es": "Sidra calientita entre risas vecinas le gana a noches solas!",
+          "id": "ch_v_marnie_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Ducks would happily splash all afternoon right past coastal tidepools!",
+          "es": "Los patos chapotearian felices toda la tarde aqui en la orilla!",
+          "id": "ch_v_marnie_beach_10"
+        }
+      ]
+    },
+    "Maru": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Wait—did you notice crisp electromagnetic clear skies up past mountain lake, {farmer}?",
+          "es": "Oye—notaste que despejado esta el cielo para lecturas arriba del lago, {farmer}?",
+          "id": "ch_v_maru_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "My pocket barometer loves calm breezy trails!",
+          "es": "Mi barometro de bolsillo adora estos senderos con brisa calma!",
+          "id": "ch_v_maru_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Tinkering gears gets lonely—stepping outdoors alongside you sparkles ideas!",
+          "es": "Soldar piezas da sueno—salir a pasear contigo enciende ideas!",
+          "id": "ch_v_maru_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Testing high-efficiency battery seals before clinic runs noon checkups.",
+          "es": "Probando sellos de bateria antes de las revisiones en la clinica.",
+          "id": "ch_v_maru_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Keep copper circuit tools wrapped waterproof during rain squalls!",
+          "es": "Mantén cables de cobre bien envueltos cuando caen chubascos!",
+          "id": "ch_v_maru_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Zero humidity snow nights give razor-sharp telescope stargazing!",
+          "es": "Noches secas de nieve ofrecen vistas perfectas al telescopio!",
+          "id": "ch_v_maru_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "First stars blink clear through clean valley air tonight!",
+          "es": "Primeras estrellas parpadean claras en el aire limpio esta noche!",
+          "id": "ch_v_maru_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Automated sprinklers firing neatly across {farm}—music to any engineer!",
+          "es": "Aspersores alineados en {farm}—musica pura para cualquier ingeniera!",
+          "id": "ch_v_maru_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Testing jukebox acoustics around oak booths feels secretly fun.",
+          "es": "Analizar la acustica de la rocola entre mesas es divertido en secreto.",
+          "id": "ch_v_maru_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Tidal rhythms show gorgeous gravity physics right in plain sight!",
+          "es": "Las mareas muestran fisica pura a plena vista sobre la arena!",
+          "id": "ch_v_maru_beach_10"
+        }
+      ]
+    },
+    "Pam": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Not bad stretching cramped bus-driver legs round open trails, kid.",
+          "es": "No esta mal estirar las piernas tras el volante por estos caminos, chico.",
+          "id": "ch_v_pam_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Penny deserves easy sunny afternoons after working herself silly.",
+          "es": "Penny merece tardes soleadas sin tanto ajetreo.",
+          "id": "ch_v_pam_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Keep sharp pace—I still hold fastest boot sprint to saloon bell!",
+          "es": "Sigue buen paso—todavia llego primera cuando abre el salon!",
+          "id": "ch_v_pam_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 28,
+          "en": "Wait—left bus keys hanging cleanly behind trailer hook, right?",
+          "es": "Espera—colgue bien las llaves del autobus tras el gancho, verdad?",
+          "id": "ch_v_pam_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Wet asphalt gets slick faster than butter out by bus tunnel!",
+          "es": "El asfalto mojado resbala mas que mantequilla rumbo al tunel!",
+          "id": "ch_v_pam_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Warm spiced cider kicks winter frost cleanly out of cold boots.",
+          "es": "Sidra caliente espanta el hielo de las botas enseguida.",
+          "id": "ch_v_pam_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Stardrop lights calling steady once sun sinks past hill!",
+          "es": "Las luces del salon llaman en cuanto baja el sol!",
+          "id": "ch_v_pam_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Good clean sweat across {farm} beats city desk pushing anytime, kid!",
+          "es": "Buen trabajo en {farm} le gana a cualquier oficina aburrida, chico!",
+          "id": "ch_v_pam_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Same stool, cold glass, friendly faces—now that's valley living!",
+          "es": "Mismo taburete, vaso frio y buena gente—eso es vivir en el valle!",
+          "id": "ch_v_pam_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Salt wind clears desert sand clean out of pockets!",
+          "es": "El viento del mar limpia hasta la arena del desierto de los bolsillos!",
+          "id": "ch_v_pam_beach_10"
+        }
+      ]
+    },
+    "Penny": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Just walking peacefully across valley grass feels like turning clean storybook pages, {farmer}.",
+          "es": "Caminar tranquila por el valle se siente como pasar hojas limpias de un cuento, {farmer}.",
+          "id": "ch_v_penny_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Wildflowers along path corners brighten Jas and Vincent's drawing books.",
+          "es": "Las flores silvestres alegran los cuadernos de dibujo de Jas y Vincent.",
+          "id": "ch_v_penny_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Being beside someone kind makes busy days feel gentle and bright.",
+          "es": "Estar con alguien amable hace cada dia luminoso y sereno.",
+          "id": "ch_v_penny_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Hope library dust stayed calm while afternoon breezes sweep through.",
+          "es": "Espero que no entre mucho polvo en los estantes de la biblioteca hoy.",
+          "id": "ch_v_penny_town_solo_4"
+        },
+        {
+          "emote": 20,
+          "en": "Planning new star stories before tomorrow's morning class!",
+          "es": "Preparando cuentos de estrellas para la clase de manana!",
+          "id": "ch_v_penny_town_solo_5"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Soft rain makes cozy reading corners indoors feel ten times sweeter.",
+          "es": "La lluvia vuelve los rincones de lectura el doble de acogedores.",
+          "id": "ch_v_penny_rain_6"
+        },
+        {
+          "emote": 32,
+          "en": "Warm wool cardigan plus steaming tea weather!",
+          "es": "Clima ideal de sueter tibio y taza de te!",
+          "id": "ch_v_penny_rain_7"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Snowflakes drifting smoothly remind me of quiet library glass.",
+          "es": "Copos cayendo calmos recuerdan el silencio dulce de la biblioteca.",
+          "id": "ch_v_penny_snow_8"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Amber twilight paints calm beauty across river bridge tiles.",
+          "es": "El ocaso dorado pinta calma sobre el puente del rio.",
+          "id": "ch_v_penny_evening_9"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Watching crops flourish gently across {farm} warms my heart deeply, {farmer}.",
+          "es": "Ver florecer {farm} me llena de paz y alegria, {farmer}.",
+          "id": "ch_v_penny_farm_10"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Stepping inside calmly with warm smiles feels comforting tonight.",
+          "es": "Entrar tranquila con buena compania reconforta mucho hoy.",
+          "id": "ch_v_penny_saloon_11"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Ocean waves sound soothing as gentle lullabies against wood pier posts.",
+          "es": "Las olas suenan tan dulces como nanas contra el muelle.",
+          "id": "ch_v_penny_beach_12"
+        }
+      ]
+    },
+    "Pierre": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Stepping past front counter displays gives fresh eye on local demand, {farmer}!",
+          "es": "Salir del mostrador deja ver mejor lo que busca la gente hoy, {farmer}!",
+          "id": "ch_v_pierre_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Organic homegrown produce always outshines cold boxed imports cleanly.",
+          "es": "Las cosechas frescas de aqui siempre superan cualquier caja de fuera.",
+          "id": "ch_v_pierre_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Remember—stock up seed boxes early before sunny seasons flip!",
+          "es": "Acuerdate—abastece semillas con tiempo antes del cambio de estacion!",
+          "id": "ch_v_pierre_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 28,
+          "en": "Just hope Morris isn't slipping green coupons into folks' coat pockets again.",
+          "es": "Espero que Morris no este metiendo cupones verdes en bolsillos ajenos.",
+          "id": "ch_v_pierre_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Wet soil makes fresh parsnip seeds sprout wildly quick!",
+          "es": "Tierra mojada hace brotar semillas al doble de velocidad!",
+          "id": "ch_v_pierre_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 28,
+          "en": "Winter seed sales crawl slow—good time polishing counter jars.",
+          "es": "Ventas lentas en invierno—buen rato para pulir estantes.",
+          "id": "ch_v_pierre_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Counting registers neatly before warm Caroline supper awaits!",
+          "es": "Cerrando caja limpio antes de cenar calentito en casa!",
+          "id": "ch_v_pierre_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Finest golden harvest display in the county grows right across {farm}, {farmer}!",
+          "es": "La mejor exhibicion de cosecha de toda la comarca nace en {farm}, {farmer}!",
+          "id": "ch_v_pierre_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Relaxing after weekly inventory tally tastes mighty well earned!",
+          "es": "Descansar tras el inventario semanal sabe a gloria!",
+          "id": "ch_v_pierre_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Sea breeze wakes appetite—hope Gus stocked calamari!",
+          "es": "La brisa abre apetito—espero que Gus tenga calamares!",
+          "id": "ch_v_pierre_beach_10"
+        }
+      ]
+    },
+    "Robin": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Smell crisp cedar sap in morning timber air? Beats coffee cleanly, {farmer}!",
+          "es": "Hueles a savia fresca de cedro? Le gana al cafe por goleada, {farmer}!",
+          "id": "ch_v_robin_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Check out solid stone mortaring along those old valley bridges.",
+          "es": "Mira que buen trabajo de canteria aguantan esos viejos puentes.",
+          "id": "ch_v_robin_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Always ready sketching barn upgrades whenever ideas hit!",
+          "es": "Siempre lista para disenar mejoras de granero en cuanto surjan!",
+          "id": "ch_v_robin_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Sawdust curls still sticking neatly onto my red flannel cuffs!",
+          "es": "Virutas de madera pegadas todavia en los punos de mi camisa!",
+          "id": "ch_v_robin_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Rain keeps outdoor roof framing paused—more workshop lathe time!",
+          "es": "La lluvia frena tejados—mas tiempo en el torno del taller!",
+          "id": "ch_v_robin_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Crisp dry cold seasons hardwood cleanly in open sheds!",
+          "es": "El frio seco cura de maravilla las maderas nobles.",
+          "id": "ch_v_robin_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Dusk workshop lantern glow feels peaceful above mountain lake.",
+          "es": "La luz del taller al anochecer brilla tranquila junto al lago.",
+          "id": "ch_v_robin_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Built every sturdy beam around {farm} to outlast storms nicely, {farmer}!",
+          "es": "Cada viga de {farm} fue armada para durar siglos, {farmer}!",
+          "id": "ch_v_robin_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Dancing Fridays clears carpentry kinks cleaner than stretching!",
+          "es": "Bailar los viernes quita rigidez mejor que estirar!",
+          "id": "ch_v_robin_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Eyeing thick driftwood posts—could plane clean cabin trim easily.",
+          "es": "Viendo esos troncos marinos—saldrian molduras preciosas.",
+          "id": "ch_v_robin_beach_10"
+        }
+      ]
+    },
+    "Sam": {
+      "companion_stroll": [
+        {
+          "emote": 56,
+          "en": "Got an upbeat guitar hook bouncing nonstop in my head today, {farmer}!",
+          "es": "Tengo un ritmo buenisimo de guitarra rebotando en la cabeza hoy, {farmer}!",
+          "id": "ch_v_sam_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Smooth pavement near town plaza practically begs for fast skate tricks!",
+          "es": "El suelo liso de la plaza pide trucos en patineta a gritos!",
+          "id": "ch_v_sam_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Awesome hanging out exploring without worrying about clock bells.",
+          "es": "Genial pasear explorando sin mirar el reloj ni horarios.",
+          "id": "ch_v_sam_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Hoping Vincent saved clean doodles on refrigerator magnet door!",
+          "es": "Ojalá Vincent no pegue mas dibujos sobre mis partituras!",
+          "id": "ch_v_sam_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Rain wrecks skateboard bearings instantly—indoor bass practice day!",
+          "es": "La lluvia arruina los rodamientos—toca ensayar bajo bajo techo!",
+          "id": "ch_v_sam_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Snowball ambush practice sharpens rhythm reflexes nicely!",
+          "es": "Guerra de bolas de nieve afina los reflejos de maravilla!",
+          "id": "ch_v_sam_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 56,
+          "en": "Evening streetlight hum sounds cool under acoustic chords!",
+          "es": "Las farolas de noche suenan geniales acompanando acordes!",
+          "id": "ch_v_sam_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Space round {farm} would hold an epic outdoor concert stage, {farmer}!",
+          "es": "En {farm} cabria un escenario epico al aire libre, {farmer}!",
+          "id": "ch_v_sam_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Snooker table, sodas, and loud jukebox—best corner in town!",
+          "es": "Mesa de billar, refrescos y rocola—el mejor rincon del pueblo!",
+          "id": "ch_v_sam_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Sea spray keeps hair wild spikes effortlessly!",
+          "es": "La brisa marina levanta pinchos en el pelo sin esfuerzo!",
+          "id": "ch_v_sam_beach_10"
+        }
+      ]
+    },
+    "Sandy": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Oooh, cool valley shade feels downright luxurious compared to desert sun, {farmer}!",
+          "es": "Oooh, esta sombra fresca del valle es un lujo frente al sol del desierto, {farmer}!",
+          "id": "ch_v_sandy_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Wild meadow blossoms smell so sweet compared to prickly pears!",
+          "es": "Las flores del prado huelen tan dulces frente a los nopales!",
+          "id": "ch_v_sandy_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Always sparkling company exploring far past Oasis doors with you!",
+          "es": "Que grata compania explorar lejos de las puertas del Oasis contigo!",
+          "id": "ch_v_sandy_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 20,
+          "en": "Missing Emily's sunny smiles whenever bus schedules wait.",
+          "es": "Extrano las sonrisas de Emily cuando espero el autobus.",
+          "id": "ch_v_sandy_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 16,
+          "en": "Actual cold rain falling outdoors!! Rare magic for a desert girl!",
+          "es": "Lluvia fresca cayendo afuera!! Magia rara para alguien del desierto!",
+          "id": "ch_v_sandy_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 16,
+          "en": "Fluffy snow looks like spun white sugar everywhere!!",
+          "es": "La nieve parece azucar blanco esponjoso por todo el suelo!!",
+          "id": "ch_v_sandy_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Violet evening breeze cools nicely after golden afternoon glare.",
+          "es": "La brisa violeta refresca agusto tras el sol fuerte.",
+          "id": "ch_v_sandy_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Lush green crops all across {farm} look dreamy, sweetie!",
+          "es": "Esos cultivos tan verdes en {farm} lucen de sueno, carino!",
+          "id": "ch_v_sandy_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Sweet berry punch and cozy music lift spirits instantly!",
+          "es": "Ponche dulce de bayas y musica alegre levantan el animo al vuelo!",
+          "id": "ch_v_sandy_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Endless shimmering blue waves—almost brighter than Calico skies!",
+          "es": "Olas azules brillantes—casi mas luminosas que el cielo del desierto!",
+          "id": "ch_v_sandy_beach_10"
+        }
+      ]
+    },
+    "Sebastian": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Rare getting quiet walk outdoors with someone who doesn't fill every silence, {farmer}.",
+          "es": "Raro pasear afuera con alguien que no rompe cada silencio sin razon, {farmer}.",
+          "id": "ch_v_sebastian_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Notice small mossy stones beside stream banks? Good frog hiding spots.",
+          "es": "Ves esas piedras con musgo junto al arroyo? Escondites geniales de ranas.",
+          "id": "ch_v_sebastian_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Way better clearing my head out here than staring at code errors.",
+          "es": "Mucho mejor despejar la mente aqui que peleando con errores de codigo.",
+          "id": "ch_v_sebastian_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 28,
+          "en": "Just grabbing fresh air for ten before heading back downstairs.",
+          "es": "Solo salgo diez minutos por aire antes de bajar al sotano.",
+          "id": "ch_v_sebastian_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Gray clouds, gentle rain, zero blinding glare—best day all week.",
+          "es": "Nubes grises, lluvia suave, cero sol molesto—el mejor dia.",
+          "id": "ch_v_sebastian_rain_5"
+        },
+        {
+          "emote": 32,
+          "en": "Keep eyes peeled near grass—little green frogs love this rain.",
+          "es": "Ojo al pasto—las ranitas verdes salen encantadas con esta lluvia.",
+          "id": "ch_v_sebastian_rain_6"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Snow absorbs noisy echoes nicely; whole town turns quiet.",
+          "es": "La nieve apaga el ruido genial; todo el pueblo queda callado.",
+          "id": "ch_v_sebastian_snow_7"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Night settles crisp and cool—this is when I actually wake up.",
+          "es": "Cae la noche fresca y serena—ahora si despierto de verdad.",
+          "id": "ch_v_sebastian_evening_8"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "No noisy neighbors breathing over shoulders around {farm}—nice spot, {farmer}.",
+          "es": "Sin vecinos ruidosos encima por {farm}—buen sitio, {farmer}.",
+          "id": "ch_v_sebastian_farm_9"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Corner pool cue and curly fries keep Sam happy Friday nights.",
+          "es": "Billar en la esquina y papas rizadas mantienen feliz a Sam.",
+          "id": "ch_v_sebastian_saloon_10"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Misty evening waves rolling into dark pier posts look surreal.",
+          "es": "Olas entre neblina golpeando el muelle se ven irreales.",
+          "id": "ch_v_sebastian_beach_11"
+        }
+      ]
+    },
+    "Shane": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Look—fresh air actually beats staring at pantry stock lists, okay {farmer}?",
+          "es": "Mira—el aire fresco le gana a mirar estantes del almacen, vale {farmer}?",
+          "id": "ch_v_shane_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Hope Charlie didn't peek past fence rails while we walked out.",
+          "es": "Espero que Charlie no se escape por la cerca mientras paseamos.",
+          "id": "ch_v_shane_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Getting steady steps in outside clears heavy thoughts better than brooding.",
+          "es": "Caminar afuera despeja la cabeza mucho mejor que encerrarse.",
+          "id": "ch_v_shane_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 28,
+          "en": "Mind your own pace—trying to keep calm mornings straightforward.",
+          "es": "A tu ritmo—intentando llevar mananas tranquilas sin lios.",
+          "id": "ch_v_shane_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Gray puddle skies actually fit my mood weirdly nicely.",
+          "es": "Cielos grises con charcos encajan bien conmigo curiosamente.",
+          "id": "ch_v_shane_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 28,
+          "en": "Freezing ears out here—hope hens huddled snug inside straw.",
+          "es": "Helandose las orejas aqui afuera—espero las gallinas esten calientitas.",
+          "id": "ch_v_shane_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Pepper poppers and cold sparkling soda call cleanly past sunset.",
+          "es": "Pimientos rellenos y refresco frio llaman fuerte al anochecer.",
+          "id": "ch_v_shane_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Clean coop rows and crisp air across {farm} feel honest, {farmer}.",
+          "es": "Gallineros limpios y aire bueno en {farm} se sienten honestos, {farmer}.",
+          "id": "ch_v_shane_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Quiet stool by jukebox—just unwinding slow tonight.",
+          "es": "Taburete tranquilo junto a la rocola—solo relajando el dia hoy.",
+          "id": "ch_v_shane_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Quiet pier waves wash tired shift aches clean away.",
+          "es": "Las olas calmas del muelle borran el cansancio de la jornada.",
+          "id": "ch_v_shane_beach_10"
+        }
+      ]
+    },
+    "Vincent": {
+      "companion_stroll": [
+        {
+          "emote": 16,
+          "en": "Whoa!! Look how far that dandelion puff flew when I blew!! {farmer}!!",
+          "es": "Guau!! Mira que lejos volo ese diente de leon cuando sople!! {farmer}!!",
+          "id": "ch_v_vincent_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Are there cool treasure bugs sleeping underneath big flat logs?!",
+          "es": "Habra bichos tesoro geniales durmiendo bajo troncos planos?!",
+          "id": "ch_v_vincent_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Exploring outdoors beats spelling worksheets by a zillion times!",
+          "es": "Explorar afuera gana a las tareas de escritura por mil millones!",
+          "id": "ch_v_vincent_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Race you to bridge steps!! Ready, set, zoom!!",
+          "es": "Carrera hasta los escalones del puente!! Listos, ya!!",
+          "id": "ch_v_vincent_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Mudworms come out swimming when puddles get super deep!!",
+          "es": "Salen gusanos por todo el barro cuando crecen los charcos!!",
+          "id": "ch_v_vincent_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 16,
+          "en": "Snowball fort headquarters!! Needs ten pine branches for armor!!",
+          "es": "Cuartel de nieve!! Faltan diez ramas de pino para armadura!!",
+          "id": "ch_v_vincent_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Bat shadows swooping fast near lampposts look spooky-cool!",
+          "es": "Sombras de murcielago pasando rapido por farolas molan un monton!",
+          "id": "ch_v_vincent_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Can we pet fuzzy cows and bouncy goats across {farm}?!",
+          "es": "Podemos acariciar vacas peludas y cabras saltarinas en {farm}?!",
+          "id": "ch_v_vincent_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Strawberry pop soda fizz tickles noses fast!",
+          "es": "El refresco de fresa hace cosquillas en la nariz!",
+          "id": "ch_v_vincent_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Digging giant sand castles wide enough for crabs to move in!!",
+          "es": "Cavando castillos gigantes para que vivan cangrejos adentro!!",
+          "id": "ch_v_vincent_beach_10"
+        }
+      ]
+    },
+    "Willy": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Good sea legs handle rocky valley soil just as steady as wet planks, {farmer}.",
+          "es": "Buenas piernas marineras aguantan tierra igual de firmes que cubierta, {farmer}.",
+          "id": "ch_v_willy_companion_stroll_1"
+        },
+        {
+          "emote": 32,
+          "en": "Smell pine resin drifting? Feels crisp even to a salty old angler!",
+          "es": "Hueles a resina de pino? Se siente fresca hasta para un viejo pescador!",
+          "id": "ch_v_willy_companion_stroll_2"
+        },
+        {
+          "emote": 20,
+          "en": "Always honors an angler stepping steady paths with good mate.",
+          "es": "Siempre honra caminar buen sendero con un gran companero.",
+          "id": "ch_v_willy_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Checking tackle twine boxes before evening sea mist rolls ashore.",
+          "es": "Revisando cajas de anzuelos antes de que suba la niebla marina.",
+          "id": "ch_v_willy_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Rain awakens catfish and eel deep along river bends—prime fishing!",
+          "es": "La lluvia despierta siluros y anguilas en el rio—hora de pescar!",
+          "id": "ch_v_willy_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Cold gales bite knuckles, yet squid rise gleaming below dark swells!",
+          "es": "Frio muerde los dedos, pero brillan calamares bajo las olas!",
+          "id": "ch_v_willy_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Lantern swinging gently above dark pier echoes keeps sea spirits sweet.",
+          "es": "El farol oscilando sobre el muelle tranquilo calma las aguas.",
+          "id": "ch_v_willy_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Solid farm ponds and tidy fences across {farm}, mate!",
+          "es": "Buenos estanques y cercas firmes en {farm}, camarada!",
+          "id": "ch_v_willy_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 20,
+          "en": "Warm chowder bowl and crab tales fit Friday evenings snug!",
+          "es": "Tazon de sopa marinera y relatos de cangrejos redondean el viernes!",
+          "id": "ch_v_willy_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Aye—tide's singing sweet today; hear gull calls welcoming us home.",
+          "es": "Aye—canta dulce la marea hoy; escucha las gaviotas darnos bienvenida.",
+          "id": "ch_v_willy_beach_10"
+        }
+      ]
+    },
+    "Wizard": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Curious leylines pulse quietly beneath moss where mortals walk heedless, {farmer}.",
+          "es": "Lineas ley discretas laten bajo el musgo mientras otros caminan ajenos, {farmer}.",
+          "id": "ch_v_wizard_companion_stroll_1"
+        },
+        {
+          "emote": 20,
+          "en": "Junimo whispers linger kindly along your footsteps.",
+          "es": "Susurros de Junimos acompanan amables cada paso tuyo.",
+          "id": "ch_v_wizard_companion_stroll_2"
+        },
+        {
+          "emote": 32,
+          "en": "Rare I leave tower solitude; yet the valley rewards keen observation.",
+          "es": "Rara vez dejo la torre; mas el valle recompensa la mirada atenta.",
+          "id": "ch_v_wizard_companion_stroll_3"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Mortal festivals pass swiftly; timeless arcane currents remain watchful.",
+          "es": "Las fiestas mortales pasan rapido; las corrientes arcanas siguen atentas.",
+          "id": "ch_v_wizard_town_solo_4"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Storm clouds concentrate raw ether—delightful weather for focus.",
+          "es": "Nubes de tormenta concentran eter puro—clima sublime para meditar.",
+          "id": "ch_v_wizard_rain_5"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Frozen stillness turns valley forests into quiet crystal chambers.",
+          "es": "La quietud helada vuelve los bosques camaras cristalinas en calma.",
+          "id": "ch_v_wizard_snow_6"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Twilight awakens hidden spirits across stone circles and hollow oaks.",
+          "es": "El crepusculo despierta espiritus ocultos entre circulos de piedra.",
+          "id": "ch_v_wizard_evening_7"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Vibrant natural harmony resonates openly across {farm} soil.",
+          "es": "Vibrante armonia natural resuena abierta por la tierra de {farm}.",
+          "id": "ch_v_wizard_farm_8"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Mortal laughter glows strangely comforting amidst tavern warmth.",
+          "es": "Las risas vecinas brillan curiosamente reconfortantes aqui.",
+          "id": "ch_v_wizard_saloon_9"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Moonlit tides obey forces far older than valley towns.",
+          "es": "Mareas lunares obedecen fuerzas mucho mas viejas que el pueblo.",
+          "id": "ch_v_wizard_beach_10"
+        }
+      ]
+    }
+  },
+  "archetypes": {
+    "warm": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "What a gentle afternoon for strolling beside you, {farmer}.",
+          "es": "Que tarde tan agradable para pasear contigo, {farmer}.",
+          "id": "ch_a_warm_companion_stroll_1"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Always feels good seeing friendly faces out around town.",
+          "es": "Siempre da gusto ver caras amables paseando por el pueblo.",
+          "id": "ch_a_warm_town_solo_2"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Soft rain makes warm tea indoors feel extra sweet.",
+          "es": "La lluvia suave vuelve el te caliente el doble de dulce.",
+          "id": "ch_a_warm_rain_3"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Bundled up warm against crisp white snow!",
+          "es": "Bien abrigado frente a la nieve limpia!",
+          "id": "ch_a_warm_snow_4"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Golden dusk calms the valley peacefully.",
+          "es": "El ocaso dorado calma el valle en paz.",
+          "id": "ch_a_warm_evening_5"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "{farm} looks lovelier every season, {farmer}!",
+          "es": "{farm} luce mas linda cada estacion, {farmer}!",
+          "id": "ch_a_warm_farm_6"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Cozy fire and kind company win tonight!",
+          "es": "Buen fuego y amable compania ganan hoy!",
+          "id": "ch_a_warm_saloon_7"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Salt ocean breeze rests weary minds wonderfully.",
+          "es": "La brisa marina relaja la mente de maravilla.",
+          "id": "ch_a_warm_beach_8"
+        }
+      ]
+    },
+    "cheerful": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Awesome energy out on the trails today, {farmer}!",
+          "es": "Energia genial hoy por los senderos, {farmer}!",
+          "id": "ch_a_cheerful_companion_stroll_1"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 20,
+          "en": "Whole valley looks extra lively and bright today!",
+          "es": "Todo el valle luce extra alegre y luminoso hoy!",
+          "id": "ch_a_cheerful_town_solo_2"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 32,
+          "en": "Splashy puddles keep afternoon steps playful!",
+          "es": "Los charcos mantienen divertido el paseo!",
+          "id": "ch_a_cheerful_rain_3"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 20,
+          "en": "Crisp frosty air wakes everybody smiling!",
+          "es": "El aire fresco despierta sonrisas!",
+          "id": "ch_a_cheerful_snow_4"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Lantern lights flickering on—great evening ahead!",
+          "es": "Faroles encendidos—gran noche por delante!",
+          "id": "ch_a_cheerful_evening_5"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Busy thriving fields over at {farm}!",
+          "es": "Campos llenos de vida por {farm}!",
+          "id": "ch_a_cheerful_farm_6"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 56,
+          "en": "Music and good snacks never fail!",
+          "es": "Musica y buen bocado nunca fallan!",
+          "id": "ch_a_cheerful_saloon_7"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Shining sunny waves—best spot in Stardew!",
+          "es": "Olas soleadas—el mejor rincon del valle!",
+          "id": "ch_a_cheerful_beach_8"
+        }
+      ]
+    },
+    "reserved": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Quiet company suits open trails nicely, {farmer}.",
+          "es": "La compania serena sienta bien en caminos abiertos, {farmer}.",
+          "id": "ch_a_reserved_companion_stroll_1"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Taking calm unhurried steps around town.",
+          "es": "Caminando tranquilo sin prisa por el pueblo.",
+          "id": "ch_a_reserved_town_solo_2"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Quiet drumming rain cools busy noise nicely.",
+          "es": "La lluvia calma apacigua el ruido del dia.",
+          "id": "ch_a_reserved_rain_3"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Silent snow brings welcome calm stillness.",
+          "es": "La nieve silenciosa trae grata quietud.",
+          "id": "ch_a_reserved_snow_4"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Twilight shadows soften sharp edges peacefully.",
+          "es": "El crepusculo suaviza el mundo en paz.",
+          "id": "ch_a_reserved_evening_5"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Peaceful steady atmosphere across {farm}.",
+          "es": "Ambiente tranquilo y firme en {farm}.",
+          "id": "ch_a_reserved_farm_6"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Corner table away from noise suits fine.",
+          "es": "Una mesa tranquila en el rincon basta.",
+          "id": "ch_a_reserved_saloon_7"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Calm rolling ocean clears cluttered thoughts.",
+          "es": "El oleaje constante despeja la mente.",
+          "id": "ch_a_reserved_beach_8"
+        }
+      ]
+    },
+    "practical": {
+      "companion_stroll": [
+        {
+          "emote": 32,
+          "en": "Good steady stride covers ground cleanly, {farmer}.",
+          "es": "Buen paso constante rinde camino limpio, {farmer}.",
+          "id": "ch_a_practical_companion_stroll_1"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Finishing afternoon errands while sun stays up.",
+          "es": "Acabando recados antes de que caiga el sol.",
+          "id": "ch_a_practical_town_solo_2"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 28,
+          "en": "Rain slows outdoor work, yet gardens appreciate soaking.",
+          "es": "La lluvia frena faenas, pero la tierra agradece el agua.",
+          "id": "ch_a_practical_rain_3"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 32,
+          "en": "Bundle sleeves tight against biting frost winds.",
+          "es": "Bien abrigados frente al viento helado.",
+          "id": "ch_a_practical_snow_4"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 32,
+          "en": "Wrapping chores up smoothly before nightfall.",
+          "es": "Cerrando tareas en orden antes de oscurecer.",
+          "id": "ch_a_practical_evening_5"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Orderly tidy work showing across {farm}!",
+          "es": "Buen orden y trabajo se nota en {farm}!",
+          "id": "ch_a_practical_farm_6"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Honest meal after long day beats everything.",
+          "es": "Cena honesta tras jornada larga supera todo.",
+          "id": "ch_a_practical_saloon_7"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 32,
+          "en": "Steady tides remind every worker of rhythm.",
+          "es": "Mareas firmes recuerdan el buen ritmo diario.",
+          "id": "ch_a_practical_beach_8"
+        }
+      ]
+    },
+    "child_playful": {
+      "companion_stroll": [
+        {
+          "emote": 20,
+          "en": "Ooh, look how shiny bugs and petals dance along path, {farmer}!",
+          "es": "Ooh, mira que bonitos saltan bichitos y flores por el camino, {farmer}!",
+          "id": "ch_a_child_playful_companion_stroll_1"
+        }
+      ],
+      "town_solo": [
+        {
+          "emote": 32,
+          "en": "Hopping over crack lines all the way down square!",
+          "es": "Saltando sin pisar rayas por toda la plaza!",
+          "id": "ch_a_child_playful_town_solo_2"
+        }
+      ],
+      "rain": [
+        {
+          "emote": 20,
+          "en": "Splash! Splash! Deep muddy puddle champion!",
+          "es": "Chof! Chof! Campeon de charcos profundos!",
+          "id": "ch_a_child_playful_rain_3"
+        }
+      ],
+      "snow": [
+        {
+          "emote": 16,
+          "en": "Snowflakes landing gently right on nose tip!!",
+          "es": "Copos cayendo suaves justo en la punta de la nariz!!",
+          "id": "ch_a_child_playful_snow_4"
+        }
+      ],
+      "evening": [
+        {
+          "emote": 20,
+          "en": "Early glowing fireflies winking near grass!",
+          "es": "Luciernagas tempranas guiñando entre la hierba!",
+          "id": "ch_a_child_playful_evening_5"
+        }
+      ],
+      "farm": [
+        {
+          "emote": 20,
+          "en": "Yay! Friendly animals everywhere on {farm}!",
+          "es": "Siii! Animalitos simpaticos por todo {farm}!",
+          "id": "ch_a_child_playful_farm_6"
+        }
+      ],
+      "saloon": [
+        {
+          "emote": 32,
+          "en": "Warm sweet snacks smell delicious here!",
+          "es": "Los dulces tibios huelen riquisimo aqui!",
+          "id": "ch_a_child_playful_saloon_7"
+        }
+      ],
+      "beach": [
+        {
+          "emote": 20,
+          "en": "Shiny ocean shells hiding under foam!!",
+          "es": "Conchitas brillantes escondidas bajo la espuma!!",
+          "id": "ch_a_child_playful_beach_8"
+        }
+      ]
+    }
+  }
+}

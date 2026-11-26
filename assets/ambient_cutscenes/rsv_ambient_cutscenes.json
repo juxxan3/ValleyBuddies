@@ -1,0 +1,1087 @@
+{
+  "Scenes": [
+    {
+      "Id": "rsv_flor_pelican_reading",
+      "Locations": [
+        "ArchaeologyHouse",
+        "Town"
+      ],
+      "RequiredActors": [
+        "Flor",
+        "Penny"
+      ],
+      "OptionalActors": [
+        "Jas",
+        "Vincent",
+        "Leo"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1700,
+      "Scripts": [
+        {
+          "Id": "rsv_flor_01",
+          "NoticeFarmer": false,
+          "Music": "libraryTheme",
+          "Lines": [
+            {
+              "Speaker": "Flor",
+              "En": "Penny, I love how you pair counting blocks with short picture stories!",
+              "Es": "Penny, ¡me encanta cómo combinas bloques de conteo con cuentitos ilustrados!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Penny",
+              "En": "It keeps the kids curious! And your Ridgeside folk-story cards worked wonders too.",
+              "Es": "¡Mantiene curiosos a los niños! Y tus tarjetas de cuentos de Ridgeside funcionaron genial.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Flor",
+              "En": "Teaching together makes every morning fly right by!",
+              "Es": "¡Enseñar juntas hace que cada mañana pase volando!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Pelican Town and Ridgeside make wonderful classroom partners.",
+              "Es": "Pueblo Pelícano y Ridgeside hacen un equipo escolar maravilloso.",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "rsv_flor_02",
+          "NoticeFarmer": false,
+          "Music": "libraryTheme",
+          "Lines": [
+            {
+              "Speaker": "Flor",
+              "En": "'And so the brave mountain hare leaped over the crystal waterfall with—'!",
+              "Es": "'¡Y entonces la valiente liebre saltó sobre la cascada de cristal con—'!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Haha! Look at how captivated everyone gets when you do the dramatic voices, Flor!",
+              "Es": "¡Jaja! ¡Mira qué atrapados quedan todos cuando haces las voces dramáticas, Flor!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Flor",
+              "En": "Oh! Oops—did I get carried away reading out loud again?",
+              "Es": "¡Oh! Ups... ¿me volví a emocionar demasiado leyendo en voz alta?",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Never apologize for bringing stories alive! They adore it!",
+              "Es": "¡Nunca pidas perdón por dar vida a los libros! ¡Les fascina!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "rsv_flor_03",
+          "NoticeFarmer": false,
+          "Music": "libraryTheme",
+          "Lines": [
+            {
+              "Speaker": "Penny",
+              "En": "Wait—I could've sworn the illustrated botanical atlas was on the top shelf...",
+              "Es": "Espera... juraría que el atlas botánico ilustrado estaba en el estante de arriba...",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Flor",
+              "En": "Ooh! Is it the green clothbound one? I tucked it on the reading cart by mistake!",
+              "Es": "¡Ohh! ¿El de tapa verde de tela? ¡Lo dejé en el carrito de lectura sin querer!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Mystery solved! My neck thanks you for saving me from climbing the stool.",
+              "Es": "¡Misterio resuelto! Mi cuello agradece que no haya tenido que subir al banco.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Flor",
+              "En": "Teamwork between teachers strikes again!",
+              "Es": "¡El trabajo en equipo de maestras ataca de nuevo!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "rsv_flor_04",
+          "NoticeFarmer": true,
+          "Music": "libraryTheme",
+          "Lines": [
+            {
+              "Speaker": "Flor",
+              "En": "Hmm, we need a fresh study theme for tomorrow's lesson...",
+              "Es": "Mmm, necesitamos un tema nuevo para la clase de mañana...",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Oh! Look—{farmer} just walked by!",
+              "Es": "¡Oh! ¡Mira, {farmer} acaba de llegar!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Flor",
+              "En": "Perfect! Let's ask an expert!",
+              "Es": "¡Perfecto! ¡Preguntemos a alguien que sabe!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Flor",
+            "IntroEn": "Hi {farmer}! Penny and I are planning tomorrow's lesson—what topic would delight the kids most?",
+            "IntroEs": "¡Hola {farmer}! Penny y yo planeamos la clase de mañana... ¿qué tema entusiasmaría más a los niños?",
+            "Opt1En": "How farm seasons and wildflowers grow!",
+            "Opt1Es": "¡Cómo cambian los cultivos y flores del valle!",
+            "Opt2En": "Mysteries of deep caves and ancient fossils!",
+            "Opt2Es": "¡Misterios de cuevas profundas y fósiles antiguos!",
+            "Reply1Speaker": "Penny",
+            "Reply1En": "Ooh, farm ecology is right outside our windows! Wonderful choice, {farmer}!",
+            "Reply1Es": "¡Ohh, ecología del campo está justo frente a nosotros! ¡Gran idea, {farmer}!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Flor",
+            "Reply2En": "Fossils and ancient rocks!! The kids' eyes will light up like lanterns!",
+            "Reply2Es": "¡¡Fósiles y rocas antiguas!! ¡Les van a brillar los ojos como faroles!",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "rsv_flor_05",
+          "NoticeFarmer": true,
+          "Music": "libraryTheme",
+          "Lines": [
+            {
+              "Speaker": "Penny",
+              "En": "Setting up our little reading circle feels so warm and inviting.",
+              "Es": "Preparar nuestro rincón de lectura se siente tan acogedor.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Flor",
+              "En": "Oh, {farmer}! Come help pick today's story!",
+              "Es": "¡Oh, {farmer}! ¡Ven a ayudarnos a elegir el cuento de hoy!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Penny",
+              "En": "Yes! Guests always bring the best book luck!",
+              "Es": "¡Sí! ¡Los invitados siempre traen la mejor suerte lectora!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Penny",
+            "IntroEn": "Welcome to our reading club, {farmer}! Which storybook sounds best today?",
+            "IntroEs": "¡Bienvenido al club de lectura, {farmer}! ¿Qué libro suena mejor para hoy?",
+            "Opt1En": "A mountain adventure across Ridgeside!",
+            "Opt1Es": "¡Una aventura por las montañas de Ridgeside!",
+            "Opt2En": "Cozy tales of friendly valley critters!",
+            "Opt2Es": "¡Cuentos tiernos sobre animalitos del valle!",
+            "Reply1Speaker": "Flor",
+            "Reply1En": "Ooh, mountain adventures are full of heart! Great pick, {farmer}!",
+            "Reply1Es": "¡Ohh, las aventuras de montaña tienen muchísimo corazón! ¡Buen tino, {farmer}!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Penny",
+            "Reply2En": "Cozy animal tales never fail to bring smiles! Thank you, {farmer}!",
+            "Reply2Es": "¡Los cuentos tiernos de animalitos siempre sacan sonrisas! ¡Gracias, {farmer}!",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": "rsv_pika_kitchen_music",
+      "Locations": [
+        "Custom_Ridgeside_PikaRestaurant",
+        "Custom_Ridgeside_RidgesideVillage"
+      ],
+      "RequiredActors": [
+        "Pika",
+        "June"
+      ],
+      "OptionalActors": [
+        "Keahi",
+        "Alissa",
+        "Ysabelle"
+      ],
+      "MinTime": 1000,
+      "MaxTime": 2100,
+      "Scripts": [
+        {
+          "Id": "rsv_pika_01",
+          "NoticeFarmer": false,
+          "Music": "Saloon1",
+          "Lines": [
+            {
+              "Speaker": "June",
+              "En": "Hm-hmm-hm~ soft piano waltz beats go nicely with chopping, don't they, Pika?",
+              "Es": "Hm-hmm-hm~ los compases suaves de piano van geniales para picar ingredientes, ¿no, Pika?",
+              "PauseMs": 250,
+              "Emote": 56,
+              "Sound": "flute"
+            },
+            {
+              "Speaker": "Pika",
+              "En": "Whoa, hold on! Watch how fast my ladle stirs when you hit that bright key change!",
+              "Es": "¡Ey, espera! ¡Mira qué rápido gira mi cucharón cuando subes esa nota alegre!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "June",
+              "En": "Haha! Culinary percussion meets melody!",
+              "Es": "¡Jaja! ¡Percusión culinaria combinada con melodía!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Pika",
+              "En": "Music makes every dish taste ten times warmer, June!",
+              "Es": "¡La música hace que cada plato sepa diez veces más cálido, June!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_pika_02",
+          "NoticeFarmer": false,
+          "Music": "Saloon1",
+          "Lines": [
+            {
+              "Speaker": "Pika",
+              "En": "Alright, June, honest verdict on this new garlic-basil mountain skillet...",
+              "Es": "Muy bien, June, veredicto honesto sobre esta nueva sartén de ajo y albahaca...",
+              "PauseMs": 250,
+              "Emote": 8,
+              "Sound": "gulp"
+            },
+            {
+              "Speaker": "June",
+              "En": "Mm... oh! The toasted pine nuts give it such a comforting crunch!",
+              "Es": "Mm... ¡oh! ¡Los piñones tostados le dan un crujido tan reconfortante!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Pika",
+              "En": "Ha! Straight onto tonight's Ridgeside specials board!",
+              "Es": "¡Ja! ¡Directo al pizarrón de especiales de esta noche!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "June",
+              "En": "That's going to sell out before seven o'clock!",
+              "Es": "¡Eso se va a agotar antes de las siete!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_pika_03",
+          "NoticeFarmer": false,
+          "Music": "Saloon1",
+          "Lines": [
+            {
+              "Speaker": "June",
+              "En": "Should tonight's dinner ambiance lean toward jazzy chords or dreamy nocturnal strings?",
+              "Es": "¿El ambiente de la cena de hoy debería ir hacia acordes alegres o cuerdas suaves nocturnas?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Pika",
+              "En": "Start mellow while soup warms the soul, then pick up tempo once desserts roll out!",
+              "Es": "¡Empieza suave mientras la sopa abraza el alma, y sube el ritmo cuando salgan los postres!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "June",
+              "En": "A two-act culinary score! Spoken like a true maestro of flavor.",
+              "Es": "¡Una partitura culinaria en dos actos! Hablas como todo un maestro del sabor.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Pika",
+              "En": "Good food and good music always share the same heart!",
+              "Es": "¡La buena comida y la buena música siempre comparten el mismo corazón!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_pika_04",
+          "NoticeFarmer": true,
+          "Music": "Saloon1",
+          "Lines": [
+            {
+              "Speaker": "Pika",
+              "En": "Kitchen's humming along nicely today—herb aroma's filling the whole room!",
+              "Es": "La cocina va marchando de maravilla hoy... ¡el aroma a hierbas llena todo el salón!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "June",
+              "En": "Look who wandered up to Ridgeside! Hello, {farmer}!",
+              "Es": "¡Mira quién subió a Ridgeside! ¡Hola, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Pika",
+              "En": "Right in time for a warm welcome!",
+              "Es": "¡Justo a tiempo para una cálida bienvenida!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Pika",
+            "IntroEn": "Hey there, {farmer}! What kind of bold flavor sounds irresistible to you today?",
+            "IntroEs": "¡Buenas, {farmer}! ¿Qué tipo de sabor se te antoja muchísimo hoy?",
+            "Opt1En": "Savory roasted herbs and sizzling skillet food!",
+            "Opt1Es": "¡Hierbas saladas asadas y plato caliente de sartén!",
+            "Opt2En": "Sweet glazed fruit pastries straight from the oven!",
+            "Opt2Es": "¡Panecillos glaseados con fruta recién horneados!",
+            "Reply1Speaker": "Pika",
+            "Reply1En": "My kind of appetite! Nothing beats savory skillet magic, {farmer}!",
+            "Reply1Es": "¡Ese sí es buen apetito! ¡Nada supera la magia de la sartén, {farmer}!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "June",
+            "Reply2En": "Sweet pastries pair wonderfully with evening tea—lovely choice, {farmer}!",
+            "Reply2Es": "¡Los panecillos dulces combinan precioso con el té de la tarde, {farmer}!",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "rsv_pika_05",
+          "NoticeFarmer": true,
+          "Music": "Saloon1",
+          "Lines": [
+            {
+              "Speaker": "June",
+              "En": "I'm sketching a soft dinner melody in my notebook between courses.",
+              "Es": "Estoy anotando una melodía suave de cena en mi libreta entre platillos.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Pika",
+              "En": "Hey, {farmer} just walked in—let's ask our dinner critic!",
+              "Es": "¡Ey, acaba de llegar {farmer}... preguntemos a nuestro crítico!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "June",
+              "En": "Oh, wonderful idea!",
+              "Es": "¡Oh, maravillosa idea!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "June",
+            "IntroEn": "Good to see you, {farmer}! Do you enjoy tranquil melodies or upbeat rhythms while dining?",
+            "IntroEs": "¡Qué gusto verte, {farmer}! ¿Prefieres melodías tranquilas o ritmos alegres al cenar?",
+            "Opt1En": "Calm gentle piano—pure evening peace!",
+            "Opt1Es": "¡Piano suave y tranquilo... pura paz nocturna!",
+            "Opt2En": "Lively upbeat tunes that make the room smile!",
+            "Opt2Es": "¡Ritmos alegres que hagan sonreír a todo el lugar!",
+            "Reply1Speaker": "June",
+            "Reply1En": "Gentle evening peace—I'll compose something serene just like that, {farmer}.",
+            "Reply1Es": "Paz nocturna y serena... compondré algo justo así, {farmer}.",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Pika",
+            "Reply2En": "Haha, lively dinner tunes keep the kitchen dancing too, {farmer}!",
+            "Reply2Es": "¡Jaja, los ritmos alegres hacen bailar hasta a la cocina, {farmer}!",
+            "Reply2Emote": 32
+          }
+        }
+      ]
+    },
+    {
+      "Id": "rsv_oddjobs_inventions",
+      "Locations": [
+        "Custom_Ridgeside_OddJobs",
+        "Custom_Ridgeside_RidgesideVillage"
+      ],
+      "RequiredActors": [
+        "Ian",
+        "Kenneth"
+      ],
+      "OptionalActors": [
+        "Maddie",
+        "Philip"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1800,
+      "Scripts": [
+        {
+          "Id": "rsv_odd_01",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Ian",
+              "En": "Okay, flip switch three—behold the Auto-Shingle-Aligner 3000!!",
+              "Es": "¡Listo, activa el interruptor tres... contempla el Alineador Automático 3000!!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Sound": "hammer"
+            },
+            {
+              "Speaker": "Kenneth",
+              "En": "Uh... Ian, it just gently puffed glitter and spun backwards.",
+              "Es": "Eh... Ian, solo soltó una chispita inofensiva y giró al revés.",
+              "PauseMs": 250,
+              "Emote": 28,
+              "Jump": true
+            },
+            {
+              "Speaker": "Ian",
+              "En": "...Prototype stage! Every revolutionary device starts with dramatic backwards spinning!",
+              "Es": "...¡Fase prototipo! ¡Todo invento revolucionario empieza girando Dramáticamente al revés!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Kenneth",
+              "En": "Haha, let's tweak gear four before we demo it for the neighbors.",
+              "Es": "Jaja, ajustemos el engrane cuatro antes de mostrárselo a los vecinos.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_odd_02",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Kenneth",
+              "En": "Brass gears transfer torque cleanly, Ian—you can't fix every hinge with silver tape!",
+              "Es": "Los engranes de latón transmiten mejor la fuerza, Ian... ¡no todo se arregla con cinta gris!",
+              "PauseMs": 250,
+              "Emote": 12
+            },
+            {
+              "Speaker": "Ian",
+              "En": "Hey, silver tape held half of Ridgeside's mailboxes upright through two winter gales!",
+              "Es": "¡Oye, la cinta gris sostuvo medio pueblo de pie durante dos ventiscas de invierno!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Kenneth",
+              "En": "True, true... fine: brass gears inside, tactical tape outside?",
+              "Es": "Cierto, cierto... trato hecho: ¿engranes por dentro y cinta táctica por fuera?",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Ian",
+              "En": "Now you're talking peak OddJobs engineering!",
+              "Es": "¡Ahora sí hablas verdadera ingeniería OddJobs!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "rsv_odd_03",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Ian",
+              "En": "Kenneth, seriously, who borrowed my lucky twelve-millimeter wrench?! Checked the whole desk!",
+              "Es": "Kenneth, en serio, ¿quién tomó mi llave de doce milímetros?! ¡Ya busqué por toda la mesa!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Kenneth",
+              "En": "...Ian. Look at your own left hand.",
+              "Es": "...Ian. Mírate la mano izquierda.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Ian",
+              "En": "Oh!! Hahaha—testing ergonomic grip balance! Obviously!",
+              "Es": "¡¡Oh!! Jajaja... ¡probaba el agarre ergonómico! ¡Obviamente!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Kenneth",
+              "En": "Sure you were, buddy. Sure you were.",
+              "Es": "Claro que sí, amigo. Claro que sí.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_odd_04",
+          "NoticeFarmer": true,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Ian",
+              "En": "Device Mark Four is ninety-nine percent calibrated—just needs one brave tester!",
+              "Es": "¡El invento Cuatro está calibrado al noventa y nueve... solo falta un valiente!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Kenneth",
+              "En": "Hey, look—{farmer} is right here!",
+              "Es": "¡Ey, mira... {farmer} está justo aquí!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Ian",
+              "En": "Oh, awesome!!",
+              "Es": "¡¡Oh, genial!!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Ian",
+            "IntroEn": "Yo, {farmer}! Wanna be our honorary volunteer tester for the Auto-Herb-Duster?",
+            "IntroEs": "¡Ey, {farmer}! ¿Quieres ser nuestro voluntario de honor para probar el Sacudidor Automático?",
+            "Opt1En": "Count me in—what's the worst a gentle breeze can do?",
+            "Opt1Es": "¡Me apunto! ¿Qué es lo peor que puede hacer un poco de aire?",
+            "Opt2En": "I'll supervise safely from three paces back!",
+            "Opt2Es": "¡Mejor superviso desde tres pasos atrás por si acaso!",
+            "Reply1Speaker": "Ian",
+            "Reply1En": "HA!! Fearless pioneer spirit! Let's fire her up—right after breakfast!",
+            "Reply1Es": "¡¡JA!! ¡Espíritu pionero sin miedo! ¡La encendemos justo después de almorzar!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Kenneth",
+            "Reply2En": "Wise distance, {farmer}. Half my eyebrows still remember Prototype One.",
+            "Reply2Es": "Distancia sabia, {farmer}. Mis cejas aún recuerdan el Prototipo Uno.",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "rsv_odd_05",
+          "NoticeFarmer": true,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Kenneth",
+              "En": "Fence latches take a real beating whenever storms roll off the cliff.",
+              "Es": "Los pestillos de las cercas sufren mucho cuando bajan tormentas por el acantilado.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Ian",
+              "En": "Hey, {farmer} fixes fences on {farm} constantly—let's ask a real field pro!",
+              "Es": "¡Ey, {farmer} repara cercas en {farm} todo el tiempo! ¡Preguntemos a alguien con experiencia!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Kenneth",
+              "En": "Good call! Hey {farmer}!",
+              "Es": "¡Buen punto! ¡Ey {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Kenneth",
+            "IntroEn": "Hey {farmer}! On {farm}, what wears down faster—wooden fence posts or barn door hinges?",
+            "IntroEs": "¡Ey {farmer}! En {farm}, ¿qué se desgasta antes: los postes de madera o las bisagras del establo?",
+            "Opt1En": "Wooden posts—sun and rain test them daily!",
+            "Opt1Es": "¡Los postes de madera: el sol y la lluvia los castigan diario!",
+            "Opt2En": "Barn hinges—animals push them nonstop!",
+            "Opt2Es": "¡Las bisagras del establo: los animales no paran de empujar!",
+            "Reply1Speaker": "Kenneth",
+            "Reply1En": "Ha! Hardwood sealants save posts years of wear—great observation, {farmer}.",
+            "Reply1Es": "¡Ja! Un buen sellador de madera salva años de desgaste. Gran ojo, {farmer}.",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "Ian",
+            "Reply2En": "Ooh! Spring-loaded barn hinges—new OddJobs blueprint unlocked!!",
+            "Reply2Es": "¡Ohh! ¡¡Bisagras con resorte para establo... nuevo plano desbloqueado!!",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": "rsv_kids_prank_squad",
+      "Locations": [
+        "Custom_Ridgeside_RidgesideVillage",
+        "Town"
+      ],
+      "RequiredActors": [
+        "Keahi",
+        "Trinnie"
+      ],
+      "OptionalActors": [
+        "Yuuma",
+        "Louie",
+        "Vincent",
+        "Jas"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1730,
+      "Scripts": [
+        {
+          "Id": "rsv_kid_01",
+          "NoticeFarmer": false,
+          "Music": "playful",
+          "Lines": [
+            {
+              "Speaker": "Keahi",
+              "En": "Psst, Trinnie! If we balance one rubber frog on Lenny's mailbox, nobody gets hurt AND everyone laughs!",
+              "Es": "¡Psst, Trinnie! Si ponemos una rana de goma en el buzón, nadie sale herido ¡y todos ríen!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Trinnie",
+              "En": "Keahi, last time you used a spring-loaded frog it bounced straight into Pika's soup window!",
+              "Es": "Keahi, ¡la última vez tu rana con resorte saltó directo hacia la ventana de Pika!",
+              "PauseMs": 250,
+              "Emote": 12
+            },
+            {
+              "Speaker": "Keahi",
+              "En": "Okay, okay—NO springs this time! Pure static frog comedy!",
+              "Es": "¡Vale, vale... SIN resortes esta vez! ¡Comedia estática de rana!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Trinnie",
+              "En": "Hmm... fine, as long as we pick it up right after she laughs!",
+              "Es": "Mmm... bueno, ¡pero solo si la recogemos justo después de que se ría!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_kid_02",
+          "NoticeFarmer": false,
+          "Music": "playful",
+          "Lines": [
+            {
+              "Speaker": "Keahi",
+              "En": "Bet I can guess why grownups always groan when they stand up from porch chairs!",
+              "Es": "¡Apuesto a que sé por qué los adultos siempre gruñen al levantarse de la silla!",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Trinnie",
+              "En": "Because they carry heavy groceries and forgot to stretch?",
+              "Es": "¿Porque cargan bolsas pesadas y olvidan estirar?",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Keahi",
+              "En": "No! It's secret adult Morse code for 'time to bake cookies'!",
+              "Es": "¡No! ¡Es código secreto de adultos para decir 'hora de hornear galletas'!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "Trinnie",
+              "En": "Hahaha! Tell that to Uncle Richard next time!",
+              "Es": "¡Jajaja! ¡Díselo al tío Richard la próxima vez!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_kid_03",
+          "NoticeFarmer": false,
+          "Music": "playful",
+          "Lines": [
+            {
+              "Speaker": "Trinnie",
+              "En": "Check out this sparkling river pebble—it shines green in the shade!",
+              "Es": "¡Mira esta piedrita brillante del río... brilla verde en la sombra!",
+              "PauseMs": 250,
+              "Emote": 20,
+              "Sound": "crystal"
+            },
+            {
+              "Speaker": "Keahi",
+              "En": "Whoa!! Put it inside our ultra-secret treasure tin with the shiny bottle caps!",
+              "Es": "¡¡Guau!! ¡Guárdala en nuestra caja súper secreta del tesoro con las corcholatas brillantes!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Trinnie",
+              "En": "Deal! Only official Explorers' Squad members know the secret pine root spot.",
+              "Es": "¡Trato! Solo miembros oficiales del Escuadrón conocen ese escondite junto al pino.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Keahi",
+              "En": "Top clearance level!",
+              "Es": "¡Nivel máximo de secreto!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_kid_04",
+          "NoticeFarmer": true,
+          "Music": "playful",
+          "Lines": [
+            {
+              "Speaker": "Keahi",
+              "En": "Shh! Keep the rubber spider hidden behind my back...",
+              "Es": "¡Chist! Esconde la araña de juguete detrás de mí...",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Trinnie",
+              "En": "Wait—someone friendly just spotted us!",
+              "Es": "¡Espera... alguien amigable nos acaba de ver!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Keahi",
+              "En": "Oh, awesome! It's {farmer}!",
+              "Es": "¡Oh, genial! ¡Es {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Keahi",
+            "IntroEn": "Psst, {farmer}! Important mission check: can you keep a harmless prank squad secret?",
+            "IntroEs": "¡Psst, {farmer}! Prueba importante de misión: ¿sabes guardar el secreto de una broma inofensiva?",
+            "Opt1En": "My lips are sealed—as long as nobody gets scared too badly!",
+            "Opt1Es": "¡Mis labios están sellados... siempre que no asusten mucho a nadie!",
+            "Opt2En": "Count me out of mischief, kiddos—be nice to the neighbors!",
+            "Opt2Es": "Yo no me meto en travesuras, chicos... ¡pórtense bien con los vecinos!",
+            "Reply1Speaker": "Keahi",
+            "Reply1En": "YES!! Official honorary prank ninja status granted, {farmer}!!",
+            "Reply1Es": "¡¡SÍ!! ¡¡Rango de ninja bromista honorario concedido, {farmer}!!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Trinnie",
+            "Reply2En": "Haha, fair enough, {farmer}! We'll stick to funny jokes instead!",
+            "Reply2Es": "¡Jaja, justo y válido, {farmer}! ¡Nos quedaremos solo con chistes buenos!",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "rsv_kid_05",
+          "NoticeFarmer": true,
+          "Music": "playful",
+          "Lines": [
+            {
+              "Speaker": "Keahi",
+              "En": "I reached the lamppost in four seconds flat—obviously I'm faster!",
+              "Es": "¡Llegué al poste en cuatro segundos exactos... obvio soy más rápido!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Trinnie",
+              "En": "Only because you jumped the countdown at 'two', cheater!",
+              "Es": "¡Solo porque arrancaste en el 'dos', tramposo!",
+              "PauseMs": 250,
+              "Emote": 12
+            },
+            {
+              "Speaker": "Keahi",
+              "En": "Hey! {farmer} can settle our championship!",
+              "Es": "¡Ey! ¡{farmer} puede desempatar nuestro campeonato!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Trinnie",
+            "IntroEn": "Hey {farmer}! Help settle this—who wins a sprint across the square if everyone plays fair?",
+            "IntroEs": "¡Ey {farmer}! Desempata esto... ¿quién gana una carrera justa por la plaza?",
+            "Opt1En": "Sounds like a clean tie—rematch on the count of THREE!",
+            "Opt1Es": "¡Suena a empate cerrado... revancha a la cuenta de TRES!",
+            "Opt2En": "Whoever brings snacks for the finish line wins!",
+            "Opt2Es": "¡Quien lleve meriendas a la meta gana automáticamente!",
+            "Reply1Speaker": "Keahi",
+            "Reply1En": "Three, two, ONE—rematch accepted!!",
+            "Reply1Es": "Tres, dos, UNO... ¡¡revancha aceptada!!",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "Trinnie",
+            "Reply2En": "Ooh! Snacks at the finish line is genius, {farmer}!",
+            "Reply2Es": "¡Ohh! ¡Meriendas en la meta es una idea genial, {farmer}!",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": "rsv_clinic_and_science",
+      "Locations": [
+        "Custom_Ridgeside_RidgesideVillage",
+        "Custom_Ridgeside_LogCabinHotelLobby"
+      ],
+      "RequiredActors": [
+        "Philip",
+        "Maddie"
+      ],
+      "OptionalActors": [
+        "Paula",
+        "Flor"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1900,
+      "Scripts": [
+        {
+          "Id": "rsv_med_01",
+          "NoticeFarmer": false,
+          "Music": "kindadumbautumn",
+          "Lines": [
+            {
+              "Speaker": "Maddie",
+              "En": "Look at this bioluminescent moss specimen—if I isolate the spore enzyme before midnight—",
+              "Es": "Mira este espécimen de musgo bioluminiscente... si aíslo la enzima antes de medianoche—",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Sound": "crystal"
+            },
+            {
+              "Speaker": "Philip",
+              "En": "Maddie, wait. How many hours did you sleep last night? Be honest.",
+              "Es": "Maddie, espera. ¿Cuántas horas dormiste anoche? Sé honesta.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Maddie",
+              "En": "...Four? Plus a brisk walk count as resting, right?",
+              "Es": "...¿Cuatro? Además caminar rápido cuenta como descanso, ¿no?",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Philip",
+              "En": "No, scientist. Bedtime at ten tonight—doctor's orders!",
+              "Es": "No, científica. A la cama a las diez hoy... ¡orden médica!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_med_02",
+          "NoticeFarmer": false,
+          "Music": "kindadumbautumn",
+          "Lines": [
+            {
+              "Speaker": "Philip",
+              "En": "Warm chamomile and ginger settles nerves much better than double-shot espresso.",
+              "Es": "La manzanilla tibia con jengibre calma mucho mejor que un expreso doble.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Maddie",
+              "En": "Counterpoint: coffee prevents me from labeling quartz jars as 'sugar'!",
+              "Es": "Contrapunto: ¡el café evita que etiquete frascos de cuarzo como 'azúcar'!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Philip",
+              "En": "Haha, fine—tea after six PM, coffee strictly before noon. Deal?",
+              "Es": "Jaja, trato hecho: té después de las seis y café solo antes del mediodía. ¿Trato?",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Maddie",
+              "En": "Negotiated like a true valley diplomat!",
+              "Es": "¡Negociado como un verdadero diplomático del valle!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "rsv_med_03",
+          "NoticeFarmer": false,
+          "Music": "kindadumbautumn",
+          "Lines": [
+            {
+              "Speaker": "Maddie",
+              "En": "Wait—did you actually read the space-botany manga I lent you?",
+              "Es": "Espera... ¿de verdad leíste el cómic de botánica espacial que te presté?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Philip",
+              "En": "Finished volume three last night! Their zero-gravity greenhouse design was surprisingly plausible!",
+              "Es": "¡Terminé el tomo tres anoche! ¡Su invernadero sin gravedad tenía una ciencia sorprendentemente sólida!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Maddie",
+              "En": "Yes!! Wait till you see volume four—alien orchids!",
+              "Es": "¡¡Sí!! ¡Espera a ver el tomo cuatro... orquídeas alienígenas!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Philip",
+              "En": "Bring it tomorrow—strictly after dinner, mind you!",
+              "Es": "¡Tráelo mañana... pero después de cenar, ojo!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "rsv_med_04",
+          "NoticeFarmer": true,
+          "Music": "kindadumbautumn",
+          "Lines": [
+            {
+              "Speaker": "Philip",
+              "En": "Good posture saves more backs than any ointment in my clinic kit.",
+              "Es": "Una buena postura salva más espaldas que cualquier pomada de mi botiquín.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Maddie",
+              "En": "Hey, {farmer} is up here today!",
+              "Es": "¡Ey, {farmer} anda por aquí hoy!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Philip",
+              "En": "Perfect timing for a quick posture check!",
+              "Es": "¡Momento perfecto para recordar cuidar la espalda!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Philip",
+            "IntroEn": "Good to see you, {farmer}! Remember to stretch your shoulders after hauling crates on {farm}!",
+            "IntroEs": "¡Qué gusto verte, {farmer}! ¡Recuerda estirar los hombros tras cargar cajas en {farm}!",
+            "Opt1En": "Thanks, Doc—stretching after chores keeps me going!",
+            "Opt1Es": "¡Gracias, doc! ¡Estirar tras trabajar me mantiene en forma!",
+            "Opt2En": "Mostly just running on pure excitement and farm grit!",
+            "Opt2Es": "¡Aquí avanzamos a base de entusiasmo y garra granjera!",
+            "Reply1Speaker": "Philip",
+            "Reply1En": "Smart! Two minutes of stretching adds years of happy farming, {farmer}.",
+            "Reply1Es": "¡Excelente! Dos minutos de estiramiento suman años de buena cosecha, {farmer}.",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Maddie",
+            "Reply2En": "Haha, just hydrate too—Philip brings out the lecture chart if anyone skips water!",
+            "Reply2Es": "¡Jaja, también hidrátate! ¡Philip saca la pizarra si alguien olvida tomar agua!",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "rsv_med_05",
+          "NoticeFarmer": true,
+          "Music": "kindadumbautumn",
+          "Lines": [
+            {
+              "Speaker": "Maddie",
+              "En": "Ridge flora behaves differently above this elevation—especially petal pigments.",
+              "Es": "La flora de la cresta se comporta distinto a esta altura... sobre todo los pigmentos.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Philip",
+              "En": "Look who probably spots rare blossoms every morning—{farmer}!",
+              "Es": "¡Mira quién seguro ve flores raras cada mañana... {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Maddie",
+              "En": "Ooh! {farmer}!",
+              "Es": "¡Ohh! ¡{farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Maddie",
+            "IntroEn": "Hey {farmer}! Have you spotted any fascinating or unusual plants blooming near {farm} lately?",
+            "IntroEs": "¡Hola {farmer}! ¿Has visto alguna planta curiosa o poco común floreciendo cerca de {farm}?",
+            "Opt1En": "Yes—bright rare wildflowers along the woods!",
+            "Opt1Es": "¡Sí, flores silvestres rarísimas junto al bosque!",
+            "Opt2En": "Just thriving hardy crops soaked in mountain sun!",
+            "Opt2Es": "¡Solo cultivos fuertes disfrutando el sol del valle!",
+            "Reply1Speaker": "Maddie",
+            "Reply1En": "Ooh!! Save me a pressed petal sometime—for science, obviously!",
+            "Reply1Es": "¡¡Ohh!! ¡Guárdame un pétalo seco algún día... por la ciencia, obvio!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Philip",
+            "Reply2En": "Healthy crops nourish the whole community! Keep doing great work, {farmer}.",
+            "Reply2Es": "¡Cosechas sanas nutren a todo el pueblo! Sigue haciendo un gran trabajo, {farmer}.",
+            "Reply2Emote": 32
+          }
+        }
+      ]
+    }
+  ]
+}

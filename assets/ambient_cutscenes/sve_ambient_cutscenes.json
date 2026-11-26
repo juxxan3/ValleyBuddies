@@ -1,0 +1,1073 @@
+{
+  "Scenes": [
+    {
+      "Id": "sve_jojamart_shift_chaos",
+      "Location": "JojaMart",
+      "RequiredActors": [
+        "Claire",
+        "Shane"
+      ],
+      "OptionalActors": [
+        "Morris|MorrisTod",
+        "Sam",
+        "Martin"
+      ],
+      "MinTime": 900,
+      "MaxTime": 2230,
+      "Scripts": [
+        {
+          "Id": "sve_jm_01",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Claire",
+              "En": "Whoa—careful! Uh, did something just fall down over there, no?",
+              "Es": "¡Cuidado! Eh, ¿se te cayó algo por ahí, no?",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Sound": "thudStep"
+            },
+            {
+              "Speaker": "Shane",
+              "En": "Just an entire pyramid of sparkling Joja Bluu cans... totally under control.",
+              "Es": "Solo una pirámide entera de latas Joja Bluu... todo bajo control.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Quick, stack 'em before the manager finishes his clipboard lap!",
+              "Es": "¡Rápido, apílalas antes de que el gerente termine su ronda con la carpeta!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Shane",
+              "En": "Right, right... corporate symmetry restored. Nobody saw nothing.",
+              "Es": "Sí, sí... simetría corporativa restaurada. Aquí no pasó nada.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_jm_02",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Shane",
+              "En": "Only two hours left on this shift. Think time actually goes backwards after four PM?",
+              "Es": "Solo quedan dos horas de turno. ¿Crees que el reloj va hacia atrás después de las cuatro?",
+              "PauseMs": 250,
+              "Emote": 40
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Feels like it sometimes! Here—imagine we're opening night at a fancy theater instead.",
+              "Es": "¡A veces sí se siente! Mira... imagina que estamos en un estreno de teatro elegante.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Shane",
+              "En": "Fancy theater with fluorescent buzz and discount detergent. Living the dream.",
+              "Es": "Teatro elegante con luces zumbando y detergente en oferta. Viviendo el sueño.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Hey, at least the breakroom tea isn't half bad today!",
+              "Es": "¡Oye, al menos el té de la sala de descanso hoy no sabe tan mal!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_jm_03",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Claire",
+              "En": "Duck behind the cereal tower—clipboard footsteps heading down aisle three!",
+              "Es": "¡Agáchate detrás de la torre de cereales... pasos de carpeta por el pasillo tres!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "Shane",
+              "En": "Wait, I'm holding two frozen pizzas and a mop!",
+              "Es": "¡Espera, traigo dos pizzas congeladas y un trapeador!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Phew... false alarm, he turned toward the office. Stand casual!",
+              "Es": "Uf... falsa alarma, giró hacia la oficina. ¡Actúa normal!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Shane",
+              "En": "Nothing more casual than clutching mop handles in the snack aisle...",
+              "Es": "Nada más normal que abrazar un trapeador junto a las papitas...",
+              "PauseMs": 250,
+              "Emote": 12
+            }
+          ]
+        },
+        {
+          "Id": "sve_jm_04",
+          "NoticeFarmer": true,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Shane",
+              "En": "Think anybody's actually bought that canned mystery chili since spring?",
+              "Es": "¿Crees que alguien haya comprado ese chile enlatado misterioso desde primavera?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Shh—look, a customer just walked into the aisle!",
+              "Es": "¡Chist... mira, acaba de entrar alguien al pasillo!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Shane",
+              "En": "Oh. Hey, {farmer}.",
+              "Es": "Oh. Ey, {farmer}.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Claire",
+            "IntroEn": "Hi {farmer}! Welcome to JojaMart—looking for anything specific, or chasing an 'irresistible' blue-tag special?",
+            "IntroEs": "¡Hola {farmer}! Bienvenido a JojaMart... ¿buscas algo en particular o vienes por una oferta 'irresistible'?",
+            "Opt1En": "Just grabbing quick essentials—you two hang in there!",
+            "Opt1Es": "¡Solo cosas rápidas... ánimo con el turno, chicos!",
+            "Opt2En": "Wait—what's the oldest snack still sitting on these shelves?",
+            "Opt2Es": "¿A ver... cuál es la botana más vieja de ese estante?",
+            "Reply1Speaker": "Claire",
+            "Reply1En": "Bless you, {farmer}! Seeing a friendly face cuts the shift in half!",
+            "Reply1Es": "¡Bendito seas, {farmer}! ¡Ver una cara amiga acorta el turno a la mitad!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Shane",
+            "Reply2En": "Heh, probably those neon cheese crackers from two winters ago. Avoid at all costs.",
+            "Reply2Es": "Je, seguro esas galletas fluorescentes de hace dos inviernos. Evítalas a toda costa.",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "sve_jm_05",
+          "NoticeFarmer": true,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Claire",
+              "En": "Notice how every shelf sticker promises fifty percent more 'Joja Zing'?",
+              "Es": "¿Notaste que cada etiqueta promete cincuenta por ciento más de 'Chispa Joja'?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Shane",
+              "En": "What even IS zing? Probably syrup and carbonation. Oh, hey {farmer}.",
+              "Es": "¿Qué diablos es 'chispa'? Seguro jarabe con gas. Oh, qué tal {farmer}.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Let's ask a genuine Pelican Town resident!",
+              "Es": "¡Preguntemos a un verdadero vecino del pueblo!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Shane",
+            "IntroEn": "Hey {farmer}. Quick shift survival poll: what's better after work—pepper poppers or cold pizza?",
+            "IntroEs": "Ey {farmer}. Encuesta rápida de supervivencia laboral: ¿bocadillos de chile o pizza fría?",
+            "Opt1En": "Spicy pepper poppers all the way!",
+            "Opt1Es": "¡Bocadillos picantes de chile sin duda!",
+            "Opt2En": "Cold pizza never lets you down!",
+            "Opt2Es": "¡La pizza fría nunca falla!",
+            "Reply1Speaker": "Shane",
+            "Reply1En": "Solid taste, {farmer}. Spice wakes your brain right back up.",
+            "Reply1Es": "Buen gusto, {farmer}. El picante despierta el alma.",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Claire",
+            "Reply2En": "Haha, cold pizza works even backstage during long rehearsals—agreed!",
+            "Reply2Es": "¡Jaja, la pizza fría salva hasta entre bambalinas... de acuerdo!",
+            "Reply2Emote": 32
+          }
+        }
+      ]
+    },
+    {
+      "Id": "sve_jojamart_boss_inspection",
+      "Location": "JojaMart",
+      "RequiredActors": [
+        "Claire",
+        "Morris|MorrisTod"
+      ],
+      "OptionalActors": [
+        "Shane",
+        "Martin"
+      ],
+      "MinTime": 900,
+      "MaxTime": 2200,
+      "Scripts": [
+        {
+          "Id": "sve_boss_01",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Notice the specular reflection on aisle two's canned beans, Claire. Ninety-eight percent luster!",
+              "Es": "Observa el reflejo especular en las latas del pasillo dos, Claire. ¡Noventa y ocho por ciento de brillo!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Ah... yes, sir. Truly blinding bean radiance today.",
+              "Es": "Ah... sí, señor. Un resplandor de frijoles verdaderamente cegador.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "At Joja, excellence is measured in millimeters and shine!",
+              "Es": "¡En Joja, la excelencia se mide en milímetros y lustre!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Jump": true
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Right away, sir... polishing the soup labels next.",
+              "Es": "Enseguida, señor... paso el trapo a las etiquetas de sopa.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_boss_02",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Remember our motto, Claire: we aren't merely coworkers—we are one radiant Joja Family!",
+              "Es": "Recuerda nuestro lema, Claire: no somos simples empleados... ¡somos una radiante Familia Joja!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Of course, sir... does the Joja Family get an extra five minutes for lunch?",
+              "Es": "Por supuesto, señor... ¿y la Familia Joja tiene cinco minutitos extra para comer?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Aha! Productivity IS our nourishment, Claire! Keep that smile sharp!",
+              "Es": "¡Ajá! ¡La productividad ES nuestro sustento, Claire! ¡Mantén esa sonrisa firme!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Smiling away... bright and steady...",
+              "Es": "Sonriendo firme... constante y brillante...",
+              "PauseMs": 250,
+              "Emote": 28
+            }
+          ]
+        },
+        {
+          "Id": "sve_boss_03",
+          "NoticeFarmer": false,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Claire",
+              "En": "Sir, shoppers keep asking if those blue fifty-percent coupons work on fruit?",
+              "Es": "Señor, los clientes preguntan si esos cupones azules del cincuenta aplican en fruta...",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Read the microscopic asterisk, Claire! Fifty percent off your SECOND purchase of twelve identical tins!",
+              "Es": "¡Lee el asterisco microscópico, Claire! ¡Cincuenta por ciento en la SEGUNDA compra de doce latas idénticas!",
+              "PauseMs": 250,
+              "Emote": 16,
+              "Sound": "coin"
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Ah. Very clear... practically crystal.",
+              "Es": "Ah. Clarísimo... casi transparente.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Transparency is our cornerstone!",
+              "Es": "¡La transparencia es nuestra piedra angular!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_boss_04",
+          "NoticeFarmer": true,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Hmm, greeting metrics require immediate eye contact within three seconds of door entry...",
+              "Es": "Mmm, las métricas de bienvenida exigen contacto visual en tres segundos...",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Uh oh—incoming customer on aisle one...",
+              "Es": "Uy... cliente entrando al pasillo uno...",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Aha! An opportunity for corporate hospitality!",
+              "Es": "¡Ajá! ¡Una oportunidad de hospitalidad corporativa!",
+              "PauseMs": 250,
+              "Emote": 16
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Morris|MorrisTod",
+            "IntroEn": "Ah, {farmer}! Have you considered upgrading to our Platinum Joja Membership for unmatched suburban convenience?",
+            "IntroEs": "¡Ah, {farmer}! ¿Has considerado subir a nuestra Membresía Joja Platino para comodidad sin igual?",
+            "Opt1En": "No thanks—I prefer supporting local valley shops.",
+            "Opt1Es": "No gracias, prefiero apoyar los comercios locales.",
+            "Opt2En": "Just browsing today, Morris—keep those shelves sparkling!",
+            "Opt2Es": "Solo mirando hoy, Morris... ¡sigan brillando esos estantes!",
+            "Reply1Speaker": "Claire",
+            "Reply1En": "Good call, {farmer}... keep that independent valley spirit alive!",
+            "Reply1Es": "Buena respuesta, {farmer}... ¡mantén vivo el espíritu del valle!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Morris|MorrisTod",
+            "Reply2En": "Hmph! Well, our blue doors remain open whenever convenience calls, {farmer}!",
+            "Reply2Es": "¡Jum! ¡Bueno, nuestras puertas azules siguen abiertas cuando llame la conveniencia, {farmer}!",
+            "Reply2Emote": 12
+          }
+        },
+        {
+          "Id": "sve_boss_05",
+          "NoticeFarmer": true,
+          "Music": "jaunty",
+          "Lines": [
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Make sure every price tag faces exactly south-southwest, Claire!",
+              "Es": "¡Asegúrate de que cada etiqueta mire exactamente al sur-suroeste, Claire!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Claire",
+              "En": "Got it, compass alignment in progress... oh, hi {farmer}!",
+              "Es": "Entendido, alineando brújula... ¡oh, hola {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Morris|MorrisTod",
+              "En": "Greet warmly, Claire! Two seconds remaining!",
+              "Es": "¡Saluda con calidez, Claire! ¡Quedan dos segundos!",
+              "PauseMs": 250,
+              "Emote": 8
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Claire",
+            "IntroEn": "Hey {farmer}... between you and me, ready to escape into fresh valley air once errands are done?",
+            "IntroEs": "Hola {farmer}... entre nosotros, ¿ya con ganas de escapar al aire fresco cuando termines tus compras?",
+            "Opt1En": "Always—nothing beats stepping outside!",
+            "Opt1Es": "¡Siempre! ¡Nada supera salir al aire libre!",
+            "Opt2En": "Hang in there, Claire—your theater passion will shine soon!",
+            "Opt2Es": "¡Ánimo, Claire, pronto brillará tu pasión por el teatro!",
+            "Reply1Speaker": "Claire",
+            "Reply1En": "Haha, true! Take a deep breath of pine air for me outside!",
+            "Reply1Es": "¡Jaja, cierto! ¡Respira aire de pino por mí allá afuera!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Morris|MorrisTod",
+            "Reply2En": "Ahem! Fresh air is lovely, though climate-controlled retail offers zero humidity!",
+            "Reply2Es": "¡Ejem! El aire fresco es lindo, ¡aunque aquí tenemos humedad cero controlada!",
+            "Reply2Emote": 32
+          }
+        }
+      ]
+    },
+    {
+      "Id": "sve_vineyard_friends",
+      "Locations": [
+        "BlueMoonVineyard",
+        "Forest",
+        "Town"
+      ],
+      "RequiredActors": [
+        "Sophia",
+        "Scarlett"
+      ],
+      "OptionalActors": [
+        "Andy",
+        "Susan"
+      ],
+      "MinTime": 900,
+      "MaxTime": 1900,
+      "Scripts": [
+        {
+          "Id": "sve_vin_01",
+          "NoticeFarmer": false,
+          "Music": "fall1",
+          "Lines": [
+            {
+              "Speaker": "Sophia",
+              "En": "Scarlett! Wait until you see the satin trim I picked for my next magical-girl cloak!",
+              "Es": "¡¡Scarlett!! ¡Espera a ver el ribete de satén que elegí para mi nueva capa de chica mágica!",
+              "PauseMs": 250,
+              "Emote": 20,
+              "Jump": true
+            },
+            {
+              "Speaker": "Scarlett",
+              "En": "Ooh! Metallic gold thread along the hem would make it pop under convention lights!",
+              "Es": "¡Uhh! ¡Un hilo dorado metálico en el borde haría que brille increíble bajo las luces!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Sophia",
+              "En": "Yes!! And maybe tiny star buttons down the sleeves!",
+              "Es": "¡¡Sí!! ¡Y quizá botoncitos de estrella en las mangas!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Scarlett",
+              "En": "We are going to win best duo costume at the autumn showcase, guaranteed!",
+              "Es": "¡Vamos a ganar el mejor atuendo en pareja este otoño, garantizado!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_vin_02",
+          "NoticeFarmer": false,
+          "Music": "fall1",
+          "Lines": [
+            {
+              "Speaker": "Scarlett",
+              "En": "Okay, official vineyard taster duty—hand over two of those deep purple grapes!",
+              "Es": "Muy bien, inspección oficial del viñedo... ¡pasa dos de esas uvas moradas!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Sophia",
+              "En": "Eep—tell me honestly! Do they taste sweet enough for the autumn vintage?",
+              "Es": "Iip... ¡dime con honestidad! ¿Saben bastante dulces para la cosecha de otoño?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Scarlett",
+              "En": "Mm! Sweet as honey with a crisp finish! Sophia, your vines outdid themselves!",
+              "Es": "¡Mm! ¡Dulces como la miel con un toque fresco! ¡Sophia, tus parras se lucieron!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Sophia",
+              "En": "Phew!! Thank goodness—I fussed over those trellises all week!",
+              "Es": "¡¡Uf!! ¡Qué alivio... estuve cuidando esos enrejados toda la semana!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_vin_03",
+          "NoticeFarmer": false,
+          "Music": "fall1",
+          "Lines": [
+            {
+              "Speaker": "Sophia",
+              "En": "Twenty shipping crates left, labels crooked, ribbon tangled—why are mornings so fast?!",
+              "Es": "Veinte cajas por empacar, etiquetas chuecas, listón enredado... ¡¿por qué corre tanto la mañana?!",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Scarlett",
+              "En": "Whoa, deep breath, bestie! Hand me that tape roll—two pairs of hands beat one!",
+              "Es": "¡Ey, respira hondo, amiga! Pásame la cinta... ¡cuatro manos rinden el doble que dos!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Sophia",
+              "En": "Thanks, Scarlett... I don't know what I'd do without you visiting!",
+              "Es": "Gracias, Scarlett... ¡no sé qué haría sin tus visitas!",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Scarlett",
+              "En": "Hey, what are best friends for? Besides stealing fresh grapes, obviously!",
+              "Es": "¿Para qué están las mejores amigas? ¡Además de robarte uvas frescas, claro!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_vin_04",
+          "NoticeFarmer": true,
+          "Music": "fall1",
+          "Lines": [
+            {
+              "Speaker": "Sophia",
+              "En": "Wait, do pleated crimson skirts or starry midnight capes look cooler on stage?",
+              "Es": "Espera, ¿qué se ve más genial en escena: falda plisada carmesí o capa estelar nocturna?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Scarlett",
+              "En": "Ooh! Let's get an outside tie-breaker—look who just arrived!",
+              "Es": "¡Uhh! ¡Pidamos un desempate imparcial... mira quién llegó!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Sophia",
+              "En": "Oh! Hi, {farmer}!",
+              "Es": "¡Oh! ¡Hola, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Sophia",
+            "IntroEn": "H-hi {farmer}! Quick anime cosplay question—crimson pleated skirt or starry midnight cape?",
+            "IntroEs": "¡H-hola {farmer}! Pregunta rápida de cosplay: ¿falda plisada carmesí o capa estelar nocturna?",
+            "Opt1En": "Starry midnight cape—super dramatic!",
+            "Opt1Es": "¡Capa estelar nocturna, súper dramática!",
+            "Opt2En": "Crimson pleated skirt—bright and energetic!",
+            "Opt2Es": "¡Falda plisada carmesí, alegre y dinámica!",
+            "Reply1Speaker": "Sophia",
+            "Reply1En": "Eep! Starry cape!! Thank you, {farmer}, that settles it!!",
+            "Reply1Es": "¡¡Iip!! ¡¡Capa estelar!! ¡Gracias, {farmer}, decidido!!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Scarlett",
+            "Reply2En": "Haha, crimson has unbeatable stage energy! Great eye, {farmer}!",
+            "Reply2Es": "¡Jaja, el carmesí tiene una energía escénica brutal! ¡Buen ojo, {farmer}!",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "sve_vin_05",
+          "NoticeFarmer": true,
+          "Music": "fall1",
+          "Lines": [
+            {
+              "Speaker": "Scarlett",
+              "En": "Sophia barely sat down since sunrise, and now we're debating harvest speed!",
+              "Es": "Sophia casi no se sienta desde el amanecer, ¡y ahora debatimos rapidez al cosechar!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Sophia",
+              "En": "Hey, {farmer} works way harder than me every day! Look, right there!",
+              "Es": "¡Oye, {farmer} trabaja muchísimo más duro que yo cada día! ¡Mira, ahí está!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Scarlett",
+              "En": "Ooh, let's see who wins the workaholic crown!",
+              "Es": "¡Uhh, veamos quién gana la corona al trabajo duro!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Scarlett",
+            "IntroEn": "Hey {farmer}! Between you and Sophia, who works harder from sunrise to sunset?",
+            "IntroEs": "¡Ey {farmer}! Entre Sophia y tú, ¿quién trabaja más duro de sol a sol?",
+            "Opt1En": "We both give our all to keep our farms shining!",
+            "Opt1Es": "¡Ambas damos todo por ver brillar nuestros cultivos!",
+            "Opt2En": "Sophia's vineyard care is seriously impressive!",
+            "Opt2Es": "¡El cuidado que Sophia da al viñedo es impresionante!",
+            "Reply1Speaker": "Scarlett",
+            "Reply1En": "Aww, team farmer-vintner solidarity! You two rock!",
+            "Reply1Es": "¡Aww, solidaridad de campo y viñedo! ¡Son lo máximo!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Sophia",
+            "Reply2En": "Wh-what?! Coming from you, {farmer}, that means the world to me!",
+            "Reply2Es": "¡¿En serio?! ¡Viniendo de ti, {farmer}, eso vale el mundo entero!",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": "sve_jenkins_manor_tea",
+      "Locations": [
+        "JenkinsHouse",
+        "Town"
+      ],
+      "RequiredActors": [
+        "Olivia",
+        "Victor"
+      ],
+      "OptionalActors": [],
+      "MinTime": 900,
+      "MaxTime": 2000,
+      "Scripts": [
+        {
+          "Id": "sve_jenk_01",
+          "NoticeFarmer": false,
+          "Music": "distantBanjo",
+          "Lines": [
+            {
+              "Speaker": "Olivia",
+              "En": "Victor, dear, that Chopin-inspired cadence you practiced this morning sounded lovely.",
+              "Es": "Victor, cariño, esa cadencia en piano que practicaste esta mañana sonó preciosa.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Victor",
+              "En": "Uh—thanks, Mom! I stumbled on the bridge chord twice though...",
+              "Es": "Eh... ¡gracias, mamá! Aunque me tropecé dos veces en el acorde intermedio...",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Olivia",
+              "En": "Only a perfectionist would notice! To everyone else it sounded like concert hall music.",
+              "Es": "¡Solo un perfeccionista lo notaría! Para los demás sonó como sala de conciertos.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Victor",
+              "En": "Well... maybe I'll play the whole piece after tea tonight.",
+              "Es": "Bueno... quizá toque la pieza completa después del té esta noche.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_jenk_02",
+          "NoticeFarmer": false,
+          "Music": "distantBanjo",
+          "Lines": [
+            {
+              "Speaker": "Olivia",
+              "En": "Do you think a crisp dry white or a velvety grape reserve suits a quiet afternoon best?",
+              "Es": "¿Crees que va mejor un blanco seco o una reserva suave de uva para una tarde tranquila?",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "Victor",
+              "En": "Honestly, Mom, warm Darjeeling tea beats both when the afternoon breeze cools down.",
+              "Es": "Sinceramente, mamá, un buen té tibio supera a ambos cuando refresca la tarde.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Olivia",
+              "En": "Touché, darling! Very refined taste—and gentler on the afternoon budget too.",
+              "Es": "¡Touché, cariño! Muy buen gusto... y además más amable con la tarde.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Victor",
+              "En": "I'll put the kettle on whenever you're ready.",
+              "Es": "Pondré la tetera en cuanto tú me digas.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_jenk_03",
+          "NoticeFarmer": false,
+          "Music": "distantBanjo",
+          "Lines": [
+            {
+              "Speaker": "Victor",
+              "En": "I finished sketching ideas for reinforcing the timber footbridges south of town.",
+              "Es": "Terminé de dibujar ideas para reforzar los puentes de madera al sur del pueblo.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Olivia",
+              "En": "Look at those clean elevation lines! Robin will be delighted to review those with you.",
+              "Es": "¡Mira qué líneas de alzado tan limpias! A Robin le encantará revisarlas contigo.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Victor",
+              "En": "I hope so. It feels good contributing practical plans to Pelican Town.",
+              "Es": "Eso espero. Se siente bien aportar planos útiles para Pueblo Pelícano.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Olivia",
+              "En": "I couldn't be prouder of how much you've grown here, Victor.",
+              "Es": "No podría estar más orgullosa de cuánto has crecido aquí, Victor.",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ]
+        },
+        {
+          "Id": "sve_jenk_04",
+          "NoticeFarmer": true,
+          "Music": "distantBanjo",
+          "Lines": [
+            {
+              "Speaker": "Olivia",
+              "En": "Porcelain cups are set—such a serene afternoon at the manor.",
+              "Es": "Las tazas de porcelana están listas... qué tarde tan serena en la mansión.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Victor",
+              "En": "Oh, look—{farmer} just stepped in!",
+              "Es": "¡Oh, mira... acaba de pasar {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Olivia",
+              "En": "Splendid! Come join us, darling!",
+              "Es": "¡Espléndido! ¡Ven con nosotros, cariño!",
+              "PauseMs": 250,
+              "Emote": 20
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Olivia",
+            "IntroEn": "How delightful to see you, {farmer}! Care to share an imaginary cup of Earl Grey with us?",
+            "IntroEs": "¡Qué encanto verte, {farmer}! ¿Nos acompañas con una taza imaginaria de té Earl Grey?",
+            "Opt1En": "Absolutely—with two lumps of valley honey!",
+            "Opt1Es": "¡Claro que sí, con miel dorada del valle!",
+            "Opt2En": "Just stopping in to wish you both a lovely day!",
+            "Opt2Es": "¡Solo pasaba a desearles un excelente día a ambos!",
+            "Reply1Speaker": "Olivia",
+            "Reply1En": "Ooh, valley honey in Earl Grey—now THAT is civilized luxury, {farmer}!",
+            "Reply1Es": "¡Ohh, miel del valle en Earl Grey! ¡Eso sí es lujo elegante, {farmer}!",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Victor",
+            "Reply2En": "Thanks, {farmer}! Always glad when you drop by for a breather.",
+            "Reply2Es": "¡Gracias, {farmer}! Siempre da gusto cuando pasas a saludar.",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "sve_jenk_05",
+          "NoticeFarmer": true,
+          "Music": "distantBanjo",
+          "Lines": [
+            {
+              "Speaker": "Victor",
+              "En": "I keep staring at my engineering notebook trying to juggle three community blueprints.",
+              "Es": "Sigo mirando mi libreta intentando coordinar tres planos comunitarios a la vez.",
+              "PauseMs": 250,
+              "Emote": 28
+            },
+            {
+              "Speaker": "Olivia",
+              "En": "Ask {farmer} right there—nobody balances ten projects better than a valley farmer!",
+              "Es": "Pregúntale ahí a {farmer}... ¡nadie coordina diez proyectos mejor que un granjero!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Victor",
+              "En": "Good point! Hey, {farmer}!",
+              "Es": "¡Buen punto! ¡Ey, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Victor",
+            "IntroEn": "Hey {farmer}... honestly, how do you juggle so many big projects over on {farm}?",
+            "IntroEs": "Ey {farmer}... en serio, ¿cómo logras organizar tantos proyectos a la vez en {farm}?",
+            "Opt1En": "One morning checklist at a time, no panic!",
+            "Opt1Es": "¡Paso a paso con una lista cada mañana, sin prisas!",
+            "Opt2En": "Having friends in the valley makes everything lighter!",
+            "Opt2Es": "¡Contar con amigos en el valle vuelve todo más ligero!",
+            "Reply1Speaker": "Victor",
+            "Reply1En": "One checklist at a time... I'll try writing mine down before sunset, {farmer}.",
+            "Reply1Es": "Una lista a la vez... intentaré anotar la mía antes del ocaso, {farmer}.",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "Olivia",
+            "Reply2En": "Hear that, Victor? Good friends turn mountains into molehills!",
+            "Reply2Es": "¿Escuchaste, Victor? ¡Los buenos amigos hacen livianas hasta las montañas!",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": "sve_guild_tales",
+      "Locations": [
+        "AdventureGuild",
+        "Mountain"
+      ],
+      "RequiredActors": [
+        "MarlonFay|Marlon",
+        "Lance"
+      ],
+      "OptionalActors": [
+        "Gil",
+        "Abigail"
+      ],
+      "MinTime": 1000,
+      "MaxTime": 2200,
+      "Scripts": [
+        {
+          "Id": "sve_gld_01",
+          "NoticeFarmer": false,
+          "Music": "MarlonsTheme",
+          "Lines": [
+            {
+              "Speaker": "Lance",
+              "En": "Out in the Crimson Badlands, shadow brutes hit twice as fast after dusk.",
+              "Es": "Allá en los Páramos Carmesí, los brutos sombríos golpean el doble de rápido tras el ocaso.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "Hmph. Sounds just like floor ninety-five back in sixty-eight—kept my shield arm sore for a week!",
+              "Es": "Jum. Suena igual al piso noventa y cinco del sesenta y ocho... ¡me dolió el brazo del escudo una semana!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Lance",
+              "En": "Experience like yours is rarer than prismatic ore, Commander.",
+              "Es": "Experiencia como la tuya es más rara que el mineral prismático, Comandante.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "Stay sharp out there, Lance. Good blades keep good legends alive.",
+              "Es": "Mantente alerta allá afuera, Lance. Las buenas hojas mantienen vivas las leyendas.",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_gld_02",
+          "NoticeFarmer": false,
+          "Music": "MarlonsTheme",
+          "Lines": [
+            {
+              "Speaker": "Lance",
+              "En": "Calibrating a frost-runic edge—even a slight fracture throws off arcane channeling.",
+              "Es": "Calibrando un filo rúnico de escarcha... hasta una mínima grieta desvía el canal arcano.",
+              "PauseMs": 250,
+              "Emote": 8,
+              "Sound": "crystal"
+            },
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "Never trust magic alone if your leather boot laces aren't double-knotted first.",
+              "Es": "Nunca confíes solo en la magia si primero no ataste con doble nudo tus botas de cuero.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Lance",
+              "En": "Haha, practical wisdom straight from the guild hall!",
+              "Es": "¡Jaja, sabiduría práctica directa del gremio!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "Dead heroes don't cash monster bounties, lad.",
+              "Es": "Los héroes descuidados no cobran recompensas, muchacho.",
+              "PauseMs": 250,
+              "Emote": 12
+            }
+          ]
+        },
+        {
+          "Id": "sve_gld_03",
+          "NoticeFarmer": false,
+          "Music": "MarlonsTheme",
+          "Lines": [
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "If a Royal Serpent corners you in Skull Cavern, fast swing speed beats heavy brute force.",
+              "Es": "Si una Serpiente Real te acorrala en Caverna Calavera, la velocidad vence a la fuerza bruta.",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Lance",
+              "En": "Agreed. Quick parries paired with crisp footwork outmaneuver long lunges easily.",
+              "Es": "Totalmente. Paradas rápidas y buen juego de pies esquivan fácil sus embestidas.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "Just keep plenty of spicy eel in your pack—nothing beats quick reflexes.",
+              "Es": "Solo lleva buena anguila picante en la mochila... nada supera unos reflejos rápidos.",
+              "PauseMs": 250,
+              "Emote": 20
+            },
+            {
+              "Speaker": "Lance",
+              "En": "And a steady heartbeat when three dive at once!",
+              "Es": "¡Y pulso firme cuando caen tres al mismo tiempo!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ]
+        },
+        {
+          "Id": "sve_gld_04",
+          "NoticeFarmer": true,
+          "Music": "MarlonsTheme",
+          "Lines": [
+            {
+              "Speaker": "Lance",
+              "En": "Monster sightings near the ridge stayed calm this week.",
+              "Es": "Los avistamientos cerca de la cresta estuvieron tranquilos esta semana.",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "Heh—just in time, look who knows every mine elevator by heart!",
+              "Es": "Je... ¡justo a tiempo, mira quién se sabe cada ascensor de memoria!",
+              "PauseMs": 250,
+              "Emote": 16
+            },
+            {
+              "Speaker": "Lance",
+              "En": "Ah, {farmer}!",
+              "Es": "¡Ah, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 32
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "MarlonFay|Marlon",
+            "IntroEn": "Hail, {farmer}! How have your latest deep mine runs been holding up?",
+            "IntroEs": "¡Saludos, {farmer}! ¿Cómo han estado tus últimas bajadas a las minas profundas?",
+            "Opt1En": "Clean loot and solid swordplay—kept the monsters busy!",
+            "Opt1Es": "¡Buen botín y acero firme... mantuve a raya a los monstruos!",
+            "Opt2En": "Narrow scrapes, but made it home with pockets full!",
+            "Opt2Es": "¡Sustos cerrados, pero volví a salvo con la mochila llena!",
+            "Reply1Speaker": "MarlonFay|Marlon",
+            "Reply1En": "Now that's a proper Adventurer's Guild report! Proud of ya, {farmer}.",
+            "Reply1Es": "¡Eso sí es un informe digno del Gremio de Aventureros! Bien hecho, {farmer}.",
+            "Reply1Emote": 20,
+            "Reply2Speaker": "Lance",
+            "Reply2En": "Knowing when to retreat with your haul marks a true veteran, {farmer}.",
+            "Reply2Es": "Saber cuándo retirarse con el botín distingue a un verdadero veterano, {farmer}.",
+            "Reply2Emote": 32
+          }
+        },
+        {
+          "Id": "sve_gld_05",
+          "NoticeFarmer": true,
+          "Music": "MarlonsTheme",
+          "Lines": [
+            {
+              "Speaker": "Lance",
+              "En": "I'm updating guild field entries on shadow-elemental weaknesses.",
+              "Es": "Estoy actualizando los apuntes del gremio sobre debilidades elementales.",
+              "PauseMs": 250,
+              "Emote": 8
+            },
+            {
+              "Speaker": "MarlonFay|Marlon",
+              "En": "Ask {farmer}—that one's faced more slimes and bats than half our roster combined!",
+              "Es": "Pregúntale a {farmer}... ¡ha enfrentado más babas y murciélagos que medio gremio junto!",
+              "PauseMs": 250,
+              "Emote": 32
+            },
+            {
+              "Speaker": "Lance",
+              "En": "Indeed! Share your insight, {farmer}!",
+              "Es": "¡En efecto! ¡Comparte tu consejo, {farmer}!",
+              "PauseMs": 250,
+              "Emote": 16
+            }
+          ],
+          "FarmerNotice": {
+            "Noticer": "Lance",
+            "IntroEn": "Greetings, {farmer}! Which tactic serves you best against fast dungeon monsters?",
+            "IntroEs": "¡Saludos, {farmer}! ¿Qué táctica te funciona mejor contra monstruos rápidos?",
+            "Opt1En": "Timing knockback swings and watching shadows!",
+            "Opt1Es": "¡Calcular el retroceso del golpe y vigilar las sombras!",
+            "Opt2En": "Keeping defense buffs up and staying mobile!",
+            "Opt2Es": "¡Mantener defensa alta y no dejar de moverme!",
+            "Reply1Speaker": "Lance",
+            "Reply1En": "Precision timing—I'll annotate that directly into the Guild field manual!",
+            "Reply1Es": "¡Sincronización precisa! ¡Lo anotaré directo en el manual de campo del Gremio!",
+            "Reply1Emote": 32,
+            "Reply2Speaker": "MarlonFay|Marlon",
+            "Reply2En": "Moving feet keep a fighter breathing! Smart tactics, {farmer}.",
+            "Reply2Es": "¡Pies en movimiento mantienen vivo al guerrero! Buena táctica, {farmer}.",
+            "Reply2Emote": 20
+          }
+        }
+      ]
+    }
+  ]
+}

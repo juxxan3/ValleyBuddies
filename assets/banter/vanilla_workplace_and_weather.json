@@ -1,0 +1,466 @@
+{
+  "pairs": [
+    {
+      "npcA": "Pierre",
+      "npcB": "Caroline",
+      "conversations": [
+        {
+          "id": "vw_pierre_caro_seedshop_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Seed packets lined up razor straight—ready before Pelican Town's morning rush!",
+              "es": "Sobres de semillas alineados al milimetro... listos antes de la prisa!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Just breathe between customer bells today, dear. Hot green tea is already steeping.",
+              "es": "Solo respira entre timbres hoy, carino. Ya puse a infusionar te verde."
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "Thank you, Caroline. Always keeps the General Store feeling like home.",
+              "es": "Gracias, Caroline. Siempre haces que la tienda se sienta como hogar."
+            }
+          ],
+          "locations": [
+            "SeedShop"
+          ]
+        },
+        {
+          "id": "vw_pierre_caro_greenrain",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "B",
+              "emote": 16,
+              "en": "Did you notice wild ferns sprouting right up under porch gutters in this green rain?",
+              "es": "Notaste helechos saliendo justo bajo canaletas con esta lluvia verde?"
+            },
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Amazing botanical surge! Shop windows gleam bright emerald all day long.",
+              "es": "Asombroso brote botanico! Las vitrinas brillan color esmeralda todo el dia."
+            }
+          ],
+          "weather": [
+            "green_rain"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Clint",
+      "npcB": "Emily",
+      "conversations": [
+        {
+          "id": "vw_clint_emily_smithy_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 28,
+              "en": "Phew—anvils heat up fast polishing refined geodes and pickaxes all morning.",
+              "es": "Uf... el yunque arde puliendo geodas y picos toda la manana."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Still, gold sparks dance prettier than fireworks against dark stone, Clint!",
+              "es": "Aun asi las chispas doradas bailan mas bonito que fuegos artificiales, Clint!"
+            },
+            {
+              "speaker": "A",
+              "emote": 52,
+              "en": "Heh... yeah, suppose bright sparks do beat boring paperwork!",
+              "es": "Je... si, supongo que chispas vivas le ganan a papeleo aburrido!"
+            }
+          ],
+          "locations": [
+            "Blacksmith",
+            "Saloon"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Harvey",
+      "npcB": "Maru",
+      "conversations": [
+        {
+          "id": "vw_harvey_maru_clinic_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Barometric drop explains three headaches this morning—inventory bandages look full, Maru?",
+              "es": "Baja de presion explica jaquecas hoy... quedan suficientes vendas, Maru?"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "All sterilized and stacked neatly! Plus an emergency mug of roasted decaf beside your clipboard!",
+              "es": "Todo esteril y apilado! Mas una taza de cafe junto a tu tabla!"
+            },
+            {
+              "speaker": "A",
+              "emote": 20,
+              "en": "You keep this valley clinic ticking smoothly every single shift, Maru.",
+              "es": "Mantienes esta clinica funcionando como reloj en cada turno, Maru."
+            }
+          ],
+          "locations": [
+            "Hospital"
+          ]
+        },
+        {
+          "id": "vw_harvey_maru_storm",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 28,
+              "en": "Thunder rattles clinic glass frames whenever gusts roll off Cindersap woods!",
+              "es": "Los truenos sacuden los marcos cuando sopla viento del bosque!"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "My copper surge protectors keep medical sensors spotless and grounded, Doctor!",
+              "es": "Mis protectores de cobre mantienen seguros todos los sensores, Doctor!"
+            }
+          ],
+          "weather": [
+            "storm",
+            "rain"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Robin",
+      "npcB": "Demetrius",
+      "conversations": [
+        {
+          "id": "vw_robin_deme_shop_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Hardwood joints swell half a millimeter on humid rain afternoons—smart builders allow clearance!",
+              "es": "Juntas de roble dilatan medio milimetro bajo lluvia... hay que prever holgura!"
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "Moisture absorption physics meets seasoned carpenter intuition—magnificent combination!",
+              "es": "Fisica de humedad unida a intuicion de carpintera... combinacion magnifica!"
+            }
+          ],
+          "locations": [
+            "ScienceHouse"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Gus",
+      "npcB": "Shane",
+      "conversations": [
+        {
+          "id": "vw_gus_shane_saloon_1",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Fried up double jalapeño bites right by the counter warmer tonight, Shane.",
+              "es": "Frei racion doble de bocaditos picantes junto a barra esta noche, Shane."
+            },
+            {
+              "speaker": "B",
+              "emote": 20,
+              "en": "You know the secret route straight past cranky Joja shifts, Gus—appreciated.",
+              "es": "Conoces el remedio exacto tras turnos pesados, Gus... se agradece."
+            }
+          ],
+          "locations": [
+            "Saloon"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Willy",
+      "npcB": "Elliott",
+      "conversations": [
+        {
+          "id": "vw_willy_elliott_storm",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Hear those storm swells thunderin' loud against harbor pilings today, Elliott!",
+              "es": "Oye como retumba la marejada de tormenta contra el muelle hoy, Elliott!"
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "Magnificent tempest music! Seafoam practically writes epic chapters by itself today!",
+              "es": "Musica tempestuosa magnifica! La espuma casi escribe capitulos sola hoy!"
+            }
+          ],
+          "locations": [
+            "Beach"
+          ],
+          "weather": [
+            "storm",
+            "rain"
+          ]
+        }
+      ]
+    },
+    {
+      "npcA": "Wizard",
+      "npcB": "Linus",
+      "conversations": [
+        {
+          "id": "vw_wiz_linus_storm",
+          "childSafe": true,
+          "turns": [
+            {
+              "speaker": "A",
+              "emote": 32,
+              "en": "Sky lightning inscribes ancient luminous glyphs above mountain ridges tonight, Linus.",
+              "es": "Los relampagos trazan glifos antiguos sobre cumbres esta noche, Linus."
+            },
+            {
+              "speaker": "B",
+              "emote": 32,
+              "en": "And warm tent embers shelter grateful wildlife quietly below pines, Razmodius.",
+              "es": "Y brasas tibias protegen seres del bosque bajo los pinos, Razmodius."
+            }
+          ],
+          "locations": [
+            "Forest",
+            "Mountain",
+            "WizardHouse"
+          ],
+          "weather": [
+            "storm",
+            "green_rain"
+          ]
+        }
+      ]
+    }
+  ],
+  "pools": {
+    "jojamart": [
+      {
+        "id": "pool_joja_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 28,
+            "en": "Fluorescent lights buzz softly above endless neatly stacked soda rows.",
+            "es": "Luces fluorescentes zumban suave sobre filas interminables de refrescos."
+          },
+          {
+            "speaker": "B",
+            "emote": 32,
+            "en": "Still appreciate grabbing rare staples fast before heading back toward chores.",
+            "es": "Al menos conviene tomar basicos rapido antes de seguir con tareas."
+          }
+        ],
+        "locations": [
+          "JojaMart"
+        ]
+      },
+      {
+        "id": "pool_joja_2",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Careful stepping past freshly mopped aisle four—super slick today.",
+            "es": "Cuidado al pisar el pasillo cuatro recien trapeado... muy resbaloso hoy."
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Good looking out! Almost skated straight into fifty percent off Joja Cola!",
+            "es": "Buen aviso! Casi patino directo contra refrescos en oferta!"
+          }
+        ],
+        "locations": [
+          "JojaMart"
+        ]
+      }
+    ],
+    "hospital": [
+      {
+        "id": "pool_hosp_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Notice how calm lemon balm smells inside clinic waiting alcoves?",
+            "es": "Notas que suave huele a melisa aqui dentro de la clinica?"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Doctor Harvey always insists peaceful air speeds up recovery nicely!",
+            "es": "El Doctor Harvey siempre insiste que calma el alma acelera la cura!"
+          }
+        ],
+        "locations": [
+          "Hospital"
+        ]
+      },
+      {
+        "id": "pool_hosp_2",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Better resting for checkups early than limping down mines with zero food!",
+            "es": "Mejor revisarse a tiempo que bajar a minas sin comida ni energia!"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "True words! Always check your energy bars before midnight errands.",
+            "es": "Gran verdad! Revisa siempre fuerzas antes de trasnochar trabajando."
+          }
+        ],
+        "locations": [
+          "Hospital"
+        ]
+      }
+    ],
+    "blacksmith": [
+      {
+        "id": "pool_smith_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Hear crisp hammer chimes echo against glowing coal embers!",
+            "es": "Oye resonar el martillo limpio sobre brasas vivas!"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Nothing shapes dull iron like honest sweat and good ore!",
+            "es": "Nada moldea hierro opaco como sudor honesto y buen mineral!"
+          }
+        ],
+        "locations": [
+          "Blacksmith"
+        ]
+      },
+      {
+        "id": "pool_smith_2",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Cracking dusty mystery geodes feels like unwrapping ancient shiny surprises!",
+            "es": "Abrir geodas polvosas se siente como destapar sorpresas antiguas brillantes!"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Crossing fingers for diamonds or pristine iridium sparkles today!",
+            "es": "Cruzando dedos por diamantes o destellos de iridio hoy!"
+          }
+        ],
+        "locations": [
+          "Blacksmith"
+        ]
+      }
+    ],
+    "sciencehouse": [
+      {
+        "id": "pool_sci_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 32,
+            "en": "Between sawdust stacks and botanical beakers, this house bursts with invention!",
+            "es": "Entre virutas de madera y matraces botanicos, esta casa rebosa ingenio!"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Half of Pelican Town's finest upgrades literally started right at those tables!",
+            "es": "Media mejora del valle literalmente nacio justo en esas mesas!"
+          }
+        ],
+        "locations": [
+          "ScienceHouse"
+        ]
+      }
+    ],
+    "storm": [
+      {
+        "id": "pool_storm_1",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 16,
+            "en": "Whoa—did lightning just flash straight across mountain pine ridges?!",
+            "es": "Uau... un rayo acaba de cruzar directo sobre pinos de la cumbre?!"
+          },
+          {
+            "speaker": "B",
+            "emote": 32,
+            "en": "Counted three seconds before thunder boomed! Stay clear of tall copper rods!",
+            "es": "Conte tres segundos antes del trueno! Lejos de postes metalicos!"
+          }
+        ],
+        "weather": [
+          "storm"
+        ]
+      },
+      {
+        "id": "pool_storm_2",
+        "childSafe": true,
+        "turns": [
+          {
+            "speaker": "A",
+            "emote": 28,
+            "en": "Fierce storm gusts shake shutters hard today—least fields soak plenty water!",
+            "es": "Rachas fuertes sacuden ventanas hoy... al menos campos beben agua!"
+          },
+          {
+            "speaker": "B",
+            "emote": 20,
+            "en": "Plus lightning rods turn fierce tempest bolts straight into gold battery packs!",
+            "es": "Y pararrayos convierten rayos bravos directo en baterias valiosas!"
+          }
+        ],
+        "weather": [
+          "storm"
+        ]
+      }
+    ]
+  }
+}

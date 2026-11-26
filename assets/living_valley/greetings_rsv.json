@@ -1,0 +1,3858 @@
+{
+  "characters": {
+    "June": {
+      "birthday": [
+        {
+          "id": "rsv_june_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_june_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch warm hotel piano melodies!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con melodias calidas de piano!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_june_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_june_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_june_rain_5",
+          "emote": 32,
+          "en": "Raindrops make soft natural percussion beside parlor windows, {farmer}.",
+          "es": "La lluvia suena como suave percusion natural junto a las ventanas, {farmer}."
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_june_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending warm hotel piano melodies, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo melodias calidas de piano, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_june_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above warm hotel piano melodies, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre melodias calidas de piano, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_june_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_june_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past warm hotel piano melodies, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de melodias calidas de piano, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_june_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around warm hotel piano melodies!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con melodias calidas de piano!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_june_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of warm hotel piano melodies!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando melodias calidas de piano!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_june_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_june_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_june_spouse_14",
+          "emote": 20,
+          "en": "Hearing your footsteps feels gentler than any Chopin chord, {farmer}. See you home at {farm}!",
+          "es": "Oir tus pasos suena mas dulce que cualquier acorde de piano, {farmer}. Nos vemos en {farm}!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_june_dating_15",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_june_close_friend_16",
+          "emote": 20,
+          "en": "Every evening feels warmer with a thoughtful music lover like you in town, {farmer}!",
+          "es": "Cada tarde abriga mas con un amante de la musica como tu aqui, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_june_friend_17",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_june_acquaintance_18",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Jio": {
+      "birthday": [
+        {
+          "id": "rsv_jio_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_jio_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch ancient ninja spirit forests!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con bosques antiguos ninja!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_jio_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_jio_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_jio_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_jio_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending ancient ninja spirit forests, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo bosques antiguos ninja, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_jio_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above ancient ninja spirit forests, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre bosques antiguos ninja, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_jio_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_jio_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past ancient ninja spirit forests, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de bosques antiguos ninja, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_jio_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around ancient ninja spirit forests!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con bosques antiguos ninja!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_jio_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of ancient ninja spirit forests!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando bosques antiguos ninja!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_jio_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_jio_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_jio_spouse_14",
+          "emote": 20,
+          "en": "Quiet shadows cannot hide how brightly you anchor my heart, {farmer}. Walk safe.",
+          "es": "Ninguna sombra oculta lo fuerte que anclas mi corazon, {farmer}. Camina a salvo."
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_jio_dating_15",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_jio_close_friend_16",
+          "emote": 20,
+          "en": "Your silent resolve earns profound ninja respect, {farmer}. Protect {farm} well.",
+          "es": "Tu resolucion serena gana profundo respeto ninja, {farmer}. Cuida bien {farm}."
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_jio_friend_17",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_jio_acquaintance_18",
+          "emote": 32,
+          "en": "Silent greetings, outlander {farmer}. Keep balance along steep paths.",
+          "es": "Saludos discretos, viajero {farmer}. Manten equilibrio por senderos altos."
+        }
+      ]
+    },
+    "Ian": {
+      "birthday": [
+        {
+          "id": "rsv_ian_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_ian_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch helpful odd-jobs & carpentry!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con chapuzas utiles y carpinteria!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_ian_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_ian_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_ian_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_ian_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending helpful odd-jobs & carpentry, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo chapuzas utiles y carpinteria, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_ian_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above helpful odd-jobs & carpentry, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre chapuzas utiles y carpinteria, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_ian_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_ian_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past helpful odd-jobs & carpentry, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de chapuzas utiles y carpinteria, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_ian_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around helpful odd-jobs & carpentry!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con chapuzas utiles y carpinteria!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_ian_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of helpful odd-jobs & carpentry!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando chapuzas utiles y carpinteria!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_ian_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_ian_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_ian_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_ian_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_ian_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_ian_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_ian_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Any leaky barn beams or wobbly shelves over at {farm}? Give me a shout!",
+          "es": "Hey {farmer}! Vigas flojas o estantes chuecos en {farm}? Dame un grito!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_ian_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Philip": {
+      "birthday": [
+        {
+          "id": "rsv_philip_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_philip_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch focused clinic checkups & warm tea!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con revisiones medicas y te tibio!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_philip_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_philip_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_philip_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_philip_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending focused clinic checkups & warm tea, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo revisiones medicas y te tibio, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_philip_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above focused clinic checkups & warm tea, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre revisiones medicas y te tibio, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_philip_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_philip_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past focused clinic checkups & warm tea, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de revisiones medicas y te tibio, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_philip_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around focused clinic checkups & warm tea!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con revisiones medicas y te tibio!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_philip_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of focused clinic checkups & warm tea!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando revisiones medicas y te tibio!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_philip_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_philip_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_philip_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_philip_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_philip_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_philip_close_friend_17",
+          "emote": 20,
+          "en": "Always relieves stress spotting you smiling healthy, {farmer}! Don't skip meals!",
+          "es": "Siempre alivia verte sano y sonriendo, {farmer}! No te saltes comidas!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_philip_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_philip_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Flor": {
+      "birthday": [
+        {
+          "id": "rsv_flor_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_flor_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch quiet psychology books & starry skies!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con libros tranquilos y estrellas!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_flor_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_flor_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_flor_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_flor_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending quiet psychology books & starry skies, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo libros tranquilos y estrellas, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_flor_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above quiet psychology books & starry skies, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre libros tranquilos y estrellas, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_flor_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_flor_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past quiet psychology books & starry skies, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de libros tranquilos y estrellas, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_flor_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around quiet psychology books & starry skies!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con libros tranquilos y estrellas!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_flor_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of quiet psychology books & starry skies!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando libros tranquilos y estrellas!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_flor_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_flor_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_flor_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_flor_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_flor_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_flor_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_flor_friend_18",
+          "emote": 32,
+          "en": "O-oh, hi {farmer}! Hope today brings gentle calm feelings out on {farm}.",
+          "es": "O-oh, hola {farmer}! Espero que hoy traiga calma amable alla en {farm}."
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_flor_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Maddie": {
+      "birthday": [
+        {
+          "id": "rsv_maddie_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_maddie_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch fascinating deep botanical research!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con investigacion botanica profunda!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_maddie_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_maddie_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_maddie_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_maddie_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending fascinating deep botanical research, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo investigacion botanica profunda, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_maddie_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above fascinating deep botanical research, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre investigacion botanica profunda, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_maddie_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_maddie_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past fascinating deep botanical research, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de investigacion botanica profunda, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_maddie_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around fascinating deep botanical research!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con investigacion botanica profunda!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_maddie_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of fascinating deep botanical research!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando investigacion botanica profunda!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_maddie_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_maddie_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_maddie_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_maddie_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_maddie_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_maddie_close_friend_17",
+          "emote": 20,
+          "en": "Okay, only you get full access to my greenhouse notes, {farmer}. Look after {farm}!",
+          "es": "Vale, solo tu tienes acceso a mis apuntes de laboratorio, {farmer}. Cuida {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_maddie_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_maddie_acquaintance_19",
+          "emote": 32,
+          "en": "Wait—stay out of my specimen sightlines unless you brought tea, {farmer}! Wait... hi.",
+          "es": "Espera... no tapes mis muestras salvo que traigas te, {farmer}! Bueno... hola."
+        }
+      ]
+    },
+    "Kenneth": {
+      "birthday": [
+        {
+          "id": "rsv_kenneth_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_kenneth_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch reliable electrical grid tuning!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con ajustes electricos confiables!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_kenneth_storm_3",
+          "emote": 32,
+          "en": "Checking ridge transformers tight during heavy thunder today, {farmer}!",
+          "es": "Revisando transformadores con cuidado bajo tormenta hoy, {farmer}!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_kenneth_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_kenneth_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_kenneth_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending reliable electrical grid tuning, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo ajustes electricos confiables, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_kenneth_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above reliable electrical grid tuning, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre ajustes electricos confiables, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_kenneth_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_kenneth_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past reliable electrical grid tuning, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de ajustes electricos confiables, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_kenneth_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around reliable electrical grid tuning!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con ajustes electricos confiables!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_kenneth_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of reliable electrical grid tuning!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando ajustes electricos confiables!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_kenneth_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_kenneth_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_kenneth_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_kenneth_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_kenneth_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_kenneth_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_kenneth_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_kenneth_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Corine": {
+      "birthday": [
+        {
+          "id": "rsv_corine_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_corine_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch organized hotel pantry errands!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con mandados ordenados del hotel!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_corine_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_corine_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_corine_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_corine_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending organized hotel pantry errands, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo mandados ordenados del hotel, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_corine_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above organized hotel pantry errands, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre mandados ordenados del hotel, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_corine_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_corine_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past organized hotel pantry errands, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de mandados ordenados del hotel, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_corine_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around organized hotel pantry errands!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con mandados ordenados del hotel!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_corine_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of organized hotel pantry errands!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando mandados ordenados del hotel!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_corine_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_corine_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_corine_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_corine_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_corine_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_corine_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_corine_friend_18",
+          "emote": 32,
+          "en": "Hi {farmer}! Running checklists briskly between town shops today!",
+          "es": "Hola {farmer}! Tachando listas rapido entre tiendas hoy!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_corine_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Alissa": {
+      "birthday": [
+        {
+          "id": "rsv_alissa_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_alissa_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch melodic sweet singing breezes!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con melodias dulces al viento!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_alissa_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_alissa_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_alissa_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_alissa_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending melodic sweet singing breezes, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo melodias dulces al viento, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_alissa_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above melodic sweet singing breezes, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre melodias dulces al viento, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_alissa_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_alissa_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past melodic sweet singing breezes, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de melodias dulces al viento, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_alissa_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around melodic sweet singing breezes!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con melodias dulces al viento!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_alissa_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of melodic sweet singing breezes!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando melodias dulces al viento!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_alissa_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_alissa_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_alissa_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_alissa_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_alissa_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_alissa_close_friend_17",
+          "emote": 20,
+          "en": "Humming happy tunes just spotting you walking past, {farmer}!",
+          "es": "Tarareando melodias alegres solo al verte pasar, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_alissa_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_alissa_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Jeric": {
+      "birthday": [
+        {
+          "id": "rsv_jeric_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_jeric_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch sunlit berry vineyards & charm!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con vinedos dulces y carisma!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_jeric_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_jeric_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_jeric_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_jeric_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending sunlit berry vineyards & charm, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo vinedos dulces y carisma, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_jeric_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above sunlit berry vineyards & charm, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre vinedos dulces y carisma, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_jeric_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_jeric_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past sunlit berry vineyards & charm, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de vinedos dulces y carisma, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_jeric_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around sunlit berry vineyards & charm!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con vinedos dulces y carisma!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_jeric_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of sunlit berry vineyards & charm!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando vinedos dulces y carisma!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_jeric_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_jeric_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_jeric_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_jeric_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_jeric_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_jeric_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_jeric_friend_18",
+          "emote": 32,
+          "en": "Well hello there, {farmer}! Want fresh berry farming tips anytime?",
+          "es": "Vaya hola, {farmer}! Quieres trucos frescos de cultivo cuando gustes?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_jeric_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Shiro": {
+      "birthday": [
+        {
+          "id": "rsv_shiro_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_shiro_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch caring family errands & gentle calm!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con recados familiares con calma!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_shiro_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_shiro_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_shiro_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_shiro_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending caring family errands & gentle calm, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo recados familiares con calma, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_shiro_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above caring family errands & gentle calm, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre recados familiares con calma, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_shiro_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_shiro_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past caring family errands & gentle calm, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de recados familiares con calma, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_shiro_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around caring family errands & gentle calm!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con recados familiares con calma!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_shiro_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of caring family errands & gentle calm!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando recados familiares con calma!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_shiro_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_shiro_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_shiro_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_shiro_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_shiro_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_shiro_close_friend_17",
+          "emote": 20,
+          "en": "Always feels grounding catching your friendly wave, {farmer}! Take care of {farm}!",
+          "es": "Siempre me da paz saludarte tan amable, {farmer}! Cuida mucho {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_shiro_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_shiro_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Ysabelle": {
+      "birthday": [
+        {
+          "id": "rsv_ysabelle_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_ysabelle_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch graceful ballet rhythms!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con ritmos elegantes de ballet!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_ysabelle_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_ysabelle_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_ysabelle_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_ysabelle_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending graceful ballet rhythms, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo ritmos elegantes de ballet, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_ysabelle_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above graceful ballet rhythms, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre ritmos elegantes de ballet, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_ysabelle_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_ysabelle_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past graceful ballet rhythms, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de ritmos elegantes de ballet, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_ysabelle_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around graceful ballet rhythms!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con ritmos elegantes de ballet!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_ysabelle_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of graceful ballet rhythms!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando ritmos elegantes de ballet!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_ysabelle_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_ysabelle_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_ysabelle_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_ysabelle_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_ysabelle_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_ysabelle_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_ysabelle_friend_18",
+          "emote": 32,
+          "en": "Keep balance light and heels nimble all day, {farmer}!",
+          "es": "Manten paso ligero y buen equilibrio todo el dia, {farmer}!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_ysabelle_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Pika": {
+      "birthday": [
+        {
+          "id": "rsv_pika_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_pika_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch savory sizzling skillet specials!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con guisos humeantes en sarten!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_pika_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_pika_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_pika_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_pika_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending savory sizzling skillet specials, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo guisos humeantes en sarten, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_pika_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above savory sizzling skillet specials, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre guisos humeantes en sarten, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_pika_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_pika_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past savory sizzling skillet specials, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de guisos humeantes en sarten, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_pika_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around savory sizzling skillet specials!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con guisos humeantes en sarten!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_pika_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of savory sizzling skillet specials!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando guisos humeantes en sarten!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_pika_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_pika_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_pika_close_friend_14",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_pika_friend_15",
+          "emote": 32,
+          "en": "Hungry stomach never wins farm work, {farmer}! Swing past Pika's anytime!",
+          "es": "Estomago vacio nunca gana faena, {farmer}! Pasa a comer donde Pika cuando quieras!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_pika_acquaintance_16",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Lenny": {
+      "birthday": [
+        {
+          "id": "rsv_lenny_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_lenny_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch orderly mayor community ledgers!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con cuentas ordenadas del pueblo!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_lenny_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_lenny_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_lenny_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_lenny_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending orderly mayor community ledgers, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo cuentas ordenadas del pueblo, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_lenny_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above orderly mayor community ledgers, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre cuentas ordenadas del pueblo, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_lenny_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_lenny_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past orderly mayor community ledgers, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de cuentas ordenadas del pueblo, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_lenny_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around orderly mayor community ledgers!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con cuentas ordenadas del pueblo!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_lenny_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of orderly mayor community ledgers!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando cuentas ordenadas del pueblo!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_lenny_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_lenny_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_lenny_close_friend_14",
+          "emote": 20,
+          "en": "Folks across Ridgeside beam seeing {farm}'s friendship grow stronger, {farmer}!",
+          "es": "Toda Ridgeside sonrie viendo crecer nuestra amistad con {farm}, {farmer}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_lenny_friend_15",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_lenny_acquaintance_16",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Paula": {
+      "birthday": [
+        {
+          "id": "rsv_paula_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_paula_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch steady clinic shifts & hiking spirit!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con turnos clinicos y senderismo!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_paula_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_paula_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_paula_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_paula_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending steady clinic shifts & hiking spirit, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo turnos clinicos y senderismo, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_paula_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above steady clinic shifts & hiking spirit, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre turnos clinicos y senderismo, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_paula_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_paula_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past steady clinic shifts & hiking spirit, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de turnos clinicos y senderismo, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_paula_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around steady clinic shifts & hiking spirit!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con turnos clinicos y senderismo!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_paula_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of steady clinic shifts & hiking spirit!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando turnos clinicos y senderismo!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_paula_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_paula_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_paula_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_paula_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_paula_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_paula_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_paula_friend_18",
+          "emote": 32,
+          "en": "Stretch calves well before hauling stone crates up ridge paths, {farmer}!",
+          "es": "Estira bien antes de subir cajas pesadas por laderas, {farmer}!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_paula_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Faye": {
+      "birthday": [
+        {
+          "id": "rsv_faye_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_faye_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch vivid bright boutique fabrics!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con telas vibrantes de boutique!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_faye_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_faye_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_faye_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_faye_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending vivid bright boutique fabrics, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo telas vibrantes de boutique, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_faye_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above vivid bright boutique fabrics, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre telas vibrantes de boutique, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_faye_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_faye_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past vivid bright boutique fabrics, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de telas vibrantes de boutique, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_faye_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around vivid bright boutique fabrics!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con telas vibrantes de boutique!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_faye_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of vivid bright boutique fabrics!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando telas vibrantes de boutique!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_faye_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_faye_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_faye_close_friend_14",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_faye_friend_15",
+          "emote": 32,
+          "en": "Ooh, crisp colors suit your outdoorsy style nicely, {farmer}!",
+          "es": "Ooh, colores nitidos combinan genial con tu estilo campestre, {farmer}!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_faye_acquaintance_16",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Kiwi": {
+      "birthday": [
+        {
+          "id": "rsv_kiwi_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_kiwi_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch secret ninja berry patrols!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con rondas secretas de bayas ninja!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_kiwi_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_kiwi_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_kiwi_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_kiwi_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending secret ninja berry patrols, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo rondas secretas de bayas ninja, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_kiwi_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above secret ninja berry patrols, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre rondas secretas de bayas ninja, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_kiwi_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_kiwi_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past secret ninja berry patrols, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de rondas secretas de bayas ninja, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_kiwi_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around secret ninja berry patrols!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con rondas secretas de bayas ninja!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_kiwi_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of secret ninja berry patrols!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando rondas secretas de bayas ninja!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_kiwi_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_kiwi_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "child": [
+        {
+          "id": "rsv_kiwi_child_14",
+          "emote": 32,
+          "en": "Pika-ninja Kiwi spotted you first, {farmer}!! Sneaky-sneak hi!!",
+          "es": "Ninja Kiwi te vio primero, {farmer}!! Hola sigiloso!!"
+        },
+        {
+          "id": "rsv_kiwi_child_15",
+          "emote": 20,
+          "en": "Got extra yummy red berries hiding in tree leaves, {farmer}?!",
+          "es": "Traes ricas bayas rojas escondidas entre hojas, {farmer}?!"
+        }
+      ]
+    },
+    "Daia": {
+      "birthday": [
+        {
+          "id": "rsv_daia_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_daia_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch bold mountain blade vigilance!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con vigilancia firme en montana!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_daia_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_daia_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_daia_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_daia_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending bold mountain blade vigilance, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo vigilancia firme en montana, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_daia_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above bold mountain blade vigilance, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre vigilancia firme en montana, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_daia_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_daia_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past bold mountain blade vigilance, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de vigilancia firme en montana, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_daia_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around bold mountain blade vigilance!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con vigilancia firme en montana!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_daia_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of bold mountain blade vigilance!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando vigilancia firme en montana!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_daia_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_daia_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_daia_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_daia_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_daia_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_daia_close_friend_17",
+          "emote": 20,
+          "en": "Spirits smile brightly whenever bold {farmer} walks upright past!",
+          "es": "Los espiritus sonrien cuando el valiente {farmer} pasa con paso firme!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_daia_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_daia_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Sean": {
+      "birthday": [
+        {
+          "id": "rsv_sean_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_sean_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch energetic river runs & sports!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con carreras junto al rio!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_sean_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_sean_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_sean_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_sean_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending energetic river runs & sports, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo carreras junto al rio, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_sean_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above energetic river runs & sports, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre carreras junto al rio, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_sean_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_sean_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past energetic river runs & sports, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de carreras junto al rio, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_sean_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around energetic river runs & sports!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con carreras junto al rio!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_sean_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of energetic river runs & sports!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando carreras junto al rio!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_sean_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_sean_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_sean_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_sean_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_sean_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_sean_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_sean_friend_18",
+          "emote": 32,
+          "en": "Out logging five crisp miles before sunset, {farmer}! Keep moving!",
+          "es": "Corriendo cinco millas limpias antes del ocaso, {farmer}! Sigue en movimiento!"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_sean_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Blair": {
+      "birthday": [
+        {
+          "id": "rsv_blair_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_blair_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch sunny breezy coastal fishing talks!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con charlas frescas de pesca costera!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_blair_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_blair_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_blair_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_blair_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending sunny breezy coastal fishing talks, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo charlas frescas de pesca costera, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_blair_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above sunny breezy coastal fishing talks, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre charlas frescas de pesca costera, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_blair_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_blair_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past sunny breezy coastal fishing talks, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de charlas frescas de pesca costera, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_blair_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around sunny breezy coastal fishing talks!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con charlas frescas de pesca costera!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_blair_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of sunny breezy coastal fishing talks!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando charlas frescas de pesca costera!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_blair_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_blair_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_blair_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_blair_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_blair_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_blair_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_blair_friend_18",
+          "emote": 32,
+          "en": "Catching big river trout or harvesting fine greens down at {farm}, {farmer}?",
+          "es": "Pescando truchas grandes o cosechando verde fresco en {farm}, {farmer}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_blair_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Keahi": {
+      "birthday": [
+        {
+          "id": "rsv_keahi_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_keahi_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch mischievous ridge prank plans!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con travesuras alegres en colinas!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_keahi_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_keahi_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_keahi_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_keahi_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending mischievous ridge prank plans, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo travesuras alegres en colinas, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_keahi_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above mischievous ridge prank plans, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre travesuras alegres en colinas, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_keahi_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_keahi_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past mischievous ridge prank plans, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de travesuras alegres en colinas, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_keahi_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around mischievous ridge prank plans!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con travesuras alegres en colinas!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_keahi_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of mischievous ridge prank plans!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando travesuras alegres en colinas!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_keahi_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_keahi_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "child": [
+        {
+          "id": "rsv_keahi_child_14",
+          "emote": 32,
+          "en": "Heya {farmer}!! Watch your boots for suspicious frog shortcuts—hehe!",
+          "es": "Hola {farmer}!! Cuida tus botas de atajos sospechosos con ranas... jeje!"
+        },
+        {
+          "id": "rsv_keahi_child_15",
+          "emote": 20,
+          "en": "Wait—did you see giant bugs up behind mountain pines, {farmer}?!",
+          "es": "Oye... viste bichos gigantes tras los pinos altos, {farmer}?!"
+        }
+      ]
+    },
+    "Trinnie": {
+      "birthday": [
+        {
+          "id": "rsv_trinnie_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_trinnie_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch sparkly dress ribbons & cheerful gossip!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con lazos brillantes y charla alegre!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_trinnie_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_trinnie_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_trinnie_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_trinnie_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending sparkly dress ribbons & cheerful gossip, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo lazos brillantes y charla alegre, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_trinnie_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above sparkly dress ribbons & cheerful gossip, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre lazos brillantes y charla alegre, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_trinnie_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_trinnie_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past sparkly dress ribbons & cheerful gossip, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de lazos brillantes y charla alegre, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_trinnie_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around sparkly dress ribbons & cheerful gossip!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con lazos brillantes y charla alegre!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_trinnie_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of sparkly dress ribbons & cheerful gossip!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando lazos brillantes y charla alegre!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_trinnie_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_trinnie_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "child": [
+        {
+          "id": "rsv_trinnie_child_14",
+          "emote": 32,
+          "en": "Hi {farmer}!! Doesn't town square look super fancy in afternoon light?",
+          "es": "Hola {farmer}!! Verdad que la plaza luce re linda con luz de tarde?"
+        },
+        {
+          "id": "rsv_trinnie_child_15",
+          "emote": 20,
+          "en": "Keahi better not drop mud bugs near my new ribbons, right {farmer}?!",
+          "es": "Mas vale que Keahi no tire bichos cerca de mis lazos nuevos, verdad {farmer}?!"
+        }
+      ]
+    },
+    "Anton": {
+      "birthday": [
+        {
+          "id": "rsv_anton_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_anton_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch sharp kitchen pans & quiet pride!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con sartenes precisas y orgullo!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_anton_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_anton_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_anton_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_anton_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending sharp kitchen pans & quiet pride, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo sartenes precisas y orgullo, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_anton_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above sharp kitchen pans & quiet pride, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre sartenes precisas y orgullo, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_anton_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_anton_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past sharp kitchen pans & quiet pride, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de sartenes precisas y orgullo, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_anton_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around sharp kitchen pans & quiet pride!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con sartenes precisas y orgullo!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_anton_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of sharp kitchen pans & quiet pride!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando sartenes precisas y orgullo!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_anton_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_anton_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_anton_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_anton_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_anton_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_anton_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_anton_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_anton_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Kiarra": {
+      "birthday": [
+        {
+          "id": "rsv_kiarra_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_kiarra_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch sunny lively shop counter music!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con musica viva en mostrador!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_kiarra_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_kiarra_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_kiarra_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_kiarra_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending sunny lively shop counter music, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo musica viva en mostrador, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_kiarra_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above sunny lively shop counter music, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre musica viva en mostrador, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_kiarra_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_kiarra_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past sunny lively shop counter music, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de musica viva en mostrador, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_kiarra_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around sunny lively shop counter music!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con musica viva en mostrador!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_kiarra_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of sunny lively shop counter music!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando musica viva en mostrador!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_kiarra_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_kiarra_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "spouse": [
+        {
+          "id": "rsv_kiarra_spouse_14",
+          "emote": 20,
+          "en": "My favorite smile in both valley and ridge, {farmer}! Love you to bits—see you at {farm}!",
+          "es": "Mi sonrisa favorita entre valle y cumbre, {farmer}! Te amo mucho... nos vemos en {farm}!"
+        },
+        {
+          "id": "rsv_kiarra_spouse_15",
+          "emote": 20,
+          "en": "Missing your warm arms back home already, sweetheart—don't overdo chores!",
+          "es": "Ya extrano tus abrazos en casa, carino... no te excedas trabajando!"
+        }
+      ],
+      "dating": [
+        {
+          "id": "rsv_kiarra_dating_16",
+          "emote": 20,
+          "en": "Oh, {farmer}!! Funny how my focus vanishes whenever you stroll by looking this good!",
+          "es": "Oh, {farmer}!! Curioso como pierdo el hilo cuando pasas viendote tan bien!"
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_kiarra_close_friend_17",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_kiarra_friend_18",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_kiarra_acquaintance_19",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Naomi": {
+      "birthday": [
+        {
+          "id": "rsv_naomi_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_naomi_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch cozy warm motherly smiles!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con sonrisas calidas maternales!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_naomi_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_naomi_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_naomi_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_naomi_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending cozy warm motherly smiles, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo sonrisas calidas maternales, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_naomi_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above cozy warm motherly smiles, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre sonrisas calidas maternales, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_naomi_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_naomi_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past cozy warm motherly smiles, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de sonrisas calidas maternales, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_naomi_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around cozy warm motherly smiles!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con sonrisas calidas maternales!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_naomi_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of cozy warm motherly smiles!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando sonrisas calidas maternales!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_naomi_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_naomi_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_naomi_close_friend_14",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_naomi_friend_15",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_naomi_acquaintance_16",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Richard": {
+      "birthday": [
+        {
+          "id": "rsv_richard_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_richard_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch polite crisp hotel hospitality!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con hospitalidad impecable de hotel!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_richard_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_richard_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_richard_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_richard_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending polite crisp hotel hospitality, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo hospitalidad impecable de hotel, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_richard_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above polite crisp hotel hospitality, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre hospitalidad impecable de hotel, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_richard_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_richard_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past polite crisp hotel hospitality, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de hospitalidad impecable de hotel, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_richard_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around polite crisp hotel hospitality!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con hospitalidad impecable de hotel!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_richard_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of polite crisp hotel hospitality!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando hospitalidad impecable de hotel!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_richard_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_richard_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "close_friend": [
+        {
+          "id": "rsv_richard_close_friend_14",
+          "emote": 20,
+          "en": "Best ally up north and south alike, {farmer}! Proud cheering on {farm}!",
+          "es": "Mejor aliado arriba y abajo del monte, {farmer}! Orgullo animando a {farm}!"
+        }
+      ],
+      "friend": [
+        {
+          "id": "rsv_richard_friend_15",
+          "emote": 32,
+          "en": "Hey {farmer}! Fresh mountain air and busy hands treating {farm} nicely?",
+          "es": "Hola {farmer}! Buen aire de montana y trabajo prospero por {farm}?"
+        }
+      ],
+      "acquaintance": [
+        {
+          "id": "rsv_richard_acquaintance_16",
+          "emote": 32,
+          "en": "Hello, {farmer}! Drop by Ridgeside anytime you need a scenic breather!",
+          "es": "Hola, {farmer}! Sube a Ridgeside cuando quieras aire fresco y paisajes!"
+        }
+      ]
+    },
+    "Yuuma": {
+      "birthday": [
+        {
+          "id": "rsv_yuuma_birthday_1",
+          "emote": 20,
+          "en": "Thank you so much for greeting me on my birthday, {farmer}! Ridgeside company warms my heart!",
+          "es": "Muchas gracias por saludarme en mi cumpleanos, {farmer}! Su compania alegra el corazon!"
+        }
+      ],
+      "green_rain": [
+        {
+          "id": "rsv_yuuma_green_rain_2",
+          "emote": 32,
+          "en": "Wild emerald mist drifting over mountain stairs, {farmer}—watch gentle sketchbook forest walks!",
+          "es": "Bruma esmeralda bajando por escaleras de la cumbre, {farmer}... cuidado con paseos serenos con cuaderno!"
+        }
+      ],
+      "storm": [
+        {
+          "id": "rsv_yuuma_storm_3",
+          "emote": 32,
+          "en": "Loud thunder rolling down Ridgeside ridges today, {farmer}! Shelter safe!",
+          "es": "Fuertes truenos retumbando desde Ridgeside hoy, {farmer}! Resguardate bien!"
+        }
+      ],
+      "snow": [
+        {
+          "id": "rsv_yuuma_snow_4",
+          "emote": 32,
+          "en": "Crisp snow piles quick along hillside slopes, {farmer}—stay bundled up!",
+          "es": "La nieve junta rapido por laderas altas, {farmer}... abrigate muy bien!"
+        }
+      ],
+      "rain": [
+        {
+          "id": "rsv_yuuma_rain_5",
+          "emote": 32,
+          "en": "Mist and raindrops keep ridge paths fresh today, {farmer}. Watch slippery steps!",
+          "es": "Bruma y gotas mantienen frescos senderos de montana, {farmer}. Cuida escalones!"
+        }
+      ],
+      "spring": [
+        {
+          "id": "rsv_yuuma_spring_6",
+          "emote": 32,
+          "en": "Spring flowers spill brightly down ridge walkways while tending gentle sketchbook forest walks, {farmer}!",
+          "es": "Flores primaverales alegran el camino mientras atiendo paseos serenos con cuaderno, {farmer}!"
+        }
+      ],
+      "summer": [
+        {
+          "id": "rsv_yuuma_summer_7",
+          "emote": 32,
+          "en": "Summer breezes stay cooler up hillside above gentle sketchbook forest walks, {farmer}!",
+          "es": "La brisa veraniega corre mas fresca alla arriba entre paseos serenos con cuaderno, {farmer}!"
+        }
+      ],
+      "fall": [
+        {
+          "id": "rsv_yuuma_fall_8",
+          "emote": 32,
+          "en": "Crimson mountain maples turn every turn breathtaking, {farmer}!",
+          "es": "Arces rojos de montana vuelven hermoso cada recodo, {farmer}!"
+        }
+      ],
+      "winter": [
+        {
+          "id": "rsv_yuuma_winter_9",
+          "emote": 32,
+          "en": "Cozy winter lanterns guide clear paths past gentle sketchbook forest walks, {farmer}.",
+          "es": "Faroles calidos guian pasos limpios cerca de paseos serenos con cuaderno, {farmer}."
+        }
+      ],
+      "morning": [
+        {
+          "id": "rsv_yuuma_morning_10",
+          "emote": 32,
+          "en": "Good morning from the hillside, {farmer}! Starting bright around gentle sketchbook forest walks!",
+          "es": "Buenos dias desde la colina, {farmer}! Empezando firme con paseos serenos con cuaderno!"
+        }
+      ],
+      "afternoon": [
+        {
+          "id": "rsv_yuuma_afternoon_11",
+          "emote": 32,
+          "en": "Afternoon, {farmer}! Busy afternoon taking care of gentle sketchbook forest walks!",
+          "es": "Buenas tardes, {farmer}! Tarde movida cuidando paseos serenos con cuaderno!"
+        }
+      ],
+      "evening": [
+        {
+          "id": "rsv_yuuma_evening_12",
+          "emote": 32,
+          "en": "Twilight cable car glow looks gorgeous tonight, {farmer}.",
+          "es": "La luz vespertina del teleferico luce preciosa hoy, {farmer}."
+        }
+      ],
+      "night": [
+        {
+          "id": "rsv_yuuma_night_13",
+          "emote": 32,
+          "en": "Safe lanterns down to {farm}, {farmer}! Sleep peaceful.",
+          "es": "Faroles seguros de vuelta hacia {farm}, {farmer}! Descansa en paz."
+        }
+      ],
+      "child": [
+        {
+          "id": "rsv_yuuma_child_14",
+          "emote": 32,
+          "en": "Hi {farmer}!! Guess what cool adventure happened around gentle sketchbook forest walks today?!",
+          "es": "Hola {farmer}!! Adivina que aventura genial paso cerca de paseos serenos con cuaderno hoy?!"
+        },
+        {
+          "id": "rsv_yuuma_child_15",
+          "emote": 20,
+          "en": "Yay, it's {farmer} from {farm}! Come play up Ridgeside hill soon!",
+          "es": "Yuju, es {farmer} de {farm}! Sube pronto a jugar por Ridgeside!"
+        }
+      ]
+    }
+  }
+}

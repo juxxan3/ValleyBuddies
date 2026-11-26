@@ -1,0 +1,438 @@
+{
+  "vignettes": [
+    {
+      "id": "vig_sve_claire_shane_joja",
+      "category": "work_mishap_help",
+      "npcA": "Claire",
+      "npcB": "Shane",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 28,
+          "en": "Ugh, scanner gun froze mid-rush again while four cereal boxes tipped!",
+          "es": "Uf, el escaner se trabo otra vez mientras cayeron cajas!",
+          "sound": "thudStep",
+          "fx": "dust"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 32,
+          "en": "Slap it once on side B and stack those boxes—old pro trick, Claire.",
+          "es": "Golpecito leve al costado y listo... viejo truco de turno, Claire.",
+          "otherEmote": 20,
+          "sound": "dwop",
+          "fx": "sparkle"
+        }
+      ],
+      "locations": [
+        "JojaMart",
+        "Town"
+      ]
+    },
+    {
+      "id": "vig_sve_claire_morris_register",
+      "category": "work_mishap_help",
+      "npcA": "Claire",
+      "npcB": "Morris",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 16,
+          "en": "Whoa—coupon reel unwound straight down counter aisle!",
+          "es": "Uau... el rollo de cupones rodo directo al pasillo!",
+          "sound": "leafrustle"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 32,
+          "en": "Stepping right ahead cleanly—let's rewind spool smoothly before patrons trip, Claire.",
+          "es": "Permiteme... enrollemos esto con orden antes que tropiecen clientes, Claire.",
+          "sound": "dwop"
+        }
+      ],
+      "locations": [
+        "JojaMart"
+      ]
+    },
+    {
+      "id": "vig_sve_claire_morristod_register",
+      "category": "work_mishap_help",
+      "npcA": "Claire",
+      "npcB": "MorrisTod",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 16,
+          "en": "Whoa—coupon reel unwound straight down counter aisle!",
+          "es": "Uau... el rollo de cupones rodo directo al pasillo!",
+          "sound": "leafrustle"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 32,
+          "en": "Stepping right ahead cleanly—let's rewind spool smoothly before patrons trip, Claire.",
+          "es": "Permiteme... enrollemos esto con orden antes que tropiecen clientes, Claire.",
+          "sound": "dwop"
+        }
+      ],
+      "locations": [
+        "JojaMart"
+      ]
+    },
+    {
+      "id": "vig_sve_sophia_scarlett_sketches",
+      "category": "dropped_items",
+      "npcA": "Sophia",
+      "npcB": "Scarlett",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 16,
+          "en": "Kyaa! My limited-edition manga sketches slipped straight out of my bag!",
+          "es": "Kyaa! Mis bocetos edicion limitada volaron fuera de la bolsa!",
+          "fx": "leaf"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 20,
+          "en": "Snatched every loose page mid-air!! Wait—that cel shading linework looks incredible, Soph!",
+          "es": "Atrape cada hoja al vuelo!! Oye... ese trazo esta increible, Soph!",
+          "otherEmote": 52,
+          "sound": "shiny4",
+          "fx": "sparkle"
+        }
+      ],
+      "locations": [
+        "Town",
+        "Forest"
+      ]
+    },
+    {
+      "id": "vig_sve_martin_gunther_scrolls",
+      "category": "dropped_items",
+      "npcA": "Martin",
+      "npcB": "GuntherSilvian",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 16,
+          "en": "Yikes—my library history stack nearly toppled across marble tiles!",
+          "es": "Uy... mi pila de libros casi se cae sobre el marmol!",
+          "sound": "thudStep"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 32,
+          "en": "Steady elbow catch, young scholar! Good balance counts among archivists.",
+          "es": "Buen reflejo, joven estudiante! El pulso firme salva pergaminos.",
+          "otherEmote": 20,
+          "sound": "dwop"
+        }
+      ],
+      "locations": [
+        "ArchaeologyHouse",
+        "Town"
+      ]
+    },
+    {
+      "id": "vig_sve_sophia_victor_banter",
+      "category": "workplace_banter",
+      "npcA": "Sophia",
+      "npcB": "Victor",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Victor, swear those new Blue Moon crates smell sweet enough from two streets over!",
+          "es": "Victor, juro que esas uvas dulces huelen hasta dos cuadras!",
+          "fx": "sparkle"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 20,
+          "en": "Pelican Valley's finest vintage paired with piano chords beats big-city traffic anytime!",
+          "es": "La mejor cosecha del valle y piano superan la ciudad sin duda!",
+          "otherEmote": 20
+        }
+      ],
+      "locations": [
+        "Town",
+        "Saloon"
+      ]
+    },
+    {
+      "id": "vig_sve_olivia_victor_toast",
+      "category": "workplace_banter",
+      "npcA": "Olivia",
+      "npcB": "Victor",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Did you hear how well {farm} crops fared at market this week, Victor?",
+          "es": "Oiste que bien le fue a la cosecha de {farm} esta semana, Victor?"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 20,
+          "en": "Honestly inspiring watching {farmer} transform old soil into valley pride, Mom.",
+          "es": "Inspira mucho ver a {farmer} volver oro esa vieja tierra, mama.",
+          "otherEmote": 20,
+          "fx": "sparkle"
+        }
+      ],
+      "locations": [
+        "Town",
+        "Saloon"
+      ]
+    },
+    {
+      "id": "vig_sve_marlon_isaac_guild",
+      "category": "workplace_banter",
+      "npcA": "MarlonFay",
+      "npcB": "Isaac",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Crimson Badlands winds feel sharper lately—keep double healing salves stocked, Isaac.",
+          "es": "Vientos de Tierras Carmesi soplan fuertes hoy... lleva pociones extra, Isaac."
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 32,
+          "en": "Steel polished, shield oiled, and {farmer} watching our flank—zero worries!",
+          "es": "Acero pulido, escudo firme y {farmer} cubriendo flanco... cero dudas!",
+          "otherEmote": 20,
+          "sound": "clank"
+        }
+      ],
+      "locations": [
+        "AdventureGuild",
+        "Mountain",
+        "Town"
+      ]
+    },
+    {
+      "id": "vig_sve_rain_claire_victor",
+      "category": "rain_shelter_laugh",
+      "npcA": "Claire",
+      "npcB": "Victor",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Phew—made it under awnings half a second before skies soaked my script notes!",
+          "es": "Uf... llegue bajo el alero medio segundo antes de mojar mis guiones!",
+          "sound": "dwop",
+          "fx": "splash"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 200,
+          "emote": 20,
+          "en": "Dramatic stormy lighting gives every Pelican Town street pure cinema flair, though!",
+          "es": "Bueno... luz de tormenta vuelve digna de cine cada calle del pueblo!",
+          "otherEmote": 20
+        }
+      ],
+      "weather": [
+        "rain",
+        "storm"
+      ]
+    },
+    {
+      "id": "vig_sve_seasonal_susan_apples",
+      "category": "seasonal_wonder",
+      "npcA": "Susan",
+      "npcB": "Apples",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 20,
+          "en": "Sweet apple trees hum brightest whenever cheerful forest whispers swing past!",
+          "es": "Los manzanos lucen mas vivos cuando sopla magia del bosque!",
+          "fx": "leaf"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 195,
+          "emote": 20,
+          "en": "Chirp-yay!! Apples counts shiny happy red apples with {farmer} friends!!",
+          "es": "Pio-yuju!! Apples cuenta ricas manzanas brillantes con amigos de {farm}!!",
+          "sound": "wand",
+          "fx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "vig_sve_seasonal_camilla_wizard",
+      "category": "seasonal_wonder",
+      "npcA": "Camilla",
+      "npcB": "Wizard",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Enchanting atmospheric resonances rippling past valley ley lines today, Razmodius.",
+          "es": "Encantadoras resonancias magicas recorren hoy el valle, Razmodius.",
+          "sound": "wand",
+          "fx": "sparkle"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 32,
+          "en": "Indeed, Camilla. Rare harmony stirs whenever sky and ancient soil commune cleanly.",
+          "es": "Cierto, Camilla. Rara armonia surge cuando cielo y tierra antigua dialogan.",
+          "otherEmote": 32
+        }
+      ]
+    },
+    {
+      "id": "vig_sve_music_claire_town",
+      "category": "street_music_cheer",
+      "npcA": "Claire",
+      "npcB": null,
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 56,
+          "en": "La-la-la... testing vocal warmups softly before tonight's rehearsal sounds so bright!",
+          "es": "La-la-la... ensayar respiracion vocal al aire libre suena clarisimo!",
+          "sound": "flute",
+          "fx": "music"
+        }
+      ],
+      "locations": [
+        "Town",
+        "BusStop"
+      ]
+    },
+    {
+      "id": "vig_sve_praise_andy_morris",
+      "category": "farmer_praise",
+      "npcA": "Andy",
+      "npcB": "Morris",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Even tight city books gotta tip hats to how clean {farmer} runs {farm}, eh?",
+          "es": "Hasta libros de ciudad reconocen lo bien que {farmer} lleva {farm}, no?"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 32,
+          "en": "Metrics never lie, Andrew—{farm} produces remarkable yield curves!",
+          "es": "Los numeros no mienten, Andrew... {farm} entrega resultados notables!",
+          "otherEmote": 20,
+          "fx": "sparkle"
+        }
+      ],
+      "locations": [
+        "Town"
+      ]
+    },
+    {
+      "id": "vig_sve_praise_andy_morristod",
+      "category": "farmer_praise",
+      "npcA": "Andy",
+      "npcB": "MorrisTod",
+      "childSafe": true,
+      "requirePet": false,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 32,
+          "en": "Even tight city books gotta tip hats to how clean {farmer} runs {farm}, eh?",
+          "es": "Hasta libros de ciudad reconocen lo bien que {farmer} lleva {farm}, no?"
+        },
+        {
+          "speaker": "B",
+          "delayTicks": 205,
+          "emote": 32,
+          "en": "Metrics never lie, Andrew—{farm} produces remarkable yield curves!",
+          "es": "Los numeros no mienten, Andrew... {farm} entrega resultados notables!",
+          "otherEmote": 20,
+          "fx": "sparkle"
+        }
+      ],
+      "locations": [
+        "Town"
+      ]
+    },
+    {
+      "id": "vig_sve_pet_sophia_real",
+      "category": "pet_admire",
+      "npcA": "Sophia",
+      "npcB": null,
+      "childSafe": true,
+      "requirePet": true,
+      "beats": [
+        {
+          "speaker": "A",
+          "delayTicks": 0,
+          "emote": 20,
+          "en": "Kyaa!! Look at sweet little {pet} wagging so happily! Literally peak wholesome anime scene!!",
+          "es": "Kyaa!! Mira a {pet} tan feliz!! Literalmente escena adorable perfecta!!",
+          "sound": "dwop",
+          "fx": "hearts"
+        }
+      ],
+      "locations": [
+        "Farm",
+        "FarmHouse"
+      ]
+    }
+  ]
+}
